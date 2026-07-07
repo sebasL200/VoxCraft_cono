@@ -15,13 +15,13 @@ class Announcement(BaseModel):
 
 class HappyHourEvent(BaseModel):
     dia: str = Field(description="Día de la semana en mayúsculas: MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY")
-    titulo: str = Field(description="Título del evento con códigos de color, ej. &d&l¡SOBRECARGA MINERA!")
-    descripcion: List[str] = Field(description="Líneas de descripción con códigos de color de Minecraft")
+    titulo: str = Field(description="Título creativo y temático del evento con códigos de color de Minecraft, ej. &d&l¡Fiebre del Cobre! o &c&l¡Ataque del Mazo!. NUNCA uses frases genéricas como 'HAPPY HOUR' o 'HORA FELIZ' en el título; debe ser un nombre único que describa el evento.")
+    descripcion: List[str] = Field(description="Líneas de descripción del evento con códigos de color de Minecraft")
     tipo: str = Field(description="Tipo de evento: PRECIO, EFECTO o AMBOS")
-    item: str = Field(description="Nombre del material de Minecraft en mayúsculas (ej. STONE, DIAMOND, COD, BONE, PORKCHOP, BEEF) o AIR si solo es de efecto")
-    porcentaje_extra: float = Field(description="Porcentaje extra para aumento de precio (ej. 25.0, 50.0). Poner 0.0 si no aplica.")
-    efecto_pocion: str = Field(description="Efecto de poción en mayúsculas (ej. SPEED, HASTE, LUCK, o NONE si no aplica)")
-    nivel_efecto: int = Field(description="Nivel del efecto (1, 2, 3) o 0 si no aplica")
+    item: str = Field(description="Material exacto de Minecraft en mayúsculas de esta lista obligatoria: [COPPER_INGOT, RAW_COPPER, COPPER_BLOCK, TUFF, DIAMOND, STONE, COD, BEEF, PORKCHOP, EMERALD, GOLD_INGOT, IRON_INGOT, COAL, BONE, WHEAT]. Usa 'AIR' si solo es de efecto.")
+    porcentaje_extra: float = Field(description="Porcentaje extra para aumento de precio (ej. 25.0, 50.0). Debe ser mayor a 0.0 si el tipo es PRECIO o AMBOS. Usa 0.0 si es solo efecto.")
+    efecto_pocion: str = Field(description="Efecto de poción exacto en mayúsculas de esta lista obligatoria: [SPEED, HASTE, LUCK, STRENGTH, REGENERATION, RESISTANCE, FIRE_RESISTANCE, WATER_BREATHING, NIGHT_VISION]. Usa 'NONE' si no aplica.")
+    nivel_efecto: int = Field(description="Nivel del efecto (1, 2, 3). Debe ser mayor o igual a 1 si el tipo es EFECTO o AMBOS. Usa 0 si es solo precio.")
     todo_el_dia: bool = Field(description="True si dura todo el día, False si tiene horas específicas")
     hora_inicio: int = Field(description="Hora de inicio (0-23) si todo_el_dia es False, de lo contrario 0")
     hora_fin: int = Field(description="Hora de fin (0-23) si todo_el_dia es False, de lo contrario 24")
@@ -54,17 +54,17 @@ def main():
         "actualización o un evento el jueves 5 de agosto), para que programes la 'Hora Feliz' tematizada exactamente para ese "
         "día de la semana (ej. `THURSDAY`), asegurando que coincidan temporalmente.\n\n"
         "REGLAS CRÍTICAS PARA LOS CAMPOS MECÁNICOS DEL EVENTO (OBLIGATORIAS):\n"
-        "- Si el evento otorga un efecto en su descripción (ej. velocidad, prisa minera, etc.), el tipo DEBE ser 'EFECTO' o 'AMBOS', "
+        "- TÍTULO: Crea un título llamativo, corto y muy temático que explique el 'por qué' (ej. &6&l¡Día del Forjador!, &a&l¡Festín de Bacalao!). NUNCA utilices textos genéricos como 'HAPPY HOUR - DÍA' o 'HORA FELIZ'.\n"
+        "- Si el evento otorga un efecto en su descripción, el tipo DEBE ser 'EFECTO' o 'AMBOS', "
         "el campo `efecto_pocion` DEBE ser estrictamente uno de estos efectos válidos de Minecraft/Spigot (NUNCA uses 'NONE'):\n"
         "  [SPEED, HASTE, LUCK, STRENGTH, REGENERATION, RESISTANCE, FIRE_RESISTANCE, WATER_BREATHING, NIGHT_VISION]\n"
-        "  Y el campo `nivel_efecto` DEBE ser un número entero entre 1 y 3 (ej. 1 o 2). NUNCA uses 0 si el tipo es EFECTO.\n"
-        "- Si el evento otorga una bonificación comercial en su descripción (ej. vender ítems más caros, etc.), el tipo DEBE ser 'PRECIO' o 'AMBOS', "
-        "el campo `item` DEBE ser estrictamente un Material válido de Minecraft/Spigot en mayúsculas (NUNCA uses 'AIR'):\n"
-        "  [COPPER_INGOT, RAW_COPPER, COPPER_BLOCK, TUFF, DIAMOND, STONE, COD, BEEF, PORKCHOP, EMERALD, GOLD_INGOT, IRON_INGOT, COAL, BONE]\n"
+        "  Y el campo `nivel_efecto` DEBE ser un número entero entre 1 y 3. NUNCA uses 0 si el tipo es EFECTO.\n"
+        "- Si el evento otorga una bonificación de precio en su descripción, el tipo DEBE ser 'PRECIO' o 'AMBOS', "
+        "el campo `item` DEBE ser estrictamente un Material válido de Minecraft/Spigot de esta lista (NUNCA uses 'AIR' ni nombres genéricos como 'COPPER'):\n"
+        "  [COPPER_INGOT, RAW_COPPER, COPPER_BLOCK, TUFF, DIAMOND, STONE, COD, BEEF, PORKCHOP, EMERALD, GOLD_INGOT, IRON_INGOT, COAL, BONE, WHEAT]\n"
         "  Y el campo `porcentaje_extra` DEBE ser mayor a 0 (ej: 25.0, 50.0). NUNCA uses 0.0 si el tipo es PRECIO.\n"
-        "- NOTA IMPORTANTE: Si quieres representar ideas abstractas como 'dobles cultivos' o 'doble drop de Breeze', debes traducirlas mecánicamente "
-        "como un aumento de precio para ese item (ej. tipo 'PRECIO' para item 'PORKCHOP' o 'BEEF' con porcentaje_extra = 100.0, o tipo 'EFECTO' con "
-        "efecto_pocion = 'LUCK' nivel_efecto = 2). El plugin de Minecraft no entiende conceptos de 'dobles recursos' si no están en estos campos."
+        "- TRADUCCIÓN MECÁNICA: Si quieres dar un beneficio como 'Doble drop de Breeze' o 'Doble drop de cultivos', debes traducirlo como "
+        "efecto_pocion = 'LUCK' (nivel_efecto = 2) o un aumento de precio (porcentaje_extra = 100.0) para items como 'COD', 'PORKCHOP', 'BEEF' o 'WHEAT'. El plugin no entiende conceptos abstractos de cultivos o Breeze si no están configurados en los campos mecánicos."
     )
 
     max_retries = 5
@@ -102,9 +102,10 @@ def main():
                 f"Toma la información de noticias y eventos de Hora Feliz redactada a continuación, organízala y "
                 f"estrustúrala estrictamente en el formato JSON correspondiente al esquema indicado. Conserva todos "
                 f"los códigos de color de Minecraft y los identificadores únicos.\n\n"
-                f"REGLAS DE VALIDACIÓN MECÁNICA PARA EL JSON:\n"
+                f"REGLAS DE VALIDACIÓN MECÁNICA Y TEXTUAL PARA EL JSON:\n"
+                f"- TÍTULO: NUNCA utilices un título genérico que contenga las palabras 'HAPPY HOUR' o 'HORA FELIZ'. Debe ser un nombre temático y creativo (ej: '¡Fiebre del Cobre!', '¡Desafío Ominoso!').\n"
                 f"- Si el evento es de tipo 'EFECTO' o 'AMBOS', `efecto_pocion` NO PUEDE SER 'NONE' (debe ser SPEED, HASTE, LUCK, STRENGTH, REGENERATION, etc.) y `nivel_efecto` debe ser 1, 2 o 3 (NUNCA 0).\n"
-                f"- Si el evento es de tipo 'PRECIO' o 'AMBOS', `item` NO PUEDE SER 'AIR' (debe ser COPPER_INGOT, RAW_COPPER, COPPER_BLOCK, TUFF, DIAMOND, COD, BEEF, PORKCHOP, EMERALD, etc.) y `porcentaje_extra` debe ser mayor a 0 (ej: 25.0, 50.0).\n"
+                f"- Si el evento es de tipo 'PRECIO' o 'AMBOS', `item` NO PUEDE SER 'AIR' ni nombres inválidos como 'COPPER' (debe ser COPPER_INGOT, RAW_COPPER, COPPER_BLOCK, TUFF, DIAMOND, COD, BEEF, PORKCHOP, EMERALD, etc.) y `porcentaje_extra` debe ser mayor a 0 (ej: 25.0, 50.0).\n"
                 f"- Asocia las propiedades mecánicas a partir de las descripciones generadas en el borrador.\n\n"
                 f"Borrador de texto:\n{raw_text}"
             )
