@@ -22,7 +22,7 @@ public class ConfigManager {
         plugin.reloadConfig();
         FileConfiguration config = plugin.getConfig();
 
-        this.urlAnuncios = config.getString("url_anuncios", "https://raw.githubusercontent.com/sebas/Hispania/main/anuncios.json");
+        this.urlAnuncios = config.getString("url_anuncios", "https://raw.githubusercontent.com/sebasL200/VoxCraft_cono/main/anuncios.json");
         this.intervaloDescargaMinutos = config.getInt("intervalo_descarga_minutos", 60);
         this.intervaloAnuncioSegundos = config.getInt("intervalo_anuncio_segundos", 300);
         this.prefijoAnuncios = config.getString("prefijo_anuncios", "&8[&b&lVoxCraft&8] ");

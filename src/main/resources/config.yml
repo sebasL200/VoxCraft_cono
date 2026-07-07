@@ -3,7 +3,7 @@
 # ====================================================================
 
 # URL del archivo anuncios.json generado en tu repositorio de GitHub (enlace RAW)
-url_anuncios: "https://raw.githubusercontent.com/sebas/Hispania/main/anuncios.json"
+url_anuncios: "https://raw.githubusercontent.com/sebasL200/VoxCraft_cono/main/anuncios.json"
 
 # Intervalo en minutos para descargar el anuncios.json desde GitHub
 intervalo_descarga_minutos: 60
