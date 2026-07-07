@@ -1,131 +1,131 @@
 {
   "anuncios": [
     {
-      "id": "noticia_actualizacion_tricky_trials",
+      "id": "actualizacion_1_21_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡La Actualización Tricky Trials ya está aquí!&r",
-        "Sumérgete en la versión 1.21 de Minecraft, lanzada el 13 de junio de 2024, repleta de nuevos desafíos y misterios."
+        "&a&l¡ACTUALIZACIÓN 1.21: TRICKY TRIALS!&r",
+        "&7Explora las Cámaras de Prueba, enfrenta a la &bBreeze&7 y al &dBogged&7, y domina la nueva &cMaza&7. ¡Una aventura de combate sin igual te espera!"
       ]
     },
     {
-      "id": "anuncio_camaras_prueba",
-      "categoria": "novedades_minecraft",
-      "mensajes": [
-        "&b&l¡Descubre las Cámaras de Prueba!&r",
-        "Explora las nuevas estructuras subterráneas generadas entre las capas -40 y -20, repletas de trampas y tesoros."
-      ]
-    },
-    {
-      "id": "anuncio_nuevos_mobs",
-      "categoria": "novedades_minecraft",
-      "mensajes": [
-        "&c&l¡Enfréntate a la Brisa y al Ciénaga!&r",
-        "Conoce a la Brisa, un hostil elemental de viento en las Cámaras de Prueba, y al Ciénaga, un esqueleto venenoso que acecha en pantanos y cámaras."
-      ]
-    },
-    {
-      "id": "anuncio_nueva_arma_maza",
-      "categoria": "novedades_minecraft",
-      "mensajes": [
-        "&e&l¡Empuña la Maza, la Nueva Arma Poderosa!&r",
-        "Domina la Maza, una nueva arma que inflige más daño cuanto más alto caes, ¡y anula el daño por caída si aciertas tu golpe!"
-      ]
-    },
-    {
-      "id": "anuncio_bloque_crafter",
-      "categoria": "novedades_minecraft",
-      "mensajes": [
-        "&d&l¡Automatiza tu Mundo con el Crafter!&r",
-        "Optimiza tus producciones con el nuevo bloque Crafter, que permite la creación automática de objetos usando Redstone."
-      ]
-    },
-    {
-      "id": "anuncio_bloques_cobre_toba",
-      "categoria": "novedades_minecraft",
-      "mensajes": [
-        "&7&l¡Nuevos Bloques Decorativos de Cobre y Toba!&r",
-        "Amplía tus posibilidades de construcción con una gran variedad de bloques de Cobre y Toba, perfectos para decorar tus creaciones."
-      ]
-    },
-    {
-      "id": "anuncio_bovedas_recompensas",
-      "categoria": "novedades_minecraft",
-      "mensajes": [
-        "&l&l¡Abre las Bóvedas para Recompensas Únicas!&r",
-        "Encuentra Bóvedas en las Cámaras de Prueba, desbloquéalas con Llaves de Prueba y obtén valiosos botines, ¡una vez por jugador!"
-      ]
-    },
-    {
-      "id": "noticia_hotfix_1_21_10",
+      "id": "desafio_camaras_prueba",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Hotfix 1.21.10 Disponible para Java Edition!&r",
-        "Se ha lanzado la versión 1.21.10 el 7 de octubre de 2025, corrigiendo errores críticos como la carga de chunks y el comportamiento de las cargas de viento."
+        "&b&l¡DESAFÍO EN CÁMARAS DE PRUEBA!&r",
+        "&7Aventúrate en estas gigantescas estructuras subterráneas repletas de &eSpawners de Prueba&7 y cofres con botines increíbles. ¡Encuentra bloques de Toba y Cobre!"
       ]
     },
     {
-      "id": "noticia_gaming_julio_2026_1",
-      "categoria": "noticias_gaming",
+      "id": "maza_cambia_combate",
+      "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Actualizaciones de Julio en el Mundo Gaming!&r",
-        "Hoy, 7 de julio de 2026, se lanza el DLC \"Revelations\" de DOOM: The Dark Ages y el innovador simulador de granjas vampíricas \"Moonlight Peaks\"."
+        "&c&l¡LA MAZA LLEGA PARA CAMBIAR EL COMBATE!&r",
+        "&7¡La Maza, la nueva arma de Minecraft 1.21, permite ataques devastadores desde grandes alturas! Causa más daño cuanto más alto caigas y anula el daño por caída al golpear."
       ]
     },
     {
-      "id": "noticia_gaming_julio_2026_2",
-      "categoria": "noticias_gaming",
+      "id": "automatiza_con_crafter",
+      "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Remakes y Deportes en Camino!&r",
-        "Este 9 de julio de 2026, prepárate para \"Assassin's Creed Black Flag Resynced\" y \"EA Sports College Football 27\", trayendo clásicos y novedades al frente."
+        "&e&l¡AUTOMATIZA CON EL CRAFTER!&r",
+        "&7Descubre el Crafter, un bloque revolucionario que te permite automatizar la creación de ítems. ¡Optimiza tus granjas y procesos como nunca!"
+      ]
+    },
+    {
+      "id": "noticias_chaos_cubed",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡NOTICIAS DE CHAOS CUBED!&r",
+        "&7La actualización &eChaos Cubed&7 ya está aquí, presentando las nuevas &aCuevas de Azufre&7 y el peculiar &bCubo de Azufre&7 que absorbe bloques. ¡Explora este bioma único!"
+      ]
+    },
+    {
+      "id": "avance_bosque_moteado_1_26_3",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡AVANCE: BOSQUE MOTEADO EN 1.26.3!&r",
+        "&7¡Prepárense para el &eotoño de 2026&7! La actualización 1.26.3 traerá el hermoso &aBosque Moteado&7, con nuevos árboles de álamo y una atmósfera encantadora."
+      ]
+    },
+    {
+      "id": "xbox_games_showcase_2026_cerrado",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&b¡XBOX GAMES SHOWCASE 2026 CERRADO!&r",
+        "&7El evento de Xbox nos dejó grandes anuncios como el &a25 Aniversario de Xbox&7 y el lanzamiento de &cDOOM: The Dark Ages | Revelations&7 ¡hoy mismo!"
+      ]
+    },
+    {
+      "id": "minecraft_dungeons_ii_en_camino",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡MINECRAFT DUNGEONS II EN CAMINO!&r",
+        "&7¡La secuela de Minecraft Dungeons, &aMinecraft Dungeons II&7, se lanzará el &e29 de septiembre! ¡Prepárense para una nueva aventura de rastreo de mazmorras!"
+      ]
+    },
+    {
+      "id": "hotfix_1_21_10_estabilidad",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&l¡HOTFIX 1.21.10 PARA MAYOR ESTABILIDAD!&r",
+        "&7Recordamos que la versión 1.21.10 (lanzada el 7 de octubre de 2025) fue un &aimportante hotfix&7 para corregir errores y mejorar la estabilidad general del juego."
+      ]
+    },
+    {
+      "id": "ultimos_dias_summer_sale_marketplace",
+      "categoria": "noticias",
+      "mensajes": [
+        "&6&l¡ÚLTIMOS DÍAS DEL SUMMER SALE DE MARKETPLACE!&r",
+        "&7Aprovecha las ofertas del &eSummer Sale 2026 de Minecraft Marketplace&7. ¡No te quedes sin tus contenidos favoritos a precios increíbles!"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "TUESDAY",
-      "titulo": "&c&l¡Furia de Combate Infernal!",
+      "titulo": "&c&l¡Furia del Slayer!",
       "descripcion": [
-        "¡Celebra el lanzamiento del DLC \"Revelations\" de DOOM: The Dark Ages con un impulso demoníaco! Por tiempo limitado, obtén Fuerza II para dominar a tus enemigos en cualquier combate."
+        "¡Celebra el lanzamiento de DOOM: The Dark Ages | Revelations desatando tu poder! Obtén &eFUERZA II &7mientras combates en el Overworld. ¡El infierno llegó a Minecraft!"
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
       "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 20
-    },
-    {
-      "dia": "WEDNESDAY",
-      "titulo": "&b&l¡Día de Exploración de Cámaras de Prueba!",
-      "descripcion": [
-        "¡Es hora de adentrarse en las profundidades! Disfruta de Prisa Minera I mientras exploras en busca de las Cámaras de Prueba de la actualización 1.21. Además, el valor de la Toba ha aumentado un 25% para recompensar a los constructores y mineros."
-      ],
-      "tipo": "AMBOS",
-      "item": "TUFF",
-      "porcentaje_extra": 25.0,
-      "efecto_pocion": "HASTE",
-      "nivel_efecto": 1,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 20
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     },
     {
       "dia": "THURSDAY",
-      "titulo": "&6&l¡Búsqueda del Tesoro Resincronizada!",
+      "titulo": "&b&l¡Tesoro Pirata Resincronizado!",
       "descripcion": [
-        "¡Zarpa hacia la aventura con el relanzamiento de \"Assassin's Creed Black Flag Resynced\"! Durante esta Hora Feliz, el valor de los Lingotes de Oro aumenta un 50%, perfecto para tus expediciones en busca de riquezas."
+        "¡Izad las velas, marineros! En honor al lanzamiento de Assassin's Creed Black Flag Resynced, la pesca en el servidor será más lucrativa. ¡Encuentra el doble de bacalao!"
       ],
       "tipo": "PRECIO",
-      "item": "GOLD_INGOT",
-      "porcentaje_extra": 50.0,
+      "item": "COD",
+      "porcentaje_extra": 100.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 20
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
+    },
+    {
+      "dia": "SATURDAY",
+      "titulo": "&e&l¡Locura Cúbica de Azufre!",
+      "descripcion": [
+        "¡Aprovecha la &aenergía caótica&7 de la reciente actualización &eChaos Cubed&7! Hoy, tus esfuerzos de minería serán recompensados con &bHASTE II&7 y un &a100% extra&7 en el valor del &fCOAL&7. ¡Explora las nuevas cuevas de azufre!"
+      ],
+      "tipo": "AMBOS",
+      "item": "COAL",
+      "porcentaje_extra": 100.0,
+      "efecto_pocion": "HASTE",
+      "nivel_efecto": 2,
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     }
   ]
 }
