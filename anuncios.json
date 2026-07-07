@@ -1,136 +1,142 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_otono_26_3",
-      "categoria": "anuncios_servidor",
+      "id": "noticia_actualizacion_1_21",
+      "categoria": "noticias",
       "mensajes": [
-        "&e¡ATENCIÓN MINECRAFTERS! &fSe acerca la esperada &aActualización de Otoño 26.3&f, también conocida como &6\"Poplar Paths\" o \"Dappled Forest\"! &fPrepárense para una experiencia de exploración y construcción sin precedentes."
+        "&a&l&o¡Atención, aventureros!&r",
+        "&e¡La &lActualización 1.21 \"Tricky Trials\"&r &eestá disponible en nuestro servidor!",
+        "&eDesafía las nuevas &bCámaras de Prueba&r, enfréntate al &cBreeze&r &ey al &dBogged&r, y domina el nuevo &aMazo&r.",
+        "&l¡Prepárense para la aventura!&r"
       ]
     },
     {
-      "id": "nuevo_bioma_bosque_moteado",
-      "categoria": "anuncios_servidor",
+      "id": "noticia_edad_del_cobre",
+      "categoria": "noticias",
       "mensajes": [
-        "&b¡NUEVO BIOMA! &fExploren el &aBosque Moteado&f, un vibrante paisaje otoñal con árboles &ePoplar&f de tonos rojos, naranjas y amarillos. ¡Descubran recursos únicos en sus frías regiones!"
+        "&a&l¡Domina el cobre!&r",
+        "&eCon la llegada de &lLa Edad del Cobre (1.21.9)&r, ahora puedes crear el &bGólem de Cobre&r &ey una variedad de &dcubos decorativos de cobre&r, ¡incluyendo &fcofres y estatuas!&r"
       ]
     },
     {
-      "id": "curiosidad_hongos_estante",
+      "id": "noticia_juicios_ominosos",
+      "categoria": "noticias",
+      "mensajes": [
+        "&c&l¡Cuidado con el presagio!&r",
+        "&eSi te sientes valiente, encuentra una &aBotella Ominosa&r &ey desata los &lJuicios Ominosos&r &een las Cámaras de Prueba para obtener &lrecompensas aún mayores&r.",
+        "&c¡Solo para los más audaces!&r"
+      ]
+    },
+    {
+      "id": "noticia_crafter_disponible",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡El Crafter ha llegado!&r",
+        "&eAutomatiza tus creaciones con el nuevo bloque &bCrafter&r.",
+        "&e¡Redstone nunca fue tan eficiente!&r &fSimplifica tus granjas y procesos de producción."
+      ]
+    },
+    {
+      "id": "noticia_comercio_mejorado",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡Nuevas oportunidades de comercio!&r",
+        "&eLos &fCartógrafos&r &eahora ofrecen &anuevos mapas de ruinas&r &ey los &fComerciantes Errantes&r &etienen &amejores ofertas&r &een &elogros y pociones&r.",
+        "&l¡Comerciar es más gratificante que nunca!&r"
+      ]
+    },
+    {
+      "id": "noticia_mazo_reforzado",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡El Mazo ha sido reforzado!&r",
+        "&aHemos aplicado los últimos &lparches de la 1.21.10&r &eque corrigen problemas con las &fcargas de viento y la interacción con pistones&r, ¡así tu &aMazo&r &eserá más fiable que nunca!&r"
+      ]
+    },
+    {
+      "id": "noticia_nuevos_bloques_construccion",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡Más bloques para construir!&r",
+        "&eExplora las nuevas posibilidades de construcción con la &lampliada familia de bloques de Cobre&r &ey las &lnuevas variantes de Toba&r.",
+        "&f¡Crea tus obras maestras!&r"
+      ]
+    },
+    {
+      "id": "noticia_gaming_evolucion",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡El mundo del gaming en evolución!&r",
+        "&eLa industria de los videojuegos sigue creciendo en 2026 con la &lintegración de IA y juegos en la nube&r, y se esperan &lgrandes novedades&r &een los próximos años, incluyendo nuevos títulos de Nintendo y el esperado GTA 6.&r"
+      ]
+    },
+    {
+      "id": "noticia_xbox_reestructuracion",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&lNoticia impactante del gaming:&r",
+        "&cXbox ha anunciado una importante &lreestructuración y recortes de personal&r &een varios de sus estudios a partir del 6 de julio de 2026.",
+        "&lApoyamos a todos los afectados en la industria.&r"
+      ]
+    },
+    {
+      "id": "curiosidades_gaming",
       "categoria": "curiosidades",
       "mensajes": [
-        "&d¡CURIOSIDAD FUNGI! &fEncuentren los nuevos &eHongos de Estante&f en los árboles Poplar del Bosque Moteado. ¡Tienen una &apeculiar cualidad elástica&f al pisarlos!"
-      ]
-    },
-    {
-      "id": "campamentos_abandonados",
-      "categoria": "anuncios_servidor",
-      "mensajes": [
-        "&7¡CAMPAMENTOS ABANDONADOS! &fDescubran estas &bnuevas estructuras&f dispersas por el Overworld. Contienen cofres y barriles cargados de &asuministros para el inicio del juego&f. ¡Ideales para la aventura!"
-      ]
-    },
-    {
-      "id": "chaos_cubed_cuevas_azufre",
-      "categoria": "consejos",
-      "mensajes": [
-        "&c¡CAOS EN LAS CUEVAS! &f¿Ya exploraron las &4Cuevas de Azufre&f de la actualización &6Chaos Cubed&f? ¡Cuidado con los &eCubos de Azufre&f, que absorben propiedades de los bloques cercanos!"
-      ]
-    },
-    {
-      "id": "recordatorio_tricky_trials",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a¡RECORDATORIO 1.21! &fLa actualización &6Tricky Trials&f nos trajo las &eTrial Chambers&f, los &bCrafters&f para auto-crafteo, y la poderosa &lMace&f. ¡Sigan desafiando sus límites!"
-      ]
-    },
-    {
-      "id": "movilidad_cargas_viento",
-      "categoria": "consejos",
-      "mensajes": [
-        "&b¡MOVILIDAD TÁCTICA! &fDomina las &eCargas de Viento&f introducidas en 1.21 para impulsarte, activar trampas o repeler enemigos. ¡Esenciales para la exploración y el combate!"
-      ]
-    },
-    {
-      "id": "lanzamiento_doom_dark_ages",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d¡NOVEDAD GAMING! &fEl aclamado &aDOOM: The Dark Ages - Revelations&f se lanza &ehoy, 7 de julio&f. ¡Prepárense para más acción medieval brutal!"
-      ]
-    },
-    {
-      "id": "lanzamientos_semana_gaming",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e¡LANZAMIENTOS DE LA SEMANA! &fManténganse atentos a &aAssassin's Creed Black Flag Resynced&f y &bEchoes of Aincrad&f, que llegan el &99 de julio&f. ¡Nuevas aventuras esperan!"
-      ]
-    },
-    {
-      "id": "game_pass_salidas",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7¡ADIÓS GAME PASS! &fRecuerden que juegos como &ePowerWash Simulator&f y &aGolf With Your Friends&f abandonan Xbox Game Pass el &c15 de julio&f. ¡Aprovechen las últimas partidas!"
+        "&e&l¡Curiosidades del gaming!&r",
+        "&f¿Sabías que un jugador pasó &l138 horas jugando Just Dance&r? &e¡Los récords del gaming son asombrosos!&r",
+        "&fAdemás, un estudio revela que el &l74% de los \"Boomers\"&r &ejuegan para pasar el tiempo o relajarse.&r"
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "WEDNESDAY",
-      "titulo": "&a&l¡HAPPY HOUR - MIÉRCOLES!&r",
+      "dia": "MONDAY",
+      "titulo": "&e&lHAPPY HOUR DE MINERÍA&r",
       "descripcion": [
-        "&f¡Prepara tu inventario! Celebramos los &eCampamentos Abandonados&f de la futura actualización y el lanzamiento del simulador de granjas &bMoonlight Peaks&f con &bDobles Drops de Comida en Cultivos y Animales&f. ¡Hora de abastecerse!"
+        "&a¡Obtén el &lDOBLE de COBRE y TOBA&r &eal minar en cualquier parte del mundo, especialmente en las &bCámaras de Prueba&r!",
+        "&e¡Prepara tus picos para explorar los nuevos biomas!&r"
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
+      "tipo": "PRECIO",
+      "item": "COPPER",
+      "porcentaje_extra": 100.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 20
     },
     {
-      "dia": "THURSDAY",
-      "titulo": "&e&l¡HAPPY HOUR - JUEVES!&r",
+      "dia": "WEDNESDAY",
+      "titulo": "&c&lHAPPY HOUR DE COMBATE&r",
       "descripcion": [
-        "&f¡Exploradores de &4Chaos Cubed&f! El &99 de julio&f es día de lanzamientos gaming importantes. En el servidor, ¡&lPrisa Minera II por 2 horas&f en todas las cuevas! ¡Busca ese &eAzufre y Cinabrio&f de la última actualización!"
+        "&a¡Las &lCargas de Viento y las Varas de Breeze&r &etienen el &lDOBLE de probabilidad de caída&r &ecuando derrotes a un &cBreeze&r &e!",
+        "&l¡Equipa tu Mazo y entra en acción para conseguir los materiales para tu nuevo armamento!&r"
       ],
       "tipo": "EFECTO",
-      "item": "AIR",
+      "item": "BREEZE_ROD",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "HASTE",
+      "efecto_pocion": "LUCK",
       "nivel_efecto": 2,
       "todo_el_dia": false,
-      "hora_inicio": 19,
-      "hora_fin": 21
+      "hora_inicio": 18,
+      "hora_fin": 20
     },
     {
-      "dia": "SATURDAY",
-      "titulo": "&b&l¡HAPPY HOUR - SÁBADO!&r",
+      "dia": "FRIDAY",
+      "titulo": "&b&lHAPPY HOUR DE REDSTONE&r",
       "descripcion": [
-        "&f¡Para los constructores de las &eTrial Chambers&f! &dPrecios reducidos en bloques de Cobre&f en la tienda del servidor. ¡Construye tu propia cámara de desafío con los bloques de la 1.21!"
+        "&a¡El &lCrafter&r &eya está disponible para automatizar tus creaciones!&r",
+        "&eDurante esta hora, el &lcosto de hierro y redstone&r &ese reducirá a la mitad para craftear Crafters, ¡facilitando la construcción de tus granjas automáticas!&r"
       ],
       "tipo": "PRECIO",
-      "item": "COPPER_BLOCK",
-      "porcentaje_extra": 25.0,
+      "item": "CRAFTER",
+      "porcentaje_extra": 0.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
-    },
-    {
-      "dia": "SATURDAY",
-      "titulo": "&b&l¡HAPPY HOUR - SÁBADO!&r",
-      "descripcion": [
-        "&f¡Para los constructores de las &eTrial Chambers&f! &dPrecios reducidos en bloques de Toba&f en la tienda del servidor. ¡Construye tu propia cámara de desafío con los bloques de la 1.21!"
-      ],
-      "tipo": "PRECIO",
-      "item": "TUFF",
-      "porcentaje_extra": 25.0,
-      "efecto_pocion": "NONE",
-      "nivel_efecto": 0,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 20
     }
   ]
 }
