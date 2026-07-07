@@ -45,6 +45,14 @@ public class IntegracionHorasFelices {
             return;
         }
 
+        // Limpiar todos los días del calendario semanal antes de inyectar los nuevos
+        plugin.getLogger().info("Limpiando el itinerario semanal de Horas Felices previo a la inyección...");
+        for (DayOfWeek diaSemana : DayOfWeek.values()) {
+            try {
+                api.inyectarEventoFestivo(diaSemana, null);
+            } catch (Exception ignored) {}
+        }
+
         if (horasFelicesJson == null || horasFelicesJson.size() == 0) {
             plugin.getLogger().info("No se encontraron Horas Felices en el archivo JSON.");
             return;
