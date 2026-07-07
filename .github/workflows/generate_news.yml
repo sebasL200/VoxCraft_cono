@@ -1,0 +1,38 @@
+name: Generate News with Gemini
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Ejecuta todos los domingos a las 00:00 UTC (inicio de semana)
+  workflow_dispatch: # Permite ejecución manual desde la UI de GitHub
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r python/requirements.txt
+
+    - name: Run script
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: |
+        python python/agent.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add anuncios.json
+        # Solo hacer commit si hubo cambios reales en el JSON
+        git diff --quiet && git diff --staged --quiet || (git commit -m "update: anuncios.json con noticias de Gemini" && git push)

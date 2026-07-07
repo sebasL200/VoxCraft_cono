@@ -1,0 +1,18 @@
+# ====================================================================
+#                  CONFIGURACIÓN DE VOXCRAFT
+# ====================================================================
+
+# URL del archivo anuncios.json generado en tu repositorio de GitHub (enlace RAW)
+url_anuncios: "https://raw.githubusercontent.com/sebas/Hispania/main/anuncios.json"
+
+# Intervalo en minutos para descargar el anuncios.json desde GitHub
+intervalo_descarga_minutos: 60
+
+# Intervalo en segundos para transmitir un anuncio al chat del servidor
+intervalo_anuncio_segundos: 300
+
+# Prefijo que se antepondrá a cada línea del anuncio en el chat
+prefijo_anuncios: "&8[&b&lVoxCraft&8] "
+
+# Si es true, al transmitirse todos los anuncios, se limpiará la lista de leídos para volver a empezar
+ciclar_anuncios: true

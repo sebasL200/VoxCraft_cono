@@ -1,0 +1,10 @@
+name: VoxCraft
+version: '1.0'
+main: me.cono200.voxCraft.VoxCraft
+api-version: '1.21'
+softdepend: [HorasFelicesEnAdminShop_cono]
+commands:
+  voxcraft:
+    description: Comando principal de VoxCraft
+    permission: voxcraft.admin
+    usage: /<command> [reload|forcefetch|test]
