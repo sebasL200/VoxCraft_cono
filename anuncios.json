@@ -1,0 +1,137 @@
+{
+  "anuncios": [
+    {
+      "id": "noticia_actualizacion_1_21",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&a¡GRAN ANUNCIO! &fLa actualización &eTricky Trials (1.21)&f ha llegado a nuestro servidor.",
+        "¡Prepárense para nuevos desafíos que transformarán su experiencia de juego!"
+      ]
+    },
+    {
+      "id": "noticia_camaras_pruebas",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&bDescubre las &9Cámaras de Pruebas&b:",
+        "&fExploren estas enormes estructuras subterráneas repletas de &c nuevos desafíos de combate &by &e recompensas &bincreíbles.",
+        "Están hechas de bloques de toba y cobre."
+      ]
+    },
+    {
+      "id": "noticia_nuevos_mobs",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&e¡Enfrenta a la &6Brisa &ey al &2Empantanado&e!",
+        "&fEstos nuevos mobs hostiles aguardan en las Cámaras de Pruebas y pantanos.",
+        "&4¡Cuidado con los ataques a distancia de la Brisa y el veneno del Empantanado!"
+      ]
+    },
+    {
+      "id": "noticia_nueva_maza",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&dLa &cMaza &des la nueva arma definitiva:",
+        "&f¡Domina su &aAtaque de Impacto &fpara infligir daño masivo desde la altura y anular la caída al golpear a un enemigo!",
+        "Se craftea con un Núcleo Pesado y una Vara de Brisa."
+      ]
+    },
+    {
+      "id": "noticia_nuevo_crafteador",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&9Automatiza tu producción con el &3Crafteador&9:",
+        "&f¡El nuevo bloque de Redstone que te permite crear ítems automáticamente, abriendo un mundo de posibilidades para tus granjas!"
+      ]
+    },
+    {
+      "id": "noticia_pruebas_ominosas",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&c¡Desafío Extra! &fActiva las &4Pruebas Ominosas &fcon el efecto &4\"Mal Augurio\" &fpara enfrentar peligros mayores y obtener &e recompensas exclusivas &fde las &eBóvedas Ominosas&e.",
+        "¡Solo para los más valientes!"
+      ]
+    },
+    {
+      "id": "noticia_bloques_cobre_toba",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&7Nuevos bloques de &fCobre y Toba&7:",
+        "&f¡Expande tus construcciones con estas adiciones, incluyendo bombillas de cobre que se oxidan y atenúan su luz con el tiempo!"
+      ]
+    },
+    {
+      "id": "noticia_hotfix_1_21_10",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&a¡Actualización del Servidor! &fHemos aplicado el &ehotfix 1.21.10 &fpara mejorar el rendimiento y solucionar errores reportados en el juego, garantizando una experiencia más fluida para todos."
+      ]
+    },
+    {
+      "id": "noticia_futuro_gaming_ia",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&l&bEl futuro del Gaming en 2026:",
+        "&fLa &3Inteligencia Artificial &festá revolucionando los videojuegos, desde la creación de mundos hasta la interacción con NPCs, prometiendo experiencias aún más inmersivas."
+      ]
+    },
+    {
+      "id": "noticia_gracias_comunidad",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&a¡Gracias a todos! &fSe confirma que el &e67% de los jugadores en EE. UU. juegan semanalmente.",
+        "&f¡La comunidad de gaming crece, y nos enorgullece que nuestro servidor sea parte de ella!"
+      ]
+    }
+  ],
+  "horas_felices": [
+    {
+      "dia": "MONDAY",
+      "titulo": "&l&b¡Día del Cazador de Mazas!&r",
+      "descripcion": [
+        "&fDurante todo el lunes, las &eVaras de Brisa &ftendrán una &a probabilidad de caída aumentada &fal ser obtenidas de los &eBreezes&f en las Cámaras de Pruebas.",
+        "Además, la &e probabilidad de encontrar un Núcleo Pesado &fen las &dBóvedas Ominosas &fse duplicará.",
+        "&f¡Aprovecha para fabricar tu poderosa &cMaza&f, el arma más letal de la 1.21!"
+      ],
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
+      "efecto_pocion": "NONE",
+      "nivel_efecto": 0,
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
+    },
+    {
+      "dia": "WEDNESDAY",
+      "titulo": "&l&a¡Fiebre del Cobre y la Toba!&r",
+      "descripcion": [
+        "&fEste miércoles, al minar &fBloques de Cobre &fy &fBloques de Toba &fen las Cámaras de Pruebas y el Overworld, obtendrás &e25% más de recursos&f.",
+        "¡Ideal para tus nuevas construcciones con los bloques de la 1.21 o para alimentar tus &3Crafteadores&f automáticos!"
+      ],
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
+      "efecto_pocion": "NONE",
+      "nivel_efecto": 0,
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
+    },
+    {
+      "dia": "FRIDAY",
+      "titulo": "&l&c¡Desafío Ominoso de XP!&r",
+      "descripcion": [
+        "&fTodo el viernes, los jugadores recibirán &a50% más de experiencia &fal derrotar mobs dentro de las &9Cámaras de Pruebas&f, y un &e75% adicional &fen las &4Pruebas Ominosas&f.",
+        "&f¡Prepárense para la batalla y suban de nivel más rápido mientras exploran el contenido más desafiante de la actualización!"
+      ],
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
+      "efecto_pocion": "NONE",
+      "nivel_efecto": 0,
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
+    }
+  ]
+}
