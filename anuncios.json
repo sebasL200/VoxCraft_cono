@@ -1,137 +1,126 @@
 {
   "anuncios": [
     {
-      "id": "noticia_actualizacion_1_21",
+      "id": "noticia_actualizacion_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l&o¡Atención, aventureros!&r",
-        "&e¡La &lActualización 1.21 \"Tricky Trials\"&r &eestá disponible en nuestro servidor!",
-        "&eDesafía las nuevas &bCámaras de Prueba&r, enfréntate al &cBreeze&r &ey al &dBogged&r, y domina el nuevo &aMazo&r.",
-        "&l¡Prepárense para la aventura!&r"
+        "&a&l¡La Actualización Tricky Trials ya está aquí!&r",
+        "Sumérgete en la versión 1.21 de Minecraft, lanzada el 13 de junio de 2024, repleta de nuevos desafíos y misterios."
       ]
     },
     {
-      "id": "noticia_edad_del_cobre",
-      "categoria": "noticias",
+      "id": "anuncio_camaras_prueba",
+      "categoria": "novedades_minecraft",
       "mensajes": [
-        "&a&l¡Domina el cobre!&r",
-        "&eCon la llegada de &lLa Edad del Cobre (1.21.9)&r, ahora puedes crear el &bGólem de Cobre&r &ey una variedad de &dcubos decorativos de cobre&r, ¡incluyendo &fcofres y estatuas!&r"
+        "&b&l¡Descubre las Cámaras de Prueba!&r",
+        "Explora las nuevas estructuras subterráneas generadas entre las capas -40 y -20, repletas de trampas y tesoros."
       ]
     },
     {
-      "id": "noticia_juicios_ominosos",
-      "categoria": "noticias",
+      "id": "anuncio_nuevos_mobs",
+      "categoria": "novedades_minecraft",
       "mensajes": [
-        "&c&l¡Cuidado con el presagio!&r",
-        "&eSi te sientes valiente, encuentra una &aBotella Ominosa&r &ey desata los &lJuicios Ominosos&r &een las Cámaras de Prueba para obtener &lrecompensas aún mayores&r.",
-        "&c¡Solo para los más audaces!&r"
+        "&c&l¡Enfréntate a la Brisa y al Ciénaga!&r",
+        "Conoce a la Brisa, un hostil elemental de viento en las Cámaras de Prueba, y al Ciénaga, un esqueleto venenoso que acecha en pantanos y cámaras."
       ]
     },
     {
-      "id": "noticia_crafter_disponible",
-      "categoria": "noticias",
+      "id": "anuncio_nueva_arma_maza",
+      "categoria": "novedades_minecraft",
       "mensajes": [
-        "&a&l¡El Crafter ha llegado!&r",
-        "&eAutomatiza tus creaciones con el nuevo bloque &bCrafter&r.",
-        "&e¡Redstone nunca fue tan eficiente!&r &fSimplifica tus granjas y procesos de producción."
+        "&e&l¡Empuña la Maza, la Nueva Arma Poderosa!&r",
+        "Domina la Maza, una nueva arma que inflige más daño cuanto más alto caes, ¡y anula el daño por caída si aciertas tu golpe!"
       ]
     },
     {
-      "id": "noticia_comercio_mejorado",
-      "categoria": "noticias",
+      "id": "anuncio_bloque_crafter",
+      "categoria": "novedades_minecraft",
       "mensajes": [
-        "&a&l¡Nuevas oportunidades de comercio!&r",
-        "&eLos &fCartógrafos&r &eahora ofrecen &anuevos mapas de ruinas&r &ey los &fComerciantes Errantes&r &etienen &amejores ofertas&r &een &elogros y pociones&r.",
-        "&l¡Comerciar es más gratificante que nunca!&r"
+        "&d&l¡Automatiza tu Mundo con el Crafter!&r",
+        "Optimiza tus producciones con el nuevo bloque Crafter, que permite la creación automática de objetos usando Redstone."
       ]
     },
     {
-      "id": "noticia_mazo_reforzado",
-      "categoria": "noticias",
+      "id": "anuncio_bloques_cobre_toba",
+      "categoria": "novedades_minecraft",
       "mensajes": [
-        "&e&l¡El Mazo ha sido reforzado!&r",
-        "&aHemos aplicado los últimos &lparches de la 1.21.10&r &eque corrigen problemas con las &fcargas de viento y la interacción con pistones&r, ¡así tu &aMazo&r &eserá más fiable que nunca!&r"
+        "&7&l¡Nuevos Bloques Decorativos de Cobre y Toba!&r",
+        "Amplía tus posibilidades de construcción con una gran variedad de bloques de Cobre y Toba, perfectos para decorar tus creaciones."
       ]
     },
     {
-      "id": "noticia_nuevos_bloques_construccion",
-      "categoria": "noticias",
+      "id": "anuncio_bovedas_recompensas",
+      "categoria": "novedades_minecraft",
       "mensajes": [
-        "&b&l¡Más bloques para construir!&r",
-        "&eExplora las nuevas posibilidades de construcción con la &lampliada familia de bloques de Cobre&r &ey las &lnuevas variantes de Toba&r.",
-        "&f¡Crea tus obras maestras!&r"
+        "&l&l¡Abre las Bóvedas para Recompensas Únicas!&r",
+        "Encuentra Bóvedas en las Cámaras de Prueba, desbloquéalas con Llaves de Prueba y obtén valiosos botines, ¡una vez por jugador!"
       ]
     },
     {
-      "id": "noticia_gaming_evolucion",
+      "id": "noticia_hotfix_1_21_10",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡El mundo del gaming en evolución!&r",
-        "&eLa industria de los videojuegos sigue creciendo en 2026 con la &lintegración de IA y juegos en la nube&r, y se esperan &lgrandes novedades&r &een los próximos años, incluyendo nuevos títulos de Nintendo y el esperado GTA 6.&r"
+        "&a&l¡Hotfix 1.21.10 Disponible para Java Edition!&r",
+        "Se ha lanzado la versión 1.21.10 el 7 de octubre de 2025, corrigiendo errores críticos como la carga de chunks y el comportamiento de las cargas de viento."
       ]
     },
     {
-      "id": "noticia_xbox_reestructuracion",
-      "categoria": "noticias",
+      "id": "noticia_gaming_julio_2026_1",
+      "categoria": "noticias_gaming",
       "mensajes": [
-        "&7&lNoticia impactante del gaming:&r",
-        "&cXbox ha anunciado una importante &lreestructuración y recortes de personal&r &een varios de sus estudios a partir del 6 de julio de 2026.",
-        "&lApoyamos a todos los afectados en la industria.&r"
+        "&b&l¡Actualizaciones de Julio en el Mundo Gaming!&r",
+        "Hoy, 7 de julio de 2026, se lanza el DLC \"Revelations\" de DOOM: The Dark Ages y el innovador simulador de granjas vampíricas \"Moonlight Peaks\"."
       ]
     },
     {
-      "id": "curiosidades_gaming",
-      "categoria": "curiosidades",
+      "id": "noticia_gaming_julio_2026_2",
+      "categoria": "noticias_gaming",
       "mensajes": [
-        "&e&l¡Curiosidades del gaming!&r",
-        "&f¿Sabías que un jugador pasó &l138 horas jugando Just Dance&r? &e¡Los récords del gaming son asombrosos!&r",
-        "&fAdemás, un estudio revela que el &l74% de los \"Boomers\"&r &ejuegan para pasar el tiempo o relajarse.&r"
+        "&b&l¡Remakes y Deportes en Camino!&r",
+        "Este 9 de julio de 2026, prepárate para \"Assassin's Creed Black Flag Resynced\" y \"EA Sports College Football 27\", trayendo clásicos y novedades al frente."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&e&lHAPPY HOUR DE MINERÍA&r",
+      "dia": "TUESDAY",
+      "titulo": "&c&l¡Furia de Combate Infernal!",
       "descripcion": [
-        "&a¡Obtén el &lDOBLE de COBRE y TOBA&r &eal minar en cualquier parte del mundo, especialmente en las &bCámaras de Prueba&r!",
-        "&e¡Prepara tus picos para explorar los nuevos biomas!&r"
-      ],
-      "tipo": "PRECIO",
-      "item": "COPPER",
-      "porcentaje_extra": 100.0,
-      "efecto_pocion": "NONE",
-      "nivel_efecto": 0,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 20
-    },
-    {
-      "dia": "WEDNESDAY",
-      "titulo": "&c&lHAPPY HOUR DE COMBATE&r",
-      "descripcion": [
-        "&a¡Las &lCargas de Viento y las Varas de Breeze&r &etienen el &lDOBLE de probabilidad de caída&r &ecuando derrotes a un &cBreeze&r &e!",
-        "&l¡Equipa tu Mazo y entra en acción para conseguir los materiales para tu nuevo armamento!&r"
+        "¡Celebra el lanzamiento del DLC \"Revelations\" de DOOM: The Dark Ages con un impulso demoníaco! Por tiempo limitado, obtén Fuerza II para dominar a tus enemigos en cualquier combate."
       ],
       "tipo": "EFECTO",
-      "item": "BREEZE_ROD",
+      "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "LUCK",
+      "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
       "todo_el_dia": false,
       "hora_inicio": 18,
       "hora_fin": 20
     },
     {
-      "dia": "FRIDAY",
-      "titulo": "&b&lHAPPY HOUR DE REDSTONE&r",
+      "dia": "WEDNESDAY",
+      "titulo": "&b&l¡Día de Exploración de Cámaras de Prueba!",
       "descripcion": [
-        "&a¡El &lCrafter&r &eya está disponible para automatizar tus creaciones!&r",
-        "&eDurante esta hora, el &lcosto de hierro y redstone&r &ese reducirá a la mitad para craftear Crafters, ¡facilitando la construcción de tus granjas automáticas!&r"
+        "¡Es hora de adentrarse en las profundidades! Disfruta de Prisa Minera I mientras exploras en busca de las Cámaras de Prueba de la actualización 1.21. Además, el valor de la Toba ha aumentado un 25% para recompensar a los constructores y mineros."
+      ],
+      "tipo": "AMBOS",
+      "item": "TUFF",
+      "porcentaje_extra": 25.0,
+      "efecto_pocion": "HASTE",
+      "nivel_efecto": 1,
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 20
+    },
+    {
+      "dia": "THURSDAY",
+      "titulo": "&6&l¡Búsqueda del Tesoro Resincronizada!",
+      "descripcion": [
+        "¡Zarpa hacia la aventura con el relanzamiento de \"Assassin's Creed Black Flag Resynced\"! Durante esta Hora Feliz, el valor de los Lingotes de Oro aumenta un 50%, perfecto para tus expediciones en busca de riquezas."
       ],
       "tipo": "PRECIO",
-      "item": "CRAFTER",
-      "porcentaje_extra": 0.0,
+      "item": "GOLD_INGOT",
+      "porcentaje_extra": 50.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": false,
