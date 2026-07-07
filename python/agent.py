@@ -38,43 +38,50 @@ def main():
     print("Iniciando cliente de Gemini...")
     client = genai.Client(api_key=api_key)
 
-    prompt = (
-        "Genera una lista de 6 a 10 anuncios o noticias interesantes para un servidor de Minecraft y "
-        "de 0 a 3 eventos de 'Hora Feliz' (Happy Hour) para los días de la semana.\n\n"
-        "Requisitos Críticos:\n"
-        "1. Usa Google Search Grounding para buscar noticias reales, actualizaciones, datos o curiosidades "
-        "relevantes de Minecraft 1.21 o 1.21.10 en internet, O TAMBIÉN casos curiosos, datos interesantes y "
-        "noticias de actualidad sobre el mundo de los videojuegos en general (gaming).\n"
-        "2. Al buscar las noticias, presta especial atención a eventos, lanzamientos, actualizaciones o festividades "
-        "del mundo del gaming programadas para fechas concretas de la semana entrante (de lunes a domingo). Si detectas "
-        "que un suceso ocurrirá en un día específico (por ejemplo, el lanzamiento de una actualización o un evento el "
-        "jueves), debes programar la 'Hora Feliz' tematizada correspondiente exactamente para ese día de la semana "
-        "(ej. `THURSDAY`), asegurando que las bonificaciones coincidan temporalmente con la fecha real del suceso y "
-        "no se retrasen a la siguiente semana.\n"
-        "3. Las 'Horas Felices' que generes deben estar plenamente FUNDAMENTADAS y tener CONCORDANCIA directa "
-        "con los anuncios de noticias generados en el mismo archivo. Por ejemplo:\n"
-        "   - Si un anuncio habla de que la pesca de Bacalao (Cod) ha aumentado o hay una festividad marítima en el gaming, "
-        "el evento de Hora Feliz debe aumentar el precio de venta de 'COD' (porcentaje_extra = 50.0) o dar suerte (LUCK).\n"
-        "   - Si un anuncio habla de minas colapsando o de una bonanza de excavación, el evento debe dar 'HASTE' (Prisa minera) "
-        "o subir el precio de la piedra ('STONE') o diamantes ('DIAMOND').\n"
-        "   - Si hay una noticia de escasez de alimentos o aumento de ganadería, aumenta el precio de 'PORKCHOP' o 'BEEF'.\n"
-        "4. Tienes total flexibilidad sobre la cantidad de Horas Felices a inyectar (de 0 a 3). Si las noticias de esa semana "
-        "son neutras o no justifican de manera obvia un evento de Hora Feliz, no generes ninguno (genera un array vacío []).\n"
-        "5. Todos los textos (títulos, descripciones y mensajes) deben estar escritos en ESPAÑOL y formateados "
-        "con los códigos de color tradicionales de Minecraft (ej. &a para verde, &b para cian, &e para amarillo, "
-        "&d para rosa, &7 para gris, &l para negrita, &c para rojo).\n"
-        "6. El output debe seguir rigurosamente el esquema JSON indicado."
+    # Paso 1: Obtener la información del gaming y de Minecraft con Search Grounding
+    print("Realizando Paso 1: Consultando a Gemini con Search Grounding...")
+    search_prompt = (
+        "Busca noticias reales de Minecraft 1.21 o 1.21.10, o casos curiosos, datos interesantes y noticias de "
+        "actualidad sobre el mundo de los videojuegos en general (gaming) en internet.\n\n"
+        "A partir de lo que encuentres, redacta en español:\n"
+        "1. Una lista de 6 a 10 noticias/anuncios para un servidor de Minecraft, formateados con códigos de color tradicionales "
+        "de Minecraft (ej. &a para verde, &b para cian, &e para amarillo, &d para rosa, &7 para gris, &l para negrita, &c para rojo).\n"
+        "2. De 0 a 3 eventos de 'Hora Feliz' (Happy Hour) para los días de la semana entrante (de lunes a domingo) "
+        "que estén plenamente FUNDAMENTADAS y tengan CONCORDANCIA directa con las noticias generadas.\n"
+        "Por ejemplo, si una noticia habla de abundancia de pesca, crea un evento para el bacalao (COD); si habla de minería, "
+        "un evento de piedra (STONE), diamantes (DIAMOND) o prisa minera (HASTE); si habla de escasez de carne o ganadería, "
+        "aumenta el precio de BEEF o PORKCHOP.\n"
+        "Presta especial atención si detectas que un suceso ocurrirá en un día específico (por ejemplo, el lanzamiento de una "
+        "actualización o un evento el jueves 5 de agosto), para que programes la 'Hora Feliz' tematizada exactamente para ese "
+        "día de la semana (ej. `THURSDAY`), asegurando que coincidan temporalmente."
     )
 
     try:
-        print("Realizando consulta a Gemini con Search Grounding...")
-        response = client.models.generate_content(
+        response_step1 = client.models.generate_content(
             model='gemini-2.5-flash',
-            contents=prompt,
+            contents=search_prompt,
+            config=types.GenerateContentConfig(
+                tools=[types.Tool(google_search=types.GoogleSearch())]
+            )
+        )
+        raw_text = response_step1.text
+        print("Paso 1 completado. Texto borrador generado.")
+
+        # Paso 2: Estructurar el borrador de texto en el esquema JSON estricto mediante Pydantic
+        print("Realizando Paso 2: Estructurando el contenido en formato JSON...")
+        structure_prompt = (
+            f"Toma la información de noticias y eventos de Hora Feliz redactada a continuación, organízala y "
+            f"estrustúrala estrictamente en el formato JSON correspondiente al esquema indicado. Conserva todos "
+            f"los códigos de color de Minecraft y los identificadores únicos.\n\n"
+            f"Borrador de texto:\n{raw_text}"
+        )
+
+        response_step2 = client.models.generate_content(
+            model='gemini-2.5-flash',
+            contents=structure_prompt,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json",
-                response_schema=GeminiOutput,
-                tools=[types.Tool(google_search=types.GoogleSearch())]
+                response_schema=GeminiOutput
             )
         )
 
@@ -82,7 +89,7 @@ def main():
         print(f"Escribiendo resultado en: {output_path}")
 
         # Guardar el JSON directamente en el archivo anuncios.json
-        data = json.loads(response.text)
+        data = json.loads(response_step2.text)
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
 
