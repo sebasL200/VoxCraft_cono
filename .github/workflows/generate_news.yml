@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * 0' # Ejecuta todos los domingos a las 00:00 UTC (inicio de semana)
   workflow_dispatch: # Permite ejecución manual desde la UI de GitHub
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
