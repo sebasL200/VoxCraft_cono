@@ -1,6 +1,7 @@
 import os
 import sys
 import json
+import time
 from pydantic import BaseModel, Field
 from typing import List
 from google import genai
@@ -56,48 +57,71 @@ def main():
         "día de la semana (ej. `THURSDAY`), asegurando que coincidan temporalmente."
     )
 
-    try:
-        response_step1 = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=search_prompt,
-            config=types.GenerateContentConfig(
-                tools=[types.Tool(google_search=types.GoogleSearch())]
+    max_retries = 5
+    retry_delay = 10  # segundos de espera entre reintentos
+
+    # --- PASO 1 ---
+    raw_text = ""
+    for intento in range(max_retries):
+        try:
+            print(f"Realizando Paso 1: Consultando a Gemini con Search Grounding (Intento {intento + 1}/{max_retries})...")
+            response_step1 = client.models.generate_content(
+                model='gemini-2.5-flash',
+                contents=search_prompt,
+                config=types.GenerateContentConfig(
+                    tools=[types.Tool(google_search=types.GoogleSearch())]
+                )
             )
-        )
-        raw_text = response_step1.text
-        print("Paso 1 completado. Texto borrador generado.")
+            raw_text = response_step1.text
+            print("Paso 1 completado. Texto borrador generado.")
+            break
+        except Exception as e:
+            if "503" in str(e) or "UNAVAILABLE" in str(e) or "429" in str(e):
+                if intento < max_retries - 1:
+                    print(f"Advertencia: Servidor de Gemini saturado o no disponible ({e}). Reintentando en {retry_delay} segundos...")
+                    time.sleep(retry_delay)
+                    continue
+            print(f"Error crítico en el Paso 1: {e}", file=sys.stderr)
+            sys.exit(1)
 
-        # Paso 2: Estructurar el borrador de texto en el esquema JSON estricto mediante Pydantic
-        print("Realizando Paso 2: Estructurando el contenido en formato JSON...")
-        structure_prompt = (
-            f"Toma la información de noticias y eventos de Hora Feliz redactada a continuación, organízala y "
-            f"estrustúrala estrictamente en el formato JSON correspondiente al esquema indicado. Conserva todos "
-            f"los códigos de color de Minecraft y los identificadores únicos.\n\n"
-            f"Borrador de texto:\n{raw_text}"
-        )
-
-        response_step2 = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=structure_prompt,
-            config=types.GenerateContentConfig(
-                response_mime_type="application/json",
-                response_schema=GeminiOutput
+    # --- PASO 2 ---
+    for intento in range(max_retries):
+        try:
+            print(f"Realizando Paso 2: Estructurando el contenido en formato JSON (Intento {intento + 1}/{max_retries})...")
+            structure_prompt = (
+                f"Toma la información de noticias y eventos de Hora Feliz redactada a continuación, organízala y "
+                f"estrustúrala estrictamente en el formato JSON correspondiente al esquema indicado. Conserva todos "
+                f"los códigos de color de Minecraft y los identificadores únicos.\n\n"
+                f"Borrador de texto:\n{raw_text}"
             )
-        )
 
-        output_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "anuncios.json"))
-        print(f"Escribiendo resultado en: {output_path}")
+            response_step2 = client.models.generate_content(
+                model='gemini-2.5-flash',
+                contents=structure_prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    response_schema=GeminiOutput
+                )
+            )
 
-        # Guardar el JSON directamente en el archivo anuncios.json
-        data = json.loads(response_step2.text)
-        with open(output_path, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+            output_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "anuncios.json"))
+            print(f"Escribiendo resultado en: {output_path}")
 
-        print("¡Proceso completado exitosamente!")
+            # Guardar el JSON directamente en el archivo anuncios.json
+            data = json.loads(response_step2.text)
+            with open(output_path, "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
 
-    except Exception as e:
-        print(f"Error durante la generación de contenido: {e}", file=sys.stderr)
-        sys.exit(1)
+            print("¡Proceso completado exitosamente!")
+            break
+        except Exception as e:
+            if "503" in str(e) or "UNAVAILABLE" in str(e) or "429" in str(e):
+                if intento < max_retries - 1:
+                    print(f"Advertencia: Servidor de Gemini saturado o no disponible ({e}). Reintentando en {retry_delay} segundos...")
+                    time.sleep(retry_delay)
+                    continue
+            print(f"Error crítico en el Paso 2: {e}", file=sys.stderr)
+            sys.exit(1)
 
 if __name__ == "__main__":
     main()
