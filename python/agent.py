@@ -54,7 +54,17 @@ def main():
         "aumenta el precio de BEEF o PORKCHOP.\n"
         "Presta especial atención si detectas que un suceso ocurrirá en un día específico (por ejemplo, el lanzamiento de una "
         "actualización o un evento el jueves 5 de agosto), para que programes la 'Hora Feliz' tematizada exactamente para ese "
-        "día de la semana (ej. `THURSDAY`), asegurando que coincidan temporalmente."
+        "día de la semana (ej. `THURSDAY`), asegurando que coincidan temporalmente.\n\n"
+        "REGLAS CRÍTICAS PARA LOS CAMPOS MECÁNICOS DEL EVENTO (NUNCA USES NONE/0/AIR SI EL EVENTO DESCRIBE UN BENEFICIO):\n"
+        "- Si el evento otorga un efecto de poción en su descripción (ej. velocidad, prisa minera), el tipo DEBE ser 'EFECTO' o 'AMBOS', "
+        "el campo `efecto_pocion` DEBE ser un efecto válido de Minecraft en mayúsculas (ej: SPEED, HASTE, LUCK, STRENGTH, REGENERATION) "
+        "y `nivel_efecto` DEBE ser un número entero entre 1 y 3 (ej. 1 o 2). NUNCA uses 'NONE' ni '0' si la descripción habla de un efecto.\n"
+        "- Si el evento otorga un beneficio en el precio o venta de un ítem en su descripción (ej. vender cobre, diamantes o comida más caro), "
+        "el tipo DEBE ser 'PRECIO' o 'AMBOS', el campo `item` DEBE ser un material de Minecraft en mayúsculas (ej: COPPER_INGOT, RAW_COPPER, "
+        "DIAMOND, STONE, COD, BEEF, PORKCHOP, EMERALD) y `porcentaje_extra` DEBE ser un porcentaje mayor a 0 (ej: 25.0, 50.0). NUNCA uses 'AIR' "
+        "ni '0.0' si se describe un beneficio comercial.\n"
+        "- Si el evento describe tanto un efecto de poción como un beneficio de tienda (ej: prisa minera y diamantes valen más), el tipo "
+        "DEBE ser 'AMBOS', y debes completar todos los campos descritos arriba."
     )
 
     max_retries = 5
@@ -92,6 +102,10 @@ def main():
                 f"Toma la información de noticias y eventos de Hora Feliz redactada a continuación, organízala y "
                 f"estrustúrala estrictamente en el formato JSON correspondiente al esquema indicado. Conserva todos "
                 f"los códigos de color de Minecraft y los identificadores únicos.\n\n"
+                f"REGLAS DE FORMATO MECÁNICO OBLIGATORIAS:\n"
+                f"- Si el evento es de tipo 'EFECTO' o 'AMBOS', `efecto_pocion` NO puede ser 'NONE' y `nivel_efecto` NO puede ser 0. Debes mapearlo a un efecto real (ej: SPEED, HASTE, STRENGTH, LUCK) y nivel (ej: 1, 2).\n"
+                f"- Si el evento es de tipo 'PRECIO' o 'AMBOS', `item` NO puede ser 'AIR' y `porcentaje_extra` NO puede ser 0.0. Mapea un material real (ej: COPPER_INGOT, RAW_COPPER, DIAMOND, COD) y porcentaje (ej: 25.0, 50.0).\n"
+                f"- Revisa las descripciones textuales del borrador y asocia los campos mecánicos reales correspondientes.\n\n"
                 f"Borrador de texto:\n{raw_text}"
             )
 
