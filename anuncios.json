@@ -1,111 +1,114 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21_tricky_trials",
+      "id": "noticia_tricky_trials_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21: TRICKY TRIALS!&r",
-        "&7Explora las Cámaras de Prueba, enfrenta a la &bBreeze&7 y al &dBogged&7, y domina la nueva &cMaza&7. ¡Una aventura de combate sin igual te espera!"
+        "&a&l¡La Actualización Tricky Trials 1.21 ha llegado!&7 Descubre las nuevas Cámaras de Desafío, la temible Mazmorra del Breeze y el Bogged, y una gran variedad de bloques de Cobre y Toba para tus construcciones. ¡Prepárate para la aventura!"
       ]
     },
     {
-      "id": "desafio_camaras_prueba",
+      "id": "noticia_crafter_disponible",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡DESAFÍO EN CÁMARAS DE PRUEBA!&r",
-        "&7Aventúrate en estas gigantescas estructuras subterráneas repletas de &eSpawners de Prueba&7 y cofres con botines increíbles. ¡Encuentra bloques de Toba y Cobre!"
+        "&b&l¡El Crafter te espera!&7 Automatiza tus granjas y producciones como nunca antes con el innovador bloque Crafter. ¡Configúralo con Redstone y mira cómo tus ítems se fabrican solos!"
       ]
     },
     {
-      "id": "maza_cambia_combate",
+      "id": "noticia_dominando_maza",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡LA MAZA LLEGA PARA CAMBIAR EL COMBATE!&r",
-        "&7¡La Maza, la nueva arma de Minecraft 1.21, permite ataques devastadores desde grandes alturas! Causa más daño cuanto más alto caigas y anula el daño por caída al golpear."
+        "&e&l¡Dominando la Maza!&7 Empuña la poderosa Maza, una nueva arma que causa más daño cuanto más alto caes antes de golpear a tus enemigos. ¡Descubre sus nuevos encantamientos exclusivos como Densidad, Brecha y Ráfaga de Viento!"
       ]
     },
     {
-      "id": "automatiza_con_crafter",
+      "id": "noticia_horizontes_decorativos",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡AUTOMATIZA CON EL CRAFTER!&r",
-        "&7Descubre el Crafter, un bloque revolucionario que te permite automatizar la creación de ítems. ¡Optimiza tus granjas y procesos como nunca!"
+        "&d&l¡Nuevos Horizontes Decorativos!&7 Renueva tus bases con las 20 nuevas pinturas y 3 discos de música de la actualización 1.21. ¡Además, explora los expandidos sets de bloques de Cobre y Toba para construcciones únicas!"
       ]
     },
     {
-      "id": "noticias_chaos_cubed",
+      "id": "noticia_eventos_ominosos",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡NOTICIAS DE CHAOS CUBED!&r",
-        "&7La actualización &eChaos Cubed&7 ya está aquí, presentando las nuevas &aCuevas de Azufre&7 y el peculiar &bCubo de Azufre&7 que absorbe bloques. ¡Explora este bioma único!"
+        "&7&l¡Prepárate para los Eventos Ominosos!&7 El efecto \"Mal Augurio\" ha sido rediseñado para dar acceso a desafíos especiales en las Cámaras de Desafío. ¡Enfrenta enemigos más fuertes y obtén recompensas únicas en las Bóvedas Ominosas!"
       ]
     },
     {
-      "id": "avance_bosque_moteado_1_26_3",
+      "id": "noticia_atados_valentia",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡AVANCE: BOSQUE MOTEADO EN 1.26.3!&r",
-        "&7¡Prepárense para el &eotoño de 2026&7! La actualización 1.26.3 traerá el hermoso &aBosque Moteado&7, con nuevos árboles de álamo y una atmósfera encantadora."
+        "&a&l¡Llegan los Atados de Valentía!&7 Con la versión 1.21.2, ahora puedes usar los prácticos Atados para organizar mejor tu inventario, llevando una mezcla de ítems en una sola ranura."
       ]
     },
     {
-      "id": "xbox_games_showcase_2026_cerrado",
+      "id": "noticia_jardin_palido_creaking",
       "categoria": "noticias",
       "mensajes": [
-        "&l&b¡XBOX GAMES SHOWCASE 2026 CERRADO!&r",
-        "&7El evento de Xbox nos dejó grandes anuncios como el &a25 Aniversario de Xbox&7 y el lanzamiento de &cDOOM: The Dark Ages | Revelations&7 ¡hoy mismo!"
+        "&b&l¡Descubre el Jardín Pálido y el Creaking!&7 Adéntrate en el misterioso bioma El Jardín Pálido de la versión 1.21.4 y enfréntate al escalofriante mob Creaking, una criatura sombra que solo ataca cuando no la miras."
       ]
     },
     {
-      "id": "minecraft_dungeons_ii_en_camino",
+      "id": "noticia_mascotas_bebe_antorchas",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡MINECRAFT DUNGEONS II EN CAMINO!&r",
-        "&7¡La secuela de Minecraft Dungeons, &aMinecraft Dungeons II&7, se lanzará el &e29 de septiembre! ¡Prepárense para una nueva aventura de rastreo de mazmorras!"
+        "&e&l¡Mascotas Bebé y Antorchas Renovadas!&7 La versión 1.21.2 trajo versiones bebé de Delfines, Calamares y Calamares Luminosos. ¡También, disfruta de un nuevo y distintivo look para las Antorchas de Redstone!"
       ]
     },
     {
-      "id": "hotfix_1_21_10_estabilidad",
-      "categoria": "noticias",
+      "id": "curiosidad_primer_easter_egg",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&7&l¡HOTFIX 1.21.10 PARA MAYOR ESTABILIDAD!&r",
-        "&7Recordamos que la versión 1.21.10 (lanzada el 7 de octubre de 2025) fue un &aimportante hotfix&7 para corregir errores y mejorar la estabilidad general del juego."
+        "El primer \"Easter Egg\" conocido en un videojuego fue ocultado por el programador Warren Robinett en el juego *Adventure* para Atari 2600 en 1980, como un acto de rebeldía, ya que la compañía no acreditaba a sus desarrolladores."
       ]
     },
     {
-      "id": "ultimos_dias_summer_sale_marketplace",
-      "categoria": "noticias",
+      "id": "curiosidad_origen_mario",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&6&l¡ÚLTIMOS DÍAS DEL SUMMER SALE DE MARKETPLACE!&r",
-        "&7Aprovecha las ofertas del &eSummer Sale 2026 de Minecraft Marketplace&7. ¡No te quedes sin tus contenidos favoritos a precios increíbles!"
+        "El icónico personaje de Nintendo, Mario, fue originalmente llamado \"Jumpman\". Fue rebautizado como \"Mario\" en honor a Mario Segale, el propietario de las oficinas de Nintendo en Estados Unidos que reclamaba el alquiler atrasado."
+      ]
+    },
+    {
+      "id": "curiosidad_minecraft_mas_vendido",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "Se considera que *Minecraft* es el videojuego más vendido de la historia, con más de 200 millones de copias comercializadas en todo el mundo."
+      ]
+    },
+    {
+      "id": "curiosidad_mortal_kombat_esrb",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "La extrema violencia en el juego *Mortal Kombat* jugó un papel fundamental en la creación de la Entertainment Software Rating Board (ESRB), la organización encargada de clasificar los videojuegos por edades y contenido."
+      ]
+    },
+    {
+      "id": "curiosidad_metal_gear_cinematica",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "*Metal Gear Solid 4: Guns of the Patriots* ostenta el Récord Guinness por la cinemática más larga en un videojuego, con una secuencia ininterrumpida de 71 minutos."
+      ]
+    },
+    {
+      "id": "lanzamientos_julio_2024",
+      "categoria": "lanzamientos",
+      "mensajes": [
+        "No se han encontrado anuncios de lanzamientos importantes de videojuegos específicamente para la semana del 8 al 14 de julio de 2026 en las fuentes consultadas. Sin embargo, en el ámbito de los videojuegos, se destacaron recientes lanzamientos como *The First Descendant* (RPG de acción y disparos) y la expansión *Final Fantasy XIV: Dawntrail* (MMORPG), ambos lanzados a principios de julio de 2024, así como *Zenless Zone Zero* (ARPG gratuito) también de julio de 2024, que continúan siendo temas de conversación y disfrute en la comunidad."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "TUESDAY",
-      "titulo": "&c&l¡Furia del Slayer!",
+      "titulo": "&6&l¡Fiebre del Cobre!",
       "descripcion": [
-        "¡Celebra el lanzamiento de DOOM: The Dark Ages | Revelations desatando tu poder! Obtén &eFUERZA II &7mientras combates en el Overworld. ¡El infierno llegó a Minecraft!"
-      ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
-      "efecto_pocion": "STRENGTH",
-      "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
-    },
-    {
-      "dia": "THURSDAY",
-      "titulo": "&b&l¡Tesoro Pirata Resincronizado!",
-      "descripcion": [
-        "¡Izad las velas, marineros! En honor al lanzamiento de Assassin's Creed Black Flag Resynced, la pesca en el servidor será más lucrativa. ¡Encuentra el doble de bacalao!"
+        "&eLa reciente actualización de Tricky Trials trajo consigo una abundancia de bloques de cobre, ¡haciéndolo un material de construcción y decoración fundamental! Es el momento perfecto para acumular este valioso metal."
       ],
       "tipo": "PRECIO",
-      "item": "COD",
-      "porcentaje_extra": 100.0,
+      "item": "COPPER_INGOT",
+      "porcentaje_extra": 25.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -113,14 +116,14 @@
       "hora_fin": 24
     },
     {
-      "dia": "SATURDAY",
-      "titulo": "&e&l¡Locura Cúbica de Azufre!",
+      "dia": "THURSDAY",
+      "titulo": "&b&l¡Impulso del Explorador en la Toba!",
       "descripcion": [
-        "¡Aprovecha la &aenergía caótica&7 de la reciente actualización &eChaos Cubed&7! Hoy, tus esfuerzos de minería serán recompensados con &bHASTE II&7 y un &a100% extra&7 en el valor del &fCOAL&7. ¡Explora las nuevas cuevas de azufre!"
+        "&bCon las nuevas y desafiantes Cámaras de Desafío hechas de toba, ¡necesitarás velocidad y resistencia para explorarlas a fondo! Recibe un impulso para minar y un bono al adquirir toba."
       ],
       "tipo": "AMBOS",
-      "item": "COAL",
-      "porcentaje_extra": 100.0,
+      "item": "TUFF",
+      "porcentaje_extra": 20.0,
       "efecto_pocion": "HASTE",
       "nivel_efecto": 2,
       "todo_el_dia": true,
