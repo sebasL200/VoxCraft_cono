@@ -2,6 +2,8 @@ import os
 import sys
 import json
 import time
+import re
+from datetime import datetime, timezone
 from pydantic import BaseModel, Field
 from typing import List
 from google import genai
@@ -36,37 +38,54 @@ def main():
         print("Error: La variable de entorno GEMINI_API_KEY no está configurada.", file=sys.stderr)
         sys.exit(1)
 
+    # Determinar si hoy es domingo (UTC) -> único día en que se regeneran las Horas Felices
+    hoy = datetime.now(timezone.utc)
+    es_domingo = (hoy.weekday() == 6)  # 6 = domingo en Python
+    print(f"Fecha actual UTC: {hoy.strftime('%A %d/%m/%Y')} | ¿Generando Horas Felices? {'SÍ' if es_domingo else 'NO (solo domingos)'}")
+
     print("Iniciando cliente de Gemini...")
     client = genai.Client(api_key=api_key)
 
     # Paso 1: Búsqueda de noticias con Google Search Grounding
     print("Realizando Paso 1: Consultando a Gemini con Search Grounding...")
-    search_prompt = (
+
+    prompt_base = (
         "Busca noticias reales y recientes de Minecraft (especialmente versiones 1.21.x), datos curiosos del mundo "
         "del gaming en general, y lanzamientos de videojuegos de esta semana en internet.\n\n"
         "A partir de lo que encuentres, redacta en español:\n"
         "1. Una lista de 6 a 10 noticias/anuncios para un servidor de Minecraft, formateados con códigos de color "
         "de Minecraft (&a verde, &b cian, &e amarillo, &d rosa, &7 gris, &l negrita, &c rojo).\n"
-        "2. EXACTAMENTE 2 eventos de 'Hora Feliz' para 2 días DIFERENTES de la semana entrante, "
-        "plenamente FUNDAMENTADOS en alguna de las noticias que encontraste:\n"
-        "   - EVENTO 1 (PRECIO): Debe ser de tipo PRECIO, con un ítem de la tienda que valga más ese día. "
-        "Con un 30% de probabilidad puede ser AMBOS (precio + efecto de poción también).\n"
-        "   - EVENTO 2 (EFECTO): Debe ser de tipo EFECTO, con un efecto de poción que los jugadores recibirán. "
-        "Con un 30% de probabilidad puede ser AMBOS (efecto + precio de un ítem también).\n\n"
-        "REGLAS CRÍTICAS PARA TÍTULOS Y CAMPOS MECÁNICOS:\n"
-        "- TÍTULO: Crea un nombre inmersivo y temático que explique el motivo (ej. &6&l¡Día del Forjador!, "
-        "&b&l¡Fiebre del Cobre!, &c&l¡La Gran Cacería!). NUNCA uses 'HAPPY HOUR', 'HORA FELIZ' ni el nombre del día.\n"
-        "- DESCRIPCIÓN: Exactamente 2 líneas CORTAS, máximo 55 caracteres cada una. "
-        "Línea 1: el motivo del evento vinculado a una noticia (ej. '&7¡DOOM: Dark Ages se lanzó!'). "
-        "Línea 2: el beneficio concreto (ej. '&7Obtén Fuerza II todo el día.'). "
-        "NUNCA pongas todo en una sola línea larga; siempre divide en exactamente 2 líneas cortas.\n"
-        "- Materiales válidos para `item`: [COPPER_INGOT, RAW_COPPER, COPPER_BLOCK, TUFF, DIAMOND, STONE, "
-        "COD, BEEF, PORKCHOP, EMERALD, GOLD_INGOT, IRON_INGOT, COAL, BONE, WHEAT]. NUNCA uses AIR si el tipo tiene precio.\n"
-        "- Efectos válidos para `efecto_pocion`: [SPEED, HASTE, LUCK, STRENGTH, REGENERATION, RESISTANCE, "
-        "FIRE_RESISTANCE, WATER_BREATHING, NIGHT_VISION]. NUNCA uses NONE si el tipo tiene efecto.\n"
-        "- Si el tipo es AMBOS, debes completar TANTO item+porcentaje_extra COMO efecto_pocion+nivel_efecto.\n"
-        "- Si el tipo es PRECIO puro: usa 'AIR', 0.0 para los campos de efecto. Si es EFECTO puro: usa 'AIR', 0.0 para precio."
     )
+
+    if es_domingo:
+        prompt_horas = (
+            "2. EXACTAMENTE 2 eventos de 'Hora Feliz' para 2 días DIFERENTES de la semana entrante, "
+            "plenamente FUNDAMENTADOS en alguna de las noticias que encontraste:\n"
+            "   - EVENTO 1 (PRECIO): Debe ser de tipo PRECIO, con un ítem de la tienda que valga más ese día. "
+            "Con un 30% de probabilidad puede ser AMBOS (precio + efecto de poción también).\n"
+            "   - EVENTO 2 (EFECTO): Debe ser de tipo EFECTO, con un efecto de poción que los jugadores recibirán. "
+            "Con un 30% de probabilidad puede ser AMBOS (efecto + precio de un ítem también).\n\n"
+            "REGLAS CRÍTICAS PARA TÍTULOS Y CAMPOS MECÁNICOS:\n"
+            "- TÍTULO: Crea un nombre inmersivo y temático que explique el motivo (ej. &6&l¡Día del Forjador!, "
+            "&b&l¡Fiebre del Cobre!, &c&l¡La Gran Cacería!). NUNCA uses 'HAPPY HOUR', 'HORA FELIZ' ni el nombre del día.\n"
+            "- DESCRIPCIÓN: Exactamente 2 líneas CORTAS, máximo 55 caracteres cada una. "
+            "Línea 1: el motivo del evento vinculado a una noticia (ej. '&7¡DOOM: Dark Ages se lanzó!'). "
+            "Línea 2: el beneficio concreto (ej. '&7Obtén Fuerza II todo el día.'). "
+            "NUNCA pongas todo en una sola línea larga; siempre divide en exactamente 2 líneas cortas.\n"
+            "- Materiales válidos para `item`: [COPPER_INGOT, RAW_COPPER, COPPER_BLOCK, TUFF, DIAMOND, STONE, "
+            "COD, BEEF, PORKCHOP, EMERALD, GOLD_INGOT, IRON_INGOT, COAL, BONE, WHEAT]. NUNCA uses AIR si el tipo tiene precio.\n"
+            "- Efectos válidos para `efecto_pocion`: [SPEED, HASTE, LUCK, STRENGTH, REGENERATION, RESISTANCE, "
+            "FIRE_RESISTANCE, WATER_BREATHING, NIGHT_VISION]. NUNCA uses NONE si el tipo tiene efecto.\n"
+            "- Si el tipo es AMBOS, debes completar TANTO item+porcentaje_extra COMO efecto_pocion+nivel_efecto.\n"
+            "- Si el tipo es PRECIO puro: usa 'AIR', 0.0 para los campos de efecto. Si es EFECTO puro: usa 'AIR', 0.0 para precio."
+        )
+    else:
+        prompt_horas = (
+            "IMPORTANTE: HOY NO es domingo, por lo que NO debes generar eventos de Hora Feliz. "
+            "Solo genera la lista de noticias del punto 1. El campo `horas_felices` debe quedar vacío []."
+        )
+
+    search_prompt = prompt_base + prompt_horas
 
     max_retries = 5
     retry_delay = 10  # segundos de espera entre reintentos
