@@ -15,16 +15,16 @@ class Announcement(BaseModel):
 
 class HappyHourEvent(BaseModel):
     dia: str = Field(description="Día de la semana en mayúsculas: MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY")
-    titulo: str = Field(description="Título creativo y temático del evento con códigos de color de Minecraft, ej. &d&l¡Fiebre del Cobre! o &c&l¡Ataque del Mazo!. NUNCA uses frases genéricas como 'HAPPY HOUR' o 'HORA FELIZ' en el título; debe ser un nombre único que describa el evento.")
-    descripcion: List[str] = Field(description="Líneas de descripción del evento con códigos de color de Minecraft")
-    tipo: str = Field(description="Tipo de evento: PRECIO, EFECTO o AMBOS")
-    item: str = Field(description="Material exacto de Minecraft en mayúsculas de esta lista obligatoria: [COPPER_INGOT, RAW_COPPER, COPPER_BLOCK, TUFF, DIAMOND, STONE, COD, BEEF, PORKCHOP, EMERALD, GOLD_INGOT, IRON_INGOT, COAL, BONE, WHEAT]. Usa 'AIR' si solo es de efecto.")
-    porcentaje_extra: float = Field(description="Porcentaje extra para aumento de precio (ej. 25.0, 50.0). Debe ser mayor a 0.0 si el tipo es PRECIO o AMBOS. Usa 0.0 si es solo efecto.")
-    efecto_pocion: str = Field(description="Efecto de poción exacto en mayúsculas de esta lista obligatoria: [SPEED, HASTE, LUCK, STRENGTH, REGENERATION, RESISTANCE, FIRE_RESISTANCE, WATER_BREATHING, NIGHT_VISION]. Usa 'NONE' si no aplica.")
-    nivel_efecto: int = Field(description="Nivel del efecto (1, 2, 3). Debe ser mayor o igual a 1 si el tipo es EFECTO o AMBOS. Usa 0 si es solo precio.")
+    titulo: str = Field(description="Título creativo y temático del evento con códigos de color de Minecraft. Ej: &6&l¡Día del Forjador! o &a&l¡Festín de Bacalao!. NUNCA uses frases genéricas como 'HAPPY HOUR', 'HORA FELIZ' ni el nombre del día en el título.")
+    descripcion: List[str] = Field(description="1 a 2 líneas explicando por qué ese día es especial, vinculadas a una noticia real. Con códigos de color de Minecraft.")
+    tipo: str = Field(description="Tipo de evento: PRECIO, EFECTO, o AMBOS. El Evento 1 de la lista debe ser PRECIO o AMBOS. El Evento 2 debe ser EFECTO o AMBOS.")
+    item: str = Field(description="Material exacto de Minecraft (mayúsculas) de esta lista: [COPPER_INGOT, RAW_COPPER, COPPER_BLOCK, TUFF, DIAMOND, STONE, COD, BEEF, PORKCHOP, EMERALD, GOLD_INGOT, IRON_INGOT, COAL, BONE, WHEAT]. Obligatorio si tipo es PRECIO o AMBOS. Usa 'AIR' solo si tipo es EFECTO puro.")
+    porcentaje_extra: float = Field(description="Porcentaje de bonus de precio (ej. 25.0, 50.0). Obligatorio y mayor a 0 si tipo es PRECIO o AMBOS. Usa 0.0 solo si tipo es EFECTO puro.")
+    efecto_pocion: str = Field(description="Efecto de poción exacto (mayúsculas) de esta lista: [SPEED, HASTE, LUCK, STRENGTH, REGENERATION, RESISTANCE, FIRE_RESISTANCE, WATER_BREATHING, NIGHT_VISION]. Obligatorio si tipo es EFECTO o AMBOS. Usa 'NONE' solo si tipo es PRECIO puro.")
+    nivel_efecto: int = Field(description="Nivel del efecto: 1, 2 o 3. Obligatorio y >= 1 si tipo es EFECTO o AMBOS. Usa 0 solo si tipo es PRECIO puro.")
     todo_el_dia: bool = Field(description="True si dura todo el día, False si tiene horas específicas")
-    hora_inicio: int = Field(description="Hora de inicio (0-23) si todo_el_dia es False, de lo contrario 0")
-    hora_fin: int = Field(description="Hora de fin (0-23) si todo_el_dia es False, de lo contrario 24")
+    hora_inicio: int = Field(description="Hora de inicio (0-23). Usar 0 si todo_el_dia es True.")
+    hora_fin: int = Field(description="Hora de fin (1-24). Usar 24 si todo_el_dia es True.")
 
 class GeminiOutput(BaseModel):
     anuncios: List[Announcement]
@@ -39,32 +39,30 @@ def main():
     print("Iniciando cliente de Gemini...")
     client = genai.Client(api_key=api_key)
 
+    # Paso 1: Búsqueda de noticias con Google Search Grounding
+    print("Realizando Paso 1: Consultando a Gemini con Search Grounding...")
     search_prompt = (
-        "Busca noticias reales de Minecraft 1.21 o 1.21.10, o casos curiosos, datos interesantes y noticias de "
-        "actualidad sobre el mundo de los videojuegos en general (gaming) en internet.\n\n"
+        "Busca noticias reales y recientes de Minecraft (especialmente versiones 1.21.x), datos curiosos del mundo "
+        "del gaming en general, y lanzamientos de videojuegos de esta semana en internet.\n\n"
         "A partir de lo que encuentres, redacta en español:\n"
-        "1. Una lista de 6 a 10 noticias/anuncios para un servidor de Minecraft, formateados con códigos de color tradicionales "
-        "de Minecraft (ej. &a para verde, &b para cian, &e para amarillo, &d para rosa, &7 para gris, &l para negrita, &c para rojo).\n"
-        "2. De 0 a 3 eventos de 'Hora Feliz' (Happy Hour) para los días de la semana entrante (de lunes a domingo) "
-        "que estén plenamente FUNDAMENTADAS y tengan CONCORDANCIA directa con las noticias generadas.\n"
-        "Por ejemplo, si una noticia habla de abundancia de pesca, crea un evento para el bacalao (COD); si habla de minería, "
-        "un evento de piedra (STONE), diamantes (DIAMOND) o prisa minera (HASTE); si habla de escasez de carne o ganadería, "
-        "aumenta el precio de BEEF o PORKCHOP.\n"
-        "Presta especial atención si detectas que un suceso ocurrirá en un día específico (por ejemplo, el lanzamiento de una "
-        "actualización o un evento el jueves 5 de agosto), para que programes la 'Hora Feliz' tematizada exactamente para ese "
-        "día de la semana (ej. `THURSDAY`), asegurando que coincidan temporalmente.\n\n"
-        "REGLAS CRÍTICAS PARA LOS CAMPOS MECÁNICOS DEL EVENTO (OBLIGATORIAS):\n"
-        "- TÍTULO: Crea un título llamativo, corto y muy temático que explique el 'por qué' (ej. &6&l¡Día del Forjador!, &a&l¡Festín de Bacalao!). NUNCA utilices textos genéricos como 'HAPPY HOUR - DÍA' o 'HORA FELIZ'.\n"
-        "- Si el evento otorga un efecto en su descripción, el tipo DEBE ser 'EFECTO' o 'AMBOS', "
-        "el campo `efecto_pocion` DEBE ser estrictamente uno de estos efectos válidos de Minecraft/Spigot (NUNCA uses 'NONE'):\n"
-        "  [SPEED, HASTE, LUCK, STRENGTH, REGENERATION, RESISTANCE, FIRE_RESISTANCE, WATER_BREATHING, NIGHT_VISION]\n"
-        "  Y el campo `nivel_efecto` DEBE ser un número entero entre 1 y 3. NUNCA uses 0 si el tipo es EFECTO.\n"
-        "- Si el evento otorga una bonificación de precio en su descripción, el tipo DEBE ser 'PRECIO' o 'AMBOS', "
-        "el campo `item` DEBE ser estrictamente un Material válido de Minecraft/Spigot de esta lista (NUNCA uses 'AIR' ni nombres genéricos como 'COPPER'):\n"
-        "  [COPPER_INGOT, RAW_COPPER, COPPER_BLOCK, TUFF, DIAMOND, STONE, COD, BEEF, PORKCHOP, EMERALD, GOLD_INGOT, IRON_INGOT, COAL, BONE, WHEAT]\n"
-        "  Y el campo `porcentaje_extra` DEBE ser mayor a 0 (ej: 25.0, 50.0). NUNCA uses 0.0 si el tipo es PRECIO.\n"
-        "- TRADUCCIÓN MECÁNICA: Si quieres dar un beneficio como 'Doble drop de Breeze' o 'Doble drop de cultivos', debes traducirlo como "
-        "efecto_pocion = 'LUCK' (nivel_efecto = 2) o un aumento de precio (porcentaje_extra = 100.0) para items como 'COD', 'PORKCHOP', 'BEEF' o 'WHEAT'. El plugin no entiende conceptos abstractos de cultivos o Breeze si no están configurados en los campos mecánicos."
+        "1. Una lista de 6 a 10 noticias/anuncios para un servidor de Minecraft, formateados con códigos de color "
+        "de Minecraft (&a verde, &b cian, &e amarillo, &d rosa, &7 gris, &l negrita, &c rojo).\n"
+        "2. EXACTAMENTE 2 eventos de 'Hora Feliz' para 2 días DIFERENTES de la semana entrante, "
+        "plenamente FUNDAMENTADOS en alguna de las noticias que encontraste:\n"
+        "   - EVENTO 1 (PRECIO): Debe ser de tipo PRECIO, con un ítem de la tienda que valga más ese día. "
+        "Con un 30% de probabilidad puede ser AMBOS (precio + efecto de poción también).\n"
+        "   - EVENTO 2 (EFECTO): Debe ser de tipo EFECTO, con un efecto de poción que los jugadores recibirán. "
+        "Con un 30% de probabilidad puede ser AMBOS (efecto + precio de un ítem también).\n\n"
+        "REGLAS CRÍTICAS PARA TÍTULOS Y CAMPOS MECÁNICOS:\n"
+        "- TÍTULO: Crea un nombre inmersivo y temático que explique el motivo (ej. &6&l¡Día del Forjador!, "
+        "&b&l¡Fiebre del Cobre!, &c&l¡La Gran Cacería!). NUNCA uses 'HAPPY HOUR', 'HORA FELIZ' ni el nombre del día.\n"
+        "- DESCRIPCIÓN: 1-2 líneas que digan explícitamente POR QUÉ ese día es especial (vincúlalo a la noticia real).\n"
+        "- Materiales válidos para `item`: [COPPER_INGOT, RAW_COPPER, COPPER_BLOCK, TUFF, DIAMOND, STONE, "
+        "COD, BEEF, PORKCHOP, EMERALD, GOLD_INGOT, IRON_INGOT, COAL, BONE, WHEAT]. NUNCA uses AIR si el tipo tiene precio.\n"
+        "- Efectos válidos para `efecto_pocion`: [SPEED, HASTE, LUCK, STRENGTH, REGENERATION, RESISTANCE, "
+        "FIRE_RESISTANCE, WATER_BREATHING, NIGHT_VISION]. NUNCA uses NONE si el tipo tiene efecto.\n"
+        "- Si el tipo es AMBOS, debes completar TANTO item+porcentaje_extra COMO efecto_pocion+nivel_efecto.\n"
+        "- Si el tipo es PRECIO puro: usa 'AIR', 0.0 para los campos de efecto. Si es EFECTO puro: usa 'AIR', 0.0 para precio."
     )
 
     max_retries = 5
@@ -99,14 +97,18 @@ def main():
         try:
             print(f"Realizando Paso 2: Estructurando el contenido en formato JSON (Intento {intento + 1}/{max_retries})...")
             structure_prompt = (
-                f"Toma la información de noticias y eventos de Hora Feliz redactada a continuación, organízala y "
-                f"estrustúrala estrictamente en el formato JSON correspondiente al esquema indicado. Conserva todos "
-                f"los códigos de color de Minecraft y los identificadores únicos.\n\n"
-                f"REGLAS DE VALIDACIÓN MECÁNICA Y TEXTUAL PARA EL JSON:\n"
-                f"- TÍTULO: NUNCA utilices un título genérico que contenga las palabras 'HAPPY HOUR' o 'HORA FELIZ'. Debe ser un nombre temático y creativo (ej: '¡Fiebre del Cobre!', '¡Desafío Ominoso!').\n"
-                f"- Si el evento es de tipo 'EFECTO' o 'AMBOS', `efecto_pocion` NO PUEDE SER 'NONE' (debe ser SPEED, HASTE, LUCK, STRENGTH, REGENERATION, etc.) y `nivel_efecto` debe ser 1, 2 o 3 (NUNCA 0).\n"
-                f"- Si el evento es de tipo 'PRECIO' o 'AMBOS', `item` NO PUEDE SER 'AIR' ni nombres inválidos como 'COPPER' (debe ser COPPER_INGOT, RAW_COPPER, COPPER_BLOCK, TUFF, DIAMOND, COD, BEEF, PORKCHOP, EMERALD, etc.) y `porcentaje_extra` debe ser mayor a 0 (ej: 25.0, 50.0).\n"
-                f"- Asocia las propiedades mecánicas a partir de las descripciones generadas en el borrador.\n\n"
+                f"Toma la información de noticias y 2 eventos de Hora Feliz redactada a continuación y "
+                f"conviértela estrictamente al formato JSON del esquema indicado.\n\n"
+                f"REGLAS DE VALIDACIÓN PARA EL JSON:\n"
+                f"- La lista `horas_felices` debe tener EXACTAMENTE 2 eventos en días DISTINTOS.\n"
+                f"- El Evento 1 debe ser tipo PRECIO o AMBOS. El Evento 2 debe ser tipo EFECTO o AMBOS.\n"
+                f"- TÍTULO: Nunca uses 'HAPPY HOUR' ni 'HORA FELIZ'. Usa un nombre creativo y temático.\n"
+                f"- Si tipo es PRECIO o AMBOS: `item` NO puede ser 'AIR' (usa COPPER_INGOT, DIAMOND, COD, BEEF, etc.) "
+                f"y `porcentaje_extra` debe ser > 0.\n"
+                f"- Si tipo es EFECTO o AMBOS: `efecto_pocion` NO puede ser 'NONE' (usa SPEED, HASTE, LUCK, etc.) "
+                f"y `nivel_efecto` debe ser 1, 2 o 3.\n"
+                f"- Si tipo es PRECIO puro: `efecto_pocion`='NONE', `nivel_efecto`=0.\n"
+                f"- Si tipo es EFECTO puro: `item`='AIR', `porcentaje_extra`=0.0.\n\n"
                 f"Borrador de texto:\n{raw_text}"
             )
 
@@ -122,8 +124,13 @@ def main():
             output_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "anuncios.json"))
             print(f"Escribiendo resultado en: {output_path}")
 
-            # Guardar el JSON directamente en el archivo anuncios.json
             data = json.loads(response_step2.text)
+
+            # Validación: asegurar que hay exactamente 2 horas felices
+            hf = data.get("horas_felices", [])
+            if len(hf) != 2:
+                print(f"Advertencia: Se esperaban 2 eventos de Hora Feliz pero se obtuvieron {len(hf)}. Continuando de todas formas.")
+
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
 
