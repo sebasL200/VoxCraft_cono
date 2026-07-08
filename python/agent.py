@@ -16,7 +16,7 @@ class Announcement(BaseModel):
 class HappyHourEvent(BaseModel):
     dia: str = Field(description="Día de la semana en mayúsculas: MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY")
     titulo: str = Field(description="Título creativo y temático del evento con códigos de color de Minecraft. Ej: &6&l¡Día del Forjador! o &a&l¡Festín de Bacalao!. NUNCA uses frases genéricas como 'HAPPY HOUR', 'HORA FELIZ' ni el nombre del día en el título.")
-    descripcion: List[str] = Field(description="1 a 2 líneas explicando por qué ese día es especial, vinculadas a una noticia real. Con códigos de color de Minecraft.")
+    descripcion: List[str] = Field(description="EXACTAMENTE 2 líneas MUY CORTAS (máx 55 caracteres cada una) que expliquen el motivo del evento. Línea 1: el por qué (ej. '&7¡DOOM: Dark Ages llega hoy!'). Línea 2: el beneficio (ej. '&7Obtén Fuerza II todo el día.'). NUNCA en una sola línea muy larga.")
     tipo: str = Field(description="Tipo de evento: PRECIO, EFECTO, o AMBOS. El Evento 1 de la lista debe ser PRECIO o AMBOS. El Evento 2 debe ser EFECTO o AMBOS.")
     item: str = Field(description="Material exacto de Minecraft (mayúsculas) de esta lista: [COPPER_INGOT, RAW_COPPER, COPPER_BLOCK, TUFF, DIAMOND, STONE, COD, BEEF, PORKCHOP, EMERALD, GOLD_INGOT, IRON_INGOT, COAL, BONE, WHEAT]. Obligatorio si tipo es PRECIO o AMBOS. Usa 'AIR' solo si tipo es EFECTO puro.")
     porcentaje_extra: float = Field(description="Porcentaje de bonus de precio (ej. 25.0, 50.0). Obligatorio y mayor a 0 si tipo es PRECIO o AMBOS. Usa 0.0 solo si tipo es EFECTO puro.")
@@ -56,7 +56,10 @@ def main():
         "REGLAS CRÍTICAS PARA TÍTULOS Y CAMPOS MECÁNICOS:\n"
         "- TÍTULO: Crea un nombre inmersivo y temático que explique el motivo (ej. &6&l¡Día del Forjador!, "
         "&b&l¡Fiebre del Cobre!, &c&l¡La Gran Cacería!). NUNCA uses 'HAPPY HOUR', 'HORA FELIZ' ni el nombre del día.\n"
-        "- DESCRIPCIÓN: 1-2 líneas que digan explícitamente POR QUÉ ese día es especial (vincúlalo a la noticia real).\n"
+        "- DESCRIPCIÓN: Exactamente 2 líneas CORTAS, máximo 55 caracteres cada una. "
+        "Línea 1: el motivo del evento vinculado a una noticia (ej. '&7¡DOOM: Dark Ages se lanzó!'). "
+        "Línea 2: el beneficio concreto (ej. '&7Obtén Fuerza II todo el día.'). "
+        "NUNCA pongas todo en una sola línea larga; siempre divide en exactamente 2 líneas cortas.\n"
         "- Materiales válidos para `item`: [COPPER_INGOT, RAW_COPPER, COPPER_BLOCK, TUFF, DIAMOND, STONE, "
         "COD, BEEF, PORKCHOP, EMERALD, GOLD_INGOT, IRON_INGOT, COAL, BONE, WHEAT]. NUNCA uses AIR si el tipo tiene precio.\n"
         "- Efectos válidos para `efecto_pocion`: [SPEED, HASTE, LUCK, STRENGTH, REGENERATION, RESISTANCE, "
@@ -103,6 +106,8 @@ def main():
                 f"- La lista `horas_felices` debe tener EXACTAMENTE 2 eventos en días DISTINTOS.\n"
                 f"- El Evento 1 debe ser tipo PRECIO o AMBOS. El Evento 2 debe ser tipo EFECTO o AMBOS.\n"
                 f"- TÍTULO: Nunca uses 'HAPPY HOUR' ni 'HORA FELIZ'. Usa un nombre creativo y temático.\n"
+                f"- DESCRIPCIÓN: Exactamente 2 líneas por evento. Cada línea máximo 55 caracteres. "
+                f"Línea 1: el motivo. Línea 2: el beneficio. NUNCA una sola línea larga.\n"
                 f"- Si tipo es PRECIO o AMBOS: `item` NO puede ser 'AIR' (usa COPPER_INGOT, DIAMOND, COD, BEEF, etc.) "
                 f"y `porcentaje_extra` debe ser > 0.\n"
                 f"- Si tipo es EFECTO o AMBOS: `efecto_pocion` NO puede ser 'NONE' (usa SPEED, HASTE, LUCK, etc.) "
@@ -125,6 +130,31 @@ def main():
             print(f"Escribiendo resultado en: {output_path}")
 
             data = json.loads(response_step2.text)
+
+            # --- Post-procesamiento: garantizar máximo 2 eventos y líneas de descripción cortas ---
+            MAX_LINEA = 55
+            if "horas_felices" in data:
+                # Truncar a 2 eventos si la IA generó más
+                data["horas_felices"] = data["horas_felices"][:2]
+                # Partir líneas de descripción largas en 2 fragmentos
+                for ev in data["horas_felices"]:
+                    nuevas_lineas = []
+                    for linea in ev.get("descripcion", []):
+                        # Quitar códigos para medir longitud real
+                        import re
+                        limpio = re.sub(r'&[0-9a-fklmnor]', '', linea)
+                        if len(limpio) > MAX_LINEA:
+                            # Cortar en el espacio más cercano a la mitad
+                            mitad = len(linea) // 2
+                            corte = linea.rfind(' ', 0, mitad + 20)
+                            if corte == -1:
+                                corte = mitad
+                            nuevas_lineas.append(linea[:corte].strip())
+                            nuevas_lineas.append(linea[corte:].strip())
+                        else:
+                            nuevas_lineas.append(linea)
+                    ev["descripcion"] = nuevas_lineas[:2]  # máximo 2 líneas por evento
+
 
             # Validación: asegurar que hay exactamente 2 horas felices
             hf = data.get("horas_felices", [])

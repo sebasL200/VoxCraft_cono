@@ -104,11 +104,19 @@ public class IntegracionHorasFelices {
             return;
         }
 
-        plugin.getLogger().info("Iniciando inyección de " + horasFelicesJson.size() + " Horas Felices inyectadas por la IA...");
+        // Límite duro: VoxCraft solo inyecta máximo 2 eventos (complementa los 2 nativos del plugin)
+        final int MAX_EVENTOS_IA = 2;
+        if (horasFelicesJson.size() > MAX_EVENTOS_IA) {
+            plugin.getLogger().warning("La IA generó " + horasFelicesJson.size() + " eventos pero VoxCraft solo procesará los primeros " + MAX_EVENTOS_IA + ".");
+        }
+
+        plugin.getLogger().info("Iniciando inyección de " + Math.min(horasFelicesJson.size(), MAX_EVENTOS_IA) + " Horas Felices inyectadas por la IA...");
 
         Set<DayOfWeek> diasNuevos = new HashSet<>();
+        int inyectados = 0;
 
         for (JsonElement el : horasFelicesJson) {
+            if (inyectados >= MAX_EVENTOS_IA) break; // respetar el límite de 2
             if (!el.isJsonObject()) continue;
             try {
                 JsonObject obj = el.getAsJsonObject();
@@ -153,6 +161,7 @@ public class IntegracionHorasFelices {
 
                 api.inyectarEventoFestivo(dia, evento);
                 diasNuevos.add(dia);
+                inyectados++;
                 plugin.getLogger().info("¡Inyectado con éxito evento de Hora Feliz para el día " + dia + ": " + titulo);
 
             } catch (IllegalArgumentException e) {
