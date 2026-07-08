@@ -1,114 +1,97 @@
 {
   "anuncios": [
     {
-      "id": "noticia_tricky_trials_1_21",
+      "id": "noticia_actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡La Actualización Tricky Trials 1.21 ha llegado!&7 Descubre las nuevas Cámaras de Desafío, la temible Mazmorra del Breeze y el Bogged, y una gran variedad de bloques de Cobre y Toba para tus construcciones. ¡Prepárate para la aventura!"
+        "&a&l¡ACTUALIZACIÓN 1.21.x 'TRICKY TRIALS' LLEGÓ!",
+        "&7Explora las nuevas Trial Chambers, enfréntate a mobs desafiantes y descubre un montón de novedades."
       ]
     },
     {
-      "id": "noticia_crafter_disponible",
-      "categoria": "noticias",
+      "id": "noticia_nuevos_mobs",
+      "categoria": "mobs",
       "mensajes": [
-        "&b&l¡El Crafter te espera!&7 Automatiza tus granjas y producciones como nunca antes con el innovador bloque Crafter. ¡Configúralo con Redstone y mira cómo tus ítems se fabrican solos!"
+        "&b&lNUEVOS MOBS: BREEZE Y BOGGED",
+        "&7Prepárate para el Breeze que lanza cargas de viento y el Bogged, una variante de esqueleto que dispara flechas venenosas."
       ]
     },
     {
-      "id": "noticia_dominando_maza",
-      "categoria": "noticias",
+      "id": "noticia_nueva_maza",
+      "categoria": "armas",
       "mensajes": [
-        "&e&l¡Dominando la Maza!&7 Empuña la poderosa Maza, una nueva arma que causa más daño cuanto más alto caes antes de golpear a tus enemigos. ¡Descubre sus nuevos encantamientos exclusivos como Densidad, Brecha y Ráfaga de Viento!"
+        "&e&l¡LA MAZA ES TU NUEVA ARMA MORTAL!",
+        "&7Domina esta poderosa arma que causa más daño cuanto mayor sea tu caída antes de golpear a un objetivo."
       ]
     },
     {
-      "id": "noticia_horizontes_decorativos",
-      "categoria": "noticias",
+      "id": "noticia_crafter_automatico",
+      "categoria": "bloques",
       "mensajes": [
-        "&d&l¡Nuevos Horizontes Decorativos!&7 Renueva tus bases con las 20 nuevas pinturas y 3 discos de música de la actualización 1.21. ¡Además, explora los expandidos sets de bloques de Cobre y Toba para construcciones únicas!"
-      ]
-    },
-    {
-      "id": "noticia_eventos_ominosos",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7&l¡Prepárate para los Eventos Ominosos!&7 El efecto \"Mal Augurio\" ha sido rediseñado para dar acceso a desafíos especiales en las Cámaras de Desafío. ¡Enfrenta enemigos más fuertes y obtén recompensas únicas en las Bóvedas Ominosas!"
-      ]
-    },
-    {
-      "id": "noticia_atados_valentia",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&l¡Llegan los Atados de Valentía!&7 Con la versión 1.21.2, ahora puedes usar los prácticos Atados para organizar mejor tu inventario, llevando una mezcla de ítems en una sola ranura."
-      ]
-    },
-    {
-      "id": "noticia_jardin_palido_creaking",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&l¡Descubre el Jardín Pálido y el Creaking!&7 Adéntrate en el misterioso bioma El Jardín Pálido de la versión 1.21.4 y enfréntate al escalofriante mob Creaking, una criatura sombra que solo ataca cuando no la miras."
-      ]
-    },
-    {
-      "id": "noticia_mascotas_bebe_antorchas",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡Mascotas Bebé y Antorchas Renovadas!&7 La versión 1.21.2 trajo versiones bebé de Delfines, Calamares y Calamares Luminosos. ¡También, disfruta de un nuevo y distintivo look para las Antorchas de Redstone!"
-      ]
-    },
-    {
-      "id": "curiosidad_primer_easter_egg",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "El primer \"Easter Egg\" conocido en un videojuego fue ocultado por el programador Warren Robinett en el juego *Adventure* para Atari 2600 en 1980, como un acto de rebeldía, ya que la compañía no acreditaba a sus desarrolladores."
-      ]
-    },
-    {
-      "id": "curiosidad_origen_mario",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "El icónico personaje de Nintendo, Mario, fue originalmente llamado \"Jumpman\". Fue rebautizado como \"Mario\" en honor a Mario Segale, el propietario de las oficinas de Nintendo en Estados Unidos que reclamaba el alquiler atrasado."
+        "&d&lCRAFTER AUTOMÁTICO DISPONIBLE",
+        "&7Lleva tus granjas y sistemas de redstone al siguiente nivel con el nuevo bloque Crafter para automatizar la creación de ítems."
       ]
     },
     {
       "id": "curiosidad_minecraft_mas_vendido",
       "categoria": "curiosidades",
       "mensajes": [
-        "Se considera que *Minecraft* es el videojuego más vendido de la historia, con más de 200 millones de copias comercializadas en todo el mundo."
+        "&7&l¿SABÍAS QUE...?",
+        "&7Minecraft es el videojuego más vendido de la historia, con más de 200 millones de copias vendidas en todo el mundo."
       ]
     },
     {
-      "id": "curiosidad_mortal_kombat_esrb",
+      "id": "curiosidad_primer_easter_egg",
       "categoria": "curiosidades",
       "mensajes": [
-        "La extrema violencia en el juego *Mortal Kombat* jugó un papel fundamental en la creación de la Entertainment Software Rating Board (ESRB), la organización encargada de clasificar los videojuegos por edades y contenido."
+        "&7&lCURIOSIDAD GAMER:",
+        "&7El primer \"Easter Egg\" fue una firma oculta del programador Warren Robinett en el juego Adventure para Atari 2600 en 1980."
       ]
     },
     {
-      "id": "curiosidad_metal_gear_cinematica",
-      "categoria": "curiosidades",
+      "id": "noticia_pruebas_ominosas",
+      "categoria": "noticias",
       "mensajes": [
-        "*Metal Gear Solid 4: Guns of the Patriots* ostenta el Récord Guinness por la cinemática más larga en un videojuego, con una secuencia ininterrumpida de 71 minutos."
+        "&b&lPRUEBAS OMINOSAS TE ESPERAN",
+        "&7Activa el efecto 'Bad Omen' para desafíos más difíciles en las Trial Chambers y obtén recompensas aún más raras."
       ]
     },
     {
-      "id": "lanzamientos_julio_2024",
+      "id": "noticia_nuevos_bloques_cobre_toba",
+      "categoria": "bloques",
+      "mensajes": [
+        "&a&lNUEVOS BLOQUES DE COBRE Y TUBA",
+        "&7Decora tus creaciones con las nuevas variantes de bloques de cobre (rejillas, puertas) y toba (pulida, ladrillos, cincelada)."
+      ]
+    },
+    {
+      "id": "lanzamiento_once_human",
       "categoria": "lanzamientos",
       "mensajes": [
-        "No se han encontrado anuncios de lanzamientos importantes de videojuegos específicamente para la semana del 8 al 14 de julio de 2026 en las fuentes consultadas. Sin embargo, en el ámbito de los videojuegos, se destacaron recientes lanzamientos como *The First Descendant* (RPG de acción y disparos) y la expansión *Final Fantasy XIV: Dawntrail* (MMORPG), ambos lanzados a principios de julio de 2024, así como *Zenless Zone Zero* (ARPG gratuito) también de julio de 2024, que continúan siendo temas de conversación y disfrute en la comunidad."
+        "&e&lLANZAMIENTO (Julio de 2024): ONCE HUMAN",
+        "&7Descubre un nuevo MMORPG de supervivencia post-apocalíptico que llegó a PC."
+      ]
+    },
+    {
+      "id": "lanzamiento_naheulbeuks",
+      "categoria": "lanzamientos",
+      "mensajes": [
+        "&d&lLANZAMIENTO (Julio de 2024): NAHEULBEUK'S DUNGEON MASTER",
+        "&7Un divertido juego de gestión de mazmorras que se lanzó para PC y consolas."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "TUESDAY",
-      "titulo": "&6&l¡Fiebre del Cobre!",
+      "titulo": "&b&l¡Fiebre del Cobre!",
       "descripcion": [
-        "&eLa reciente actualización de Tricky Trials trajo consigo una abundancia de bloques de cobre, ¡haciéndolo un material de construcción y decoración fundamental! Es el momento perfecto para acumular este valioso metal."
+        "&7¡Explora las nuevas Trial Chambers y sus materiales!",
+        "&7&l¡El Copper Ingot vale más en tu tienda!"
       ],
       "tipo": "PRECIO",
       "item": "COPPER_INGOT",
-      "porcentaje_extra": 25.0,
+      "porcentaje_extra": 50.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -117,14 +100,15 @@
     },
     {
       "dia": "THURSDAY",
-      "titulo": "&b&l¡Impulso del Explorador en la Toba!",
+      "titulo": "&6&l¡Poder de la Maza Potenciada!",
       "descripcion": [
-        "&bCon las nuevas y desafiantes Cámaras de Desafío hechas de toba, ¡necesitarás velocidad y resistencia para explorarlas a fondo! Recibe un impulso para minar y un bono al adquirir toba."
+        "&7¡La Maza es tu nueva amiga en las Trial Chambers!",
+        "&7&l¡Obtén Fuerza II y un extra en lingotes de hierro!"
       ],
       "tipo": "AMBOS",
-      "item": "TUFF",
-      "porcentaje_extra": 20.0,
-      "efecto_pocion": "HASTE",
+      "item": "IRON_INGOT",
+      "porcentaje_extra": 25.0,
+      "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
