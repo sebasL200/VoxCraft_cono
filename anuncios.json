@@ -1,96 +1,153 @@
 {
   "anuncios": [
     {
-      "id": "noticia_actualizacion_1_21",
+      "id": "actualizacion_1_21_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21.x 'TRICKY TRIALS' LLEGÓ!",
-        "&7Explora las nuevas Trial Chambers, enfréntate a mobs desafiantes y descubre un montón de novedades."
+        "&a&l¡ACTUALIZACIÓN 1.21 \"TRICKY TRIALS\" YA DISPONIBLE!&r",
+        "¡Explora las nuevas Cámaras de Juicio, enfréntate a mobs",
+        "como el Breeze y el Bogged, y domina la poderosa Maza!"
       ]
     },
     {
-      "id": "noticia_nuevos_mobs",
-      "categoria": "mobs",
-      "mensajes": [
-        "&b&lNUEVOS MOBS: BREEZE Y BOGGED",
-        "&7Prepárate para el Breeze que lanza cargas de viento y el Bogged, una variante de esqueleto que dispara flechas venenosas."
-      ]
-    },
-    {
-      "id": "noticia_nueva_maza",
-      "categoria": "armas",
-      "mensajes": [
-        "&e&l¡LA MAZA ES TU NUEVA ARMA MORTAL!",
-        "&7Domina esta poderosa arma que causa más daño cuanto mayor sea tu caída antes de golpear a un objetivo."
-      ]
-    },
-    {
-      "id": "noticia_crafter_automatico",
-      "categoria": "bloques",
-      "mensajes": [
-        "&d&lCRAFTER AUTOMÁTICO DISPONIBLE",
-        "&7Lleva tus granjas y sistemas de redstone al siguiente nivel con el nuevo bloque Crafter para automatizar la creación de ítems."
-      ]
-    },
-    {
-      "id": "curiosidad_minecraft_mas_vendido",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&l¿SABÍAS QUE...?",
-        "&7Minecraft es el videojuego más vendido de la historia, con más de 200 millones de copias vendidas en todo el mundo."
-      ]
-    },
-    {
-      "id": "curiosidad_primer_easter_egg",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lCURIOSIDAD GAMER:",
-        "&7El primer \"Easter Egg\" fue una firma oculta del programador Warren Robinett en el juego Adventure para Atari 2600 en 1980."
-      ]
-    },
-    {
-      "id": "noticia_pruebas_ominosas",
+      "id": "nuevo_bloque_crafteador",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lPRUEBAS OMINOSAS TE ESPERAN",
-        "&7Activa el efecto 'Bad Omen' para desafíos más difíciles en las Trial Chambers y obtén recompensas aún más raras."
+        "&b&lNUEVO BLOQUE: EL CRAFTEADOR!&r",
+        "Automatiza tus crafteos con este increíble bloque",
+        "activado por Redstone. ¡Posibilidades infinitas!"
       ]
     },
     {
-      "id": "noticia_nuevos_bloques_cobre_toba",
-      "categoria": "bloques",
+      "id": "desafio_pruebas_ominosas",
+      "categoria": "noticias",
       "mensajes": [
-        "&a&lNUEVOS BLOQUES DE COBRE Y TUBA",
-        "&7Decora tus creaciones con las nuevas variantes de bloques de cobre (rejillas, puertas) y toba (pulida, ladrillos, cincelada)."
+        "&e&l¡DESAFÍO ÉPICO: PRUEBAS OMINOSAS!&r",
+        "¿Te atreves con las Cámaras de Juicio más difíciles?",
+        "¡Obtén el efecto Bad Omen y busca tesoros aún mayores!"
       ]
     },
     {
-      "id": "lanzamiento_once_human",
-      "categoria": "lanzamientos",
+      "id": "nueva_arma_maza_encantamientos",
+      "categoria": "noticias",
       "mensajes": [
-        "&e&lLANZAMIENTO (Julio de 2024): ONCE HUMAN",
-        "&7Descubre un nuevo MMORPG de supervivencia post-apocalíptico que llegó a PC."
+        "&d&lNUEVA ARMA: LA MAZA Y SUS ENCANTAMIENTOS!&r",
+        "Inflige más daño cuanto más alto caes. ¡Prueba sus",
+        "exclusivos encantamientos de Densidad y Brecha!"
       ]
     },
     {
-      "id": "lanzamiento_naheulbeuks",
-      "categoria": "lanzamientos",
+      "id": "mejoras_rendimiento_chunks",
+      "categoria": "noticias",
       "mensajes": [
-        "&d&lLANZAMIENTO (Julio de 2024): NAHEULBEUK'S DUNGEON MASTER",
-        "&7Un divertido juego de gestión de mazmorras que se lanzó para PC y consolas."
+        "&7&lMEJORAS DE RENDIMIENTO DE CHUNKS!&r",
+        "Optimizaciones en la carga de chunks para una experiencia",
+        "de juego más fluida y sin interrupciones."
+      ]
+    },
+    {
+      "id": "nuevos_bloques_cobre_toba",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡NUEVOS BLOQUES DE COBRE Y TOBA!&r",
+        "Dale un toque único a tus construcciones con variantes",
+        "decorativas. ¡Personaliza tu mundo como nunca!"
+      ]
+    },
+    {
+      "id": "barcos_con_correa",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡BARCOS CON CORREA!&r",
+        "¡Por fin! Ahora puedes atar tus barcos con una correa",
+        "para facilitar su transporte. ¡Navegar nunca fue tan práctico!"
+      ]
+    },
+    {
+      "id": "musica_pinturas_nuevas",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&lMÚSICA Y PINTURAS NUEVAS!&r",
+        "Descubre nuevos discos de música para tu jukebox y una",
+        "colección de 20 nuevas pinturas para decorar."
+      ]
+    },
+    {
+      "id": "curiosidad_pacman",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lPAC-MAN: EL MÁS EXITOSO!&r",
+        "&7Inspirado en una pizza, es récord Guinness mundial."
+      ]
+    },
+    {
+      "id": "curiosidad_ps2_ventas",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lPS2: REINA DE LAS CONSOLAS!&r",
+        "&7Con 160 millones de unidades, es la más vendida."
+      ]
+    },
+    {
+      "id": "curiosidad_tetris_espacio",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lTETRIS EN EL ESPACIO!&r",
+        "&7El primer juego espacial: Tetris en Game Boy (MIR 1993)."
+      ]
+    },
+    {
+      "id": "curiosidad_mario_nombre_original",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lMARIO FUE JUMPMAN!&r",
+        "&7El icónico personaje de Nintendo se llamó Jumpman al inicio."
+      ]
+    },
+    {
+      "id": "curiosidad_fortnite_mas_jugado",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lFORTNITE: EL MÁS JUGADO!&r",
+        "&7Supera a todos como el videojuego con más horas registradas."
+      ]
+    },
+    {
+      "id": "curiosidad_aerosmith_guitar_hero",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lAEROSMITH Y GUITAR HERO!&r",
+        "&7Ganaron más del juego que de todos sus álbumes vendidos."
+      ]
+    },
+    {
+      "id": "curiosidad_los_sims_origen",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lLOS SIMS: ¿SIMULADOR URBANO?&r",
+        "&7Originalmente, iba a ser de construcción de ciudades."
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_julio_8_14",
+      "categoria": "noticias",
+      "mensajes": [
+        "&6&l¡ESTRENOS GAMER: 8 AL 14 DE JULIO!&r",
+        "&7Descubre Once Human (PC), Ace Combat 7 (Switch),",
+        "&7Anger Foot (PC) y más. ¡No te los pierdas!"
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "TUESDAY",
-      "titulo": "&b&l¡Fiebre del Cobre!",
+      "dia": "MONDAY",
+      "titulo": "&6&l¡Lunes Minero: Vetas de Oro!&r",
       "descripcion": [
-        "&7¡Explora las nuevas Trial Chambers y sus materiales!",
-        "&7&l¡El Copper Ingot vale más en tu tienda!"
+        "&7La luna influye en los minerales esta semana.",
+        "&7Obtén +50% extra al vender GOLD_INGOT."
       ],
       "tipo": "PRECIO",
-      "item": "COPPER_INGOT",
+      "item": "GOLD_INGOT",
       "porcentaje_extra": 50.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
@@ -100,15 +157,15 @@
     },
     {
       "dia": "THURSDAY",
-      "titulo": "&6&l¡Poder de la Maza Potenciada!",
+      "titulo": "&a&l¡Día de Exploración Veloz!&r",
       "descripcion": [
-        "&7¡La Maza es tu nueva amiga en las Trial Chambers!",
-        "&7&l¡Obtén Fuerza II y un extra en lingotes de hierro!"
+        "&7Hoy es perfecto para explorar esos biomas lejanos.",
+        "&7Obtén Velocidad II y +25% al vender COPPER_INGOT."
       ],
       "tipo": "AMBOS",
-      "item": "IRON_INGOT",
+      "item": "COPPER_INGOT",
       "porcentaje_extra": 25.0,
-      "efecto_pocion": "STRENGTH",
+      "efecto_pocion": "SPEED",
       "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
