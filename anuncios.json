@@ -1,153 +1,65 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21_tricky_trials",
+      "id": "noticias_servidor_minecraft",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21 \"TRICKY TRIALS\" YA DISPONIBLE!&r",
-        "¡Explora las nuevas Cámaras de Juicio, enfréntate a mobs",
-        "como el Breeze y el Bogged, y domina la poderosa Maza!"
+        "&b¡La actualización 1.21 ya está aquí!&r La esperada actualización \"Tricky Trials\" ha llegado, trayendo consigo nuevas aventuras y desafíos para todos.",
+        "&eExplora las Cámaras de Juicio:&r Adéntrate en las nuevas estructuras repletas de trampas y tesoros. ¡Un verdadero reto para los más valientes!",
+        "&cNuevos mobs hostiles te esperan:&r Enfréntate al astuto \"Breeze\" y al ponzoñoso \"Bogged\" en tus exploraciones más profundas.",
+        "&dDomina la Maza:&r ¡Descubre la nueva arma que inflige más daño cuanto más alto caes! ¡Ideal para ataques sorpresa y espectaculares!",
+        "&7Crafteo automático:&r Simplifica tu vida con el nuevo bloque \"Crafter\", que te permite automatizar tus recetas con Redstone.",
+        "&a¡Personaliza tu mundo!&r Se han añadido 20 nuevas pinturas para decorar tus construcciones, así como nuevos adornos de armadura y diseños de estandartes.",
+        "&b¡Desafíos Ominosos!:&r El efecto \"Mal Augurio\" ahora activa \"Juicios Ominosos\" en las Cámaras de Juicio, ofreciendo recompensas aún más valiosas.",
+        "&eNuevos bloques decorativos:&r Embellece tus creaciones con las nuevas variantes de Cobre y Toba, incluyendo elegantes Rejas de Cobre."
       ]
     },
     {
-      "id": "nuevo_bloque_crafteador",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&lNUEVO BLOQUE: EL CRAFTEADOR!&r",
-        "Automatiza tus crafteos con este increíble bloque",
-        "activado por Redstone. ¡Posibilidades infinitas!"
-      ]
-    },
-    {
-      "id": "desafio_pruebas_ominosas",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡DESAFÍO ÉPICO: PRUEBAS OMINOSAS!&r",
-        "¿Te atreves con las Cámaras de Juicio más difíciles?",
-        "¡Obtén el efecto Bad Omen y busca tesoros aún mayores!"
-      ]
-    },
-    {
-      "id": "nueva_arma_maza_encantamientos",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&lNUEVA ARMA: LA MAZA Y SUS ENCANTAMIENTOS!&r",
-        "Inflige más daño cuanto más alto caes. ¡Prueba sus",
-        "exclusivos encantamientos de Densidad y Brecha!"
-      ]
-    },
-    {
-      "id": "mejoras_rendimiento_chunks",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7&lMEJORAS DE RENDIMIENTO DE CHUNKS!&r",
-        "Optimizaciones en la carga de chunks para una experiencia",
-        "de juego más fluida y sin interrupciones."
-      ]
-    },
-    {
-      "id": "nuevos_bloques_cobre_toba",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&l¡NUEVOS BLOQUES DE COBRE Y TOBA!&r",
-        "Dale un toque único a tus construcciones con variantes",
-        "decorativas. ¡Personaliza tu mundo como nunca!"
-      ]
-    },
-    {
-      "id": "barcos_con_correa",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&l¡BARCOS CON CORREA!&r",
-        "¡Por fin! Ahora puedes atar tus barcos con una correa",
-        "para facilitar su transporte. ¡Navegar nunca fue tan práctico!"
-      ]
-    },
-    {
-      "id": "musica_pinturas_nuevas",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&lMÚSICA Y PINTURAS NUEVAS!&r",
-        "Descubre nuevos discos de música para tu jukebox y una",
-        "colección de 20 nuevas pinturas para decorar."
-      ]
-    },
-    {
-      "id": "curiosidad_pacman",
+      "id": "curiosidades_gaming",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&lPAC-MAN: EL MÁS EXITOSO!&r",
-        "&7Inspirado en una pizza, es récord Guinness mundial."
+        "&7El primer videojuego no fue Pong, sino \"Tennis for Two\", creado en 1958 por un físico llamado William Higinbotham.",
+        "&7Antes de ser plomero, Mario era un carpintero llamado \"Jumpman\" en el juego Donkey Kong.",
+        "&7El diseño de Pac-Man fue inspirado por una pizza a la que le faltaba una rebanada.",
+        "&7El \"Konami Code\" ha aparecido en más de 100 videojuegos diferentes.",
+        "&7Jugar Tetris puede ayudar a reducir el trauma y los recuerdos dolorosos.",
+        "&7La PlayStation 2 es la consola de videojuegos más vendida de todos los tiempos, con 155 millones de unidades."
       ]
     },
     {
-      "id": "curiosidad_ps2_ventas",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&lPS2: REINA DE LAS CONSOLAS!&r",
-        "&7Con 160 millones de unidades, es la más vendida."
-      ]
-    },
-    {
-      "id": "curiosidad_tetris_espacio",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&lTETRIS EN EL ESPACIO!&r",
-        "&7El primer juego espacial: Tetris en Game Boy (MIR 1993)."
-      ]
-    },
-    {
-      "id": "curiosidad_mario_nombre_original",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&lMARIO FUE JUMPMAN!&r",
-        "&7El icónico personaje de Nintendo se llamó Jumpman al inicio."
-      ]
-    },
-    {
-      "id": "curiosidad_fortnite_mas_jugado",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&lFORTNITE: EL MÁS JUGADO!&r",
-        "&7Supera a todos como el videojuego con más horas registradas."
-      ]
-    },
-    {
-      "id": "curiosidad_aerosmith_guitar_hero",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&lAEROSMITH Y GUITAR HERO!&r",
-        "&7Ganaron más del juego que de todos sus álbumes vendidos."
-      ]
-    },
-    {
-      "id": "curiosidad_los_sims_origen",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&lLOS SIMS: ¿SIMULADOR URBANO?&r",
-        "&7Originalmente, iba a ser de construcción de ciudades."
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_julio_8_14",
+      "id": "lanzamientos_videojuegos_semana",
       "categoria": "noticias",
       "mensajes": [
-        "&6&l¡ESTRENOS GAMER: 8 AL 14 DE JULIO!&r",
-        "&7Descubre Once Human (PC), Ace Combat 7 (Switch),",
-        "&7Anger Foot (PC) y más. ¡No te los pierdas!"
+        "&eAquí tienes algunos de los títulos que llegan esta semana:",
+        "&dLifeless Moon&r (9 de Julio)",
+        "&dOnce Human&r (9 de Julio)",
+        "&dNaheulbeuk's Dungeon Master&r (9 de Julio)",
+        "&dThe Case of the Golden Idol&r (9 de Julio)",
+        "&dCricket 24&r (9 de Julio)",
+        "&dSunnySide&r (10 de Julio)",
+        "&dTrue Colours – A Date With Deception&r (10 de Julio)",
+        "&dPrincess Maker 2: Regeneration&r (10 de Julio)",
+        "&dAce Combat 7: Skies Unknown&r (Switch) (11 de Julio)",
+        "&dAnger Foot&r (PC) (11 de Julio)",
+        "&dNeon White&r (11 de Julio)",
+        "&dTchia&r (11 de Julio)",
+        "&dExit 8 VR&r (11 de Julio)",
+        "&dKAKU: Ancient Seal&r (PC) (12 de Julio)",
+        "&dThe Last Alchemist&r (12 de Julio)",
+        "&dThe Renovator: Origins&r (13 de Julio)"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Lunes Minero: Vetas de Oro!&r",
+      "titulo": "&b&l¡Fiebre del Diamante!",
       "descripcion": [
-        "&7La luna influye en los minerales esta semana.",
-        "&7Obtén +50% extra al vender GOLD_INGOT."
+        "&7¡Es lunes, y la suerte te sonríe en las minas!",
+        "&7Vende tus &bDIAMOND &7con &a+50% &7de ganancia."
       ],
       "tipo": "PRECIO",
-      "item": "GOLD_INGOT",
+      "item": "DIAMOND",
       "porcentaje_extra": 50.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
@@ -156,20 +68,20 @@
       "hora_fin": 24
     },
     {
-      "dia": "THURSDAY",
-      "titulo": "&a&l¡Día de Exploración Veloz!&r",
+      "dia": "WEDNESDAY",
+      "titulo": "&a&l¡Día del Explorador Ágil!",
       "descripcion": [
-        "&7Hoy es perfecto para explorar esos biomas lejanos.",
-        "&7Obtén Velocidad II y +25% al vender COPPER_INGOT."
+        "&7¡Atraviesa los biomas más rápido que un rayo!",
+        "&7Obtén &fVELOCIDAD II &7para explorar sin límites."
       ],
-      "tipo": "AMBOS",
-      "item": "COPPER_INGOT",
-      "porcentaje_extra": 25.0,
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
       "efecto_pocion": "SPEED",
       "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 22
     }
   ]
 }
