@@ -1,94 +1,75 @@
 {
   "anuncios": [
     {
-      "id": "nueva_mecanica_sentarse",
+      "id": "noticia_actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡NUEVA MECÁNICA!&r &eAhora puedes sentarte oficialmente en Minecraft con los nuevos cojines de la Snapshot 26.3. ¡Personaliza tus asientos con 16 colores diferentes!"
+        "&e&l¡Actualización 1.21 'Tricky Trials' Lanzada! &7Explora las nuevas Cámaras de Prueba llenas de desafíos y recompensas.",
+        "&d&l¡Conoce a los Nuevos Mobs! &7Enfrenta al veloz Breeze con sus cargas de viento y al peligroso Bogged con sus flechas venenosas.",
+        "&b&l¡La Maza, tu Nueva Arma! &7Descubre esta poderosa arma que inflige más daño cuanto más alto caes, ¡y anula el daño de caída si aciertas!",
+        "&a&l¡Automatiza con el Crafter! &7El nuevo bloque Crafter te permite fabricar objetos automáticamente, ¡revolucionando tus granjas!",
+        "&e&l¡Cargas de Viento Disponibles! &7Usa las Wind Charges para impulsarte, derribar enemigos o activar mecanismos de Redstone.",
+        "&7&l¡Nuevos Bloques Decorativos! &7Decora tus construcciones con las nuevas variantes de Cobre y Toba, incluyendo bloques cincelados.",
+        "&c&l¡Eventos Ominosos en Cámaras de Prueba! &7Para los más valientes, el efecto Bad Omen ahora activa pruebas ominosas más difíciles, con recompensas únicas.",
+        "&b&l¡Personaliza tu Equipo! &7Descubre los nuevos patrones de estandarte, fragmentos de cerámica y adornos de armadura de la actualización 1.21."
       ]
     },
     {
-      "id": "snapshot_camas_paja",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&l¡DESCUBRE!&r &eLa última Snapshot 26.3 trae nuevas camas de paja que te permiten descansar sin cambiar tu punto de aparición, ¡perfecto para exploradores!"
-      ]
-    },
-    {
-      "id": "actualizacion_tricky_trials",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&lACTUALIZACIÓN 1.21 \"TRICKY TRIALS\"&r &eYa disponible con las desafiantes Trial Chambers, los temibles mobs Breeze y Bogged, y la poderosa arma Mace."
-      ]
-    },
-    {
-      "id": "nuevos_bloques_cobre_toba",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&l¡NUEVOS BLOQUES!&r &eExplora y construye con los nuevos bloques de cobre y toba, además del innovador Crafter para automatizar tus crafteos."
-      ]
-    },
-    {
-      "id": "pelicula_minecraft_produccion",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡EN PRODUCCIÓN!&r &eLa película de acción real de Minecraft muestra imágenes desde el set, ¡preparaos para ver el mundo cúbico en la gran pantalla!"
-      ]
-    },
-    {
-      "id": "minecraft_dungeons_ii",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&l¡AVENTURA CONTINÚA!&r &ePrepárate para liderar a tus aliados y defender la Superficie en la secuela, ¡Minecraft Dungeons II!"
-      ]
-    },
-    {
-      "id": "dato_curioso_gaming_industria",
+      "id": "curiosidades_gaming",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7&lDATO CURIOSO GAMING:&r &eLa industria global de videojuegos se proyecta a alcanzar casi 236.9 mil millones de dólares para 2026. ¡Un gran momento para ser gamer!"
+        "&7El primer videojuego no fue Pong, sino \"Tennis for Two\", creado en 1958 por el físico William Higinbotham.",
+        "&7Antes de ser fontanero, Mario fue un carpintero llamado Jumpman en el juego \"Donkey Kong\".",
+        "&7El diseño icónico de Pac-Man se inspiró en una pizza a la que le faltaba una porción, una idea que se le ocurrió al creador mientras cenaba.",
+        "&7El videojuego de E.T. de Atari fue tan catastrófico que miles de copias no vendidas fueron enterradas en un vertedero en Nuevo México.",
+        "&7El famoso \"Konami Code\" (Arriba, Arriba, Abajo, Abajo, Izquierda, Derecha, Izquierda, Derecha, B, A, Start) ha aparecido en más de 100 juegos diferentes.",
+        "&7Minecraft es el videojuego más vendido de todos los tiempos, superando los 350 millones de copias vendidas hasta 2025.",
+        "&7En el Super Mario Bros. original, las nubes y los arbustos son el mismo 'sprite' pero con colores diferentes, una técnica para optimizar recursos en la NES."
       ]
     },
     {
-      "id": "dato_curioso_haaland",
-      "categoria": "curiosidades",
+      "id": "noticia_lanzamientos_videojuegos",
+      "categoria": "noticias",
       "mensajes": [
-        "&7&l¿SABÍAS QUE...?&r &eEl famoso futbolista Erling Haaland ha confesado ser un gran fan de Minecraft. ¡Juega como los grandes!"
+        "&a&l13 de Julio:&7 Ascend to Zero (Xbox, PC) y Forensics: Crime Scene Detective (PS5, Xbox, PC).",
+        "&a&l15 de Julio:&7 Denshattack! (Steam, Xbox) y The Mound: Omen of Cthulhu (Steam, PS5, Xbox Series).",
+        "&a&l16 de Julio:&7 Heave Ho 2 (Steam, Switch, PC) y Culdcept Begins (Switch, PC).",
+        "&a&l17 de Julio:&7 Fogpiercer (Steam, Xbox)."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&6&l¡Fiebre del Oro!",
+      "dia": "TUESDAY",
+      "titulo": "&6&l¡Expedición Subterránea!",
       "descripcion": [
-        "&7Los nuevos lingotes te esperan.",
-        "&7Vende GOLD_INGOT por +35% de ganancia."
+        "&7¡Cámaras de Prueba y Cobre os esperan!",
+        "&7Cobre Crudo +30% y HASTE II en todo el mapa."
       ],
-      "tipo": "PRECIO",
-      "item": "GOLD_INGOT",
-      "porcentaje_extra": 35.0,
-      "efecto_pocion": "NONE",
-      "nivel_efecto": 0,
+      "tipo": "AMBOS",
+      "item": "RAW_COPPER",
+      "porcentaje_extra": 30.0,
+      "efecto_pocion": "HASTE",
+      "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
     },
     {
-      "dia": "WEDNESDAY",
-      "titulo": "&b&l¡Día del Explorador Ágil!",
+      "dia": "SATURDAY",
+      "titulo": "&b&l¡Danza del Viento!",
       "descripcion": [
-        "&7Descubre los secretos más profundos.",
-        "&7Obtén velocidad II por 2 horas."
+        "&7Domina el aire con las nuevas Wind Charges de la 1.21.",
+        "&7¡Obtén Velocidad III para recorrer el mapa!"
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
       "efecto_pocion": "SPEED",
-      "nivel_efecto": 2,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 20
+      "nivel_efecto": 3,
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     }
   ]
 }
