@@ -1,73 +1,57 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_tricky_trials",
+      "id": "noticias_servidor",
       "categoria": "noticias",
       "mensajes": [
-        "&l&a¡La Actualización \"Tricky Trials\" de Minecraft 1.21 ha llegado! Explora nuevas cámaras, enfrenta desafíos y descubre tesoros."
+        "&a&l1. ¡Actualización de Tricky Trials ya disponible!&r Sumérgete en las Cámaras de Prueba, enfrenta nuevos desafíos y descubre tesoros ocultos en esta emocionante actualización.",
+        "&e&l2. ¡Nuevos Bloques Decorativos!&r La actualización de Tricky Trials trae bloques de Toba y Cobre para que den rienda suelta a su creatividad y construyan bases impresionantes.",
+        "&d&l3. ¡Presentamos la Maza!&r Prueba la nueva arma \"Maza\", ideal para ataques en caída que hacen más daño cuanto más alto caes. ¡Perfecta para noquear a tus enemigos!",
+        "&b&l4. ¡Descubre las Cámaras de Prueba Ominosas!&r Si buscas un reto mayor, activa las pruebas ominosas con el efecto \"Mal Agüero\" para enfrentarte a desafíos más difíciles y obtener recompensas raras.",
+        "&7&l5. ¡Cojines y Camas de Paja!&r ¡Por fin pueden sentarse en Minecraft! Prueben los nuevos cojines y las camas de paja que les permiten saltarse la noche sin cambiar su punto de aparición.",
+        "&c&l6. ¡Nuevas Pinturas para decorar!&r La actualización de Tricky Trials trae 20 nuevas pinturas para que adornes tus construcciones como nunca antes.",
+        "&e&l7. ¡El Crafter para la automatización!&r Ahora puedes automatizar la creación de ítems con el nuevo bloque \"Crafter\", ideal para tus sistemas de Redstone.",
+        "&a&l8. ¡Herramientas de Cobre llegan a la 1.21.100!&r Con la versión 1.21.100, puedes fabricar herramientas, armas y armaduras de cobre, añadiendo más utilidad a este mineral de inicio de juego.",
+        "&l7¡Manténganse atentos a más novedades y a disfrutar!&r"
       ]
     },
     {
-      "id": "camaras_de_prueba",
-      "categoria": "noticias",
+      "id": "curiosidades_gaming",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&l&bDescubre las &lCámaras de Prueba&b, enormes estructuras de cobre y toba llenas de desafíos, mobs hostiles y recompensas para cada jugador."
+        "&l&bMinecraft es el videojuego más vendido de todos los tiempos&r, superando los 300 millones de copias vendidas hasta 2023-2025.",
+        "El primer &l&b\"Easter Egg\"&r en un videojuego fue escondido por el desarrollador Warren Robinett en el juego de Atari &l&bAdventure&r, ya que la compañía no daba crédito a sus creadores.",
+        "Más de &l&b3.32 mil millones de personas&r juegan videojuegos en todo el mundo a partir de 2023-2024.",
+        "El icónico personaje de &l&bPac-Man fue inspirado por una pizza a la que le faltaba una porción&r.",
+        "El primer videojuego jugado en el espacio fue &l&bTetris&r, llevado a la estación espacial Mir en 1993 por el cosmonauta Aleksandr Serebrov.",
+        "Las nubes y los arbustos en &l&bSuper Mario Bros. utilizan el mismo sprite&r, solo que con colores diferentes, una técnica para ahorrar recursos debido a las limitaciones tecnológicas del NES."
       ]
     },
     {
-      "id": "nuevos_mobs",
+      "id": "lanzamientos_gaming",
       "categoria": "noticias",
       "mensajes": [
-        "&l&eEnfréntate a nuevos mobs: el &cBreeze&e, que lanza ráfagas de aire, y el &cBogged&e, un esqueleto que dispara flechas venenosas."
-      ]
-    },
-    {
-      "id": "nueva_arma_mazo",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&dEmpuña el &lMazo&d, una nueva arma con un ataque aplastante que inflige más daño cuanto mayor sea tu caída. ¡Ideal para combates épicos!"
-      ]
-    },
-    {
-      "id": "bloque_crafter",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&7Automatiza tus procesos con el &lCrafter&7, un nuevo bloque que usa Redstone para crear objetos automáticamente."
-      ]
-    },
-    {
-      "id": "juicios_ominosos",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&aPrepárate para los &lJuicios Ominosos&a: desafíos más difíciles en las Cámaras de Prueba, que otorgan llaves y botín aún más valioso si activas el efecto Mal Agüero."
-      ]
-    },
-    {
-      "id": "nuevas_pinturas_bloques",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&bPersonaliza tus construcciones con &l20 nuevas pinturas&b, así como una variedad de nuevos bloques decorativos de Cobre y Toba."
-      ]
-    },
-    {
-      "id": "nautilus_bedrock",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&ePara los jugadores de Bedrock (versión 1.21.130): ¡Descubre el &lNautilus&e y el &lNautilus Zombi&e, nuevas criaturas acuáticas neutrales, domables y montables!"
+        "&b&lThe Crimson Maid&r: Un título de horror psicológico que prefiere el miedo creciente a los sustos baratos.",
+        "&b&lD-topia&r: Una aventura que mezcla elementos de puzle con un ritmo pacífico y rítmico.",
+        "&b&l70s-style Robot Anime Geppy-X&r: Celebra todo lo exagerado del anime clásico de super robots.",
+        "&b&lAero The Acro-Bat Legacy + Sunsoft Lost Gems&r: Resucita a uno de los personajes de plataformas más excéntricos de la era de 16 bits.",
+        "&b&lThe Mound: Omen of Cthulhu&r: Un juego de acción-aventura cooperativo para hasta cuatro jugadores.",
+        "&b&lDenshattack!&r: Un arcade y plataformas 3D donde tu avatar realiza acrobacias a bordo de un tren en un Japón distópico y colorido.",
+        "&b&lQuarantine Zone: The Last Check&r: Una simulación de gestión de un centro de comando en una ciudad en ruinas, llegando a Xbox."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&e&l¡Día del Minero Eficiente!",
+      "titulo": "&6&l¡Día del Forjador!",
       "descripcion": [
-        "&7¡Un buen inicio de semana para todos!",
-        "&7¡Vende tus diamantes con 50% extra!"
+        "&7¡Forja tu camino hacia la gloria!",
+        "&7+25% en venta de lingotes de cobre."
       ],
       "tipo": "PRECIO",
-      "item": "DIAMOND",
-      "porcentaje_extra": 50.0,
+      "item": "COPPER_INGOT",
+      "porcentaje_extra": 25.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -76,19 +60,19 @@
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&a&l¡Festín del Pescador Ágil!",
+      "titulo": "&a&l¡Festín de Bacalao!",
       "descripcion": [
-        "&7¡La frescura del mar nos acompaña hoy!",
-        "&7¡Obtén Velocidad II pescando todo el día!"
+        "&7¡Es hora de ir a pescar un poco!",
+        "&7Obtén LUCK II por 3 horas."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "SPEED",
+      "efecto_pocion": "LUCK",
       "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 21
     }
   ]
 }
