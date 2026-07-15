@@ -1,56 +1,60 @@
 {
   "anuncios": [
     {
-      "id": "noticias_servidor",
+      "id": "noticias_minecraft_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l1. ¡Actualización de Tricky Trials ya disponible!&r Sumérgete en las Cámaras de Prueba, enfrenta nuevos desafíos y descubre tesoros ocultos en esta emocionante actualización.",
-        "&e&l2. ¡Nuevos Bloques Decorativos!&r La actualización de Tricky Trials trae bloques de Toba y Cobre para que den rienda suelta a su creatividad y construyan bases impresionantes.",
-        "&d&l3. ¡Presentamos la Maza!&r Prueba la nueva arma \"Maza\", ideal para ataques en caída que hacen más daño cuanto más alto caes. ¡Perfecta para noquear a tus enemigos!",
-        "&b&l4. ¡Descubre las Cámaras de Prueba Ominosas!&r Si buscas un reto mayor, activa las pruebas ominosas con el efecto \"Mal Agüero\" para enfrentarte a desafíos más difíciles y obtener recompensas raras.",
-        "&7&l5. ¡Cojines y Camas de Paja!&r ¡Por fin pueden sentarse en Minecraft! Prueben los nuevos cojines y las camas de paja que les permiten saltarse la noche sin cambiar su punto de aparición.",
-        "&c&l6. ¡Nuevas Pinturas para decorar!&r La actualización de Tricky Trials trae 20 nuevas pinturas para que adornes tus construcciones como nunca antes.",
-        "&e&l7. ¡El Crafter para la automatización!&r Ahora puedes automatizar la creación de ítems con el nuevo bloque \"Crafter\", ideal para tus sistemas de Redstone.",
-        "&a&l8. ¡Herramientas de Cobre llegan a la 1.21.100!&r Con la versión 1.21.100, puedes fabricar herramientas, armas y armaduras de cobre, añadiendo más utilidad a este mineral de inicio de juego.",
-        "&l7¡Manténganse atentos a más novedades y a disfrutar!&r"
+        "&l&aNoticias Recientes de Minecraft (Versión 1.21.x: Tricky Trials)&r",
+        "¡La &eactualización 1.21 &d\"Tricky Trials\"&e ya está aquí, o fue lanzada recientemente, &btrayendo un montón de contenido emocionante para explorar!&r",
+        "Aquí tenéis un resumen de las novedades más destacadas para vuestro servidor:",
+        "1. &l&b¡Descubre las Cámaras de Prueba!&r Estas nuevas estructuras subterráneas están llenas de desafíos, enemigos y tesoros por descubrir. Prepárate para el combate.",
+        "2. &l&cEnfréntate a nuevos mobs hostiles:&r El &eBreeze&e lanza ráfagas de viento y el &eBogged&e es un esqueleto venenoso que te espera en pantanos y cámaras. ¡Cuidado!",
+        "3. &l&aDomina la nueva arma: ¡La Maza!&r Inflige más daño cuanto mayor sea la caída antes de golpear. ¡Perfecta para ataques sorpresa desde las alturas!",
+        "4. &l&ePruebas Ominosas: ¿Te atreves?&r Si activas el efecto &d\"Bad Omen\"&d cerca de un generador de pruebas, ¡prepárate para un desafío mucho mayor y recompensas exclusivas!",
+        "5. &l&bNuevos bloques decorativos y objetos:&r Decora tu base con bloques de cobre y toba, nuevas pinturas, fragmentos de cerámica, patrones de estandarte y embellecimientos de armadura.",
+        "6. &l&aEncuentra las &dTareas de Prueba y las Llaves Ominosas&a para desbloquear bóvedas llenas de valioso botín. ¡Cada jugador obtiene su propia recompensa!&r",
+        "7. &l&eNuevas pociones y flechas con efectos únicos&r como Infestación (aparecen silverfish), Oozing (aparecen slimes), Weaving (aparecen cobwebs) y Wind Charging (ráfaga de viento al morir).",
+        "8. &l&7¡No olvides los nuevos discos de música!&r Encuentra &e\"Creator\"&e y &e\"Precipice\"&e en las cámaras de prueba y añade nuevas melodías a tus aventuras.",
+        "9. &l&b¡Mejoras de rendimiento!&r La actualización también trae mejoras en la carga de chunks, optimizando tu experiencia de juego."
       ]
     },
     {
-      "id": "curiosidades_gaming",
+      "id": "datos_curiosos_gaming",
       "categoria": "curiosidades",
       "mensajes": [
-        "&l&bMinecraft es el videojuego más vendido de todos los tiempos&r, superando los 300 millones de copias vendidas hasta 2023-2025.",
-        "El primer &l&b\"Easter Egg\"&r en un videojuego fue escondido por el desarrollador Warren Robinett en el juego de Atari &l&bAdventure&r, ya que la compañía no daba crédito a sus creadores.",
-        "Más de &l&b3.32 mil millones de personas&r juegan videojuegos en todo el mundo a partir de 2023-2024.",
-        "El icónico personaje de &l&bPac-Man fue inspirado por una pizza a la que le faltaba una porción&r.",
-        "El primer videojuego jugado en el espacio fue &l&bTetris&r, llevado a la estación espacial Mir en 1993 por el cosmonauta Aleksandr Serebrov.",
-        "Las nubes y los arbustos en &l&bSuper Mario Bros. utilizan el mismo sprite&r, solo que con colores diferentes, una técnica para ahorrar recursos debido a las limitaciones tecnológicas del NES."
+        "&l&dDatos Curiosos del Mundo del Gaming&r",
+        "&eMinecraft es el videojuego más vendido de todos los tiempos&e, con más de 300 millones de copias vendidas hasta 2024, superando a títulos como Grand Theft Auto V y Tetris.",
+        "&aEl primer videojuego no fue Pong.&a En realidad, fue &b\"Tennis for Two\"&b, creado en 1958 por el físico William Higinbotham.",
+        "&dLa edad promedio de un jugador de videojuegos hoy en día es de &l36 años&r. Esto demuestra que el gaming no es solo para jóvenes. De hecho, en Estados Unidos, el 28% de los jugadores tiene entre 18 y 34 años, y otro 28% tiene 50 años o más.",
+        "&aLa comunidad global de gamers tiene una división de género casi igual&a, con un 51% de hombres y un 48% de mujeres. En Estados Unidos, el 47% de los jugadores son mujeres.",
+        "&bLos juegos móviles son la plataforma de juego más popular&b, representando el 49% de todos los ingresos por videojuegos en 2025 y atrayendo a casi 3 mil millones de jugadores en 2025. El 64% de los jugadores prefiere jugar en sus teléfonos.",
+        "&eMás de un tercio de la población mundial son jugadores activos.&e En 2025, se contaron 3.578 mil millones de jugadores, lo que equivale a aproximadamente el 61.5% de la población mundial."
       ]
     },
     {
-      "id": "lanzamientos_gaming",
+      "id": "lanzamientos_videojuegos_julio_2026",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lThe Crimson Maid&r: Un título de horror psicológico que prefiere el miedo creciente a los sustos baratos.",
-        "&b&lD-topia&r: Una aventura que mezcla elementos de puzle con un ritmo pacífico y rítmico.",
-        "&b&l70s-style Robot Anime Geppy-X&r: Celebra todo lo exagerado del anime clásico de super robots.",
-        "&b&lAero The Acro-Bat Legacy + Sunsoft Lost Gems&r: Resucita a uno de los personajes de plataformas más excéntricos de la era de 16 bits.",
-        "&b&lThe Mound: Omen of Cthulhu&r: Un juego de acción-aventura cooperativo para hasta cuatro jugadores.",
-        "&b&lDenshattack!&r: Un arcade y plataformas 3D donde tu avatar realiza acrobacias a bordo de un tren en un Japón distópico y colorido.",
-        "&b&lQuarantine Zone: The Last Check&r: Una simulación de gestión de un centro de comando en una ciudad en ruinas, llegando a Xbox."
+        "&l&eLanzamientos de Videojuegos de Esta Semana (15 - 21 de Julio de 2026)&r",
+        "Aquí están algunos de los títulos que llegan esta semana a diversas plataformas:",
+        "&l&bThe Mound: Omen of Cthulhu &r(PS5, Xbox Series X|S, PC) – &a15 de julio&a. Este es un juego de terror de supervivencia cooperativo en primera persona que distorsionará tu percepción de la realidad.",
+        "&l&bDenshattack! &r(PS5, Xbox Series X|S, PC) – &a15 de julio&a. Un simulador de trenes que promete ser \"fuera de los rieles\" en un Japón distópico.",
+        "&l&beBaseball Pro Spirit &r(PS5, PC) – &a15 de julio&a. Un simulador de deportes de béisbol con un enfoque realista.",
+        "&l&bHeaveho 2 &r(Switch, PC) – &a16 de julio&a. La secuela del popular juego de fiesta basado en físicas, ahora con cooperativo online y nuevos gadgets.",
+        "&l&bCold Sept Begins &r(Switch, PC) – &a16 de julio&a. La primera nueva entrega de la serie RPG de batallas de cartas &eCuldcept&e en una década."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Día del Forjador!",
+      "titulo": "&6&l¡Fiebre del Oro Minero!",
       "descripcion": [
-        "&7¡Forja tu camino hacia la gloria!",
-        "&7+25% en venta de lingotes de cobre."
+        "&7¡Comienza la semana con la fortuna de los enanos!",
+        "&e25% extra al vender lingotes de oro."
       ],
       "tipo": "PRECIO",
-      "item": "COPPER_INGOT",
+      "item": "GOLD_INGOT",
       "porcentaje_extra": 25.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
@@ -59,20 +63,20 @@
       "hora_fin": 24
     },
     {
-      "dia": "WEDNESDAY",
-      "titulo": "&a&l¡Festín de Bacalao!",
+      "dia": "TUESDAY",
+      "titulo": "&b&l¡Día del Corredor Veloz!",
       "descripcion": [
-        "&7¡Es hora de ir a pescar un poco!",
-        "&7Obtén LUCK II por 3 horas."
+        "&7¡Corre por el mundo como nunca antes lo hiciste!",
+        "&bObtén Velocidad II durante el evento."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "LUCK",
+      "efecto_pocion": "SPEED",
       "nivel_efecto": 2,
       "todo_el_dia": false,
       "hora_inicio": 18,
-      "hora_fin": 21
+      "hora_fin": 20
     }
   ]
 }
