@@ -1,61 +1,58 @@
 {
   "anuncios": [
     {
-      "id": "noticias_minecraft_1_21",
+      "id": "novedades_servidor_minecraft",
       "categoria": "noticias",
       "mensajes": [
-        "&l&aNoticias Recientes de Minecraft (Versión 1.21.x: Tricky Trials)&r",
-        "¡La &eactualización 1.21 &d\"Tricky Trials\"&e ya está aquí, o fue lanzada recientemente, &btrayendo un montón de contenido emocionante para explorar!&r",
-        "Aquí tenéis un resumen de las novedades más destacadas para vuestro servidor:",
-        "1. &l&b¡Descubre las Cámaras de Prueba!&r Estas nuevas estructuras subterráneas están llenas de desafíos, enemigos y tesoros por descubrir. Prepárate para el combate.",
-        "2. &l&cEnfréntate a nuevos mobs hostiles:&r El &eBreeze&e lanza ráfagas de viento y el &eBogged&e es un esqueleto venenoso que te espera en pantanos y cámaras. ¡Cuidado!",
-        "3. &l&aDomina la nueva arma: ¡La Maza!&r Inflige más daño cuanto mayor sea la caída antes de golpear. ¡Perfecta para ataques sorpresa desde las alturas!",
-        "4. &l&ePruebas Ominosas: ¿Te atreves?&r Si activas el efecto &d\"Bad Omen\"&d cerca de un generador de pruebas, ¡prepárate para un desafío mucho mayor y recompensas exclusivas!",
-        "5. &l&bNuevos bloques decorativos y objetos:&r Decora tu base con bloques de cobre y toba, nuevas pinturas, fragmentos de cerámica, patrones de estandarte y embellecimientos de armadura.",
-        "6. &l&aEncuentra las &dTareas de Prueba y las Llaves Ominosas&a para desbloquear bóvedas llenas de valioso botín. ¡Cada jugador obtiene su propia recompensa!&r",
-        "7. &l&eNuevas pociones y flechas con efectos únicos&r como Infestación (aparecen silverfish), Oozing (aparecen slimes), Weaving (aparecen cobwebs) y Wind Charging (ráfaga de viento al morir).",
-        "8. &l&7¡No olvides los nuevos discos de música!&r Encuentra &e\"Creator\"&e y &e\"Precipice\"&e en las cámaras de prueba y añade nuevas melodías a tus aventuras.",
-        "9. &l&b¡Mejoras de rendimiento!&r La actualización también trae mejoras en la carga de chunks, optimizando tu experiencia de juego."
+        "&e¡Prepárense para los &l&cDesafíos Ominosos&r&e! La actualización 1.21 trae las &l&cTrial Chambers&r&e más difíciles con &l&cTrial Spawners Ominosos&r&e y &l&cVaults Ominosas&r&e, repletas de botín raro para los valientes.",
+        "&a¡Domina el nuevo &l&eMazo&r&a! Esta poderosa arma de la 1.21 ya está disponible con encantamientos exclusivos como &l&eBreach, Density y Wind Burst&r&a. ¡Prepárense para combos impresionantes!",
+        "&b¡Automatización al siguiente nivel!&r &bEl bloque &l&eCrafter&r&b ha llegado, permitiéndote crear ítems y bloques automáticamente con Redstone. ¡Tu granja de ítems nunca ha sido tan eficiente!",
+        "&d¡Explora un mundo con nuevas criaturas!&r &dDescubre los desafiantes &l&5Breeze&r&d y &l&5Bogged&r&d en las Trial Chambers. Además, en desiertos, ten cuidado con los nuevos esqueletos &l&5Parched&r&d, &l&5Camel Husks&r&d y los neutrales &l&5Zombie Nautilus&r&d en el agua.",
+        "&7¡Se vislumbra una nueva dimensión!&r &7La próxima gran actualización, \"Chaos Cubed\", nos traerá las &l&6Sulfur Caves&r&7 con sus venenosos charcos y el nuevo mob &l&6Sulfur Cube&r&7, capaz de absorber bloques y cambiar sus atributos.",
+        "&a¡Adorable invasión en camino!&r &aLa actualización \"Tiny Takeover\" hará que todos los &l&ebebés mobs&r&a sean aún más adorables con diseños únicos. ¡También podrás craftear &l&eplacas de identificación&r&a fácilmente!",
+        "&b¡Prepárense para la belleza otoñal!&r &bLa siguiente actualización después de \"Chaos Cubed\" se centrará en la exploración y aventura, introduciendo el hermoso bioma &l&eDappled Forest&r&b con sus árboles Poplar y un &l&eCampamento Abandonado&r&b.",
+        "&d¡Conectividad mejorada en Bedrock!&r &dLa nueva función de &l&lParties&r&d en Bedrock Edition facilita jugar con amigos en diferentes mundos y reinos sin necesidad de invitaciones constantes."
       ]
     },
     {
-      "id": "datos_curiosos_gaming",
+      "id": "curiosidades_gaming",
       "categoria": "curiosidades",
       "mensajes": [
-        "&l&dDatos Curiosos del Mundo del Gaming&r",
-        "&eMinecraft es el videojuego más vendido de todos los tiempos&e, con más de 300 millones de copias vendidas hasta 2024, superando a títulos como Grand Theft Auto V y Tetris.",
-        "&aEl primer videojuego no fue Pong.&a En realidad, fue &b\"Tennis for Two\"&b, creado en 1958 por el físico William Higinbotham.",
-        "&dLa edad promedio de un jugador de videojuegos hoy en día es de &l36 años&r. Esto demuestra que el gaming no es solo para jóvenes. De hecho, en Estados Unidos, el 28% de los jugadores tiene entre 18 y 34 años, y otro 28% tiene 50 años o más.",
-        "&aLa comunidad global de gamers tiene una división de género casi igual&a, con un 51% de hombres y un 48% de mujeres. En Estados Unidos, el 47% de los jugadores son mujeres.",
-        "&bLos juegos móviles son la plataforma de juego más popular&b, representando el 49% de todos los ingresos por videojuegos en 2025 y atrayendo a casi 3 mil millones de jugadores en 2025. El 64% de los jugadores prefiere jugar en sus teléfonos.",
-        "&eMás de un tercio de la población mundial son jugadores activos.&e En 2025, se contaron 3.578 mil millones de jugadores, lo que equivale a aproximadamente el 61.5% de la población mundial."
+        "&e¡Récords de Maratones Gaming!&r &eEl récord mundial de maratón de videojuegos en *Mario Kart* (serie) es de 40 horas, logrado por Ben Fick, Anthony Lehnertz y Hunter Nierman en 2018. Para juegos de *Just Dance*, el récord es de 138 horas y 34 segundos, establecido por Carrie Swidecki en 2015.",
+        "&a¿El nivel más difícil de Mario Maker?&r &a\"Pit of Panga: U-Break\" de \"PangaeaPanga\" es considerado el nivel más difícil creado en *Super Mario Maker*, completado solo 367 veces de casi 5 millones de intentos, ¡con una tasa de éxito del 0.007636%!",
+        "&bLos Gamers en América:&r &bDos tercios de los estadounidenses juegan videojuegos cada semana, lo que suma 212.3 millones de personas. La edad promedio de los jugadores ha subido a 37 años.",
+        "&d¡Aniversarios Gaming en 2026!&r &dEste año se celebran grandes hitos: *Sonic the Hedgehog* cumple 35 años; *Pokémon*, *Tomb Raider* y *Resident Evil* cumplen 30. *Animal Crossing* llega a los 25 años, mientras que *The Legend of Zelda*, *Castlevania* y *Metroid* celebran cuatro décadas de aventuras. En hardware, la Nintendo 64 cumple 30 años, la GameCube 25 y la Wii 20."
       ]
     },
     {
-      "id": "lanzamientos_videojuegos_julio_2026",
+      "id": "lanzamientos_videojuegos_semana",
       "categoria": "noticias",
       "mensajes": [
-        "&l&eLanzamientos de Videojuegos de Esta Semana (15 - 21 de Julio de 2026)&r",
-        "Aquí están algunos de los títulos que llegan esta semana a diversas plataformas:",
-        "&l&bThe Mound: Omen of Cthulhu &r(PS5, Xbox Series X|S, PC) – &a15 de julio&a. Este es un juego de terror de supervivencia cooperativo en primera persona que distorsionará tu percepción de la realidad.",
-        "&l&bDenshattack! &r(PS5, Xbox Series X|S, PC) – &a15 de julio&a. Un simulador de trenes que promete ser \"fuera de los rieles\" en un Japón distópico.",
-        "&l&beBaseball Pro Spirit &r(PS5, PC) – &a15 de julio&a. Un simulador de deportes de béisbol con un enfoque realista.",
-        "&l&bHeaveho 2 &r(Switch, PC) – &a16 de julio&a. La secuela del popular juego de fiesta basado en físicas, ahora con cooperativo online y nuevos gadgets.",
-        "&l&bCold Sept Begins &r(Switch, PC) – &a16 de julio&a. La primera nueva entrega de la serie RPG de batallas de cartas &eCuldcept&e en una década."
+        "Aquí tienes algunos de los títulos más destacados que se lanzan esta semana:",
+        "**D-topia** (14 de julio): Una aventura que mezcla puzles con un ritmo pacífico y rítmico, disponible en PS5, Xbox Series X|S, Switch 2, Switch y PC.",
+        "**The Crimson Maid** (14 de julio): Un título de horror psicológico para PC.",
+        "**Cat Chess** (15 de julio): Ajedrez clásico con un giro lúdico, reemplazando las piezas tradicionales con gatos animados, disponible en Steam.",
+        "**The Mound: Omen of Cthulhu** (15 de julio): Una aventura de acción cooperativa para hasta cuatro jugadores, disponible en PS5, Xbox Series X|S y PC.",
+        "**Denshattack!** (15 de julio): Un arcade y plataformas 3D donde tu avatar realiza trucos y acrobacias a bordo de un tren, disponible en PS5, Xbox Series X|S, Switch 2 y PC.",
+        "**Cozy Grove Camp Spirit** (15 de julio): Una simulación de vida relajante que continúa la fórmula del *Cozy Grove* original con nuevas actividades.",
+        "**Quarantine Zone: The Last Check** (15 de julio): Esta simulación de gestión de una ciudad en ruinas llega a Xbox Series X|S y Game Pass.",
+        "**K-pop Idol Stories: Road to Debut** (16 de julio): Un juego que te pone a cargo de la gestión de una carrera de ídol del K-pop, equilibrando entrenamiento, actuaciones y decisiones.",
+        "**70s-style Robot Anime Geppy-X** (16 de julio): Un juego de acción arcade con narrativa animada, inspirado en los héroes de televisión de los años 70.",
+        "**Aero The Acro-Bat Legacy + Sunsoft Lost Gems** (17 de julio): Una colección que revive a un excéntrico personaje de plataformas de la era de los 16 bits junto con títulos menos conocidos de Sunsoft."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Fiebre del Oro Minero!",
+      "titulo": "&6&l¡Oferta del Minero!",
       "descripcion": [
-        "&7¡Comienza la semana con la fortuna de los enanos!",
-        "&e25% extra al vender lingotes de oro."
+        "&7¡Es lunes, hora de cavar hondo!",
+        "&730% extra en ventas de Diamante."
       ],
       "tipo": "PRECIO",
-      "item": "GOLD_INGOT",
-      "porcentaje_extra": 25.0,
+      "item": "DIAMOND",
+      "porcentaje_extra": 30.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -63,11 +60,11 @@
       "hora_fin": 24
     },
     {
-      "dia": "TUESDAY",
-      "titulo": "&b&l¡Día del Corredor Veloz!",
+      "dia": "WEDNESDAY",
+      "titulo": "&a&l¡Velocidad Extrema!",
       "descripcion": [
-        "&7¡Corre por el mundo como nunca antes lo hiciste!",
-        "&bObtén Velocidad II durante el evento."
+        "&7¡Impulsa tu aventura a la velocidad de la luz!",
+        "&7Obtén Velocidad II durante 3 horas."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
@@ -76,7 +73,7 @@
       "nivel_efecto": 2,
       "todo_el_dia": false,
       "hora_inicio": 18,
-      "hora_fin": 20
+      "hora_fin": 21
     }
   ]
 }
