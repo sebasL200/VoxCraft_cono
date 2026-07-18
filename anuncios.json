@@ -1,178 +1,47 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21_2_lanzada",
+      "id": "noticia_novedades_minecraft",
       "categoria": "noticias",
       "mensajes": [
-        "&l&b¡ACTUALIZACIÓN 1.21.2 LANZADA!&r La versión &e\"Bundles of Bravery\"&r ya está disponible, trayendo mejoras de rendimiento y nuevas características. ¡Asegúrate de actualizar tu cliente para disfrutar de todo!"
+        "&a¡Preparaos para las nuevas adiciones que refrescan vuestro mundo!",
+        "&e¡Nuevo Snapshot 26.3.3 Disponible! Este snapshot trae interesantes adiciones y mejoras para la experiencia de juego.",
+        "&b¡Añadidos los Cojines y las Camas de Paja! Ahora puedes sentarte cómodamente y saltar la noche sin cambiar tu punto de aparición.",
+        "&d¡Explora el Bosque Moteado! Descubre este nuevo bioma con árboles Poplar, setas de estante y arbustos rojos.",
+        "&7Optimizaciones y Mejoras Técnicas: Se han implementado mejoras en la renderización y tweaks en el comportamiento de los mobs.",
+        "&aHotfix 26.33 para Bedrock Edition: Un hotfix reciente ha sido desplegado para solucionar problemas y mejorar la estabilidad.",
+        "&e¡Cámaras de Prueba y Mobs Desafiantes! Explora estructuras subterráneas llenas de trampas, tesoros, Breeze y Bogged.",
+        "&b¡El Crafter Automático está aquí! Aprovecha este bloque para automatizar la creación de ítems, revolucionando vuestras granjas.",
+        "&dArmas y Encantamientos para la Maza: La Maza llegó con el update 1.21, trayendo encantamientos exclusivos como Densidad y Brecha.",
+        "&aNuevos Discos de Música y Pinturas: Descubre 3 nuevos discos de música y 20 nuevas pinturas para personalizar tus ambientes.",
+        "&7Cambios en el \"Mal Augurio\": El efecto ha sido rediseñado para dar acceso a \"Eventos Ominosos\", añadiendo estrategia."
       ]
     },
     {
-      "id": "nueva_funcion_bolsas",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&a¡Nueva función de Bolsas!&r Ahora puedes organizar tu inventario de forma más eficiente con las nuevas bolsas, capaces de guardar múltiples tipos de ítems en un solo slot. &7(Crafteables con cuero e hilo)&r"
-      ]
-    },
-    {
-      "id": "modo_hardcore_realms",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&dModo Hardcore en Realms:&r ¡Los aventureros más valientes pueden ahora habilitar el modo Hardcore en sus Realms! ¿Te atreves con el desafío definitivo de una sola vida?"
-      ]
-    },
-    {
-      "id": "camaras_prueba_mejoradas",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&b¡Cámaras de Prueba Mejoradas!&r Explora nuevas variaciones y desafíos en las Trial Chambers. ¡Prepárate para encuentros aún más emocionantes y recompensas únicas!"
-      ]
-    },
-    {
-      "id": "perlas_ender_interdimensionales",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&ePerlas de Ender Interdimensionales:&r ¡Las Perlas de Ender ahora pueden cargarse y funcionar entre dimensiones, permitiendo nuevas formas de exploración y transporte rápido entre reinos!"
-      ]
-    },
-    {
-      "id": "nuevas_variantes_mobs_mascotas",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&c¡Nuevas Variantes de Mobs y Mascotas!&r Descubre crías de delfines, calamares y calamares luminosos. ¡Además, los lobos ahora pueden ser alimentados con varios tipos de pescado y estofado de conejo!"
-      ]
-    },
-    {
-      "id": "actualizacion_estructuras",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&7Actualización de Estructuras:&r Se han realizado ajustes en las estructuras generadas aleatoriamente, como aldeas y minas abandonadas, para ofrecer exploraciones más únicas y diversas."
-      ]
-    },
-    {
-      "id": "nueva_apariencia_antorchas_redstone",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&aNueva Apariencia para Antorchas de Redstone:&r Las antorchas de redstone han recibido un nuevo diseño para darles una identidad única y distintiva."
-      ]
-    },
-    {
-      "id": "primer_easter_egg_videojuego",
+      "id": "curiosidades_gaming",
       "categoria": "curiosidades",
       "mensajes": [
-        "&l&eEl Primer \"Easter Egg\":&r El primer \"huevo de pascua\" en un videojuego fue escondido por el programador Warren Robinett en el juego *Adventure* para Atari 2600 en 1980. Lo hizo para dejar su marca, ya que Atari no acreditaba a sus desarrolladores."
-      ]
-    },
-    {
-      "id": "origen_mario_jumpman",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&l&eEl Verdadero Origen de Mario:&r Antes de ser el fontanero que todos conocemos, Mario era un carpintero llamado Jumpman en el juego *Donkey Kong*. Su nombre, Mario, proviene de Mario Segale, el entonces propietario de las oficinas de Nintendo of America."
-      ]
-    },
-    {
-      "id": "juego_mas_vendido_minecraft",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&l&eEl Juego Más Vendido:&r *Minecraft* es el videojuego más vendido de la historia, superando a *Tetris* con más de 180 millones de unidades vendidas."
-      ]
-    },
-    {
-      "id": "game_boy_en_el_espacio",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&l&eGame Boy en el Espacio:&r La primera consola de videojuegos en ser jugada en el espacio fue una Game Boy en 1993. El astronauta ruso Aleksandr A. Serebrov la usó para jugar *Tetris* a bordo de la estación espacial Mir."
-      ]
-    },
-    {
-      "id": "juego_mas_largo_monster_hunter",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&l&eEl Juego Más Largo:&r Se estima que *Monster Hunter 3 Ultimate* es el juego que más tiempo toma en completarse en promedio, con unas impresionantes 693 horas."
-      ]
-    },
-    {
-      "id": "misterio_polybius_arcade",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&l&eEl Misterio de Polybius:&r Existe una leyenda urbana sobre un misterioso juego de arcade llamado *Polybius*, del cual no se conserva ninguna copia y se decía que causaba efectos psicológicos en sus jugadores."
-      ]
-    },
-    {
-      "id": "nacimiento_pac_man_pizza",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&l&eNacimiento de Pac-Man:&r La idea para Pac-Man se le ocurrió a su creador, Tohru Iwatani, una noche mientras cenaba pizza y observaba la forma que quedaba al tomar la primera rebanada."
-      ]
-    },
-    {
-      "id": "nintendo_fundacion_hanafuda",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&l&eNintendo: Más Antiguo de lo que Crees:&r Nintendo se fundó en 1889 y, en sus inicios, se dedicaba a fabricar y distribuir cartas de juego tradicionales japonesas llamadas Hanafuda."
-      ]
-    },
-    {
-      "id": "the_witcher_3_premios",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&l&eThe Witcher 3: Un Titán de Premios:&r *The Witcher 3: Wild Hunt* ha ganado más de 800 premios, incluyendo más de 250 galardones a Juego del Año."
-      ]
-    },
-    {
-      "id": "pantallas_carga_disfrazadas",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&l&ePantallas de Carga Disfrazadas:&r Es común en muchos videojuegos que los pasillos estrechos o las puertas que se abren lentamente sean, en realidad, pantallas de carga ingeniosamente disimuladas para que el juego pueda cargar la siguiente sección del mundo."
-      ]
-    },
-    {
-      "id": "lanzamiento_the_mound_cthulhu",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&l&bThe Mound: Omen of Cthulhu&r (PC, PS5, Xbox Series X) - Lanzamiento el 15 de julio. Este juego de acción, aventura y terror psicológico te sumerge en una atmósfera opresiva inspirada en H.P. Lovecraft, con un profundo sistema de locura que juega con tu percepción."
-      ]
-    },
-    {
-      "id": "lanzamiento_denshattack",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&l&bDenshattack!&r (PC, Switch 2, PS5, Xbox Series X) - Lanzamiento el 15 de julio."
-      ]
-    },
-    {
-      "id": "lanzamiento_ratatan",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&l&bRatatan&r (PC, Switch, PS5, Xbox Series X) - Lanzamiento el 16 de julio."
-      ]
-    },
-    {
-      "id": "lanzamiento_moss_forgotten_relic",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&l&bMoss: The Forgotten Relic&r (PS5) - Lanzamiento el 16 de julio. Se trata de una experiencia íntima y conmovedora que combina exploración, conexión y coraje en un mundo ilustrado."
-      ]
-    },
-    {
-      "id": "lanzamientos_otros_titulos",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&l&7También se esperan otros títulos para PS5 y Switch el 16 y 17 de julio, aunque los nombres específicos no han sido detallados."
+        "&cEl universo de los videojuegos está lleno de historias y detalles sorprendentes:",
+        "&eNubes y Arbustos en Super Mario Bros. comparten el mismo sprite, ¡simplemente recoloreado!",
+        "&bMonopoly fue usado por el gobierno británico para esconder mapas y dinero a prisioneros de guerra.",
+        "&dTetris fue el primer videojuego jugado en el espacio por el cosmonauta Aleksandr Serebrov en 1993.",
+        "&aEl origen de Pac-Man se inspiró en una pizza a la que le faltaba una rebanada, para atraer más mujeres.",
+        "&7El primer \"Easter Egg\" lo ocultó Warren Robinett en Adventure de Atari, sin el permiso de la compañía.",
+        "&eMario, antes de ser fontanero, apareció en Donkey Kong como Jumpman y era un carpintero."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Veta Rica del Minero!",
+      "titulo": "&6&l¡Riquezas del Forjador!",
       "descripcion": [
-        "&7¡Comienza la semana con fortuna minera!",
-        "&7Obtén un &a+25%&7 al vender &bDIAMONDS&7."
+        "&7¡El corazón de la mina late con fuerza!",
+        "&7Vendelo mas rapido con +50% de bonus en HIERRO."
       ],
       "tipo": "PRECIO",
-      "item": "DIAMOND",
-      "porcentaje_extra": 25.0,
+      "item": "IRON_INGOT",
+      "porcentaje_extra": 50.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -181,10 +50,10 @@
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&a&l¡Manos Ligeras del Bosque!",
+      "titulo": "&b&l¡Oleada Minera!",
       "descripcion": [
-        "&7¡Hora de talar árboles sin descanso!",
-        "&7Disfruta de HASTE II para una tala veloz."
+        "&7¡Explora cavernas como nunca antes!",
+        "&7Obten Haste II para picar a la velocidad de la luz."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
