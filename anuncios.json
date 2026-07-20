@@ -1,87 +1,47 @@
 {
   "anuncios": [
     {
-      "id": "noticia_chaos_cubed_drop",
+      "id": "noticia_nueva_actualizacion",
       "categoria": "noticias",
       "mensajes": [
-        "&a¡El drop de juego &lChaos Cubed&r &aha llegado! Explora los nuevos cubos de azufre y un mareante bioma de cuevas."
+        "&a&l¡Nueva Actualización!",
+        "&fDescubre el misterio de los biomas de cerezos.",
+        "&7Nuevas criaturas, bloques y aventuras te esperan.",
+        "&b¡Conéctate ahora!"
       ]
     },
     {
-      "id": "noticia_minecraft_live_2026",
-      "categoria": "noticias",
+      "id": "consejo_mineria_eficiente",
+      "categoria": "consejos",
       "mensajes": [
-        "&bLa &lMinecraft Live 2026&r &bmostró la llegada del multijugador nativo a Java Edition y dos nuevas capas para coleccionar."
+        "&e&lConsejo del Día:",
+        "&fPara minar más eficientemente,",
+        "&7usa un pico encantado con Eficiencia III o más.",
+        "&b¡Ahorra tiempo y recursos!"
       ]
     },
     {
-      "id": "noticia_minecraft_dungeons_ii_lanzamiento",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e¡Marca tu calendario! &lMinecraft Dungeons II&r &ese lanzará oficialmente el 29 de septiembre."
-      ]
-    },
-    {
-      "id": "noticia_proximas_actualizaciones_chaos_cubed",
-      "categoria": "noticias",
-      "mensajes": [
-        "&dPróximas actualizaciones 26.2 (Java) y 26.30 (Bedrock) traerán más características para &lChaos Cubed&r &deste año."
-      ]
-    },
-    {
-      "id": "noticia_preview_26_40_30",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7El &lPreview 26.40.30&r &7de Minecraft incluye correcciones para la rotación de bloques y una nueva característica de decoración multi-bloque."
-      ]
-    },
-    {
-      "id": "noticia_pase_mercado_julio_2026",
-      "categoria": "noticias",
-      "mensajes": [
-        "&aDescubre el nuevo contenido del &lPase de Mercado de Julio 2026&r &a¡ya disponible!"
-      ]
-    },
-    {
-      "id": "noticia_snapshot_26_3_3",
-      "categoria": "noticias",
-      "mensajes": [
-        "&bSe lanzó el &lSnapshot 26.3.3&r &bpara Java Edition, trayendo ajustes y mejoras."
-      ]
-    },
-    {
-      "id": "noticia_venta_verano_2026",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e¡Grandes descuentos! La &lVenta de Verano 2026 del Marketplace&r &eestá activa con ofertas increíbles."
-      ]
-    },
-    {
-      "id": "curiosidad_minecraft_mas_vendido",
+      "id": "curiosidad_creeper",
       "categoria": "curiosidades",
       "mensajes": [
-        "&d¿Sabías que &lMinecraft&r &des el videojuego más vendido de todos los tiempos, con más de 350 millones de copias?"
-      ]
-    },
-    {
-      "id": "curiosidad_jugadores_videojuegos_mundo",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7Casi &l3.32 mil millones de personas&r &7juegan videojuegos en todo el mundo, ¡somos una comunidad gigante!"
+        "&6&l¿Sabías que...?",
+        "&fEl Creeper fue creado por error.",
+        "&7Un cerdo con dimensiones incorrectas,",
+        "&b¡se convirtió en nuestro explosivo amigo!"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Expedición Caótica!",
+      "titulo": "&6&l¡Fiebre del Mineral!",
       "descripcion": [
-        "&7¡La actualización Chaos Cubed llegó!",
-        "&7Obtén 20% extra en Tuff hoy."
+        "&7Los mineros de la ciudad están agotados.",
+        "&7Vende tus &fDIAMONDS &7con &a+40% &7extra."
       ],
       "tipo": "PRECIO",
-      "item": "TUFF",
-      "porcentaje_extra": 20.0,
+      "item": "DIAMOND",
+      "porcentaje_extra": 40.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -89,19 +49,19 @@
       "hora_fin": 24
     },
     {
-      "dia": "WEDNESDAY",
-      "titulo": "&b&l¡Fuerza del Explorador!",
+      "dia": "THURSDAY",
+      "titulo": "&b&l¡Pescador Afortunado!",
       "descripcion": [
-        "&7¡Nuevos desafíos en Chaos Cubed!",
-        "&7Fuerza II y 15% extra en Lingotes de Cobre."
+        "&7Un banco de peces ha llegado al arrecife.",
+        "&7Obtén &fLUCK II &7por las noches en el mar."
       ],
-      "tipo": "AMBOS",
-      "item": "COPPER_INGOT",
-      "porcentaje_extra": 15.0,
-      "efecto_pocion": "STRENGTH",
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
+      "efecto_pocion": "LUCK",
       "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
+      "todo_el_dia": false,
+      "hora_inicio": 20,
       "hora_fin": 24
     }
   ]
