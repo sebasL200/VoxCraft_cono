@@ -1,47 +1,26 @@
 {
   "anuncios": [
     {
-      "id": "noticia_nueva_actualizacion",
+      "id": "actualizacion_sistema",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Nueva Actualización!",
-        "&fDescubre el misterio de los biomas de cerezos.",
-        "&7Nuevas criaturas, bloques y aventuras te esperan.",
-        "&b¡Conéctate ahora!"
-      ]
-    },
-    {
-      "id": "consejo_mineria_eficiente",
-      "categoria": "consejos",
-      "mensajes": [
-        "&e&lConsejo del Día:",
-        "&fPara minar más eficientemente,",
-        "&7usa un pico encantado con Eficiencia III o más.",
-        "&b¡Ahorra tiempo y recursos!"
-      ]
-    },
-    {
-      "id": "curiosidad_creeper",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&6&l¿Sabías que...?",
-        "&fEl Creeper fue creado por error.",
-        "&7Un cerdo con dimensiones incorrectas,",
-        "&b¡se convirtió en nuestro explosivo amigo!"
+        "&b¡Importante! El sistema ha sido actualizado.",
+        "&eMejoras de rendimiento y seguridad implementadas.",
+        "&7Agradecemos su paciencia."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Fiebre del Mineral!",
+      "titulo": "&6&l¡Día del Minero Astuto!",
       "descripcion": [
-        "&7Los mineros de la ciudad están agotados.",
-        "&7Vende tus &fDIAMONDS &7con &a+40% &7extra."
+        "&7¡Es lunes! La mina te espera con sorpresas.",
+        "&730% extra en la venta de DIAMOND."
       ],
       "tipo": "PRECIO",
       "item": "DIAMOND",
-      "porcentaje_extra": 40.0,
+      "porcentaje_extra": 30.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -49,19 +28,19 @@
       "hora_fin": 24
     },
     {
-      "dia": "THURSDAY",
-      "titulo": "&b&l¡Pescador Afortunado!",
+      "dia": "WEDNESDAY",
+      "titulo": "&a&l¡Bendición de la Naturaleza!",
       "descripcion": [
-        "&7Un banco de peces ha llegado al arrecife.",
-        "&7Obtén &fLUCK II &7por las noches en el mar."
+        "&7A mitad de semana, la suerte te sonríe.",
+        "&7Obtén el efecto LUCK I durante todo el día."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
       "efecto_pocion": "LUCK",
-      "nivel_efecto": 2,
-      "todo_el_dia": false,
-      "hora_inicio": 20,
+      "nivel_efecto": 1,
+      "todo_el_dia": true,
+      "hora_inicio": 0,
       "hora_fin": 24
     }
   ]
