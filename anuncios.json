@@ -1,26 +1,31 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_sistema",
+      "id": "actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&b¡Importante! El sistema ha sido actualizado.",
-        "&eMejoras de rendimiento y seguridad implementadas.",
-        "&7Agradecemos su paciencia."
+        "&a&l¡GRAN ANUNCIO! &f&l¡La actualización 1.21 ha llegado a nuestro servidor!",
+        "&b&lNUEVAS ESTRUCTURAS: &eDescubre las misteriosas Cámaras de Prueba, repletas de trampas y tesoros. ¡Atrévete a explorarlas!",
+        "&c&lNUEVO ENEMIGO: &7Enfréntate a la astuta criatura 'Breeze' dentro de las Cámaras de Prueba. ¡Cuidado con sus ataques aéreos!",
+        "&d&lARTESANÍA AUTOMATIZADA: &bSimplifica tu vida con el nuevo Crafter, el bloque que automatiza tus creaciones. ¡Construye más rápido!",
+        "&e&lBLOQUES DECORATIVOS: &aDecora tus construcciones con los nuevos bloques de Toba y Cobre, ¡perfectos para cualquier diseño!",
+        "&7&lDESAFÍOS ÉPICOS: &fEncuentra el Bloque Generador de Pruebas y lucha contra oleadas de enemigos para obtener recompensas únicas.",
+        "&a&lNUEVOS OBJETOS Y ARMAS: &eDescubre y utiliza los nuevos ítems y armas para dominar tus aventuras.",
+        "&b&lEXPLORACIÓN: &fLas Cámaras de Prueba están esperándote. ¡Reúne a tus amigos y prepárense para la aventura!"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Día del Minero Astuto!",
+      "titulo": "&6&l¡Ofertas del Mercader!",
       "descripcion": [
-        "&7¡Es lunes! La mina te espera con sorpresas.",
-        "&730% extra en la venta de DIAMOND."
+        "&7¡Empieza la semana ahorrando en grande!",
+        "&725% extra en la venta de DIAMOND."
       ],
       "tipo": "PRECIO",
       "item": "DIAMOND",
-      "porcentaje_extra": 30.0,
+      "porcentaje_extra": 25.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -29,19 +34,19 @@
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&a&l¡Bendición de la Naturaleza!",
+      "titulo": "&b&l¡Energía del Explorador!",
       "descripcion": [
-        "&7A mitad de semana, la suerte te sonríe.",
-        "&7Obtén el efecto LUCK I durante todo el día."
+        "&7¡El día perfecto para la exploración minera!",
+        "&7Obtén HASTE II para minar más rápido."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "LUCK",
-      "nivel_efecto": 1,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "efecto_pocion": "HASTE",
+      "nivel_efecto": 2,
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 22
     }
   ]
 }
