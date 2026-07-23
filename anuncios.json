@@ -1,31 +1,42 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21",
+      "id": "noticia_cuevas_actualizadas",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡GRAN ANUNCIO! &f&l¡La actualización 1.21 ha llegado a nuestro servidor!",
-        "&b&lNUEVAS ESTRUCTURAS: &eDescubre las misteriosas Cámaras de Prueba, repletas de trampas y tesoros. ¡Atrévete a explorarlas!",
-        "&c&lNUEVO ENEMIGO: &7Enfréntate a la astuta criatura 'Breeze' dentro de las Cámaras de Prueba. ¡Cuidado con sus ataques aéreos!",
-        "&d&lARTESANÍA AUTOMATIZADA: &bSimplifica tu vida con el nuevo Crafter, el bloque que automatiza tus creaciones. ¡Construye más rápido!",
-        "&e&lBLOQUES DECORATIVOS: &aDecora tus construcciones con los nuevos bloques de Toba y Cobre, ¡perfectos para cualquier diseño!",
-        "&7&lDESAFÍOS ÉPICOS: &fEncuentra el Bloque Generador de Pruebas y lucha contra oleadas de enemigos para obtener recompensas únicas.",
-        "&a&lNUEVOS OBJETOS Y ARMAS: &eDescubre y utiliza los nuevos ítems y armas para dominar tus aventuras.",
-        "&b&lEXPLORACIÓN: &fLas Cámaras de Prueba están esperándote. ¡Reúne a tus amigos y prepárense para la aventura!"
+        "&a¡Grandes cambios en las cuevas!",
+        "&eDescubre nuevas vetas y biomas."
+      ]
+    },
+    {
+      "id": "consejo_cultivo_zanahorias",
+      "categoria": "consejos",
+      "mensajes": [
+        "&b&lConsejo del día:",
+        "&7Usa bloques de agua para regar cultivos.",
+        "&7Las zanahorias dan buena comida y oro."
+      ]
+    },
+    {
+      "id": "curiosidad_creeper",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&e¿Sabías que...",
+        "&7Los Creepers explotan por su miedo a los gatos?"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Ofertas del Mercader!",
+      "titulo": "&6&l¡Día de la Gran Minería!",
       "descripcion": [
-        "&7¡Empieza la semana ahorrando en grande!",
-        "&725% extra en la venta de DIAMOND."
+        "&7¡La tierra está generosa hoy!",
+        "&7Vendemos Diamantes 50% más baratos."
       ],
       "tipo": "PRECIO",
       "item": "DIAMOND",
-      "porcentaje_extra": 25.0,
+      "porcentaje_extra": 50.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -34,19 +45,19 @@
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&b&l¡Energía del Explorador!",
+      "titulo": "&a&l¡Bendición del Explorador!",
       "descripcion": [
-        "&7¡El día perfecto para la exploración minera!",
-        "&7Obtén HASTE II para minar más rápido."
+        "&7¡El camino es largo y lleno de peligros!",
+        "&7Obtén Velocidad II durante 3 horas."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "HASTE",
+      "efecto_pocion": "SPEED",
       "nivel_efecto": 2,
       "todo_el_dia": false,
       "hora_inicio": 18,
-      "hora_fin": 22
+      "hora_fin": 21
     }
   ]
 }
