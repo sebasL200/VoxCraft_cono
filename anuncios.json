@@ -1,38 +1,103 @@
 {
   "anuncios": [
     {
-      "id": "noticia_cuevas_actualizadas",
+      "id": "noticia_mounts_of_mayhem",
       "categoria": "noticias",
       "mensajes": [
-        "&a¡Grandes cambios en las cuevas!",
-        "&eDescubre nuevas vetas y biomas."
+        "&a&lNOTICIA DEL SERVIDOR:",
+        "&e¡Grandes novedades en Minecraft 1.21.11, la actualización 'Mounts of Mayhem' ha llegado!",
+        "&ePrepárense para nuevos desafíos y monturas."
       ]
     },
     {
-      "id": "consejo_cultivo_zanahorias",
+      "id": "actualizacion_criaturas_oceanicas",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&lACTUALIZACIÓN MINECRAFT:",
+        "&eSe han añadido nuevas criaturas a los océanos, ¡como el Nautilus y el Zombie Nautilus!",
+        "&eExplora las profundidades con precaución."
+      ]
+    },
+    {
+      "id": "nuevo_equipamiento_lanza",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&lNUEVO EQUIPAMIENTO:",
+        "&eDescubre el poder del nuevo arma, la Lanza, que inflige daño basado en tu precisión",
+        "&ey la velocidad de tu montura. ¡Ideal para combate a caballo!"
+      ]
+    },
+    {
+      "id": "domar_nautilus",
       "categoria": "consejos",
       "mensajes": [
-        "&b&lConsejo del día:",
-        "&7Usa bloques de agua para regar cultivos.",
-        "&7Las zanahorias dan buena comida y oro."
+        "&d&lPARA LOS JUGADORES:",
+        "&eAhora puedes domar y montar al Nautilus, equipándolo con una silla de montar y armadura.",
+        "&e¡Una nueva forma de explorar el mundo submarino!"
       ]
     },
     {
-      "id": "curiosidad_creeper",
+      "id": "curiosidad_sega_dreamcast",
       "categoria": "curiosidades",
       "mensajes": [
-        "&e¿Sabías que...",
-        "&7Los Creepers explotan por su miedo a los gatos?"
+        "&7&lDATO CURIOSO GAMING:",
+        "&f¿Sabías que la primera consola en implementar el juego online",
+        "&fa través de línea telefónica fue la Sega Dreamcast?"
+      ]
+    },
+    {
+      "id": "recordatorio_actualizacion_java",
+      "categoria": "noticias",
+      "mensajes": [
+        "&c&lRECORDATORIO: &c¡Importante!",
+        "&cLa versión 1.21.1 de Minecraft Java Edition corrigió exploits críticos",
+        "&cpara la estabilidad de los servidores. ¡Asegúrate de estar actualizado!"
+      ]
+    },
+    {
+      "id": "lanzamiento_julio_2026_1",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&lLANZAMIENTO GAMING:",
+        "&eEsta semana de Julio de 2026 llegan nuevos títulos.",
+        "&eDestacan '28 Days Train Wreck Survivor' y '7 Shifts in Subway'."
+      ]
+    },
+    {
+      "id": "lanzamiento_julio_2026_2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&lENTRETENIMIENTO:",
+        "&ePara los amantes de las remakes y expansiones, Julio 2026",
+        "&etambién trae 'Halo: Campaign Evolved' y 'Assassin's Creed Black Flag Resynced'."
+      ]
+    },
+    {
+      "id": "curiosidad_gaming_multijugador",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&e&lDATO CURIOSO GAMING:",
+        "&fMás del 80% del gaming actual ocurre en espacios multijugador,",
+        "&fdemostrando el gran componente social de los videojuegos."
+      ]
+    },
+    {
+      "id": "noticias_metodos_pago_cripto",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&lNUEVOS MÉTODOS DE PAGO:",
+        "&fLas criptomonedas como Bitcoin y Ethereum, son una solución",
+        "&fcomún y segura para transacciones en la industria del iGaming."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Día de la Gran Minería!",
+      "titulo": "&a&l¡Día del Minero Eficiente!",
       "descripcion": [
-        "&7¡La tierra está generosa hoy!",
-        "&7Vendemos Diamantes 50% más baratos."
+        "&7¡Explora las nuevas cuevas de la 1.21.11!",
+        "&7Vende DIAMOND con un +50% extra."
       ],
       "tipo": "PRECIO",
       "item": "DIAMOND",
@@ -45,19 +110,19 @@
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&a&l¡Bendición del Explorador!",
+      "titulo": "&b&l¡Noche del Navegante Submarino!",
       "descripcion": [
-        "&7¡El camino es largo y lleno de peligros!",
-        "&7Obtén Velocidad II durante 3 horas."
+        "&7¡Domina los nuevos Nautilus con facilidad!",
+        "&7Obtén WATER_BREATHING II por 2 horas."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "SPEED",
+      "efecto_pocion": "WATER_BREATHING",
       "nivel_efecto": 2,
       "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 21
+      "hora_inicio": 20,
+      "hora_fin": 22
     }
   ]
 }
