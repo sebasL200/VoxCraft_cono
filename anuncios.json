@@ -1,56 +1,87 @@
 {
   "anuncios": [
     {
-      "id": "noticias_servidor_1_21_x",
+      "id": "nueva_snapshot_26_3_4",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l[ACTUALIZACIÓN CRÍTICA] &f¡Servidor actualizado a la versión 1.21.1! Hemos aplicado la última hotfix lanzada el 8 de agosto de 2024 para solucionar exploits críticos y mejorar la estabilidad.",
-        "&b&l[MEJORAS DE IDIOMA] &fLa versión 1.21.1 trae soporte para dos nuevos idiomas: bielorruso (latín) y tzolzil. ¡Una comunidad más inclusiva que nunca!",
-        "&e&l[NUEVA ESTRUCTURA] &fExplora las \"Trial Chambers\" (Cámaras de Prueba), estructuras generadas proceduralmente llenas de desafíos de combate y tesoros únicos. ¡Prepárense para la acción!",
-        "&d&l[NUEVOS MOBS HOSTILES] &f¡Cuidado con el \"Breeze\" y el \"Bogged\"! Estos nuevos enemigos te esperan en las Trial Chambers con ataques elementales y de veneno.",
-        "&7&l[ARMA LETAL] &fDescubre la nueva arma \"Mace\", capaz de infligir más daño cuanto mayor sea la distancia de la caída antes del impacto. ¡Dominar la gravedad ahora es clave!",
-        "&a&l[BLOQUE REVOLUCIONARIO] &fPresentamos el \"Crafter\", un bloque que permite la crafteo automático de ítems cuando se alimenta con señal de Redstone. ¡Automatiza tus granjas y procesos!",
-        "&b&l[DESAFÍOS ÉPICOS] &fEnfrenta las \"Ominous Trials\" (Pruebas Ominosas) dentro de las Trial Chambers para recompensas aún mayores, pero prepárate para un reto considerable.",
-        "&e&l[LUZ Y PELIGRO] &fEncuentra la \"Ominous Bottle\", un nuevo ítem que puede activar las Pruebas Ominosas y aumentar la dificultad a cambio de botín valioso."
+        "&a&l¡Nueva Snapshot! &7La 26.3 Snapshot 4 introduce cambios técnicos en la gestión de ventanas (SDL3), componentes para letreros y combustible, y expansiones en las tablas de botín."
       ]
     },
     {
-      "id": "datos_curiosos_gaming",
+      "id": "mejoras_rendimiento_26_2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡Mejoras de Rendimiento! &7La versión 26.2 trae optimizaciones de carga de chunks y mejora la tasa de fotogramas, ¡especialmente en entornos con muchos mods!"
+      ]
+    },
+    {
+      "id": "nuevos_bloques_construccion_26_2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡Nuevos Bloques de Construcción! &7La actualización 26.2 añade nuevas variantes de bloques, incluyendo escaleras y losas de madera oscura, y texturas de piedra adicionales para más opciones creativas."
+      ]
+    },
+    {
+      "id": "decoracion_interactiva_26_40_30",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡Decoración Interactiva! &7La Preview 26.40.30 ha añadido cojines interactivos (en 16 colores) y la cama de paja de un solo uso para descansar sin cambiar tu punto de aparición."
+      ]
+    },
+    {
+      "id": "campamentos_abandonados_mejorados",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&l¡Campamentos Abandonados Mejorados! &7Ahora puedes encontrar Campamentos Abandonados, con camas de paja, en los biomas de Jardín Pálido y Bosque Florido."
+      ]
+    },
+    {
+      "id": "correccion_bugs_importantes",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&c¡Corrección de Bugs Importantes! &7Se han resuelto errores críticos como la congelación del juego con libros y plumas antiguos y el comportamiento erróneo de las flechas de daño."
+      ]
+    },
+    {
+      "id": "sonidos_ambiente_renovados",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡Sonidos de Ambiente Renovados! &7Los bloques de hojas de álamo tienen nuevos sonidos ambientales y se han añadido eventos de sonido personalizados para arbustos rojos."
+      ]
+    },
+    {
+      "id": "mod_verity_furor",
       "categoria": "curiosidades",
       "mensajes": [
-        "La primera consola de videojuegos en ser jugada en el espacio fue una Game Boy en 1993. El astronauta ruso Aleksandr A. Serebrov llevó su consola para jugar Tetris mientras estaba en la estación espacial MIR.",
-        "Minecraft ostenta el título del videojuego más vendido de la historia, con más de 300 millones de copias comercializadas hasta julio de 2026.",
-        "Originalmente, el famoso personaje de Nintendo, Mario, se llamaba Jumpman y era un carpintero antes de convertirse en el plomero que todos conocemos.",
-        "El mapa del mundo en la versión de PC de Minecraft es aproximadamente 9,258,235 veces más grande que la superficie de la Tierra.",
-        "El primer torneo de eSports registrado tuvo lugar el 19 de octubre de 1972 en la Universidad de Stanford, llamado \"The Intergalactic Spacewar Olympics\". El premio para el ganador fue una suscripción a la revista Rolling Stone.",
-        "\"Monster Hunter 3 Ultimate\" es conocido por ser uno de los juegos que más tiempo requiere para completarse, con un promedio de 693 horas de juego.",
-        "La colección de videojuegos más grande del mundo, según Guinness World Records, pertenece a Antonio Monteiro, quien posee 20,139 videojuegos."
+        "&b&l¡El Mod Verity Causa Furor! &7El mod de terror \"Verity\", inspirado en una serie de YouTube de 2026, ha superado los 4.9 millones de descargas para Java y Bedrock Edition."
       ]
     },
     {
-      "id": "lanzamientos_videojuegos_julio_2026",
+      "id": "mirada_combate_futuro_26_3_3",
       "categoria": "noticias",
       "mensajes": [
-        "Halo: Campaign Evolved – Una fiel y modernizada recreación de la campaña de Halo: Combat Evolved, que se lanza el 28 de julio para PS5, PC y Xbox.",
-        "Splatoon Raiders – Un spin-off dentro del universo Splatoon, enfocado en historia, exploración y mecánicas cooperativas de supervivencia, lanzado el 23 de julio para Nintendo Switch y Switch 2.",
-        "Rhythm Heaven Groove – Una nueva entrega de la popular saga musical con un enfoque creativo y nuevos minijuegos, disponible en julio para Nintendo Switch y Switch 2.",
-        "Mistfall Hunter – Un RPG de acción y extracción cooperativo de fantasía oscura con combate fluido en tercera persona, que llega a PS5 en julio de 2026.",
-        "Dispatch – Una comedia de superhéroes ambientada en Los Ángeles, donde juegas como un superhéroe degradado a operador de central, con lanzamiento el 29 de julio para Xbox.",
-        "Días de Juego Gratis en Xbox – Del 23 al 26 (y hasta el 27 para Metal Gear Solid), los miembros de Xbox Game Pass Ultimate, Premium y Essential pueden disfrutar de títulos como For Honor, Bleach Rebirth of Souls, Metal Gear Solid – Master Collection Version, Killing Floor 3 y Tides of Tomorrow."
+        "&e&l¡Mirada al Combate Futuro! &7La 26.3 Snapshot 3 sugiere que Mojang está revisando las mecánicas de combate para futuras actualizaciones, buscando mayor capacidad de respuesta."
+      ]
+    },
+    {
+      "id": "contenido_fresco_marketplace_julio_2026",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡Contenido Fresco en Marketplace! &7Descubre nuevas aventuras de terror, complementos, skins, texturas y minijuegos en la colección de julio de 2026 del Marketplace."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&6&l¡Oferta de Oro Líquido!",
+      "dia": "TUESDAY",
+      "titulo": "&7&l¡Día del Cantero Experto!",
       "descripcion": [
-        "&7¡Es lunes de riqueza minera!",
-        "&7Vende todo tu oro con un +50%."
+        "&7¡Nuevas texturas de piedra de la 26.2!",
+        "&7¡La piedra vale 20% más en la tienda!"
       ],
       "tipo": "PRECIO",
-      "item": "GOLD_INGOT",
-      "porcentaje_extra": 50.0,
+      "item": "STONE",
+      "porcentaje_extra": 20.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -58,20 +89,20 @@
       "hora_fin": 24
     },
     {
-      "dia": "THURSDAY",
-      "titulo": "&a&l¡Velocidad del Cazador!",
+      "dia": "FRIDAY",
+      "titulo": "&e&l¡Vigor del Campista!",
       "descripcion": [
-        "&7¡Prepárate para explorar las Trial Chambers!",
-        "&7Obtén Velocidad II durante el evento."
+        "&7¡Camas de paja para descansar!",
+        "&7Haste II y trigo vale 15% más hoy."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
-      "efecto_pocion": "SPEED",
+      "tipo": "AMBOS",
+      "item": "WHEAT",
+      "porcentaje_extra": 15.0,
+      "efecto_pocion": "HASTE",
       "nivel_efecto": 2,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 22
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     }
   ]
 }
