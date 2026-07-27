@@ -1,87 +1,63 @@
 {
   "anuncios": [
     {
-      "id": "nueva_snapshot_26_3_4",
+      "id": "noticias_minecraft_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Nueva Snapshot! &7La 26.3 Snapshot 4 introduce cambios técnicos en la gestión de ventanas (SDL3), componentes para letreros y combustible, y expansiones en las tablas de botín."
+        "&a&l¡ACTUALIZACIÓN MAYOR LANZADA!&r La esperada actualización 1.21, conocida como \"Tricky Trials\", ha sido oficialmente lanzada, trayendo consigo una oleada de contenido fresco.",
+        "&b&lNUEVOS DESAFÍOS ESPERAN:&r Prepárense para enfrentar nuevas estructuras como las Trial Chambers y a la nueva criatura hostil, el Breeze, que prometen aumentar la dificultad.",
+        "&e&lHERRAMIENTA CRAFTER DISPONIBLE:&r La actualización 1.21 introduce el Crafter, un bloque que permite la fabricación automática de objetos, optimizando sus procesos.",
+        "&d&lMODDING AL DÍA:&r Fabric Loader y Fabric API ya cuentan con soporte para Minecraft 1.21 y 1.21.1, facilitando a los desarrolladores la actualización de sus mods favoritos.",
+        "&7&lNUEVA EXPERIENCIA EN EL MARKETPLACE:&r Mojang ha implementado una suscripción opcional en el Minecraft Marketplace, ofreciendo nuevas formas de acceder a contenido exclusivo.",
+        "&c&lMEJORAS PARA MODDERS:&r Para quienes desarrollan mods, se recomienda usar Loom 1.6 y la versión más reciente de Fabric Loader (0.15.11) para compatibilidad con la 1.21.",
+        "&a&lUN MUNDO MÁS DESAFIANTE:&r La actualización 1.21 ha sido diseñada para incrementar el desafío general del juego, añadiendo elementos que la hacen sentir \"ominosa\".",
+        "&b&lTRÁILER ÉPICO:&r No se pierdan el impactante tráiler oficial de la actualización 1.21, que muestra en detalle todas las nuevas características y el emocionante gameplay."
       ]
     },
     {
-      "id": "mejoras_rendimiento_26_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&l¡Mejoras de Rendimiento! &7La versión 26.2 trae optimizaciones de carga de chunks y mejora la tasa de fotogramas, ¡especialmente en entornos con muchos mods!"
-      ]
-    },
-    {
-      "id": "nuevos_bloques_construccion_26_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡Nuevos Bloques de Construcción! &7La actualización 26.2 añade nuevas variantes de bloques, incluyendo escaleras y losas de madera oscura, y texturas de piedra adicionales para más opciones creativas."
-      ]
-    },
-    {
-      "id": "decoracion_interactiva_26_40_30",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡Decoración Interactiva! &7La Preview 26.40.30 ha añadido cojines interactivos (en 16 colores) y la cama de paja de un solo uso para descansar sin cambiar tu punto de aparición."
-      ]
-    },
-    {
-      "id": "campamentos_abandonados_mejorados",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7&l¡Campamentos Abandonados Mejorados! &7Ahora puedes encontrar Campamentos Abandonados, con camas de paja, en los biomas de Jardín Pálido y Bosque Florido."
-      ]
-    },
-    {
-      "id": "correccion_bugs_importantes",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&c¡Corrección de Bugs Importantes! &7Se han resuelto errores críticos como la congelación del juego con libros y plumas antiguos y el comportamiento erróneo de las flechas de daño."
-      ]
-    },
-    {
-      "id": "sonidos_ambiente_renovados",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&l¡Sonidos de Ambiente Renovados! &7Los bloques de hojas de álamo tienen nuevos sonidos ambientales y se han añadido eventos de sonido personalizados para arbustos rojos."
-      ]
-    },
-    {
-      "id": "mod_verity_furor",
+      "id": "curiosidades_gaming",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&l¡El Mod Verity Causa Furor! &7El mod de terror \"Verity\", inspirado en una serie de YouTube de 2026, ha superado los 4.9 millones de descargas para Java y Bedrock Edition."
+        "&b&lMinecraft, un Gigante de Ventas:&r En 2023, Minecraft se convirtió en el primer videojuego en superar las 300 millones de copias vendidas en todo el mundo, consolidando su posición como uno de los títulos más exitosos de la historia.",
+        "&e&lLa Profesión Original de Mario:&r Antes de ser el famoso fontanero, Mario (conocido entonces como Jumpman) era un carpintero en el videojuego Donkey Kong.",
+        "&a&lUn Mundo de Jugadores:&r Se estima que existen miles de millones de jugadores de videojuegos en todo el mundo, lo que demuestra la magnitud y el alcance global de la industria.",
+        "&d&lEl Vasto Catálogo de Juegos:&r Para 2025, se proyecta que habrá aproximadamente 5 millones de juegos disponibles en todo el mundo, según Games Publisher.",
+        "&c&lÉxito de Super Smash Bros.:&r La popular franquicia de lucha, Super Smash Bros., ha vendido más de 77 millones de unidades para el año 2025, destacando su impacto en la comunidad gamer."
       ]
     },
     {
-      "id": "mirada_combate_futuro_26_3_3",
+      "id": "lanzamientos_semana_julio_22_28",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Mirada al Combate Futuro! &7La 26.3 Snapshot 3 sugiere que Mojang está revisando las mecánicas de combate para futuras actualizaciones, buscando mayor capacidad de respuesta."
-      ]
-    },
-    {
-      "id": "contenido_fresco_marketplace_julio_2026",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡Contenido Fresco en Marketplace! &7Descubre nuevas aventuras de terror, complementos, skins, texturas y minijuegos en la colección de julio de 2026 del Marketplace."
+        "&6&lLanzamientos de Videojuegos Esta Semana (22 al 28 de julio de 2024):",
+        "&e&lLunes, 22 de julio:",
+        "&7- The New Denpa Men (Switch)",
+        "&7- Tears of Metal (PC)",
+        "&e&lMartes, 23 de julio:",
+        "&7- Buried Alive: Breathless Rescue (Xbox)",
+        "&7- Conscript (Xbox)",
+        "&7- Empty Shell (Xbox)",
+        "&7- Exophobia (Xbox)",
+        "&e&lJueves, 25 de julio:",
+        "&7- Earth Defense Force 6 (PC, PS4, PS5)",
+        "&7- Master Detective Archives: RAIN CODE Plus (PC, PS5, Xbox Series X|S) - (relanzamiento en nuevas plataformas)",
+        "&7- 7 Days to Die (PC, PS4, PS5) - (relanzamiento en nuevas plataformas)",
+        "&e&lViernes, 26 de julio:",
+        "&7- One Piece Odyssey (Switch)"
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "TUESDAY",
-      "titulo": "&7&l¡Día del Cantero Experto!",
+      "dia": "MONDAY",
+      "titulo": "&6&l¡Fiebre del Oro Minero!",
       "descripcion": [
-        "&7¡Nuevas texturas de piedra de la 26.2!",
-        "&7¡La piedra vale 20% más en la tienda!"
+        "&7¡Es lunes! Empecemos la semana con fortuna.",
+        "&7Oro más valioso al venderlo hoy."
       ],
       "tipo": "PRECIO",
-      "item": "STONE",
-      "porcentaje_extra": 20.0,
+      "item": "GOLD_INGOT",
+      "porcentaje_extra": 50.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -89,20 +65,20 @@
       "hora_fin": 24
     },
     {
-      "dia": "FRIDAY",
-      "titulo": "&e&l¡Vigor del Campista!",
+      "dia": "WEDNESDAY",
+      "titulo": "&a&l¡Día del Constructor Experto!",
       "descripcion": [
-        "&7¡Camas de paja para descansar!",
-        "&7Haste II y trigo vale 15% más hoy."
+        "&7¡Inicia tus proyectos con velocidad y destreza!",
+        "&7Obtén Haste II para construir rápido."
       ],
-      "tipo": "AMBOS",
-      "item": "WHEAT",
-      "porcentaje_extra": 15.0,
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
       "efecto_pocion": "HASTE",
       "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 22
     }
   ]
 }
