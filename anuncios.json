@@ -1,29 +1,58 @@
 {
   "anuncios": [
     {
-      "id": "nueva_zona_mineria",
+      "id": "actualizacion_servidor",
       "categoria": "noticias",
       "mensajes": [
-        "&a¡NUEVA ZONA DE MINERÍA!",
-        "&7Explora la Cueva del Eco en el mundo normal."
+        "&l&a¡Novedades del Servidor de Minecraft!&r",
+        "Aquí están las últimas noticias y anuncios para nuestro servidor, ¡mantente al día con todas las novedades!",
+        "&l&b¡Actualización a la 1.21.2 \"Bundles of Bravery\" Confirmada!&r &e¡Prepárense, Exploradores! Hemos actualizado nuestro servidor a la versión 1.21.2 de Minecraft: Java Edition, también conocida como \"Bundles of Bravery\". Esta versión trae emocionantes novedades que mejorarán vuestras aventuras.&r",
+        "&l&eNuevos \"Bundles\" para Optimizar tu Inventario.&r &7¡Di adiós al desorden! La actualización 1.21.2 introduce los esperados \"bundles\" o paquetes, que te permitirán almacenar más objetos en un solo espacio de tu inventario. ¡Ideal para tus largas expediciones!&r",
+        "&l&dNacen Nuevas Crías de Mobs Acuáticos.&r &c¡Atención amantes de la fauna marina! Ahora podrás encontrar crías de delfines, calamares, calamares luminosos y salmones, añadiendo más vida a vuestros océanos y ríos.&r",
+        "&l&a¡Modo Hardcore Disponible en Realms!&r &bPara aquellos que buscan el desafío definitivo, la versión 1.21.2 ha extendido el Modo Hardcore a los Realms. ¡Demuestra tu habilidad y supervivencia sin segundas oportunidades!&r",
+        "&l&eMejoras en el Musgo Colgante Pálido.&r &7Se han realizado ajustes al Musgo Colgante Pálido, que ahora solo se desprenderá al ser cortado con tijeras o destruido con una herramienta con \"Silk Touch\". ¡Asegura tus decoraciones!&r",
+        "&l&b¡Corrección de Bugs y Estabilidad!&r &7Esta versión incluye importantes correcciones de errores que mejoran la estabilidad y la experiencia general de juego, solucionando problemas reportados en versiones anteriores.&r",
+        "&l&a¡Prepara tus Bolsillos para los Bundles!&r &eAprovecha los nuevos bundles para llevar más recursos en tus minas y exploraciones. ¡Serán tu mejor aliado para no dejar nada atrás!&r",
+        "&l&b¡Más Fauna en tus Biomas Acuáticos!&r &dLa adición de crías de mobs acuáticos no solo enriquece el ecosistema, sino que también ofrece nuevas oportunidades para granjas de mobs y colecciones. ¡A explorar!&r"
       ]
     },
     {
-      "id": "consejos_granjas",
-      "categoria": "consejos",
+      "id": "datos_curiosos_gaming",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&e&lConsejo del Día:",
-        "&7Usa Bonemeal para cosechas más rápidas!"
+        "&l&aDatos Curiosos del Mundo del Gaming:&r",
+        "&eEn 2025, el número de jugadores a nivel global alcanzó los 3.578 mil millones, lo que representa un aumento anual del 4.4%. ¡Esto equivale aproximadamente al 61.5% de la población mundial!&r",
+        "&eLa región de Asia-Pacífico alberga al 53% de la base de jugadores mundial, mientras que la región MENA (Oriente Medio y Norte de África) experimentó el crecimiento más rápido con un 6.8% interanual.&r",
+        "&eLa edad promedio de un jugador en Estados Unidos es de 36 años, y el 60% de los adultos estadounidenses juegan semanalmente.&r",
+        "&eLas mujeres representan el 47% de los jugadores en EE. UU. y más de la mitad de la población gamer en países como Brasil y Sudáfrica.&r",
+        "&eEn 2025, los jugadores a nivel mundial dedicaron un promedio de 8.45 horas a la semana a jugar, siendo los adolescentes (de 13 a 17 años) los que más juegan, con un promedio de 15.2 horas semanales.&r",
+        "&eEl gaming móvil fue la plataforma dominante en 2025, acumulando 444 mil millones de horas de juego. El 83% de todos los jugadores utilizan el móvil al menos ocasionalmente, superando al PC (26%) y a las consolas (18%).&r",
+        "&eEl 55% de los jugadores veteranos prefieren los juegos de disparos, seguidos por los RPG/MMORPG/MOBA, que son la elección del 39%.&r",
+        "&eLa industria de los videojuegos se prepara para un crecimiento renovado en 2026, impulsado por la convergencia de plataformas, la inteligencia artificial generativa, el contenido generado por el usuario y el cloud gaming.&r"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_julio",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&aLanzamientos de Videojuegos de Esta Semana (29 de Julio de 2026):&r",
+        "Esta semana trae algunas novedades interesantes para los jugadores:",
+        "&l&bBelow Rusted Gods:&r &eLanzado el 29 de julio de 2026 para PC. ¡Sumérgete en esta nueva aventura!&r",
+        "&l&bPrelude Dark Pain:&r &eYa disponible desde el 27 de julio de 2026 para PC.&r",
+        "Además, aquí hay algunos lanzamientos notables que están muy cerca:",
+        "&l&bEchobreaker:&r &eLlega el 6 de agosto de 2026 para PC.&r",
+        "&l&bMortal Shell 2:&r &eProgramado para el 20 de agosto de 2026 en PS5, Xbox y PC.&r",
+        "&l&bOnce Human:&r &eSe lanzará el 25 de agosto de 2026 para PS5 y Xbox.&r"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Veta de Oro!",
+      "titulo": "&6&l¡Fiebre del Oro Minero!",
       "descripcion": [
-        "&7¡Grandes descubrimientos en las cuevas!",
-        "&7Obtén 50% extra al vender Oro."
+        "&7¡Comienza la semana con el pie derecho!",
+        "&7Vende GOLD_INGOT con un 50% extra todo el día."
       ],
       "tipo": "PRECIO",
       "item": "GOLD_INGOT",
@@ -36,19 +65,19 @@
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&b&l¡Día del Constructor!",
+      "titulo": "&b&l¡Día del Explorador Audaz!",
       "descripcion": [
-        "&7¡Construye tus sueños con mayor velocidad!",
-        "&7Haste II te acompaña en tus creaciones."
+        "&7¡Explora las cuevas más profundas sin miedo!",
+        "&7Obtén Haste II para una minería rápida."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
       "efecto_pocion": "HASTE",
       "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 14,
+      "hora_fin": 20
     }
   ]
 }
