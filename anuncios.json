@@ -1,62 +1,60 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_servidor",
+      "id": "noticia_actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&l&a¡Novedades del Servidor de Minecraft!&r",
-        "Aquí están las últimas noticias y anuncios para nuestro servidor, ¡mantente al día con todas las novedades!",
-        "&l&b¡Actualización a la 1.21.2 \"Bundles of Bravery\" Confirmada!&r &e¡Prepárense, Exploradores! Hemos actualizado nuestro servidor a la versión 1.21.2 de Minecraft: Java Edition, también conocida como \"Bundles of Bravery\". Esta versión trae emocionantes novedades que mejorarán vuestras aventuras.&r",
-        "&l&eNuevos \"Bundles\" para Optimizar tu Inventario.&r &7¡Di adiós al desorden! La actualización 1.21.2 introduce los esperados \"bundles\" o paquetes, que te permitirán almacenar más objetos en un solo espacio de tu inventario. ¡Ideal para tus largas expediciones!&r",
-        "&l&dNacen Nuevas Crías de Mobs Acuáticos.&r &c¡Atención amantes de la fauna marina! Ahora podrás encontrar crías de delfines, calamares, calamares luminosos y salmones, añadiendo más vida a vuestros océanos y ríos.&r",
-        "&l&a¡Modo Hardcore Disponible en Realms!&r &bPara aquellos que buscan el desafío definitivo, la versión 1.21.2 ha extendido el Modo Hardcore a los Realms. ¡Demuestra tu habilidad y supervivencia sin segundas oportunidades!&r",
-        "&l&eMejoras en el Musgo Colgante Pálido.&r &7Se han realizado ajustes al Musgo Colgante Pálido, que ahora solo se desprenderá al ser cortado con tijeras o destruido con una herramienta con \"Silk Touch\". ¡Asegura tus decoraciones!&r",
-        "&l&b¡Corrección de Bugs y Estabilidad!&r &7Esta versión incluye importantes correcciones de errores que mejoran la estabilidad y la experiencia general de juego, solucionando problemas reportados en versiones anteriores.&r",
-        "&l&a¡Prepara tus Bolsillos para los Bundles!&r &eAprovecha los nuevos bundles para llevar más recursos en tus minas y exploraciones. ¡Serán tu mejor aliado para no dejar nada atrás!&r",
-        "&l&b¡Más Fauna en tus Biomas Acuáticos!&r &dLa adición de crías de mobs acuáticos no solo enriquece el ecosistema, sino que también ofrece nuevas oportunidades para granjas de mobs y colecciones. ¡A explorar!&r"
+        "&l&b¡ACTUALIZACIÓN 1.21.x!&r &eLa \"Tricky Trials Update\" ya está disponible, ¡con cámaras de prueba, nuevos mobs, crafteo automático y más para explorar!&r",
+        "&l&a¡Snapshot 26.3.6 Lanzado!&r &eEl 28 de julio de 2026, Mojang lanzó la Snapshot 26.3 Snapshot 6 para Java Edition, mejorando los campamentos abandonados con variantes específicas de bioma y reorganizando las opciones del mundo.&r",
+        "&l&bNuevas Opciones de Mundo:&r &eLa Snapshot 26.3.6 introduce una nueva pantalla de Opciones de Mundo que separa la configuración general y multijugador, ¡facilitando la gestión de tus partidas!&r",
+        "&l&a¡Contenido del Marketplace!&r &eLa Snapshot 26.3 Snapshot 5 (lanzada el 21 de julio de 2026) trajo un abundante \"cultivo de verano\" de elementos del Marketplace, ¡descúbrelos!&r",
+        "&l&b¡Nuevos Bloques Decorativos!&r &eLas últimas snapshots han incluido la adición de camas de paja y cojines, ¡perfectos para darle un toque acogedor a tus construcciones!&r",
+        "&l&cNerf a los Cojines y Flechas de Saqueo:&r &eLa Snapshot 26.3 Snapshot 4 (16 de julio de 2026) implementó un \"nerf\" a los cojines y eliminó el truco de la flecha con el encantamiento de saqueo.&r",
+        "&l&dCámaras de Prueba Mejoradas:&r &eLa actualización Tricky Trials te desafía a explorar cámaras de prueba, estructuras llenas de trampas y tesoros entre sus paredes de toba y cobre.&r",
+        "&l&a¡Explora Mobs Hostiles!&r &ePrepárate para enfrentarte a nuevos mobs hostiles introducidos en la Tricky Trials Update, ¡la aventura te espera!&r"
       ]
     },
     {
-      "id": "datos_curiosos_gaming",
+      "id": "curiosidades_gaming_2026",
       "categoria": "curiosidades",
       "mensajes": [
-        "&l&aDatos Curiosos del Mundo del Gaming:&r",
-        "&eEn 2025, el número de jugadores a nivel global alcanzó los 3.578 mil millones, lo que representa un aumento anual del 4.4%. ¡Esto equivale aproximadamente al 61.5% de la población mundial!&r",
-        "&eLa región de Asia-Pacífico alberga al 53% de la base de jugadores mundial, mientras que la región MENA (Oriente Medio y Norte de África) experimentó el crecimiento más rápido con un 6.8% interanual.&r",
-        "&eLa edad promedio de un jugador en Estados Unidos es de 36 años, y el 60% de los adultos estadounidenses juegan semanalmente.&r",
-        "&eLas mujeres representan el 47% de los jugadores en EE. UU. y más de la mitad de la población gamer en países como Brasil y Sudáfrica.&r",
-        "&eEn 2025, los jugadores a nivel mundial dedicaron un promedio de 8.45 horas a la semana a jugar, siendo los adolescentes (de 13 a 17 años) los que más juegan, con un promedio de 15.2 horas semanales.&r",
-        "&eEl gaming móvil fue la plataforma dominante en 2025, acumulando 444 mil millones de horas de juego. El 83% de todos los jugadores utilizan el móvil al menos ocasionalmente, superando al PC (26%) y a las consolas (18%).&r",
-        "&eEl 55% de los jugadores veteranos prefieren los juegos de disparos, seguidos por los RPG/MMORPG/MOBA, que son la elección del 39%.&r",
-        "&eLa industria de los videojuegos se prepara para un crecimiento renovado en 2026, impulsado por la convergencia de plataformas, la inteligencia artificial generativa, el contenido generado por el usuario y el cloud gaming.&r"
+        "&bInteligencia Artificial en los Juegos:&r &7La IA está jugando un papel fundamental en la creación de mundos dinámicos, NPCs con comportamientos más realistas y experiencias personalizadas para cada jugador en 2026.",
+        "&bAuge de los Juegos como Servicio (GaaS):&r &7Los títulos con actualizaciones constantes, eventos en vivo y contenido por temporadas seguirán dominando el mercado, manteniendo comunidades activas durante años.",
+        "&bRealidad Virtual y Aumentada Más Accesible:&r &7Gracias a nuevos dispositivos y mejoras en el hardware, la RV y RA están dejando de ser una experiencia de nicho, ofreciendo juegos más inmersivos y cómodos para el público general.",
+        "&bExpansión del Gaming Multiplataforma:&r &7El juego cruzado (cross-play) y la progresión compartida son cada vez más comunes, permitiendo que jugadores de distintas consolas, PC y dispositivos móviles compitan y colaboren sin barreras.",
+        "&bEnfoque en la Narrativa y la Inclusión:&r &7Las historias profundas, personajes diversos y representaciones más inclusivas continúan ganando protagonismo, reflejando una industria más consciente de su impacto cultural.",
+        "&bCrecimiento del Gaming Móvil y en la Nube:&r &7El cloud gaming y los juegos móviles de alta calidad siguen creciendo, ofreciendo experiencias cercanas a las de consola sin necesidad de hardware potente.",
+        "&bMenos Estrenos, Mayor Profundidad:&r &7La tendencia en 2026 es hacia menos estrenos de juegos, pero con una mayor profundidad y calidad en sus lanzamientos."
       ]
     },
     {
-      "id": "lanzamientos_videojuegos_julio",
+      "id": "lanzamientos_juegos_julio_2026",
       "categoria": "noticias",
       "mensajes": [
-        "&l&aLanzamientos de Videojuegos de Esta Semana (29 de Julio de 2026):&r",
-        "Esta semana trae algunas novedades interesantes para los jugadores:",
-        "&l&bBelow Rusted Gods:&r &eLanzado el 29 de julio de 2026 para PC. ¡Sumérgete en esta nueva aventura!&r",
-        "&l&bPrelude Dark Pain:&r &eYa disponible desde el 27 de julio de 2026 para PC.&r",
-        "Además, aquí hay algunos lanzamientos notables que están muy cerca:",
-        "&l&bEchobreaker:&r &eLlega el 6 de agosto de 2026 para PC.&r",
-        "&l&bMortal Shell 2:&r &eProgramado para el 20 de agosto de 2026 en PS5, Xbox y PC.&r",
-        "&l&bOnce Human:&r &eSe lanzará el 25 de agosto de 2026 para PS5 y Xbox.&r"
+        "&a&lForsaken Realms: Vahrin's Call&r &7(PC) - Un RPG de acción narrativo ambientado en una ciudad devastada por la guerra, donde asumes el papel de un mercenario. (27 de julio de 2026)",
+        "&a&lPrelude Dark Pain&r &7(Acceso anticipado para PC) - Un RPG táctico ambientado en un universo de fantasía oscura. (27 de julio de 2026)",
+        "&a&lUnbeatable&r &7(Switch 2) - Un juego de ritmo y aventura donde la música es ilegal y debes cometer crímenes. (Entre el 27 de julio y el 2 de agosto de 2026)",
+        "&a&lMahou Arms&r &7(PC) - La versión 1.0 de este título de acción \"hack and slash\" estilo anime sobre un grupo paramilitar de chicas mágicas. (27 de julio de 2026)",
+        "&a&lGothic Classic&r &7(PS4, PS5, Xbox One, Xbox Series X|S) - El clásico RPG de culto regresa en su versión original para sumergirnos de nuevo en The Colony. (28 de julio de 2026)",
+        "&a&lSir, We Have an Orc Problem&r &7(PC) - Un pequeño juego incremental de defensa de torres en el que debes enfrentarte a una horda impresionante de orcos. (28 de julio de 2026)",
+        "&a&lEverQuest Legends&r &7(PC) - Una versión reimaginada de la experiencia original de EverQuest de 1999, diseñada para jugadores solitarios y casuales. (28 de julio de 2026)",
+        "&a&lHalo: Campaign Evolved&r &7(PS5, Xbox Series X|S, PC) - El primer juego de la legendaria saga FPS regresa como un remake fiel pero modernizado con gráficos impresionantes. (28 de julio de 2026)",
+        "&a&lDispatch&r &7(Xbox Series X|S) - Una comedia superheroica en el lugar de trabajo donde tus decisiones importan, gestionando un equipo disfuncional de héroes inadaptados. (29 de julio de 2026)",
+        "&a&lMistfall Hunter&r &7(PC, PS5, Xbox Series X|S) - Un RPG de extracción PvPvE de acción en tercera persona con clases y habilidades estratégicas. (29 de julio de 2026)"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Fiebre del Oro Minero!",
+      "titulo": "&6&l¡Lunes Minero Extravagante!",
       "descripcion": [
-        "&7¡Comienza la semana con el pie derecho!",
-        "&7Vende GOLD_INGOT con un 50% extra todo el día."
+        "&7¡Empieza la semana excavando profundo!",
+        "&7Consigue +25% de valor por tus DIAMONDS."
       ],
       "tipo": "PRECIO",
-      "item": "GOLD_INGOT",
-      "porcentaje_extra": 50.0,
+      "item": "DIAMOND",
+      "porcentaje_extra": 25.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -64,20 +62,20 @@
       "hora_fin": 24
     },
     {
-      "dia": "WEDNESDAY",
-      "titulo": "&b&l¡Día del Explorador Audaz!",
+      "dia": "THURSDAY",
+      "titulo": "&b&l¡Día del Explorador Valiente!",
       "descripcion": [
-        "&7¡Explora las cuevas más profundas sin miedo!",
-        "&7Obtén Haste II para una minería rápida."
+        "&7¡Descubre nuevas fronteras sin miedo!",
+        "&7Obtén Resistencia II en tus viajes."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "HASTE",
+      "efecto_pocion": "RESISTANCE",
       "nivel_efecto": 2,
       "todo_el_dia": false,
-      "hora_inicio": 14,
-      "hora_fin": 20
+      "hora_inicio": 18,
+      "hora_fin": 22
     }
   ]
 }
