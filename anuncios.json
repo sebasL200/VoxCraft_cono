@@ -1,56 +1,55 @@
 {
   "anuncios": [
     {
-      "id": "noticia_actualizacion_1_21",
+      "id": "noticias_servidor",
       "categoria": "noticias",
       "mensajes": [
-        "&l&b¡ACTUALIZACIÓN 1.21.x!&r &eLa \"Tricky Trials Update\" ya está disponible, ¡con cámaras de prueba, nuevos mobs, crafteo automático y más para explorar!&r",
-        "&l&a¡Snapshot 26.3.6 Lanzado!&r &eEl 28 de julio de 2026, Mojang lanzó la Snapshot 26.3 Snapshot 6 para Java Edition, mejorando los campamentos abandonados con variantes específicas de bioma y reorganizando las opciones del mundo.&r",
-        "&l&bNuevas Opciones de Mundo:&r &eLa Snapshot 26.3.6 introduce una nueva pantalla de Opciones de Mundo que separa la configuración general y multijugador, ¡facilitando la gestión de tus partidas!&r",
-        "&l&a¡Contenido del Marketplace!&r &eLa Snapshot 26.3 Snapshot 5 (lanzada el 21 de julio de 2026) trajo un abundante \"cultivo de verano\" de elementos del Marketplace, ¡descúbrelos!&r",
-        "&l&b¡Nuevos Bloques Decorativos!&r &eLas últimas snapshots han incluido la adición de camas de paja y cojines, ¡perfectos para darle un toque acogedor a tus construcciones!&r",
-        "&l&cNerf a los Cojines y Flechas de Saqueo:&r &eLa Snapshot 26.3 Snapshot 4 (16 de julio de 2026) implementó un \"nerf\" a los cojines y eliminó el truco de la flecha con el encantamiento de saqueo.&r",
-        "&l&dCámaras de Prueba Mejoradas:&r &eLa actualización Tricky Trials te desafía a explorar cámaras de prueba, estructuras llenas de trampas y tesoros entre sus paredes de toba y cobre.&r",
-        "&l&a¡Explora Mobs Hostiles!&r &ePrepárate para enfrentarte a nuevos mobs hostiles introducidos en la Tricky Trials Update, ¡la aventura te espera!&r"
+        "&a&l¡ACTUALIZACIÓN DE PREVIEW!&r &e¡Nuevos Cojines y Camas de Paja llegan a Minecraft! &7Ahora puedes fabricar cojines decorativos de 16 colores diferentes para sentarte y camas de paja de un solo uso para saltarte la noche sin cambiar tu punto de aparición.",
+        "&b&lNOVEDAD EN BIOMAS:&r &a¡Campamentos Abandonados descubiertos! &7Estos nuevos campamentos ya se generan en los biomas de Jardín Pálido y Bosque Florido, ofreciendo botín y camas de paja.",
+        "&e&lSNAPSHOT 26.3.5 DISPONIBLE:&r &7Se ha lanzado un nuevo Snapshot de Minecraft con ajustes menores y correcciones de errores para mejorar la experiencia de juego.",
+        "&d&lPRÓXIMAMENTE:&r &b¡El Bioma Bosque Moteado en camino! &7Una futura actualización 26.3, esperada para septiembre de 2026, introducirá el nuevo y enigmático bioma Bosque Moteado.",
+        "&e&lPASE DE MARKETPLACE JULIO 2026:&r &7Ya está disponible el contenido del Pase de Marketplace de julio, ¡y recientemente hubo un fin de semana de prueba gratuito!",
+        "&c&lDESAFÍO COMUNITARIO:&r &d¡Participa en \"Chaos Spreads\"! &7No olvides unirte al desafío de la comunidad \"Chaos Spreads\", una celebración del reciente lanzamiento de \"Chaos Cubed\".",
+        "&7&lMEJORA EN MODO ESPECTADOR:&r &7Ahora los jugadores en modo espectador pueden interactuar con los portales para teletransportarse instantáneamente.",
+        "&7&lAJUSTE DE CRIATURAS:&r &7Los armadillos ya no intentarán enrollarse cuando estén sumergidos en líquidos, una pequeña pero significativa corrección de comportamiento."
       ]
     },
     {
-      "id": "curiosidades_gaming_2026",
+      "id": "datos_curiosos_gaming",
       "categoria": "curiosidades",
       "mensajes": [
-        "&bInteligencia Artificial en los Juegos:&r &7La IA está jugando un papel fundamental en la creación de mundos dinámicos, NPCs con comportamientos más realistas y experiencias personalizadas para cada jugador en 2026.",
-        "&bAuge de los Juegos como Servicio (GaaS):&r &7Los títulos con actualizaciones constantes, eventos en vivo y contenido por temporadas seguirán dominando el mercado, manteniendo comunidades activas durante años.",
-        "&bRealidad Virtual y Aumentada Más Accesible:&r &7Gracias a nuevos dispositivos y mejoras en el hardware, la RV y RA están dejando de ser una experiencia de nicho, ofreciendo juegos más inmersivos y cómodos para el público general.",
-        "&bExpansión del Gaming Multiplataforma:&r &7El juego cruzado (cross-play) y la progresión compartida son cada vez más comunes, permitiendo que jugadores de distintas consolas, PC y dispositivos móviles compitan y colaboren sin barreras.",
-        "&bEnfoque en la Narrativa y la Inclusión:&r &7Las historias profundas, personajes diversos y representaciones más inclusivas continúan ganando protagonismo, reflejando una industria más consciente de su impacto cultural.",
-        "&bCrecimiento del Gaming Móvil y en la Nube:&r &7El cloud gaming y los juegos móviles de alta calidad siguen creciendo, ofreciendo experiencias cercanas a las de consola sin necesidad de hardware potente.",
-        "&bMenos Estrenos, Mayor Profundidad:&r &7La tendencia en 2026 es hacia menos estrenos de juegos, pero con una mayor profundidad y calidad en sus lanzamientos."
+        "&7El primer videojuego no fue Pong, sino \"Tennis for Two\", creado en 1958 por el físico William Higinbotham.",
+        "&7Mario, el icónico personaje de Nintendo, originalmente era un carpintero llamado \"Jumpman\" en el juego \"Donkey Kong\" antes de convertirse en plomero.",
+        "&7El diseño de Pac-Man fue inspirado por una pizza a la que le faltaba una rebanada.",
+        "&7El infame videojuego de E.T. fue tan mal recibido que miles de copias no vendidas fueron enterradas en un vertedero de Nuevo México.",
+        "&7Minecraft es el videojuego más vendido de todos los tiempos, con más de 300 millones de copias vendidas hasta 2024, superando los 350 millones en 2025.",
+        "&7Durante la Segunda Guerra Mundial, el juego de mesa Monopoly fue utilizado por el gobierno británico para ayudar a los prisioneros de guerra aliados a escapar, ocultando mapas y herramientas dentro de las cajas.",
+        "&7Estudios han demostrado que jugar Tetris poco después de un evento traumático podría ayudar a reducir los síntomas del trastorno de estrés postraumático (TEPT).",
+        "&7En el clásico \"Super Mario Bros.\", las nubes y los arbustos utilizan el mismo sprite, solo que con diferentes colores, una técnica utilizada para optimizar los recursos debido a las limitaciones de la NES.",
+        "&7Un grupo de Endermen en Minecraft se denomina una \"aparición\" (a \"haunting\")."
       ]
     },
     {
-      "id": "lanzamientos_juegos_julio_2026",
+      "id": "lanzamientos_gaming_semana",
       "categoria": "noticias",
       "mensajes": [
-        "&a&lForsaken Realms: Vahrin's Call&r &7(PC) - Un RPG de acción narrativo ambientado en una ciudad devastada por la guerra, donde asumes el papel de un mercenario. (27 de julio de 2026)",
-        "&a&lPrelude Dark Pain&r &7(Acceso anticipado para PC) - Un RPG táctico ambientado en un universo de fantasía oscura. (27 de julio de 2026)",
-        "&a&lUnbeatable&r &7(Switch 2) - Un juego de ritmo y aventura donde la música es ilegal y debes cometer crímenes. (Entre el 27 de julio y el 2 de agosto de 2026)",
-        "&a&lMahou Arms&r &7(PC) - La versión 1.0 de este título de acción \"hack and slash\" estilo anime sobre un grupo paramilitar de chicas mágicas. (27 de julio de 2026)",
-        "&a&lGothic Classic&r &7(PS4, PS5, Xbox One, Xbox Series X|S) - El clásico RPG de culto regresa en su versión original para sumergirnos de nuevo en The Colony. (28 de julio de 2026)",
-        "&a&lSir, We Have an Orc Problem&r &7(PC) - Un pequeño juego incremental de defensa de torres en el que debes enfrentarte a una horda impresionante de orcos. (28 de julio de 2026)",
-        "&a&lEverQuest Legends&r &7(PC) - Una versión reimaginada de la experiencia original de EverQuest de 1999, diseñada para jugadores solitarios y casuales. (28 de julio de 2026)",
-        "&a&lHalo: Campaign Evolved&r &7(PS5, Xbox Series X|S, PC) - El primer juego de la legendaria saga FPS regresa como un remake fiel pero modernizado con gráficos impresionantes. (28 de julio de 2026)",
-        "&a&lDispatch&r &7(Xbox Series X|S) - Una comedia superheroica en el lugar de trabajo donde tus decisiones importan, gestionando un equipo disfuncional de héroes inadaptados. (29 de julio de 2026)",
-        "&a&lMistfall Hunter&r &7(PC, PS5, Xbox Series X|S) - Un RPG de extracción PvPvE de acción en tercera persona con clases y habilidades estratégicas. (29 de julio de 2026)"
+        "&b&l29 de julio de 2026:&r",
+        "&e&l*Below Rusted Gods*&r &7(PC)",
+        "&7También se lanzaron otros títulos como *A Maze in Labyrinth*, *Aenigma*, *Alarm112: Fire Unit*, *Anomalogenos*, *Appalachian Onslaught*, *Batman: Caped Crusader - Chronicles*, *Bingo Betty*, y *Cloud Sculptor* en varias plataformas.",
+        "&b&l4 de agosto de 2026:&r",
+        "&e&l*Beast of Reincarnation*&r &7(PS5)",
+        "&e&l*Big Walk*&r &7(PS5)",
+        "&7Además, a finales de julio se lanzó *Halo: Campaign Evolved* el día 28."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Lunes Minero Extravagante!",
+      "titulo": "&6&l¡Oferta del Minero Fiel!",
       "descripcion": [
-        "&7¡Empieza la semana excavando profundo!",
-        "&7Consigue +25% de valor por tus DIAMONDS."
+        "&7¡Inicia la semana con grandes hallazgos!",
+        "&7Vende DIAMOND con un 25% extra de ganancia."
       ],
       "tipo": "PRECIO",
       "item": "DIAMOND",
@@ -62,20 +61,20 @@
       "hora_fin": 24
     },
     {
-      "dia": "THURSDAY",
-      "titulo": "&b&l¡Día del Explorador Valiente!",
+      "dia": "WEDNESDAY",
+      "titulo": "&b&l¡Bendición Acuática!",
       "descripcion": [
-        "&7¡Descubre nuevas fronteras sin miedo!",
-        "&7Obtén Resistencia II en tus viajes."
+        "&7¡Explora los océanos sin límites!",
+        "&7Obtén WATER_BREATHING I por 3 horas."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "RESISTANCE",
-      "nivel_efecto": 2,
+      "efecto_pocion": "WATER_BREATHING",
+      "nivel_efecto": 1,
       "todo_el_dia": false,
       "hora_inicio": 18,
-      "hora_fin": 22
+      "hora_fin": 21
     }
   ]
 }
