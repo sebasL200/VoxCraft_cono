@@ -1,59 +1,81 @@
 {
   "anuncios": [
     {
-      "id": "noticias_servidor",
+      "id": "actualizacion_mayor_chaos_cubed",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN DE PREVIEW!&r &e¡Nuevos Cojines y Camas de Paja llegan a Minecraft! &7Ahora puedes fabricar cojines decorativos de 16 colores diferentes para sentarte y camas de paja de un solo uso para saltarte la noche sin cambiar tu punto de aparición.",
-        "&b&lNOVEDAD EN BIOMAS:&r &a¡Campamentos Abandonados descubiertos! &7Estos nuevos campamentos ya se generan en los biomas de Jardín Pálido y Bosque Florido, ofreciendo botín y camas de paja.",
-        "&e&lSNAPSHOT 26.3.5 DISPONIBLE:&r &7Se ha lanzado un nuevo Snapshot de Minecraft con ajustes menores y correcciones de errores para mejorar la experiencia de juego.",
-        "&d&lPRÓXIMAMENTE:&r &b¡El Bioma Bosque Moteado en camino! &7Una futura actualización 26.3, esperada para septiembre de 2026, introducirá el nuevo y enigmático bioma Bosque Moteado.",
-        "&e&lPASE DE MARKETPLACE JULIO 2026:&r &7Ya está disponible el contenido del Pase de Marketplace de julio, ¡y recientemente hubo un fin de semana de prueba gratuito!",
-        "&c&lDESAFÍO COMUNITARIO:&r &d¡Participa en \"Chaos Spreads\"! &7No olvides unirte al desafío de la comunidad \"Chaos Spreads\", una celebración del reciente lanzamiento de \"Chaos Cubed\".",
-        "&7&lMEJORA EN MODO ESPECTADOR:&r &7Ahora los jugadores en modo espectador pueden interactuar con los portales para teletransportarse instantáneamente.",
-        "&7&lAJUSTE DE CRIATURAS:&r &7Los armadillos ya no intentarán enrollarse cuando estén sumergidos en líquidos, una pequeña pero significativa corrección de comportamiento."
+        "&a&l¡ACTUALIZACIÓN MAYOR!&r",
+        "&e&l¡Se ha lanzado la actualización &bChaos Cubed (26.2)&e!&r Explora las nuevas &7Cuevas de Azufre&e, descubre los bloques de &dCinabrio &7y &dAzufre&e, y enfréntate al nuevo mob, el &cSulfur Cube&e. ¡Aventuras garantizadas!"
       ]
     },
     {
-      "id": "datos_curiosos_gaming",
+      "id": "proxima_actualizacion_bosque_moteado",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡PRÓXIMAMENTE!&r",
+        "&b¡Preparaos para la próxima gran actualización &a1.26.3&b! Mojang ha revelado el &eBosque Moteado&b, nuevos &aÁrboles de Álamo&b y &7Campamentos Abandonados&b. ¡Llegará en septiembre de 2026!"
+      ]
+    },
+    {
+      "id": "snapshot_julio_mejoras_tecnicas",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&lNOTICIAS TÉCNICAS&r",
+        "&7Un &aSnapshot de Julio&7 trajo mejoras técnicas: ¡soporte SDL3, pantalla completa sin bordes por defecto y más cambios en la generación de mundos y tablas de loot!"
+      ]
+    },
+    {
+      "id": "curiosidad_mario_kart_maraton",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7El primer videojuego no fue Pong, sino \"Tennis for Two\", creado en 1958 por el físico William Higinbotham.",
-        "&7Mario, el icónico personaje de Nintendo, originalmente era un carpintero llamado \"Jumpman\" en el juego \"Donkey Kong\" antes de convertirse en plomero.",
-        "&7El diseño de Pac-Man fue inspirado por una pizza a la que le faltaba una rebanada.",
-        "&7El infame videojuego de E.T. fue tan mal recibido que miles de copias no vendidas fueron enterradas en un vertedero de Nuevo México.",
-        "&7Minecraft es el videojuego más vendido de todos los tiempos, con más de 300 millones de copias vendidas hasta 2024, superando los 350 millones en 2025.",
-        "&7Durante la Segunda Guerra Mundial, el juego de mesa Monopoly fue utilizado por el gobierno británico para ayudar a los prisioneros de guerra aliados a escapar, ocultando mapas y herramientas dentro de las cajas.",
-        "&7Estudios han demostrado que jugar Tetris poco después de un evento traumático podría ayudar a reducir los síntomas del trastorno de estrés postraumático (TEPT).",
-        "&7En el clásico \"Super Mario Bros.\", las nubes y los arbustos utilizan el mismo sprite, solo que con diferentes colores, una técnica utilizada para optimizar los recursos debido a las limitaciones de la NES.",
-        "&7Un grupo de Endermen en Minecraft se denomina una \"aparición\" (a \"haunting\")."
+        "&d&lEL MUNDO GAMING&r",
+        "&b¿Sabías que la maratón más larga de &eMario Kart&b duró &a40 horas&b? ¡Eso sí es dedicación!"
       ]
     },
     {
-      "id": "lanzamientos_gaming_semana",
+      "id": "curiosidad_super_mario_maker_dificil",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&d&lCURIOSIDAD GAMING&r",
+        "&eEl nivel más difícil de &cSuper Mario Maker&e, 'Pit of Panga: U-Break', tiene una tasa de finalización de solo &a0.007636%&e. ¡Un verdadero desafío!"
+      ]
+    },
+    {
+      "id": "nuevos_lanzamientos_halo_everquest",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l29 de julio de 2026:&r",
-        "&e&l*Below Rusted Gods*&r &7(PC)",
-        "&7También se lanzaron otros títulos como *A Maze in Labyrinth*, *Aenigma*, *Alarm112: Fire Unit*, *Anomalogenos*, *Appalachian Onslaught*, *Batman: Caped Crusader - Chronicles*, *Bingo Betty*, y *Cloud Sculptor* en varias plataformas.",
-        "&b&l4 de agosto de 2026:&r",
-        "&e&l*Beast of Reincarnation*&r &7(PS5)",
-        "&e&l*Big Walk*&r &7(PS5)",
-        "&7Además, a finales de julio se lanzó *Halo: Campaign Evolved* el día 28."
+        "&a&lNUEVOS LANZAMIENTOS&r",
+        "&b¡Esta semana ha sido intensa! &eHalo: Campaign Evolved&b, un remake del clásico, se lanzó el &a28 de julio&b. ¡También llegó &eEverQuest Legends&b el mismo día!"
+      ]
+    },
+    {
+      "id": "nuevos_lanzamientos_black_desert_beast_big_walk",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&lNUEVOS LANZAMIENTOS (continuación)&r",
+        "&e&lBlack Desert Online&e añadió una nueva clase, el &bAgente&e, el &a30 de julio&e. ¡Y no te olvides de &eBeast of Reincarnation &7y &eBig Walk&7, que llegan el &a4 de agosto&e!"
+      ]
+    },
+    {
+      "id": "recuerda_version_mojang_estrategia",
+      "categoria": "consejos",
+      "mensajes": [
+        "&d&lRECUERDA NUESTRA VERSIÓN&r",
+        "&7Como parte de la nueva estrategia de Mojang, nuestras versiones ahora se basan en el año. ¡Estamos en la serie &a26.x&7, lo que significa más contenido frecuente!"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Oferta del Minero Fiel!",
+      "titulo": "&e&l¡Bonanza Minera!",
       "descripcion": [
-        "&7¡Inicia la semana con grandes hallazgos!",
-        "&7Vende DIAMOND con un 25% extra de ganancia."
+        "&7¡Es lunes de explorar, minero!",
+        "&7Doble de esmeraldas por tus DIAMOND."
       ],
       "tipo": "PRECIO",
       "item": "DIAMOND",
-      "porcentaje_extra": 25.0,
+      "porcentaje_extra": 50.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -62,19 +84,19 @@
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&b&l¡Bendición Acuática!",
+      "titulo": "&b&l¡Día del Constructor Veloz!",
       "descripcion": [
-        "&7¡Explora los océanos sin límites!",
-        "&7Obtén WATER_BREATHING I por 3 horas."
+        "&7¡Hora de construir tu imperio!",
+        "&7Consigue HASTE II para tus obras."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "WATER_BREATHING",
-      "nivel_efecto": 1,
+      "efecto_pocion": "HASTE",
+      "nivel_efecto": 2,
       "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 21
+      "hora_inicio": 14,
+      "hora_fin": 18
     }
   ]
 }
