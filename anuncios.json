@@ -1,81 +1,89 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_mayor_chaos_cubed",
-      "categoria": "noticias",
+      "id": "nuevas_aventuras_1_21",
+      "categoria": "novedades_servidor",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN MAYOR!&r",
-        "&e&l¡Se ha lanzado la actualización &bChaos Cubed (26.2)&e!&r Explora las nuevas &7Cuevas de Azufre&e, descubre los bloques de &dCinabrio &7y &dAzufre&e, y enfréntate al nuevo mob, el &cSulfur Cube&e. ¡Aventuras garantizadas!"
+        "&a&l¡NUEVAS AVENTURAS EN LA 1.21!&r",
+        "&b&l¡Descubre las Cámaras de Prueba!",
+        "&7Explora estas nuevas estructuras llenas de desafíos y recompensas exclusivas."
       ]
     },
     {
-      "id": "proxima_actualizacion_bosque_moteado",
-      "categoria": "noticias",
+      "id": "enfrentate_a_la_brisa",
+      "categoria": "novedades_servidor",
       "mensajes": [
-        "&a&l¡PRÓXIMAMENTE!&r",
-        "&b¡Preparaos para la próxima gran actualización &a1.26.3&b! Mojang ha revelado el &eBosque Moteado&b, nuevos &aÁrboles de Álamo&b y &7Campamentos Abandonados&b. ¡Llegará en septiembre de 2026!"
+        "&e&l¡ENFRÉNTATE A LA BRISA!&r",
+        "&b&l¡Un nuevo enemigo te espera!",
+        "&7Cuidado con el Breeze, una criatura elemental que ataca con ráfagas de viento."
       ]
     },
     {
-      "id": "snapshot_julio_mejoras_tecnicas",
-      "categoria": "noticias",
+      "id": "el_crafter_llega_al_servidor",
+      "categoria": "novedades_servidor",
       "mensajes": [
-        "&e&lNOTICIAS TÉCNICAS&r",
-        "&7Un &aSnapshot de Julio&7 trajo mejoras técnicas: ¡soporte SDL3, pantalla completa sin bordes por defecto y más cambios en la generación de mundos y tablas de loot!"
+        "&d&l¡EL CRAFTER LLEGA AL SERVIDOR!&r",
+        "&b&l¡Automatiza tu producción!",
+        "&7Ya puedes usar el nuevo bloque Crafter para fabricar ítems automáticamente."
       ]
     },
     {
-      "id": "curiosidad_mario_kart_maraton",
-      "categoria": "curiosidades",
+      "id": "nuevos_bloques_tuff_cobre",
+      "categoria": "novedades_servidor",
       "mensajes": [
-        "&d&lEL MUNDO GAMING&r",
-        "&b¿Sabías que la maratón más larga de &eMario Kart&b duró &a40 horas&b? ¡Eso sí es dedicación!"
+        "&7&l¡NUEVOS BLOQUES DE TUFF Y COBRE!&r",
+        "&b&l¡Decora como nunca antes!",
+        "&7Disfruta de las nuevas variantes decorativas de Tuff y Cobre pulido en tus construcciones."
       ]
     },
     {
-      "id": "curiosidad_super_mario_maker_dificil",
-      "categoria": "curiosidades",
+      "id": "desata_el_poder_de_la_maza",
+      "categoria": "novedades_servidor",
       "mensajes": [
-        "&d&lCURIOSIDAD GAMING&r",
-        "&eEl nivel más difícil de &cSuper Mario Maker&e, 'Pit of Panga: U-Break', tiene una tasa de finalización de solo &a0.007636%&e. ¡Un verdadero desafío!"
+        "&c&l¡DESATA EL PODER DE LA MAZA!&r",
+        "&b&l¡La nueva arma letal!",
+        "&7Prueba la Mace, una poderosa arma que causa más daño al caer desde lo alto."
       ]
     },
     {
-      "id": "nuevos_lanzamientos_halo_everquest",
-      "categoria": "noticias",
+      "id": "el_bogged_se_esconde",
+      "categoria": "novedades_servidor",
       "mensajes": [
-        "&a&lNUEVOS LANZAMIENTOS&r",
-        "&b¡Esta semana ha sido intensa! &eHalo: Campaign Evolved&b, un remake del clásico, se lanzó el &a28 de julio&b. ¡También llegó &eEverQuest Legends&b el mismo día!"
+        "&a&l¡EL BOGGED SE ESCONDE!&r",
+        "&b&l¡Un esqueleto pantanoso!",
+        "&7Encuentra al nuevo Bogged, un esqueleto cubierto de musgo que dispara flechas de veneno."
       ]
     },
     {
-      "id": "nuevos_lanzamientos_black_desert_beast_big_walk",
-      "categoria": "noticias",
+      "id": "armadura_de_lobo_disponible",
+      "categoria": "novedades_servidor",
       "mensajes": [
-        "&a&lNUEVOS LANZAMIENTOS (continuación)&r",
-        "&e&lBlack Desert Online&e añadió una nueva clase, el &bAgente&e, el &a30 de julio&e. ¡Y no te olvides de &eBeast of Reincarnation &7y &eBig Walk&7, que llegan el &a4 de agosto&e!"
+        "&e&l¡ARMADURA DE LOBO DISPONIBLE!&r",
+        "&b&l¡Protege a tu compañero fiel!",
+        "&7Ya puedes fabricar armadura especial para tus lobos y llevarlos a la aventura."
       ]
     },
     {
-      "id": "recuerda_version_mojang_estrategia",
-      "categoria": "consejos",
+      "id": "micocreditos_por_actividad",
+      "categoria": "novedades_servidor",
       "mensajes": [
-        "&d&lRECUERDA NUESTRA VERSIÓN&r",
-        "&7Como parte de la nueva estrategia de Mojang, nuestras versiones ahora se basan en el año. ¡Estamos en la serie &a26.x&7, lo que significa más contenido frecuente!"
+        "&d&l¡MINICRÉDITOS POR ACTIVIDAD!&r",
+        "&b&l¡Juega y gana recompensas!",
+        "&7Mantente activo en el servidor y recibirás créditos para la tienda de forma pasiva."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&e&l¡Bonanza Minera!",
+      "titulo": "&6&l¡Fiebre del Cobre!",
       "descripcion": [
-        "&7¡Es lunes de explorar, minero!",
-        "&7Doble de esmeraldas por tus DIAMOND."
+        "&7¡La actualización 1.21 trajo nuevas variantes de Cobre!",
+        "&7Consigue un 20% más por tus Lingotes de Cobre."
       ],
       "tipo": "PRECIO",
-      "item": "DIAMOND",
-      "porcentaje_extra": 50.0,
+      "item": "COPPER_INGOT",
+      "porcentaje_extra": 20.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -84,19 +92,19 @@
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&b&l¡Día del Constructor Veloz!",
+      "titulo": "&c&l¡Torneo de Almas!",
       "descripcion": [
-        "&7¡Hora de construir tu imperio!",
-        "&7Consigue HASTE II para tus obras."
+        "&7¡Marvel Tokon: Fighting Souls se lanza esta semana!",
+        "&7Obtén Fuerza I y vende huesos con 15% extra."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
-      "efecto_pocion": "HASTE",
-      "nivel_efecto": 2,
-      "todo_el_dia": false,
-      "hora_inicio": 14,
-      "hora_fin": 18
+      "tipo": "AMBOS",
+      "item": "BONE",
+      "porcentaje_extra": 15.0,
+      "efecto_pocion": "STRENGTH",
+      "nivel_efecto": 1,
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     }
   ]
 }
