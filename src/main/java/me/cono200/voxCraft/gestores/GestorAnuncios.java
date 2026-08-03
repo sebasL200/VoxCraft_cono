@@ -69,16 +69,20 @@ public class GestorAnuncios {
         for (JsonElement el : jsonAnuncios) {
             if (!el.isJsonObject()) continue;
             JsonObject obj = el.getAsJsonObject();
-            String id = obj.has("id") ? obj.get("id").getAsString() : "";
+            String idBase = obj.has("id") ? obj.get("id").getAsString() : "";
             String categoria = obj.has("categoria") ? obj.get("categoria").getAsString() : "";
-            List<String> mensajes = new ArrayList<>();
+
             if (obj.has("mensajes") && obj.get("mensajes").isJsonArray()) {
-                for (JsonElement line : obj.get("mensajes").getAsJsonArray()) {
-                    mensajes.add(line.getAsString());
+                JsonArray msgs = obj.get("mensajes").getAsJsonArray();
+                int idx = 1;
+                for (JsonElement msgEl : msgs) {
+                    String texto = msgEl.getAsString().trim();
+                    if (!texto.isEmpty()) {
+                        String idFinal = (msgs.size() == 1) ? idBase : (idBase + "_" + idx);
+                        anunciosActivos.add(new Anuncio(idFinal, categoria, Collections.singletonList(texto)));
+                        idx++;
+                    }
                 }
-            }
-            if (!id.isEmpty()) {
-                anunciosActivos.add(new Anuncio(id, categoria, mensajes));
             }
         }
         plugin.getLogger().info("Se han cargado " + anunciosActivos.size() + " anuncios activos en memoria.");

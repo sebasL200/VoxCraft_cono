@@ -1,7 +1,6 @@
 package me.cono200.voxCraft.comandos;
 
 import me.cono200.voxCraft.VoxCraft;
-import me.cono200.voxCraft.test.PruebaConexion;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
@@ -33,7 +32,6 @@ public class ComandoVoxCraft implements CommandExecutor, TabCompleter {
             sender.sendMessage(ChatColor.GRAY + "---------- " + ChatColor.AQUA + "Ayuda de VoxCraft" + ChatColor.GRAY + " ----------");
             sender.sendMessage(ChatColor.YELLOW + "/voxcraft reload " + ChatColor.WHITE + "- Recarga la configuración del plugin.");
             sender.sendMessage(ChatColor.YELLOW + "/voxcraft forcefetch " + ChatColor.WHITE + "- Descarga de inmediato anuncios.json.");
-            sender.sendMessage(ChatColor.YELLOW + "/voxcraft test " + ChatColor.WHITE + "- Simula una inyección en HorasFelices.");
             sender.sendMessage(ChatColor.GRAY + "---------------------------------------");
             return true;
         }
@@ -49,9 +47,6 @@ public class ComandoVoxCraft implements CommandExecutor, TabCompleter {
                 plugin.getGestorDescarga().descargarAnunciosAsync();
                 sender.sendMessage(ChatColor.GREEN + "[✔] Petición de descarga forzada enviada en segundo plano.");
                 break;
-            case "test":
-                PruebaConexion.ejecutarPruebaInyeccion(plugin, sender);
-                break;
             default:
                 sender.sendMessage(ChatColor.RED + "Subcomando desconocido. Usa /voxcraft para ver la ayuda.");
                 break;
@@ -63,7 +58,7 @@ public class ComandoVoxCraft implements CommandExecutor, TabCompleter {
     @Override
     public List<String> onTabComplete(@NotNull CommandSender sender, @NotNull Command command, @NotNull String alias, @NotNull String[] args) {
         if (args.length == 1) {
-            List<String> list = Arrays.asList("reload", "forcefetch", "test");
+            List<String> list = Arrays.asList("reload", "forcefetch");
             return list.stream()
                     .filter(s -> s.startsWith(args[0].toLowerCase()))
                     .collect(Collectors.toList());
