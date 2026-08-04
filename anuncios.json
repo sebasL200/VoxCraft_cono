@@ -1,55 +1,181 @@
 {
   "anuncios": [
     {
-      "id": "noticias_minecraft_recientes",
+      "id": "actualizacion_1_21_1",
       "categoria": "noticias",
       "mensajes": [
-        "&a¡Atención, aventureros y constructores! &eHemos recopilado las novedades más emocionantes para mantener su experiencia en el servidor tan fresca como un bloque recién minado.",
-        "&b¡Ya está aquí la &l&bActualización Tricky Trials (1.21)&r! &ePrepárense para explorar las desafiantes &l&eTrial Chambers&r, repletas de nuevos peligros y recompensas.",
-        "&cEnfrenten a las nuevas criaturas &l&cBreeze&r y &l&cBogged&r en las Trial Chambers. &7¡El Breeze te atacará con ráfagas de viento y el Bogged es una nueva variante de esqueleto!",
-        "&dDescubran la &l&dMaza&r, la nueva y poderosa arma que inflige más daño cuanto mayor sea la caída antes de golpear a un objetivo. &7¡Perfecta para ataques sorpresa desde las alturas!",
-        "&aAutomatiza tus granjas con el &l&aCrafter&r, un nuevo bloque impulsado por Redstone que permite la fabricación automática de ítems. &7¡Construye fábricas sin necesidad de mods!",
-        "&e¡Expande tus opciones de construcción con la &l&eintroducción de nuevas variantes de bloques de Cobre y Toba&r! &7Ahora con rejillas de cobre, bloques de toba pulida y más.",
-        "&bColecciona los &l&bnuevos discos de música y las 20 nuevas pinturas&r para personalizar aún más tu base. &7¡Decorar tu hogar nunca fue tan divertido!",
-        "&dEncuentren los &l&dnuevos adornos de armadura y patrones de estandarte&r exclusivos de las Trial Chambers. &7¡Dale un toque único a tu equipo y tus creaciones!",
-        "&7¡Importante! &l&7Minecraft Java Edition ha recibido un hotfix 1.21.10&r, solucionando errores importantes como problemas de carga de chunks y teletransporte."
+        "&a&l¡ACTUALIZACIÓN 1.21 \"TRICKY TRIALS\" YA DISPONIBLE!&r"
       ]
     },
     {
-      "id": "curiosidades_gaming",
+      "id": "actualizacion_1_21_2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&eExplora las nuevas Trial Chambers, lucha contra los Breeze y Bogged, y domina la nueva Maza."
+      ]
+    },
+    {
+      "id": "novedad_crafter_1",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&lNOVEDAD: ¡EL CRAFTER LLEGA AL SERVIDOR!&r"
+      ]
+    },
+    {
+      "id": "novedad_crafter_2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7Automatiza tus crafteos con este bloque revolucionario."
+      ]
+    },
+    {
+      "id": "novedad_crafter_3",
+      "categoria": "noticias",
+      "mensajes": [
+        "¿Listo para optimizar tus granjas?"
+      ]
+    },
+    {
+      "id": "era_del_cobre_1",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e¡LA ERA DEL COBRE HA LLEGADO!&r"
+      ]
+    },
+    {
+      "id": "era_del_cobre_2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&dDescubre los Golems de Cobre, cofres y decoraciones, ¡y mira cómo se oxidan con el tiempo!"
+      ]
+    },
+    {
+      "id": "enigmas_trial_chambers_1",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡NUEVOS ENIGMAS EN LAS TRIAL CHAMBERS!&r"
+      ]
+    },
+    {
+      "id": "enigmas_trial_chambers_2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&cEnfrenta a los Trial Spawners para obtener recompensas únicas y el botín de la Ominous Bottle."
+      ]
+    },
+    {
+      "id": "arte_nuevas_pinturas_1",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a¡ARTE EN EL SERVIDOR!&r"
+      ]
+    },
+    {
+      "id": "arte_nuevas_pinturas_2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&eHemos añadido las &l20 nuevas pinturas&r &ede la actualización 1.21 para decorar tus construcciones."
+      ]
+    },
+    {
+      "id": "mejora_estrategia_maza_1",
+      "categoria": "consejos",
+      "mensajes": [
+        "&b&lMEJORA TU ESTRATEGIA:&r"
+      ]
+    },
+    {
+      "id": "mejora_estrategia_maza_2",
+      "categoria": "consejos",
+      "mensajes": [
+        "&ePrueba los nuevos encantamientos exclusivos de la Maza: &dDensity &b y &dBreach&e."
+      ]
+    },
+    {
+      "id": "mejora_estrategia_maza_3",
+      "categoria": "consejos",
+      "mensajes": [
+        "¡Dominar el combate nunca fue tan divertido!"
+      ]
+    },
+    {
+      "id": "minijuego_semana_1",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&lMINIJUEGO DE LA SEMANA:&r"
+      ]
+    },
+    {
+      "id": "minijuego_semana_2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a¡Desafío de Supervivencia en la Trial Chamber!&r"
+      ]
+    },
+    {
+      "id": "minijuego_semana_3",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7Demuestra tus habilidades y gana premios exclusivos."
+      ]
+    },
+    {
+      "id": "curiosidad_tetris_1",
       "categoria": "curiosidades",
       "mensajes": [
-        "¿Sabías que &l&cMario&r, antes de tener su propia franquicia, apareció en &l&cDonkey Kong&r con el nombre de &l&cJumpman&r y su profesión original era la de carpintero?",
-        "El concepto de &l&bPókemon&r surgió de la obsesión del creador &l&bSatoshi Tajiri&r por coleccionar insectos cuando era niño, buscando recrear esa sensación en un juego.",
-        "Se estima que más de &l&a3.32 mil millones de personas&r juegan videojuegos en todo el mundo a partir de 2023.",
-        "El primer &l&e\"Easter egg\"&r en un videojuego fue ocultado por el desarrollador &l&eWarren Robinett&r en el juego &l&eAdventure&r de Atari, ya que la compañía se negaba a acreditar a sus creadores públicamente.",
-        "&l&dTetris&r fue el primer videojuego jugado en el espacio, llevado por el cosmonauta &l&dAleksandr Serebrov&r en su misión de 1993 a la estación espacial Mir.",
-        "El género de videojuegos más popular no son los juegos de disparos en primera persona, sino los &l&cpuzzles&r, elegidos por el &l&c65% de los jugadores&r."
+        "&7¿Sabías que &eTetris &7fue el videojuego más vendido por décadas?&r"
       ]
     },
     {
-      "id": "lanzamientos_videojuegos_semana",
-      "categoria": "noticias",
+      "id": "curiosidad_tetris_2",
+      "categoria": "curiosidades",
       "mensajes": [
-        "Esta semana trae una variedad de títulos interesantes para diferentes plataformas:",
-        "&lBeast of Reincarnation&r &7(3 de agosto de 2026): Un RPG de acción \"una persona, un perro\" ambientado en un Japón post-apocalíptico.",
-        "&lBig Walk&r &7(3 de agosto de 2026): Una aventura cooperativa en línea de los creadores de Untitled Goose Game.",
-        "&lHellSlave II: Judgment of the Archon&r &7(3 de agosto de 2026): Un RPG de exploración de mazmorras con combate por turnos y temática de fantasía oscura.",
-        "&lAkatori&r &7(4 de agosto de 2026): Un juego de plataformas 2D de acción y aventura.",
-        "&lFields of Mistria&r &7(4 de agosto de 2026): Un simulador de granja con elementos de RPG y citas (acceso anticipado).",
-        "&lMARVEL Tōkon: Fighting Souls&r &7(5 de agosto de 2026): Un juego de lucha 2.5D con estética anime y un modo historia original.",
-        "&lExpeditions: Samurai&r &7(Agosto de 2026): Un CRPG histórico por equipos ambientado durante el período Sengoku.",
-        "&lThe Elder Scrolls IV: Oblivion Remastered&r &7(11 de agosto de 2026): Una versión remasterizada del clásico RPG de mundo abierto."
+        "&b¡Un clásico inmortal que nos inspira a seguir construyendo!"
+      ]
+    },
+    {
+      "id": "curiosidad_generos_juegos_1",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&e&lDATO CURIOSO:&r"
+      ]
+    },
+    {
+      "id": "curiosidad_generos_juegos_2",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7Más del &b55% &7de los jugadores prefieren los juegos de disparos, seguidos por los RPG/MMORPG."
+      ]
+    },
+    {
+      "id": "curiosidad_generos_juegos_3",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "¿Cuál es tu género favorito?"
+      ]
+    },
+    {
+      "id": "curiosidad_primer_arcade_1",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7Un hecho fascinante: el primer videojuego arcade comercial fue &bComputer Space &7en 1971."
+      ]
+    },
+    {
+      "id": "curiosidad_primer_arcade_2",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "¡Hemos recorrido un largo camino desde entonces!"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Bono de Cosecha Cúprica!",
+      "titulo": "&6&l¡Lunes Minero de Cobre!",
       "descripcion": [
-        "&7¡Hoy es el día del cobre y sus derivados!",
-        "&7Consigue un 50% extra al vender lingotes de cobre."
+        "&7Un nuevo amanecer en la superficie.",
+        "&7¡Cobre con +50% de valor todo el día!"
       ],
       "tipo": "PRECIO",
       "item": "COPPER_INGOT",
@@ -61,16 +187,16 @@
       "hora_fin": 24
     },
     {
-      "dia": "WEDNESDAY",
-      "titulo": "&a&l¡Día del Minero Eficiente!",
+      "dia": "THURSDAY",
+      "titulo": "&a&l¡Jueves de Reflejos Rápidos!",
       "descripcion": [
-        "&7¡Excava como nunca con esta bonificación!",
-        "&7Obtén el efecto Prisa II durante todo el día."
+        "&7Enfréntate a los nuevos desafíos de las Trial Chambers.",
+        "&7Obtén Velocidad II para moverte con agilidad."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "HASTE",
+      "efecto_pocion": "SPEED",
       "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
