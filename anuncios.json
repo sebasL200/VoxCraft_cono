@@ -1,184 +1,128 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21_1",
+      "id": "actualizacion_1_21_lanzada_1",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21 \"TRICKY TRIALS\" YA DISPONIBLE!&r"
+        "&a &l¡La Actualización 1.21 \"Tricky Trials\" ya está Aquí!"
       ]
     },
     {
-      "id": "actualizacion_1_21_2",
+      "id": "actualizacion_1_21_lanzada_2",
       "categoria": "noticias",
       "mensajes": [
-        "&eExplora las nuevas Trial Chambers, lucha contra los Breeze y Bogged, y domina la nueva Maza."
+        "&7La esperada actualización 1.21 de Minecraft, conocida como \"Tricky Trials\", ha sido lanzada oficialmente para las ediciones Java y Bedrock, ¡trayendo emocionantes novedades para todos los jugadores!"
       ]
     },
     {
-      "id": "novedad_crafter_1",
+      "id": "explora_camaras_desafio_1",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lNOVEDAD: ¡EL CRAFTER LLEGA AL SERVIDOR!&r"
+        "&e &l¡Explora las Peligrosas Cámaras de Desafío!"
       ]
     },
     {
-      "id": "novedad_crafter_2",
+      "id": "explora_camaras_desafio_2",
       "categoria": "noticias",
       "mensajes": [
-        "&7Automatiza tus crafteos con este bloque revolucionario."
+        "&7Aventúrate en las nuevas estructuras subterráneas \"Trial Chambers\", llenas de trampas, tesoros y nuevos mobs. Puedes encontrar mapas de estas cámaras comprándolos a los aldeanos."
       ]
     },
     {
-      "id": "novedad_crafter_3",
+      "id": "enfrenta_breeze_usa_mazo_1",
       "categoria": "noticias",
       "mensajes": [
-        "¿Listo para optimizar tus granjas?"
+        "&b &l¡Enfréntate al Breeze y Usa el Mazo!"
       ]
     },
     {
-      "id": "era_del_cobre_1",
+      "id": "enfrenta_breeze_usa_mazo_2",
       "categoria": "noticias",
       "mensajes": [
-        "&e¡LA ERA DEL COBRE HA LLEGADO!&r"
+        "&7Descubre al nuevo mob hostil, el Breeze, dentro de las Trial Chambers, y equípate con el poderoso Mazo, una nueva arma que ofrece nuevas posibilidades de combate."
       ]
     },
     {
-      "id": "era_del_cobre_2",
+      "id": "revolucion_automatizacion_crafter_1",
       "categoria": "noticias",
       "mensajes": [
-        "&dDescubre los Golems de Cobre, cofres y decoraciones, ¡y mira cómo se oxidan con el tiempo!"
+        "&d &l¡Revolución en la Automatización con el Crafter!"
       ]
     },
     {
-      "id": "enigmas_trial_chambers_1",
+      "id": "revolucion_automatizacion_crafter_2",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡NUEVOS ENIGMAS EN LAS TRIAL CHAMBERS!&r"
+        "&7Lleva tus diseños de Redstone al siguiente nivel con el innovador bloque Crafter, que permite la creación automatizada de ítems."
       ]
     },
     {
-      "id": "enigmas_trial_chambers_2",
+      "id": "nuevos_bloques_cobre_toba_1",
       "categoria": "noticias",
       "mensajes": [
-        "&cEnfrenta a los Trial Spawners para obtener recompensas únicas y el botín de la Ominous Bottle."
+        "&7 &l¡Nuevos Bloques Decorativos: Cobre y Toba!"
       ]
     },
     {
-      "id": "arte_nuevas_pinturas_1",
+      "id": "nuevos_bloques_cobre_toba_2",
       "categoria": "noticias",
       "mensajes": [
-        "&a¡ARTE EN EL SERVIDOR!&r"
+        "&7Añade un toque único a tus construcciones con los nuevos bloques decorativos hechos de Cobre y Toba, que ofrecen más opciones estéticas para tus proyectos."
       ]
     },
     {
-      "id": "arte_nuevas_pinturas_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&eHemos añadido las &l20 nuevas pinturas&r &ede la actualización 1.21 para decorar tus construcciones."
-      ]
-    },
-    {
-      "id": "mejora_estrategia_maza_1",
-      "categoria": "consejos",
-      "mensajes": [
-        "&b&lMEJORA TU ESTRATEGIA:&r"
-      ]
-    },
-    {
-      "id": "mejora_estrategia_maza_2",
-      "categoria": "consejos",
-      "mensajes": [
-        "&ePrueba los nuevos encantamientos exclusivos de la Maza: &dDensity &b y &dBreach&e."
-      ]
-    },
-    {
-      "id": "mejora_estrategia_maza_3",
-      "categoria": "consejos",
-      "mensajes": [
-        "¡Dominar el combate nunca fue tan divertido!"
-      ]
-    },
-    {
-      "id": "minijuego_semana_1",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&lMINIJUEGO DE LA SEMANA:&r"
-      ]
-    },
-    {
-      "id": "minijuego_semana_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a¡Desafío de Supervivencia en la Trial Chamber!&r"
-      ]
-    },
-    {
-      "id": "minijuego_semana_3",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7Demuestra tus habilidades y gana premios exclusivos."
-      ]
-    },
-    {
-      "id": "curiosidad_tetris_1",
+      "id": "curiosidad_minecraft_mas_vendido_1",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7¿Sabías que &eTetris &7fue el videojuego más vendido por décadas?&r"
+        "&a &lDato Curioso Gamer: ¡Minecraft es el Más Vendido!"
       ]
     },
     {
-      "id": "curiosidad_tetris_2",
+      "id": "curiosidad_minecraft_mas_vendido_2",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b¡Un clásico inmortal que nos inspira a seguir construyendo!"
+        "&7¿Sabías que Minecraft ostenta el título del videojuego más vendido de la historia, con más de 200 millones de copias comercializadas a nivel mundial?"
       ]
     },
     {
-      "id": "curiosidad_generos_juegos_1",
+      "id": "curiosidad_mario_carpintero_1",
       "categoria": "curiosidades",
       "mensajes": [
-        "&e&lDATO CURIOSO:&r"
+        "&e &lCuriosidad: Mario no Nació Fontanero!"
       ]
     },
     {
-      "id": "curiosidad_generos_juegos_2",
+      "id": "curiosidad_mario_carpintero_2",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7Más del &b55% &7de los jugadores prefieren los juegos de disparos, seguidos por los RPG/MMORPG."
+        "&7Un dato fascinante: el personaje de Mario hizo su primera aparición en el juego Donkey Kong, donde era conocido como \"Jumpman\" y su profesión era carpintero."
       ]
     },
     {
-      "id": "curiosidad_generos_juegos_3",
-      "categoria": "curiosidades",
+      "id": "lanzamiento_marvel_tokon_1",
+      "categoria": "noticias",
       "mensajes": [
-        "¿Cuál es tu género favorito?"
+        "&b &lLanzamiento Destacado de la Semana: Marvel Tokon: Fighting Souls!"
       ]
     },
     {
-      "id": "curiosidad_primer_arcade_1",
-      "categoria": "curiosidades",
+      "id": "lanzamiento_marvel_tokon_2",
+      "categoria": "noticias",
       "mensajes": [
-        "&7Un hecho fascinante: el primer videojuego arcade comercial fue &bComputer Space &7en 1971."
-      ]
-    },
-    {
-      "id": "curiosidad_primer_arcade_2",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "¡Hemos recorrido un largo camino desde entonces!"
+        "&7Para los amantes de la lucha, el nuevo juego \"Marvel Tokon: Fighting Souls\" se lanzó el 6 de agosto para PC y PlayStation 5, ofreciendo batallas 4v4 con icónicos personajes de Marvel."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Lunes Minero de Cobre!",
+      "titulo": "&6&l¡Día del Minero Aficionado!",
       "descripcion": [
-        "&7Un nuevo amanecer en la superficie.",
-        "&7¡Cobre con +50% de valor todo el día!"
+        "&7¡Las minas te esperan con grandes ganancias!",
+        "&7&l+50%&r &7en ventas de &eGOLD_INGOT&7."
       ],
       "tipo": "PRECIO",
-      "item": "COPPER_INGOT",
+      "item": "GOLD_INGOT",
       "porcentaje_extra": 50.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
@@ -187,20 +131,20 @@
       "hora_fin": 24
     },
     {
-      "dia": "THURSDAY",
-      "titulo": "&a&l¡Jueves de Reflejos Rápidos!",
+      "dia": "WEDNESDAY",
+      "titulo": "&b&l¡Bendición del Navegante!",
       "descripcion": [
-        "&7Enfréntate a los nuevos desafíos de las Trial Chambers.",
-        "&7Obtén Velocidad II para moverte con agilidad."
+        "&7¡Explora mares y ríos sin límites!",
+        "&7Obtén &bWATER_BREATHING II&7 para tus aventuras."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "SPEED",
+      "efecto_pocion": "WATER_BREATHING",
       "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 22
     }
   ]
 }
