@@ -1,128 +1,303 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21_lanzada_1",
+      "id": "noticias_actualizacion_bedrock_1",
       "categoria": "noticias",
       "mensajes": [
-        "&a &l¡La Actualización 1.21 \"Tricky Trials\" ya está Aquí!"
+        "&a¡Actualización de Bedrock 1.21.110 Lanzada!&r &7Mojang Studios ha lanzado una actualización masiva para Bedrock Edition, trayendo nuevas características experimentales y cientos de mejoras."
       ]
     },
     {
-      "id": "actualizacion_1_21_lanzada_2",
+      "id": "noticias_actualizacion_bedrock_2",
       "categoria": "noticias",
       "mensajes": [
-        "&7La esperada actualización 1.21 de Minecraft, conocida como \"Tricky Trials\", ha sido lanzada oficialmente para las ediciones Java y Bedrock, ¡trayendo emocionantes novedades para todos los jugadores!"
+        "&bExplora Nuevos Biomas y Estructuras:&r &7La 1.21.110 introduce el bioma del Bosque Moteado, Campamentos Abandonados y ¡los nuevos Álamos!"
       ]
     },
     {
-      "id": "explora_camaras_desafio_1",
+      "id": "noticias_actualizacion_bedrock_3",
       "categoria": "noticias",
       "mensajes": [
-        "&e &l¡Explora las Peligrosas Cámaras de Desafío!"
+        "&e¡Bloques Decorativos Expandidos!&r &7Ahora podéis decorar vuestras construcciones con Cojines, Camas de Paja, y las esperadas Losa y Escaleras de Lana en todos los colores."
       ]
     },
     {
-      "id": "explora_camaras_desafio_2",
+      "id": "noticias_actualizacion_bedrock_4",
       "categoria": "noticias",
       "mensajes": [
-        "&7Aventúrate en las nuevas estructuras subterráneas \"Trial Chambers\", llenas de trampas, tesoros y nuevos mobs. Puedes encontrar mapas de estas cámaras comprándolos a los aldeanos."
+        "&dMejoras en la Calidad de Vida:&r &7Se ha restaurado el comportamiento esperado de las vagonetas y las barcas son ahora más fáciles de romper."
       ]
     },
     {
-      "id": "enfrenta_breeze_usa_mazo_1",
+      "id": "noticias_actualizacion_bedrock_5",
       "categoria": "noticias",
       "mensajes": [
-        "&b &l¡Enfréntate al Breeze y Usa el Mazo!"
+        "&aEl Desafío se Intensifica con 1.21 \"Tricky Trials\":&r &7La próxima gran actualización, \"Tricky Trials\", traerá Cámaras de Prueba, nuevos mobs como el Breeze y el Bogged, y ¡eventos ominosos!"
       ]
     },
     {
-      "id": "enfrenta_breeze_usa_mazo_2",
+      "id": "noticias_actualizacion_bedrock_6",
       "categoria": "noticias",
       "mensajes": [
-        "&7Descubre al nuevo mob hostil, el Breeze, dentro de las Trial Chambers, y equípate con el poderoso Mazo, una nueva arma que ofrece nuevas posibilidades de combate."
+        "&bNuevas Herramientas de Combate y Creación:&r &7Prepárense para empuñar la nueva Maza y usar el Crafter para automatizar vuestras creaciones."
       ]
     },
     {
-      "id": "revolucion_automatizacion_crafter_1",
+      "id": "noticias_actualizacion_bedrock_7",
       "categoria": "noticias",
       "mensajes": [
-        "&d &l¡Revolución en la Automatización con el Crafter!"
+        "&e¡Mods a la última!&r &7Para los que usen Fabric, es importante actualizar a Loom 1.6 y el último Fabric Loader (0.15.11) para compatibilidad con la 1.21."
       ]
     },
     {
-      "id": "revolucion_automatizacion_crafter_2",
+      "id": "noticias_actualizacion_bedrock_8",
       "categoria": "noticias",
       "mensajes": [
-        "&7Lleva tus diseños de Redstone al siguiente nivel con el innovador bloque Crafter, que permite la creación automatizada de ítems."
+        "&dEl Armadillo ya está aquí:&r &7Aunque la 1.21 aún se prepara, el Armadillo, ganador de la votación de mobs, ya fue implementado en la actualización 1.20.5 (1.20.8 para Bedrock)."
       ]
     },
     {
-      "id": "nuevos_bloques_cobre_toba_1",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7 &l¡Nuevos Bloques Decorativos: Cobre y Toba!"
-      ]
-    },
-    {
-      "id": "nuevos_bloques_cobre_toba_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7Añade un toque único a tus construcciones con los nuevos bloques decorativos hechos de Cobre y Toba, que ofrecen más opciones estéticas para tus proyectos."
-      ]
-    },
-    {
-      "id": "curiosidad_minecraft_mas_vendido_1",
+      "id": "curiosidades_gaming_1",
       "categoria": "curiosidades",
       "mensajes": [
-        "&a &lDato Curioso Gamer: ¡Minecraft es el Más Vendido!"
+        "&7El primer videojuego no fue Pong, sino \"Tennis for Two\"."
       ]
     },
     {
-      "id": "curiosidad_minecraft_mas_vendido_2",
+      "id": "curiosidades_gaming_2",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7¿Sabías que Minecraft ostenta el título del videojuego más vendido de la historia, con más de 200 millones de copias comercializadas a nivel mundial?"
+        "&7Mario, el icónico fontanero, ¡originalmente era carpintero!"
       ]
     },
     {
-      "id": "curiosidad_mario_carpintero_1",
+      "id": "curiosidades_gaming_3",
       "categoria": "curiosidades",
       "mensajes": [
-        "&e &lCuriosidad: Mario no Nació Fontanero!"
+        "&7El diseño de Pac-Man se inspiró en una pizza a la que le faltaba una rebanada."
       ]
     },
     {
-      "id": "curiosidad_mario_carpintero_2",
+      "id": "curiosidades_gaming_4",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7Un dato fascinante: el personaje de Mario hizo su primera aparición en el juego Donkey Kong, donde era conocido como \"Jumpman\" y su profesión era carpintero."
+        "&7El famoso Konami Code ha aparecido en más de 100 juegos diferentes."
       ]
     },
     {
-      "id": "lanzamiento_marvel_tokon_1",
+      "id": "curiosidades_gaming_5",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7Los desarrolladores del Tetris original para NES solo codificaron colores para 29 niveles, ¡ya que no esperaban que los jugadores llegaran más lejos!"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_1",
       "categoria": "noticias",
       "mensajes": [
-        "&b &lLanzamiento Destacado de la Semana: Marvel Tokon: Fighting Souls!"
+        "&b&lLanzamientos de Videojuegos Esta Semana (5 al 11 de Agosto de 2026):"
       ]
     },
     {
-      "id": "lanzamiento_marvel_tokon_2",
+      "id": "lanzamientos_videojuegos_agosto_2026_2",
       "categoria": "noticias",
       "mensajes": [
-        "&7Para los amantes de la lucha, el nuevo juego \"Marvel Tokon: Fighting Souls\" se lanzó el 6 de agosto para PC y PlayStation 5, ofreciendo batallas 4v4 con icónicos personajes de Marvel."
+        "&65 de Agosto:&r"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_3",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aStar Ocean The Second Story R &8(PS5)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_4",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aTropico 6 - Next Gen Edition &8(PS5)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_5",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aFive Hearts Under One Roof &8(Xbox)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_6",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aGunstoppable &8(Xbox)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_7",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aMate'Morphosis &8(Xbox)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_8",
+      "categoria": "noticias",
+      "mensajes": [
+        "&66 de Agosto:&r"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_9",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aAery – Surreal World &8(Xbox)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_10",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aHerd Dispatch &8(Xbox)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_11",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aMontabi &8(Xbox, Switch, PC)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_12",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aSokogem &8(Xbox)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_13",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aYellowcreek Stories - The Cabin Watcher &8(Xbox)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_14",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aEchobreaker &8(PC)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_15",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aLies of P: Complete Edition &8(Switch 2)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_16",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aMarvel Tokon: Fighting Souls &8(PS5, PC)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_17",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aReStory &8(PC)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_18",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aSovereign Tower &8(PC)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_19",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aUncanny Tales: The Watcher &8(PC)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_20",
+      "categoria": "noticias",
+      "mensajes": [
+        "&67 de Agosto:&r"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_21",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aGrizzy and the Lemmings - Crazy Party &8(Xbox)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_22",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aINK ENIGMA 2: Hidden Object Challenges &8(Xbox)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_23",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aJohn Fox &8(Xbox)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_24",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aLimbot &8(Xbox)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_25",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aSuikoden Star Leap &8(Mobile Japan)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_26",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aChop Chop Inc. &8(PC)"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_27",
+      "categoria": "noticias",
+      "mensajes": [
+        "&611 de Agosto:&r"
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto_2026_28",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7* &aThe Elder Scrolls IV: Oblivion Remastered &8(Switch 2)"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Día del Minero Aficionado!",
+      "titulo": "&6&l¡Fiebre del Mineral!",
       "descripcion": [
-        "&7¡Las minas te esperan con grandes ganancias!",
-        "&7&l+50%&r &7en ventas de &eGOLD_INGOT&7."
+        "&7¡El Lunes es día de minería intensa!",
+        "&7+50% más por tu &bDIAMOND&7."
       ],
       "tipo": "PRECIO",
-      "item": "GOLD_INGOT",
+      "item": "DIAMOND",
       "porcentaje_extra": 50.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
@@ -132,15 +307,15 @@
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&b&l¡Bendición del Navegante!",
+      "titulo": "&a&l¡Miércoles Veloz!",
       "descripcion": [
-        "&7¡Explora mares y ríos sin límites!",
-        "&7Obtén &bWATER_BREATHING II&7 para tus aventuras."
+        "&7¡Cruza el mapa a la velocidad del rayo!",
+        "&7Obtén &bSPEED II &7en todo el servidor."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "WATER_BREATHING",
+      "efecto_pocion": "SPEED",
       "nivel_efecto": 2,
       "todo_el_dia": false,
       "hora_inicio": 18,
