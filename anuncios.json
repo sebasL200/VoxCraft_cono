@@ -1,300 +1,90 @@
 {
   "anuncios": [
     {
-      "id": "noticias_actualizacion_bedrock_1",
+      "id": "noticia_actualizacion_bedrock_26_40",
       "categoria": "noticias",
       "mensajes": [
-        "&a¡Actualización de Bedrock 1.21.110 Lanzada!&r &7Mojang Studios ha lanzado una actualización masiva para Bedrock Edition, trayendo nuevas características experimentales y cientos de mejoras."
+        "&e¡Actualización Reciente!&r Hemos implementado la versión &bBedrock Edition 26.40&r, lanzada el 4 de agosto de 2026. ¡Disfruten de correcciones de errores, mejoras de jugabilidad y optimizaciones de accesibilidad!"
       ]
     },
     {
-      "id": "noticias_actualizacion_bedrock_2",
+      "id": "noticia_nuevas_caracteristicas_experimentales",
       "categoria": "noticias",
       "mensajes": [
-        "&bExplora Nuevos Biomas y Estructuras:&r &7La 1.21.110 introduce el bioma del Bosque Moteado, Campamentos Abandonados y ¡los nuevos Álamos!"
+        "&e¡Nuevas Características Experimentales!&r Con la actualización 26.40, pueden explorar el &bDappled Forest&b, los &bAbandoned Camps&b mejorados y usar &bcushions&b en sus construcciones."
       ]
     },
     {
-      "id": "noticias_actualizacion_bedrock_3",
+      "id": "noticia_nuevos_bloques_construir",
       "categoria": "noticias",
       "mensajes": [
-        "&e¡Bloques Decorativos Expandidos!&r &7Ahora podéis decorar vuestras construcciones con Cojines, Camas de Paja, y las esperadas Losa y Escaleras de Lana en todos los colores."
+        "&d¡Nuevos Bloques para Construir!&r La &bMinecraft Preview 26.50.24&r, lanzada el 5 de agosto de 2026, trae escaleras y losas de concreto en ¡16 colores diferentes! ¡A darle rienda suelta a la creatividad!"
       ]
     },
     {
-      "id": "noticias_actualizacion_bedrock_4",
+      "id": "noticia_exploracion_mejorada",
       "categoria": "noticias",
       "mensajes": [
-        "&dMejoras en la Calidad de Vida:&r &7Se ha restaurado el comportamiento esperado de las vagonetas y las barcas son ahora más fáciles de romper."
+        "&a¡Exploración Mejorada!&r También en la Preview 26.50.24, encontrarán mapas mejorados en los campamentos abandonados, lo que les guiará a más estructuras en el Overworld."
       ]
     },
     {
-      "id": "noticias_actualizacion_bedrock_5",
+      "id": "noticia_pre_orden_minecraft_dungeons_ii",
       "categoria": "noticias",
       "mensajes": [
-        "&aEl Desafío se Intensifica con 1.21 \"Tricky Trials\":&r &7La próxima gran actualización, \"Tricky Trials\", traerá Cámaras de Prueba, nuevos mobs como el Breeze y el Bogged, y ¡eventos ominosos!"
+        "&c¡Pre-Orden de Minecraft Dungeons II!&r La secuela de Minecraft Dungeons ya está disponible para pre-ordenar en el Marketplace de Minecraft. ¡Preparen sus armas!"
       ]
     },
     {
-      "id": "noticias_actualizacion_bedrock_6",
+      "id": "noticia_personaliza_mobs_bebe",
       "categoria": "noticias",
       "mensajes": [
-        "&bNuevas Herramientas de Combate y Creación:&r &7Prepárense para empuñar la nueva Maza y usar el Crafter para automatizar vuestras creaciones."
+        "&7¡Personaliza a tus Mobs Bebé!&r Aunque lanzada en marzo, recordamos que la actualización &eTiny Takeover&e rediseñó a más de 100 mobs bebé, ¡haciéndolos más adorables que nunca!"
       ]
     },
     {
-      "id": "noticias_actualizacion_bedrock_7",
+      "id": "noticia_mas_contenido_marketplace",
       "categoria": "noticias",
       "mensajes": [
-        "&e¡Mods a la última!&r &7Para los que usen Fabric, es importante actualizar a Loom 1.6 y el último Fabric Loader (0.15.11) para compatibilidad con la 1.21."
+        "&b¡Más Contenido en el Marketplace!&r No olviden revisar las novedades del &eMarketplace de Minecraft&e, con nuevo contenido disponible desde el 4 de agosto de 2026."
       ]
     },
     {
-      "id": "noticias_actualizacion_bedrock_8",
+      "id": "noticia_proximamente_chaos_cubed_ps5",
       "categoria": "noticias",
       "mensajes": [
-        "&dEl Armadillo ya está aquí:&r &7Aunque la 1.21 aún se prepara, el Armadillo, ganador de la votación de mobs, ya fue implementado en la actualización 1.20.5 (1.20.8 para Bedrock)."
+        "&l&dPróximamente: Chaos Cubed y Soporte para PS5&l&d: Estén atentos, porque este 2026 también traerá la actualización \"Chaos Cubed\" con nuevas mecánicas y soporte nativo para PS5."
       ]
     },
     {
-      "id": "curiosidades_gaming_1",
+      "id": "curiosidad_horas_videojuegos",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7El primer videojuego no fue Pong, sino \"Tennis for Two\"."
+        "Se juegan más de &a10 mil millones de horas de videojuegos&a cada año en todo el mundo."
       ]
     },
     {
-      "id": "curiosidades_gaming_2",
+      "id": "curiosidad_preferencia_plataformas",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7Mario, el icónico fontanero, ¡originalmente era carpintero!"
+        "Aproximadamente el &a54% de los jugadores&a prefieren usar plataformas como Xbox, PlayStation o Nintendo Switch, mientras que el &a45% utiliza PCs y laptops&a."
       ]
     },
     {
-      "id": "curiosidades_gaming_3",
+      "id": "curiosidad_spider_man_wolverine_tierra_1048",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7El diseño de Pac-Man se inspiró en una pizza a la que le faltaba una rebanada."
-      ]
-    },
-    {
-      "id": "curiosidades_gaming_4",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7El famoso Konami Code ha aparecido en más de 100 juegos diferentes."
-      ]
-    },
-    {
-      "id": "curiosidades_gaming_5",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7Los desarrolladores del Tetris original para NES solo codificaron colores para 29 niveles, ¡ya que no esperaban que los jugadores llegaran más lejos!"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_1",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&lLanzamientos de Videojuegos Esta Semana (5 al 11 de Agosto de 2026):"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&65 de Agosto:&r"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_3",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aStar Ocean The Second Story R &8(PS5)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_4",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aTropico 6 - Next Gen Edition &8(PS5)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_5",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aFive Hearts Under One Roof &8(Xbox)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_6",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aGunstoppable &8(Xbox)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_7",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aMate'Morphosis &8(Xbox)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_8",
-      "categoria": "noticias",
-      "mensajes": [
-        "&66 de Agosto:&r"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_9",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aAery – Surreal World &8(Xbox)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_10",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aHerd Dispatch &8(Xbox)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_11",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aMontabi &8(Xbox, Switch, PC)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_12",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aSokogem &8(Xbox)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_13",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aYellowcreek Stories - The Cabin Watcher &8(Xbox)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_14",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aEchobreaker &8(PC)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_15",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aLies of P: Complete Edition &8(Switch 2)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_16",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aMarvel Tokon: Fighting Souls &8(PS5, PC)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_17",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aReStory &8(PC)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_18",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aSovereign Tower &8(PC)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_19",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aUncanny Tales: The Watcher &8(PC)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_20",
-      "categoria": "noticias",
-      "mensajes": [
-        "&67 de Agosto:&r"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_21",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aGrizzy and the Lemmings - Crazy Party &8(Xbox)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_22",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aINK ENIGMA 2: Hidden Object Challenges &8(Xbox)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_23",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aJohn Fox &8(Xbox)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_24",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aLimbot &8(Xbox)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_25",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aSuikoden Star Leap &8(Mobile Japan)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_26",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aChop Chop Inc. &8(PC)"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_27",
-      "categoria": "noticias",
-      "mensajes": [
-        "&611 de Agosto:&r"
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_agosto_2026_28",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7* &aThe Elder Scrolls IV: Oblivion Remastered &8(Switch 2)"
+        "Los aclamados juegos de &bSpider-Man y Wolverine&b desarrollados por Insomniac Games tienen lugar en la Tierra-1048 del multiverso de Marvel."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Fiebre del Mineral!",
+      "titulo": "&6&l¡Bonanza Minera!",
       "descripcion": [
-        "&7¡El Lunes es día de minería intensa!",
-        "&7+50% más por tu &bDIAMOND&7."
+        "&7¡Inicio de semana minero!",
+        "&7Vende tus DIAMOND con 50% extra."
       ],
       "tipo": "PRECIO",
       "item": "DIAMOND",
@@ -307,19 +97,19 @@
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&a&l¡Miércoles Veloz!",
+      "titulo": "&b&l¡Furia del Explorador!",
       "descripcion": [
-        "&7¡Cruza el mapa a la velocidad del rayo!",
-        "&7Obtén &bSPEED II &7en todo el servidor."
+        "&7¡Explora más rápido que nunca!",
+        "&7Obtén VELOCIDAD II en el Overworld."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
       "efecto_pocion": "SPEED",
       "nivel_efecto": 2,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 22
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     }
   ]
 }
