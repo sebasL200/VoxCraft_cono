@@ -1,112 +1,238 @@
 {
   "anuncios": [
     {
-      "id": "noticia_actualizacion_bedrock_26_40",
+      "id": "actualizacion_bedrock_26_40_1",
       "categoria": "noticias",
       "mensajes": [
-        "&e¡Actualización Reciente!&r Hemos implementado la versión &bBedrock Edition 26.40&r, lanzada el 4 de agosto de 2026. ¡Disfruten de correcciones de errores, mejoras de jugabilidad y optimizaciones de accesibilidad!"
+        "&e¡Actualización de Bedrock 26.40 ya disponible!"
       ]
     },
     {
-      "id": "noticia_nuevas_caracteristicas_experimentales",
+      "id": "actualizacion_bedrock_26_40_2",
       "categoria": "noticias",
       "mensajes": [
-        "&e¡Nuevas Características Experimentales!&r Con la actualización 26.40, pueden explorar el &bDappled Forest&b, los &bAbandoned Camps&b mejorados y usar &bcushions&b en sus construcciones."
+        "&7Hemos implementado la última versión con &bcorrecciones de errores, mejoras de juego y actualizaciones de accesibilidad&7."
       ]
     },
     {
-      "id": "noticia_nuevos_bloques_construir",
+      "id": "actualizacion_bedrock_26_40_3",
       "categoria": "noticias",
       "mensajes": [
-        "&d¡Nuevos Bloques para Construir!&r La &bMinecraft Preview 26.50.24&r, lanzada el 5 de agosto de 2026, trae escaleras y losas de concreto en ¡16 colores diferentes! ¡A darle rienda suelta a la creatividad!"
+        "&l¡Disfruta de una experiencia más fluida!&r"
       ]
     },
     {
-      "id": "noticia_exploracion_mejorada",
+      "id": "nuevas_caracteristicas_experimentales_1",
       "categoria": "noticias",
       "mensajes": [
-        "&a¡Exploración Mejorada!&r También en la Preview 26.50.24, encontrarán mapas mejorados en los campamentos abandonados, lo que les guiará a más estructuras en el Overworld."
+        "&a¡Nuevas características experimentales!"
       ]
     },
     {
-      "id": "noticia_pre_orden_minecraft_dungeons_ii",
+      "id": "nuevas_caracteristicas_experimentales_2",
       "categoria": "noticias",
       "mensajes": [
-        "&c¡Pre-Orden de Minecraft Dungeons II!&r La secuela de Minecraft Dungeons ya está disponible para pre-ordenar en el Marketplace de Minecraft. ¡Preparen sus armas!"
+        "&7La &dSelva Moteada, los Campamentos Abandonados, Cojines y Camas de Paja &7llegan para probarse."
       ]
     },
     {
-      "id": "noticia_personaliza_mobs_bebe",
+      "id": "nuevas_caracteristicas_experimentales_3",
       "categoria": "noticias",
       "mensajes": [
-        "&7¡Personaliza a tus Mobs Bebé!&r Aunque lanzada en marzo, recordamos que la actualización &eTiny Takeover&e rediseñó a más de 100 mobs bebé, ¡haciéndolos más adorables que nunca!"
+        "&b¡Explora el nuevo bioma y estructuras!&r"
       ]
     },
     {
-      "id": "noticia_mas_contenido_marketplace",
+      "id": "escaleras_losas_concreto_1",
       "categoria": "noticias",
       "mensajes": [
-        "&b¡Más Contenido en el Marketplace!&r No olviden revisar las novedades del &eMarketplace de Minecraft&e, con nuevo contenido disponible desde el 4 de agosto de 2026."
+        "&b¡Escaleras y Losas de Concreto en 16 colores!&7"
       ]
     },
     {
-      "id": "noticia_proximamente_chaos_cubed_ps5",
+      "id": "escaleras_losas_concreto_2",
       "categoria": "noticias",
       "mensajes": [
-        "&l&dPróximamente: Chaos Cubed y Soporte para PS5&l&d: Estén atentos, porque este 2026 también traerá la actualización \"Chaos Cubed\" con nuevas mecánicas y soporte nativo para PS5."
+        "&7La Preview 26.50.24 añade este material tan esperado por los constructores."
       ]
     },
     {
-      "id": "curiosidad_horas_videojuegos",
+      "id": "escaleras_losas_concreto_3",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e¡Haz tus creaciones más modernas!&r"
+      ]
+    },
+    {
+      "id": "exploracion_campamentos_abandonados_1",
+      "categoria": "noticias",
+      "mensajes": [
+        "&c¡Exploración renovada en Campamentos Abandonados!&7"
+      ]
+    },
+    {
+      "id": "exploracion_campamentos_abandonados_2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7Ahora, los cofres incluyen &eMapas de Explorador &7que te guiarán a Ciudades Antiguas, Minas y otras estructuras."
+      ]
+    },
+    {
+      "id": "minecraft_nintendo_switch_2_1",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a¡Minecraft llega a Nintendo Switch 2!&7"
+      ]
+    },
+    {
+      "id": "minecraft_nintendo_switch_2_2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7Disfruta de &bvisuales mejorados y rendimiento optimizado &7a partir del 27 de octubre de 2026."
+      ]
+    },
+    {
+      "id": "minecraft_nintendo_switch_2_3",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d¡Prepárense, jugadores de consola!&r"
+      ]
+    },
+    {
+      "id": "curiosidad_escaleras_losas_concreto_espera_1",
       "categoria": "curiosidades",
       "mensajes": [
-        "Se juegan más de &a10 mil millones de horas de videojuegos&a cada año en todo el mundo."
+        "&7¡Casi una década de espera!&l"
       ]
     },
     {
-      "id": "curiosidad_preferencia_plataformas",
+      "id": "curiosidad_escaleras_losas_concreto_espera_2",
       "categoria": "curiosidades",
       "mensajes": [
-        "Aproximadamente el &a54% de los jugadores&a prefieren usar plataformas como Xbox, PlayStation o Nintendo Switch, mientras que el &a45% utiliza PCs y laptops&a."
+        "&7Sabías que las escaleras y losas de concreto fueron solicitadas por los fans de Minecraft por casi diez años."
       ]
     },
     {
-      "id": "curiosidad_spider_man_wolverine_tierra_1048",
+      "id": "curiosidad_escaleras_losas_concreto_espera_3",
       "categoria": "curiosidades",
       "mensajes": [
-        "Los aclamados juegos de &bSpider-Man y Wolverine&b desarrollados por Insomniac Games tienen lugar en la Tierra-1048 del multiverso de Marvel."
+        "&e¡La espera terminó!&r"
+      ]
+    },
+    {
+      "id": "filtracion_minecraft_dungeons_ii_1",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d¡Dungeons II se filtra!&l"
+      ]
+    },
+    {
+      "id": "filtracion_minecraft_dungeons_ii_2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7Se espera que &cMinecraft Dungeons II &dse lance el &e29 de septiembre de 2026&d."
+      ]
+    },
+    {
+      "id": "filtracion_minecraft_dungeons_ii_3",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l¡Prepárate para otra aventura!&r"
+      ]
+    },
+    {
+      "id": "dato_curioso_primer_videojuego_1",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7&lDato Curioso Gaming:&r"
+      ]
+    },
+    {
+      "id": "dato_curioso_primer_videojuego_2",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&e¿Sabías que el primer videojuego no fue Pong?&7"
+      ]
+    },
+    {
+      "id": "dato_curioso_primer_videojuego_3",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7Fue &b\"Tennis for Two\"&7, creado en 1958 por el físico William Higinbotham."
+      ]
+    },
+    {
+      "id": "dato_curioso_pac_man_1",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7&lDato Curioso Gaming:&r"
+      ]
+    },
+    {
+      "id": "dato_curioso_pac_man_2",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&eEl diseño de Pac-Man&7 se inspiró en una &brodaja de pizza a la que le faltaba un trozo&7."
+      ]
+    },
+    {
+      "id": "dato_curioso_pac_man_3",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&d¡Un clásico de la creatividad!&r"
+      ]
+    },
+    {
+      "id": "lanzamiento_beast_of_reincarnation_1",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&lLanzamiento de la Semana:&r"
+      ]
+    },
+    {
+      "id": "lanzamiento_beast_of_reincarnation_2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a\"Beast of Reincarnation\"&7 de Game Freak se lanzó el &e4 de agosto&7, un &bRPG de acción post-apocalíptico&7."
+      ]
+    },
+    {
+      "id": "lanzamiento_beast_of_reincarnation_3",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d¡Disponible en PC y consolas!&r"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Bonanza Minera!",
+      "titulo": "&l&6¡La Fiebre Constructora!",
       "descripcion": [
-        "&7¡Inicio de semana minero!",
-        "&7Vende tus DIAMOND con 50% extra."
+        "&7Nuevas losas y escaleras: ¡pasión por construir!",
+        "&7¡Bonus de 25% al vender STONE y &aHASTE I&7!"
       ],
-      "tipo": "PRECIO",
-      "item": "DIAMOND",
-      "porcentaje_extra": 50.0,
-      "efecto_pocion": "NONE",
-      "nivel_efecto": 0,
+      "tipo": "AMBOS",
+      "item": "STONE",
+      "porcentaje_extra": 25.0,
+      "efecto_pocion": "HASTE",
+      "nivel_efecto": 1,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&b&l¡Furia del Explorador!",
+      "titulo": "&l&b¡Exploración del Campamento!",
       "descripcion": [
-        "&7¡Explora más rápido que nunca!",
-        "&7Obtén VELOCIDAD II en el Overworld."
+        "&7Explora los nuevos Campamentos Abandonados.",
+        "&7¡Gana &aLUCK I&7 y 15% extra al vender GOLD_INGOT!"
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
-      "efecto_pocion": "SPEED",
-      "nivel_efecto": 2,
+      "tipo": "AMBOS",
+      "item": "GOLD_INGOT",
+      "porcentaje_extra": 15.0,
+      "efecto_pocion": "LUCK",
+      "nivel_efecto": 1,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
