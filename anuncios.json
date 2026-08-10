@@ -1,238 +1,91 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_bedrock_26_40_1",
+      "id": "noticia_actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&e¡Actualización de Bedrock 26.40 ya disponible!"
+        "&a&l¡GRAN NOTICIA!&r &e¡La actualización &b&lTricky Trials (1.21)&r &eestá activa en el servidor con todas sus novedades! Prepárense para nuevos desafíos."
       ]
     },
     {
-      "id": "actualizacion_bedrock_26_40_2",
+      "id": "noticia_trial_chambers",
       "categoria": "noticias",
       "mensajes": [
-        "&7Hemos implementado la última versión con &bcorrecciones de errores, mejoras de juego y actualizaciones de accesibilidad&7."
+        "&d&lNUEVAS AVENTURAS!&r &7Explora las misteriosas &lTrial Chambers&r, repletas de tesoros y trampas. ¿Serás digno de sus recompensas?"
       ]
     },
     {
-      "id": "actualizacion_bedrock_26_40_3",
+      "id": "noticia_nuevos_mobs",
       "categoria": "noticias",
       "mensajes": [
-        "&l¡Disfruta de una experiencia más fluida!&r"
+        "&c&l¡CUIDADO!&r &7Enfrenta a los nuevos mobs &bBreeze&r y &bBogged&r. ¡Estrategia y habilidad serán clave para superarlos!"
       ]
     },
     {
-      "id": "nuevas_caracteristicas_experimentales_1",
+      "id": "noticia_nueva_arma_mace",
       "categoria": "noticias",
       "mensajes": [
-        "&a¡Nuevas características experimentales!"
+        "&e&l¡ARMA LEGENDARIA!&r &aDescubre y domina la &lMace&r, la nueva arma que inflige más daño con cada caída. ¡Aplastad a vuestros enemigos!"
       ]
     },
     {
-      "id": "nuevas_caracteristicas_experimentales_2",
+      "id": "noticia_bloque_crafter",
       "categoria": "noticias",
       "mensajes": [
-        "&7La &dSelva Moteada, los Campamentos Abandonados, Cojines y Camas de Paja &7llegan para probarse."
+        "&a&l¡FACILITA TU VIDA!&r &bPrueba el nuevo bloque &lCrafter&r para la creación automática de ítems. ¡Optimiza tus granjas y procesos!"
       ]
     },
     {
-      "id": "nuevas_caracteristicas_experimentales_3",
+      "id": "noticia_bloques_cobre_toba",
       "categoria": "noticias",
       "mensajes": [
-        "&b¡Explora el nuevo bioma y estructuras!&r"
+        "&d&lDECORACIÓN SIN LÍMITES!&r &eExplora las nuevas variantes de bloques de &lCobre&r y &lToba&r para darle un toque fresco a tus construcciones. ¡La creatividad no tiene fin!"
       ]
     },
     {
-      "id": "escaleras_losas_concreto_1",
-      "categoria": "noticias",
+      "id": "consejo_mejoras_rendimiento",
+      "categoria": "consejos",
       "mensajes": [
-        "&b¡Escaleras y Losas de Concreto en 16 colores!&7"
+        "&b&lMEJORAS DE RENDIMIENTO!&r &7Hemos implementado optimizaciones recientes para una experiencia de juego más fluida y sin interrupciones. ¡A disfrutar!"
       ]
     },
     {
-      "id": "escaleras_losas_concreto_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7La Preview 26.50.24 añade este material tan esperado por los constructores."
-      ]
-    },
-    {
-      "id": "escaleras_losas_concreto_3",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e¡Haz tus creaciones más modernas!&r"
-      ]
-    },
-    {
-      "id": "exploracion_campamentos_abandonados_1",
-      "categoria": "noticias",
-      "mensajes": [
-        "&c¡Exploración renovada en Campamentos Abandonados!&7"
-      ]
-    },
-    {
-      "id": "exploracion_campamentos_abandonados_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7Ahora, los cofres incluyen &eMapas de Explorador &7que te guiarán a Ciudades Antiguas, Minas y otras estructuras."
-      ]
-    },
-    {
-      "id": "minecraft_nintendo_switch_2_1",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a¡Minecraft llega a Nintendo Switch 2!&7"
-      ]
-    },
-    {
-      "id": "minecraft_nintendo_switch_2_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7Disfruta de &bvisuales mejorados y rendimiento optimizado &7a partir del 27 de octubre de 2026."
-      ]
-    },
-    {
-      "id": "minecraft_nintendo_switch_2_3",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d¡Prepárense, jugadores de consola!&r"
-      ]
-    },
-    {
-      "id": "curiosidad_escaleras_losas_concreto_espera_1",
+      "id": "curiosidad_minecraft_ventas",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7¡Casi una década de espera!&l"
-      ]
-    },
-    {
-      "id": "curiosidad_escaleras_losas_concreto_espera_2",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7Sabías que las escaleras y losas de concreto fueron solicitadas por los fans de Minecraft por casi diez años."
-      ]
-    },
-    {
-      "id": "curiosidad_escaleras_losas_concreto_espera_3",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&e¡La espera terminó!&r"
-      ]
-    },
-    {
-      "id": "filtracion_minecraft_dungeons_ii_1",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d¡Dungeons II se filtra!&l"
-      ]
-    },
-    {
-      "id": "filtracion_minecraft_dungeons_ii_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7Se espera que &cMinecraft Dungeons II &dse lance el &e29 de septiembre de 2026&d."
-      ]
-    },
-    {
-      "id": "filtracion_minecraft_dungeons_ii_3",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l¡Prepárate para otra aventura!&r"
-      ]
-    },
-    {
-      "id": "dato_curioso_primer_videojuego_1",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lDato Curioso Gaming:&r"
-      ]
-    },
-    {
-      "id": "dato_curioso_primer_videojuego_2",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&e¿Sabías que el primer videojuego no fue Pong?&7"
-      ]
-    },
-    {
-      "id": "dato_curioso_primer_videojuego_3",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7Fue &b\"Tennis for Two\"&7, creado en 1958 por el físico William Higinbotham."
-      ]
-    },
-    {
-      "id": "dato_curioso_pac_man_1",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lDato Curioso Gaming:&r"
-      ]
-    },
-    {
-      "id": "dato_curioso_pac_man_2",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&eEl diseño de Pac-Man&7 se inspiró en una &brodaja de pizza a la que le faltaba un trozo&7."
-      ]
-    },
-    {
-      "id": "dato_curioso_pac_man_3",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&d¡Un clásico de la creatividad!&r"
-      ]
-    },
-    {
-      "id": "lanzamiento_beast_of_reincarnation_1",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7&lLanzamiento de la Semana:&r"
-      ]
-    },
-    {
-      "id": "lanzamiento_beast_of_reincarnation_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a\"Beast of Reincarnation\"&7 de Game Freak se lanzó el &e4 de agosto&7, un &bRPG de acción post-apocalíptico&7."
-      ]
-    },
-    {
-      "id": "lanzamiento_beast_of_reincarnation_3",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d¡Disponible en PC y consolas!&r"
+        "&e&l¿SABÍAS QUE...?&r &a&lMinecraft&r &ees el videojuego &lMÁS VENDIDO&r de la historia, ¡con más de 200 millones de copias! ¡Eres parte de la leyenda!"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&l&6¡La Fiebre Constructora!",
+      "titulo": "&6&l¡Forja del Renacer!",
       "descripcion": [
-        "&7Nuevas losas y escaleras: ¡pasión por construir!",
-        "&7¡Bonus de 25% al vender STONE y &aHASTE I&7!"
+        "&7¡Beast of Reincarnation se lanza hoy!",
+        "&725% extra al vender &bCOPPER_INGOT&7."
       ],
-      "tipo": "AMBOS",
-      "item": "STONE",
+      "tipo": "PRECIO",
+      "item": "COPPER_INGOT",
       "porcentaje_extra": 25.0,
-      "efecto_pocion": "HASTE",
-      "nivel_efecto": 1,
+      "efecto_pocion": "NONE",
+      "nivel_efecto": 0,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&l&b¡Exploración del Campamento!",
+      "titulo": "&a&l¡Gran Paseo Acelerado!",
       "descripcion": [
-        "&7Explora los nuevos Campamentos Abandonados.",
-        "&7¡Gana &aLUCK I&7 y 15% extra al vender GOLD_INGOT!"
+        "&7¡El cooperativo Big Walk ya disponible!",
+        "&7Obtén &bVelocidad II&7 para explorar mejor."
       ],
-      "tipo": "AMBOS",
-      "item": "GOLD_INGOT",
-      "porcentaje_extra": 15.0,
-      "efecto_pocion": "LUCK",
-      "nivel_efecto": 1,
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
+      "efecto_pocion": "SPEED",
+      "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
