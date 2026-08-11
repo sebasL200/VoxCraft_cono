@@ -1,73 +1,38 @@
 {
   "anuncios": [
     {
-      "id": "noticia_actualizacion_1_21",
+      "id": "noticia_bienvenida_1",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡GRAN NOTICIA!&r &e¡La actualización &b&lTricky Trials (1.21)&r &eestá activa en el servidor con todas sus novedades! Prepárense para nuevos desafíos."
+        "&a¡Bienvenido al servidor!"
       ]
     },
     {
-      "id": "noticia_trial_chambers",
+      "id": "noticia_bienvenida_2",
       "categoria": "noticias",
       "mensajes": [
-        "&d&lNUEVAS AVENTURAS!&r &7Explora las misteriosas &lTrial Chambers&r, repletas de tesoros y trampas. ¿Serás digno de sus recompensas?"
+        "&eExplora un mundo lleno de aventuras."
       ]
     },
     {
-      "id": "noticia_nuevos_mobs",
+      "id": "noticia_bienvenida_3",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡CUIDADO!&r &7Enfrenta a los nuevos mobs &bBreeze&r y &bBogged&r. ¡Estrategia y habilidad serán clave para superarlos!"
-      ]
-    },
-    {
-      "id": "noticia_nueva_arma_mace",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡ARMA LEGENDARIA!&r &aDescubre y domina la &lMace&r, la nueva arma que inflige más daño con cada caída. ¡Aplastad a vuestros enemigos!"
-      ]
-    },
-    {
-      "id": "noticia_bloque_crafter",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&l¡FACILITA TU VIDA!&r &bPrueba el nuevo bloque &lCrafter&r para la creación automática de ítems. ¡Optimiza tus granjas y procesos!"
-      ]
-    },
-    {
-      "id": "noticia_bloques_cobre_toba",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&lDECORACIÓN SIN LÍMITES!&r &eExplora las nuevas variantes de bloques de &lCobre&r y &lToba&r para darle un toque fresco a tus construcciones. ¡La creatividad no tiene fin!"
-      ]
-    },
-    {
-      "id": "consejo_mejoras_rendimiento",
-      "categoria": "consejos",
-      "mensajes": [
-        "&b&lMEJORAS DE RENDIMIENTO!&r &7Hemos implementado optimizaciones recientes para una experiencia de juego más fluida y sin interrupciones. ¡A disfrutar!"
-      ]
-    },
-    {
-      "id": "curiosidad_minecraft_ventas",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&e&l¿SABÍAS QUE...?&r &a&lMinecraft&r &ees el videojuego &lMÁS VENDIDO&r de la historia, ¡con más de 200 millones de copias! ¡Eres parte de la leyenda!"
+        "&7Consulta /ayuda para empezar."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Forja del Renacer!",
+      "titulo": "&6&l¡Fiebre del Oro!",
       "descripcion": [
-        "&7¡Beast of Reincarnation se lanza hoy!",
-        "&725% extra al vender &bCOPPER_INGOT&7."
+        "&7¡Es el día perfecto para comerciar!",
+        "&7Recibe un 50% extra en tus ventas de ORO."
       ],
       "tipo": "PRECIO",
-      "item": "COPPER_INGOT",
-      "porcentaje_extra": 25.0,
+      "item": "GOLD_INGOT",
+      "porcentaje_extra": 50.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -76,19 +41,19 @@
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&a&l¡Gran Paseo Acelerado!",
+      "titulo": "&b&l¡Día del Explorador!",
       "descripcion": [
-        "&7¡El cooperativo Big Walk ya disponible!",
-        "&7Obtén &bVelocidad II&7 para explorar mejor."
+        "&7¡Nuevas cuevas esperan ser descubiertas!",
+        "&7Obtén Velocidad II en todo el mundo."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
       "efecto_pocion": "SPEED",
       "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 22
     }
   ]
 }
