@@ -1,206 +1,59 @@
 {
   "anuncios": [
     {
-      "id": "novedades_servidor_minecraft_1",
+      "id": "noticia_actualizacion_cobre_1",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN MAYOR EN BEDROCK EDITION!&r &bLa versión 26.40 de Minecraft Bedrock Edition ha llegado con una gran cantidad de correcciones de errores, mejoras de jugabilidad y características experimentales.&r"
+        "&b&l¡ACTUALIZACIÓN 1.20.5 YA AQUÍ!"
       ]
     },
     {
-      "id": "novedades_servidor_minecraft_2",
+      "id": "noticia_actualizacion_cobre_2",
       "categoria": "noticias",
       "mensajes": [
-        "&e&lNUEVO BIOMA: DAPPLED FOREST&r &7Explora el nuevo bioma Dappled Forest, con sus característicos árboles Poplar de hojas otoñales y los nuevos Shelf Mushrooms.&r"
+        "&7Nuevos bloques de cobre y automatización."
       ]
     },
     {
-      "id": "novedades_servidor_minecraft_3",
+      "id": "noticia_actualizacion_cobre_3",
       "categoria": "noticias",
       "mensajes": [
-        "&d&lESTRUCTURAS ABANDONADAS DESCUBIERTAS&r &bSe han encontrado Campamentos Abandonados en varios biomas, ¡cada uno con diseños únicos y cofres con botín!&r"
-      ]
-    },
-    {
-      "id": "novedades_servidor_minecraft_4",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&l¡NUEVOS BLOQUES Y OBJETOS DE DECORACIÓN!&r &eAhora puedes usar Cojines en 16 colores para interiores detallados, Camas de Paja para dormir sin cambiar tu punto de aparición, y escaleras y losas de Lana.&r"
-      ]
-    },
-    {
-      "id": "novedades_servidor_minecraft_5",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&lMOB EXPERIMENTAL: EL CUBO DE AZUFRE&r &7Descubre el experimental Sulfur Cube, un mob parecido a un slime que puede absorber bloques y cambiar sus propiedades. ¡Cuidado con el TNT!&r"
-      ]
-    },
-    {
-      "id": "novedades_servidor_minecraft_6",
-      "categoria": "noticias",
-      "mensajes": [
-        "&c&lNUEVO BIOMA EXPERIMENTAL: CUEVAS DE AZUFRE&r &bAdéntrate en las profundidades de las Cuevas de Azufre, un bioma subterráneo con bloques de Azufre y Cinabrio, hogar de los Sulfur Cubes y con burbujeantes charcos de azufre.&r"
-      ]
-    },
-    {
-      "id": "novedades_servidor_minecraft_7",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&lMEJORAS EN LA CALIDAD DE VIDA&r &eLas barcas ahora se rompen con menos golpes, los minecarts funcionan correctamente, y hay una opción para reducir la distorsión de la pantalla en los portales del Nether.&r"
-      ]
-    },
-    {
-      "id": "novedades_servidor_minecraft_8",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&lFUNCIONES SOCIALES EXPERIMENTALES&r &dPrueba la nueva lista de amigos con solicitudes, estado de presencia y notificaciones, ¡haciendo la interacción social más fácil!&r"
-      ]
-    },
-    {
-      "id": "novedades_servidor_minecraft_9",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&lRENDERIZADO VULKAN EXPERIMENTAL&r &7Para los más técnicos, se ha añadido una opción experimental de renderizado Vulkan, que promete mejoras de rendimiento gráfico.&r"
-      ]
-    },
-    {
-      "id": "datos_curiosos_gaming_1",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&fLa industria de los videojuegos en EE. UU. genera más de 250.000 puestos de trabajo."
-      ]
-    },
-    {
-      "id": "datos_curiosos_gaming_2",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&fLas suscripciones a videojuegos crecen un 24.9% anual entre 2025 y 2030."
-      ]
-    },
-    {
-      "id": "datos_curiosos_gaming_3",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&fEl salario promedio de un empleado de la industria en EE. UU. es de $218.000."
-      ]
-    },
-    {
-      "id": "datos_curiosos_gaming_4",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&fUn 78% de los jugadores afirman que los videojuegos les ayudan a reducir el estrés."
-      ]
-    },
-    {
-      "id": "datos_curiosos_gaming_5",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&fDos de cada tres personas en Estados Unidos juegan a videojuegos."
-      ]
-    },
-    {
-      "id": "datos_curiosos_gaming_6",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&fLa industria ha sido clave en la mejora del hardware de las computadoras."
-      ]
-    },
-    {
-      "id": "lanzamientos_semanales_gaming_1",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&bPax Autocratica:&r &7Lanzado el 10 de agosto en Early Access para PC, un FPS roguelite."
-      ]
-    },
-    {
-      "id": "lanzamientos_semanales_gaming_2",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&bNo More Room in Hell 2:&r &7Llega el 11 de agosto en su versión 1.0 para PS5, Xbox Series X|S y PC, un shooter cooperativo de zombis."
-      ]
-    },
-    {
-      "id": "lanzamientos_semanales_gaming_3",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&bWarhounds:&r &7Disponible el 11 de agosto en PC, un juego táctico por turnos."
-      ]
-    },
-    {
-      "id": "lanzamientos_semanales_gaming_4",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&bAgent 64: Spies Never Die:&r &7Lanzamiento el 11 de agosto en PC, un FPS de espías inspirado en la era de Nintendo 64."
-      ]
-    },
-    {
-      "id": "lanzamientos_semanales_gaming_5",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&bGrounded 2:&r &7Llega el 11 de agosto a PS5, el popular juego de supervivencia multijugador."
-      ]
-    },
-    {
-      "id": "lanzamientos_semanales_gaming_6",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&bThe Elder Scrolls IV: Oblivion Remastered:&r &7Disponible el 11 de agosto en Nintendo Switch 2."
-      ]
-    },
-    {
-      "id": "lanzamientos_semanales_gaming_7",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&bAgefield High: Rock the School:&r &7Lanzado el 12 de agosto en PC, un juego ambientado en una escuela secundaria, al estilo de Bully."
-      ]
-    },
-    {
-      "id": "lanzamientos_semanales_gaming_8",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&bHell Let Loose: Vietnam:&r &7Se espera el 13 de agosto, después de un aplazamiento."
-      ]
-    },
-    {
-      "id": "lanzamientos_semanales_gaming_9",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&bMafia: The Old Country - Expansión Man of Honor:&r &7Lanzamiento el 14 de agosto."
+        "&7¡Explora las nuevas mecánicas ahora!"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&b&l¡Fiebre Diamantera!",
+      "titulo": "&6&l¡Fiebre del Mineral Escarlata!",
       "descripcion": [
-        "&7¡Es el día perfecto para la minería!",
-        "&7Vende tus &bDIAMOND&7 con un +25% extra."
+        "&7¡El cobre está en auge por la actualización!",
+        "&7Gana &a+50% &7por cada &bCOPPER_INGOT."
       ],
       "tipo": "PRECIO",
-      "item": "DIAMOND",
-      "porcentaje_extra": 25.0,
+      "item": "COPPER_INGOT",
+      "porcentaje_extra": 50.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 20
     },
     {
-      "dia": "WEDNESDAY",
-      "titulo": "&a&l¡Bendición del Minero!",
+      "dia": "THURSDAY",
+      "titulo": "&e&l¡El Toque del Heraldo Minero!",
       "descripcion": [
-        "&7¡Acelera tu progreso en la cueva!",
-        "&7Obtén &aHASTE II&7 durante 3 horas."
+        "&7¡Celebramos el día del minero legendario!",
+        "&7Obtén &cHaste II &7para picar sin parar."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
       "efecto_pocion": "HASTE",
       "nivel_efecto": 2,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 21
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     }
   ]
 }
