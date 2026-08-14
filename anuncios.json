@@ -1,59 +1,220 @@
 {
   "anuncios": [
     {
-      "id": "noticia_actualizacion_cobre_1",
+      "id": "intro_gaming_news",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡ACTUALIZACIÓN 1.20.5 YA AQUÍ!"
+        "&e¡Explora las últimas novedades del universo gaming, desde las profundidades de Minecraft hasta los lanzamientos más recientes, y sorpréndete con datos curiosos que te harán ver los videojuegos con otros ojos!"
       ]
     },
     {
-      "id": "noticia_actualizacion_cobre_2",
+      "id": "noticias_minecraft_1_21_1",
       "categoria": "noticias",
       "mensajes": [
-        "&7Nuevos bloques de cobre y automatización."
+        "&l&6&lNoticias de tu servidor de Minecraft (Versiones 1.21.x)&r"
       ]
     },
     {
-      "id": "noticia_actualizacion_cobre_3",
+      "id": "noticias_minecraft_1_21_2",
       "categoria": "noticias",
       "mensajes": [
-        "&7¡Explora las nuevas mecánicas ahora!"
+        "Aquí tienes las últimas actualizaciones y anuncios para mejorar tu experiencia de juego:"
+      ]
+    },
+    {
+      "id": "noticias_minecraft_1_21_3",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡ACTUALIZACIÓN MAYOR!&r La versión 1.21, conocida como la &eTricky Trials Update&r, ha sido lanzada, trayendo consigo una avalancha de contenido nuevo para explorar."
+      ]
+    },
+    {
+      "id": "noticias_minecraft_1_21_4",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&lNuevos Desafíos:&r Adéntrate en las &eTrial Chambers&r, estructuras generadas proceduralmente repletas de &eTrial Spawners&r y trampas, ¡donde la aventura te espera!"
+      ]
+    },
+    {
+      "id": "noticias_minecraft_1_21_5",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&lArmamento Innovador:&r Descubre y domina el nuevo &eMace&r, un arma poderosa que inflige más daño cuanto más alto caes antes de golpear a tu enemigo."
+      ]
+    },
+    {
+      "id": "noticias_minecraft_1_21_6",
+      "categoria": "noticias",
+      "mensajes": [
+        "&c&lNuevos Mobs Hostiles:&r Prepárate para enfrentarte a dos nuevas y peligrosas criaturas: el &eBreeze&r, que lanza proyectiles de viento, y el &eBogged&r, una variante de esqueleto cubierta de musgo que dispara flechas venenosas."
+      ]
+    },
+    {
+      "id": "noticias_minecraft_1_21_7",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&lAutomatización Inteligente:&r Ya puedes construir el &eCrafter&r, un nuevo bloque que permite la &lautomatización de crafteos&r, ¡revolucionando tus granjas y sistemas!"
+      ]
+    },
+    {
+      "id": "noticias_minecraft_1_21_8",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&lEventos Ominosos:&r ¡Cuidado con los &eOminous Events&r! Estos desafiantes sucesos pueden activarse con el efecto &eBad Omen&r dentro de las Trial Chambers, intensificando la dificultad de los Trial Spawners."
+      ]
+    },
+    {
+      "id": "noticias_minecraft_1_21_9",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&lBloques y Objetos Decorativos:&r Explora nuevos bloques como el &eTuff&r y el &eCopper&r, además de disfrutar de más opciones decorativas y nuevas pinturas."
+      ]
+    },
+    {
+      "id": "noticias_minecraft_1_21_10",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&lNuevas Cargas de Viento:&r Utiliza las &eWind Charges&r, un nuevo objeto soltado por el Breeze, que te permite generar explosiones de viento para el combate o la exploración."
+      ]
+    },
+    {
+      "id": "noticias_minecraft_1_21_11",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&lMantenimiento Continuo:&r Se han implementado actualizaciones menores recientes, como la &eversión 1.21.9&r, que incluyen mejoras y correcciones de errores para una experiencia de juego más estable."
+      ]
+    },
+    {
+      "id": "noticias_minecraft_1_21_12",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&lExplora las Bóvedas:&r Las &eVaults&r son nuevos bloques que contienen tesoros y se pueden abrir con la &eTrial Key&r, recompensando a los jugadores por superar los desafíos."
+      ]
+    },
+    {
+      "id": "datos_curiosos_gaming_1",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&l&bOrígenes inesperados de Mario:&r El icónico personaje de Nintendo, Mario, no siempre fue un plomero. Originalmente, era un &ecarpintero&r llamado &eJumpman&r en el juego &eDonkey Kong&r."
+      ]
+    },
+    {
+      "id": "datos_curiosos_gaming_2",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&l&dEl diseño de Pac-Man:&r La forma distintiva de Pac-Man se inspiró en una &epizza a la que le faltaba una rebanada&r."
+      ]
+    },
+    {
+      "id": "datos_curiosos_gaming_3",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&l&eMonopoly y la Segunda Guerra Mundial:&r Durante la Segunda Guerra Mundial, el gobierno británico utilizó ediciones especiales de Monopoly para ayudar a los &eprisioneros de guerra aliados a escapar&r, ocultando mapas de seda, brújulas y dinero real dentro de las cajas."
+      ]
+    },
+    {
+      "id": "datos_curiosos_gaming_4",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&l&aTetris y los recuerdos traumáticos:&r Se ha demostrado que jugar a Tetris poco después de un evento traumático puede &einhibir los flashbacks dolorosos&r, ya que el juego activa la parte del cerebro responsable de almacenar recuerdos."
+      ]
+    },
+    {
+      "id": "datos_curiosos_gaming_5",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&l&cVideojuegos que salvan vidas:&r En un caso real, el juego móvil &eWords With Friends&r ayudó a salvar la vida de un hombre cuando su esposa discutió sus síntomas con una oponente del juego, cuyo esposo era médico y aconsejó atención inmediata."
+      ]
+    },
+    {
+      "id": "datos_curiosos_gaming_6",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&l&bEl poder de la baraja de cartas:&r La cantidad de permutaciones posibles en una baraja de cartas estándar es inmensamente grande (8 x 10^67), superando la cantidad estimada de estrellas en la Vía Láctea."
+      ]
+    },
+    {
+      "id": "datos_curiosos_gaming_7",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&l&dLos videojuegos y la habilidad médica:&r Los cirujanos que juegan videojuegos al menos tres horas a la semana muestran una &emejor coordinación y cometen un 37% menos de errores&r en cirugías laparoscópicas."
+      ]
+    },
+    {
+      "id": "datos_curiosos_gaming_8",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&l&eEl \"padre de los videojuegos\":&r El ingeniero &eRalph Baer&r es a menudo considerado el \"padre de los videojuegos\" por su sistema \"Brown Box\" diseñado en 1967, que allanó el camino para todas las consolas futuras."
+      ]
+    },
+    {
+      "id": "datos_curiosos_gaming_9",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&l&aIndustria más grande que el cine y la música:&r La industria de los videojuegos genera &emmás ingresos que las industrias del cine y la música combinadas&r."
+      ]
+    },
+    {
+      "id": "lanzamientos_juegos_agosto_2026_1",
+      "categoria": "noticias",
+      "mensajes": [
+        "Esta semana trae algunos títulos interesantes para diversas plataformas:"
+      ]
+    },
+    {
+      "id": "lanzamientos_juegos_agosto_2026_2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&bThe Elder Scrolls IV: Oblivion Remastered&r se lanza el &e11 de agosto&r, prometiendo una experiencia actualizada de este clásico de rol para la Switch 2."
+      ]
+    },
+    {
+      "id": "lanzamientos_juegos_agosto_2026_3",
+      "categoria": "noticias",
+      "mensajes": [
+        "Aunque salieron un poco antes en la semana (6 de agosto), puedes considerar a &l&dMarvel Tokon: Fighting Souls&r para PS5 y &l&dLies of P: Complete Edition&r para Switch 2 como lanzamientos muy recientes."
+      ]
+    },
+    {
+      "id": "lanzamientos_juegos_agosto_2026_4",
+      "categoria": "noticias",
+      "mensajes": [
+        "Agosto de 2026 está cargado con lanzamientos importantes, incluyendo títulos como &l&eBeast of Reincarnation&r, &l&eStar Wars: Zero Company&r, y &l&eMortal Shell 2&r a lo largo del mes."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Fiebre del Mineral Escarlata!",
+      "titulo": "&e&l¡Lluvia de Minerales!",
       "descripcion": [
-        "&7¡El cobre está en auge por la actualización!",
-        "&7Gana &a+50% &7por cada &bCOPPER_INGOT."
+        "&7¡Es el día perfecto para llenar tus cofres!",
+        "&7Obtén un &b+25%&7 al vender DIAMOND."
       ],
       "tipo": "PRECIO",
-      "item": "COPPER_INGOT",
-      "porcentaje_extra": 50.0,
+      "item": "DIAMOND",
+      "porcentaje_extra": 25.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 20
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     },
     {
-      "dia": "THURSDAY",
-      "titulo": "&e&l¡El Toque del Heraldo Minero!",
+      "dia": "WEDNESDAY",
+      "titulo": "&b&l¡Viento en Popa!",
       "descripcion": [
-        "&7¡Celebramos el día del minero legendario!",
-        "&7Obtén &cHaste II &7para picar sin parar."
+        "&7Siente la brisa y corre como nunca antes.",
+        "&7Obtén efecto &3SPEED II&7 para explorar."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "HASTE",
+      "efecto_pocion": "SPEED",
       "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 22
     }
   ]
 }
