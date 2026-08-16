@@ -150,23 +150,25 @@ def main():
 
             data = json.loads(response_step2.text)
 
-            # --- Post-procesamiento de anuncios: aplanar para que cada noticia sea 1 objeto independiente ---
+            # --- Post-procesamiento de anuncios: preservar líneas unidas por noticia ---
             if "anuncios" in data:
-                anuncios_planos = []
+                anuncios_limpios = []
                 for idx, anc in enumerate(data["anuncios"]):
                     base_id = anc.get("id", f"noticia_{idx+1}")
                     cat = anc.get("categoria", "noticias")
                     msgs = anc.get("mensajes", [])
-                    for sub_idx, msg in enumerate(msgs):
-                        msg_str = msg.strip() if isinstance(msg, str) else ""
-                        if msg_str:
-                            sub_id = base_id if len(msgs) == 1 else f"{base_id}_{sub_idx+1}"
-                            anuncios_planos.append({
-                                "id": sub_id,
-                                "categoria": cat,
-                                "mensajes": [msg_str]
-                            })
-                data["anuncios"] = anuncios_planos
+
+                    if isinstance(msgs, str):
+                        msgs = [msgs]
+
+                    lineas_limpias = [m.strip() for m in msgs if isinstance(m, str) and m.strip()]
+                    if lineas_limpias:
+                        anuncios_limpios.append({
+                            "id": base_id,
+                            "categoria": cat,
+                            "mensajes": lineas_limpias
+                        })
+                data["anuncios"] = anuncios_limpios
 
             # --- Post-procesamiento: garantizar máximo 2 eventos y líneas de descripción cortas ---
             MAX_LINEA = 55

@@ -40,8 +40,9 @@ public class ComandoVoxCraft implements CommandExecutor, TabCompleter {
         switch (sub) {
             case "reload":
                 plugin.getConfigManager().cargarConfig();
+                plugin.getGestorAnuncios().cargarAnunciosFijos();
                 plugin.reiniciarTareas();
-                sender.sendMessage(ChatColor.GREEN + "[✔] Configuración de VoxCraft recargada con éxito.");
+                sender.sendMessage(ChatColor.GREEN + "[✔] Configuración y anuncios fijos de VoxCraft recargados con éxito.");
                 break;
             case "forcefetch":
                 plugin.getGestorDescarga().descargarAnunciosAsync();
