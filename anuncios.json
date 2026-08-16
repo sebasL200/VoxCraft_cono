@@ -1,175 +1,60 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21_1",
+      "id": "noticias_gaming_y_minecraft",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l1. ¡Actualización 1.21 \"Tricky Trials\" Llegó!"
+        "&l&bNoticias del Mundo Gaming y Minecraft",
+        "El mundo del gaming en 2026 está marcado por una notable evolución tecnológica y de accesibilidad. El cloud gaming y las plataformas portátiles continúan redefiniendo dónde y cómo jugamos, difuminando las líneas entre consolas y otros dispositivos. La inteligencia artificial ya no es una promesa, sino un motor clave en la industria, utilizada por el 97% de los desarrolladores para optimizar la creación de assets, la localización y las pruebas de juego. El enfoque se ha desplazado hacia una menor cantidad de lanzamientos, pero con mayor profundidad y calidad. Se espera que el mercado global de videojuegos alcance los 189 mil millones de dólares este año.",
+        "En cuanto a lanzamientos, la semana del 11 al 17 de agosto de 2026 vio la llegada de títulos como *Agent 64: Spies Never Die* para PC, un FPS inspirado en la era de Nintendo 64, y *Grounded 2* para PS5, expandiendo la experiencia de supervivencia contra insectos. Además, *The Elder Scrolls IV: Oblivion Remastered* hizo su debut en Nintendo Switch 2, prometiendo gráficos mejorados con Unreal Engine 5. La semana del 18 al 24 de agosto trae consigo *Backyard Baseball* para PC y Xbox, y el esperado *The Sinking City 2* para Xbox Series X|S, una nueva entrega de survival horror."
       ]
     },
     {
-      "id": "actualizacion_1_21_2",
+      "id": "novedades_servidor_minecraft",
       "categoria": "noticias",
       "mensajes": [
-        "&aHemos actualizado el servidor a la versión 1.21, trayendo las emocionantes Trial Chambers, nuevos mobs como el Breeze y el Bogged, ¡y la poderosa Maza! ¡Explora el nuevo contenido hoy mismo!"
-      ]
-    },
-    {
-      "id": "nuevos_desafios_trial_chambers_1",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7&l2. ¡Nuevos Desafíos en las Trial Chambers!"
-      ]
-    },
-    {
-      "id": "nuevos_desafios_trial_chambers_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&dPrepárense para enfrentar desafíos únicos en las Trial Chambers, repletas de botines y spawners de prueba. ¡Reúne a tus amigos y conquista las profundidades!"
-      ]
-    },
-    {
-      "id": "crafteo_automatico_crafter_1",
-      "categoria": "consejos",
-      "mensajes": [
-        "&a&l3. Crafteo Automático con el Crafter:"
-      ]
-    },
-    {
-      "id": "crafteo_automatico_crafter_2",
-      "categoria": "consejos",
-      "mensajes": [
-        "&b¡Simplifica tus proyectos de redstone con el nuevo bloque Crafter de la 1.21! Automatiza tus procesos y maximiza tu eficiencia."
-      ]
-    },
-    {
-      "id": "nueva_arma_maza_1",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l4. ¡Nueva Arma: La Maza!"
-      ]
-    },
-    {
-      "id": "nueva_arma_maza_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&eDescubre la Maza, una nueva arma devastadora que inflige más daño cuanto mayor sea tu caída. ¡Domina esta mecánica para aniquilar a tus enemigos!"
-      ]
-    },
-    {
-      "id": "dato_curioso_minecraft_jugadores_1",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&e&l5. Dato Curioso del Gaming:"
-      ]
-    },
-    {
-      "id": "dato_curioso_minecraft_jugadores_2",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&a¿Sabías que en 2025, Minecraft tenía más de 16 millones de jugadores activos diarios y ha vendido 350 millones de copias? ¡Gracias por ser parte de nuestra gran comunidad!"
-      ]
-    },
-    {
-      "id": "personaliza_tu_experiencia_1",
-      "categoria": "consejos",
-      "mensajes": [
-        "&b&l6. ¡Personaliza tu Experiencia!"
-      ]
-    },
-    {
-      "id": "personaliza_tu_experiencia_2",
-      "categoria": "consejos",
-      "mensajes": [
-        "&dUn dato interesante: el 76% de los jugadores disfrutan personalizando a sus personajes. ¡En nuestro servidor, te animamos a mostrar tu estilo único!"
-      ]
-    },
-    {
-      "id": "gaming_es_conexion_social_1",
-      "categoria": "consejos",
-      "mensajes": [
-        "&a&l7. ¡Gaming es Conexión Social!"
-      ]
-    },
-    {
-      "id": "gaming_es_conexion_social_2",
-      "categoria": "consejos",
-      "mensajes": [
-        "&eCasi el 40% de los jugadores usan los videojuegos para conectar socialmente. ¡Únete a nosotros en nuestro Discord y haz nuevos amigos mientras juegas!"
-      ]
-    },
-    {
-      "id": "lanzamiento_the_elder_scrolls_oblivion_1",
-      "categoria": "noticias",
-      "mensajes": [
-        "&c&l8. ¡Lanzamiento de la Semana!"
-      ]
-    },
-    {
-      "id": "lanzamiento_the_elder_scrolls_oblivion_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&bEsta semana, 11 de agosto de 2026, ¡se ha lanzado \"The Elder Scrolls IV: Oblivion Remastered\"! ¿Quién está listo para revivir la aventura en Cyrodiil?"
-      ]
-    },
-    {
-      "id": "gamers_poblacion_mundial_1",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&l9. ¡Los Gamers son el 61% de la Población Mundial!"
-      ]
-    },
-    {
-      "id": "gamers_poblacion_mundial_2",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&aEn 2025, había 3.578 mil millones de gamers en el mundo, ¡casi dos tercios de la humanidad! ¡Eres parte de un fenómeno global!"
-      ]
-    },
-    {
-      "id": "mundo_gaming_en_cifras_1",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&l10. El Mundo del Gaming en Cifras:"
-      ]
-    },
-    {
-      "id": "mundo_gaming_en_cifras_2",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&dLos jugadores promedio dedicaron 8.45 horas a la semana a jugar en 2025. ¿Cuánto tiempo le dedicas tú a Minecraft?"
+        "&e&l¡Novedades para el Servidor de Minecraft!",
+        "Aquí tienes las noticias más recientes y emocionantes para el servidor, con un enfoque en la actualización 1.21.x \"Tricky Trials\":",
+        "&a&l¡Cámaras de Prueba Ya Disponibles! &7Prepárense para explorar las desafiantes Cámaras de Prueba, llenas de bloques de Toba y Cobre.",
+        "&b&l¡Nuevos Mobs Hostiles! &7Enfrenta a la Brisa (&bBreeze) y al Enlodado (&bBogged), ¡no subestimes sus ataques!",
+        "&e&l¡El Mazo ha Llegado! &7Domina el nuevo arma 'El Mazo' (&eThe Mace) para un combate cuerpo a cuerpo devastador.",
+        "&d&l¡Crafteo Automatizado! &7Simplifica tus procesos con el nuevo Bloque Crafteador (&dThe Crafter) para producir ítems sin esfuerzo.",
+        "&7&l¡Cargas de Viento para Todos! &7Experimenta con las nuevas Cargas de Viento (&7Wind Charges) para un movimiento y combate dinámico.",
+        "&a&l¡Bóvedas con Recompensas! &7Descubre las Bóvedas (&aVaults) dentro de las Cámaras de Prueba para obtener tesoros únicos.",
+        "&b&l¡Eventos Ominosos! &7Prepárense para desafíos más intensos con los Eventos Ominosos (&bOminous Events) en las Cámaras de Prueba.",
+        "&e&l¡Expande tu Colección! &7Nuevas pinturas y música han sido añadidas al juego. ¡Decora tu base con estilo!"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Día del Forjador!",
+      "titulo": "&6&l¡Fiebre de las Cámaras!",
       "descripcion": [
-        "&7¡Comienza la semana con poder!",
-        "&7+50% de venta en lingotes de Hierro."
+        "&7¡Las Trial Chambers traen tesoros inesperados!",
+        "&7Cobre y Toba valen más, ¡y Velocidad II!"
       ],
-      "tipo": "PRECIO",
-      "item": "IRON_INGOT",
-      "porcentaje_extra": 50.0,
-      "efecto_pocion": "NONE",
-      "nivel_efecto": 0,
+      "tipo": "AMBOS",
+      "item": "COPPER_INGOT",
+      "porcentaje_extra": 25.0,
+      "efecto_pocion": "SPEED",
+      "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&a&l¡Festín de Bacalao!",
+      "titulo": "&b&l¡El Aliento de la Brisa!",
       "descripcion": [
-        "&7¡Relájate y pesca en la mitad de semana!",
-        "&7Obtén Suerte III pescando todo el día."
+        "&7La Brisa deja su huella en los valientes exploradores.",
+        "&7¡Recibe Resistencia II para tus aventuras!"
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "LUCK",
-      "nivel_efecto": 3,
+      "efecto_pocion": "RESISTANCE",
+      "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
