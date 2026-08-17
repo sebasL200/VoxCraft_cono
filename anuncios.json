@@ -1,63 +1,78 @@
 {
   "anuncios": [
     {
-      "id": "noticias_gaming_y_minecraft",
+      "id": "noticia_actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&l&bNoticias del Mundo Gaming y Minecraft",
-        "El mundo del gaming en 2026 está marcado por una notable evolución tecnológica y de accesibilidad. El cloud gaming y las plataformas portátiles continúan redefiniendo dónde y cómo jugamos, difuminando las líneas entre consolas y otros dispositivos. La inteligencia artificial ya no es una promesa, sino un motor clave en la industria, utilizada por el 97% de los desarrolladores para optimizar la creación de assets, la localización y las pruebas de juego. El enfoque se ha desplazado hacia una menor cantidad de lanzamientos, pero con mayor profundidad y calidad. Se espera que el mercado global de videojuegos alcance los 189 mil millones de dólares este año.",
-        "En cuanto a lanzamientos, la semana del 11 al 17 de agosto de 2026 vio la llegada de títulos como *Agent 64: Spies Never Die* para PC, un FPS inspirado en la era de Nintendo 64, y *Grounded 2* para PS5, expandiendo la experiencia de supervivencia contra insectos. Además, *The Elder Scrolls IV: Oblivion Remastered* hizo su debut en Nintendo Switch 2, prometiendo gráficos mejorados con Unreal Engine 5. La semana del 18 al 24 de agosto trae consigo *Backyard Baseball* para PC y Xbox, y el esperado *The Sinking City 2* para Xbox Series X|S, una nueva entrega de survival horror."
+        "&l&6¡Noticias de Última Hora en tu Servidor de Minecraft!&r",
+        "¡Prepárense, aventureros! Hemos actualizado nuestro servidor a la versión más reciente, ¡la &e1.21: Tricky Trials&e! Aquí hay algunas de las emocionantes adiciones y cambios que te esperan:",
+        "&a¡La Actualización \"Tricky Trials\" ha llegado!&r Sumérgete en la versión 1.21, lanzada oficialmente el 13 de junio de 2024, trayendo consigo desafíos inéditos y muchas sorpresas.",
+        "&bExplora las Cámaras de Prueba:&r Atrévete a entrar en las nuevas Cámaras de Prueba, estructuras generadas proceduralmente repletas de peligros y recompensas.",
+        "&c¡Nuevos Mobs Hostiles te Esperan!&r Enfréntate al astuto &dBreeze&d, que ataca con ráfagas de viento, y al pantanoso &7Bogged&7, un esqueleto que dispara flechas de veneno.",
+        "&eDomina el Mazo, la Nueva Arma:&e Descubre el poderoso &lMazo&l, una arma pesada que inflige más daño cuanto más alto caes antes de golpear a tu objetivo. ¡Su velocidad de ataque ha sido ajustada a 0.6!",
+        "&aAutomatiza con el Crafteador:&a Ahora puedes crear granjas automáticas con el &lCrafteador&l, un nuevo bloque de Redstone que te permite automatizar la creación de ítems.",
+        "&bDesbloquea los Vaults:&b Encuentra los &lVaults&l en las Cámaras de Prueba; cada jugador puede abrir uno por \"Trial Key\" para obtener valiosos botines una vez.",
+        "&cNuevos Bloques Decorativos y Más:&c Personaliza tus construcciones con una gran variedad de nuevos bloques decorativos, incluyendo los bloques de Tuff y Copper.",
+        "&dNuevas Pinturas y Discos de Música:&d Decora tus bases y ambienta tus aventuras con 20 nuevas pinturas y 3 nuevos discos de música añadidos al juego.",
+        "&eMejoras en Ender Pearls y Portales:&e Las Ender Pearls ahora pueden transportarte a otras dimensiones a través de portales, ¡y también puedes cruzar portales mientras montas una entidad!",
+        "&7¡Prepárate para los Juicios Ominosos!&7 Los Trial Spawners pueden volverse &lOminous&l, aumentando la dificultad y las recompensas. ¡Los mobs eliminados de un spawner ominoso sueltan cualquier ítem que hayan recogido!"
       ]
     },
     {
-      "id": "novedades_servidor_minecraft",
+      "id": "curiosidades_gaming",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&6&lCuriosidades del Mundo del Gaming:&r",
+        "&bEl Verdadero Primer Videojuego:&7 Contrario a la creencia popular de que fue Pong, el primer videojuego de la historia fue \"Tennis for Two\", creado en 1958 por el físico William Higinbotham.",
+        "&bEl Origen de Mario:&7 Antes de ser el fontanero que conocemos, Mario era un carpintero llamado \"Jumpman\" en el juego \"Donkey Kong\" de 1981.",
+        "&bLa Inspiración de Pac-Man:&7 El icónico diseño de Pac-Man surgió de una pizza a la que le faltaba una porción, una idea que se le ocurrió al creador Toru Iwatani mientras cenaba.",
+        "&bMonopoly y la Segunda Guerra Mundial:&7 Durante la Segunda Guerra Mundial, el gobierno británico utilizó copias de Monopoly para ayudar a los prisioneros de guerra aliados a escapar, escondiendo dinero real, brújulas y mapas de seda dentro de las cajas.",
+        "&bTetris como Terapia:&7 Estudios han demostrado que jugar Tetris poco después de un evento traumático puede ayudar a reducir los recuerdos desagradables y los síntomas del Trastorno de Estrés Postraumático (TEPT).",
+        "&bEl Tamaño de Minecraft:&7 Si el mundo de Minecraft fuera real, su tamaño sería aproximadamente comparable al de Neptuno, uno de los planetas más grandes de nuestro sistema solar.",
+        "&bEl Consola Más Vendida:&7 La PlayStation 2 (PS2) de Sony ostenta el título de la consola de videojuegos más vendida de todos los tiempos, con 160 millones de unidades."
+      ]
+    },
+    {
+      "id": "lanzamientos_videojuegos_agosto",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Novedades para el Servidor de Minecraft!",
-        "Aquí tienes las noticias más recientes y emocionantes para el servidor, con un enfoque en la actualización 1.21.x \"Tricky Trials\":",
-        "&a&l¡Cámaras de Prueba Ya Disponibles! &7Prepárense para explorar las desafiantes Cámaras de Prueba, llenas de bloques de Toba y Cobre.",
-        "&b&l¡Nuevos Mobs Hostiles! &7Enfrenta a la Brisa (&bBreeze) y al Enlodado (&bBogged), ¡no subestimes sus ataques!",
-        "&e&l¡El Mazo ha Llegado! &7Domina el nuevo arma 'El Mazo' (&eThe Mace) para un combate cuerpo a cuerpo devastador.",
-        "&d&l¡Crafteo Automatizado! &7Simplifica tus procesos con el nuevo Bloque Crafteador (&dThe Crafter) para producir ítems sin esfuerzo.",
-        "&7&l¡Cargas de Viento para Todos! &7Experimenta con las nuevas Cargas de Viento (&7Wind Charges) para un movimiento y combate dinámico.",
-        "&a&l¡Bóvedas con Recompensas! &7Descubre las Bóvedas (&aVaults) dentro de las Cámaras de Prueba para obtener tesoros únicos.",
-        "&b&l¡Eventos Ominosos! &7Prepárense para desafíos más intensos con los Eventos Ominosos (&bOminous Events) en las Cámaras de Prueba.",
-        "&e&l¡Expande tu Colección! &7Nuevas pinturas y música han sido añadidas al juego. ¡Decora tu base con estilo!"
+        "&d&lLanzamientos de Videojuegos de esta Semana:&r",
+        "&7No se encontró información específica sobre lanzamientos de videojuegos para la semana del 17 de agosto de 2026. Las fechas de lanzamiento futuras suelen anunciarse más cerca de su llegada, y la información detallada para una semana tan específica con tanta antelación no está comúnmente disponible."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Fiebre de las Cámaras!",
+      "titulo": "&6&l¡Fiebre del Oro Minero!&r",
       "descripcion": [
-        "&7¡Las Trial Chambers traen tesoros inesperados!",
-        "&7Cobre y Toba valen más, ¡y Velocidad II!"
+        "&7¡Día de la Suerte minera!",
+        "&7Vendemos GOLD_INGOT un 50% extra."
       ],
-      "tipo": "AMBOS",
-      "item": "COPPER_INGOT",
-      "porcentaje_extra": 25.0,
-      "efecto_pocion": "SPEED",
-      "nivel_efecto": 2,
+      "tipo": "PRECIO",
+      "item": "GOLD_INGOT",
+      "porcentaje_extra": 50.0,
+      "efecto_pocion": "NONE",
+      "nivel_efecto": 0,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&b&l¡El Aliento de la Brisa!",
+      "titulo": "&a&l¡Bendición del Explorador!&r",
       "descripcion": [
-        "&7La Brisa deja su huella en los valientes exploradores.",
-        "&7¡Recibe Resistencia II para tus aventuras!"
+        "&7¡Es mitad de semana, a explorar el mapa!",
+        "&7Obtén Speed II para tus aventuras."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "RESISTANCE",
+      "efecto_pocion": "SPEED",
       "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 22
     }
   ]
 }
