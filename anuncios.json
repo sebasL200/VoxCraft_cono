@@ -1,90 +1,61 @@
 {
   "anuncios": [
     {
-      "id": "nuevas_camaras_prueba",
+      "id": "noticias_actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&l&b¡Nuevas Cámaras de Prueba!&r &7Adéntrate en las profundidades y descubre las desafiantes Trial Chambers, llenas de trampas y tesoros para los más valientes. ¡Enfréntate a oleadas de enemigos hostiles y demuestra tu habilidad!"
+        "&b&l¡La Actualización 1.21 \"Tricky Trials\" ha llegado!&r &bExplora las nuevas Cámaras de Prueba repletas de desafíos y tesoros.",
+        "&e&lNuevos Mobs a la vista:&r &eEnfréntate al astuto &cC&lBreeze&r &econ sus ataques de viento y al pantanoso &cC&lBogged&r &een las Cámaras de Prueba y pantanos.",
+        "&d&l¡Domina la Maza!&r &dDescubre la nueva arma que causa más daño cuanto más alto caes. ¡Perfecta para ataques sorpresa!.",
+        "&a&lAutomatiza tu mundo con el Fabricador:&r &aAhora puedes craftear automáticamente tus objetos usando Redstone. ¡La eficiencia nunca fue tan sencilla!.",
+        "&7&lNuevos Tesoros Ocultos:&r &7Encuentra los &eVaults&r &7dentro de las Cámaras de Prueba y obtén recompensas exclusivas con tus Llaves de Prueba.",
+        "&e&lDesafíos Ominosos:&r &ePrepárate para eventos más difíciles al beber una \"Ominous Bottle\" y transforma los generadores en &c&lGeneradores Ominosos&r.",
+        "&b&lNuevas Pinturas y Música:&r &b¡Dale un toque fresco a tus bases! Se han añadido 20 nuevas pinturas y 3 nuevos discos de música para decorar tu mundo."
       ]
     },
     {
-      "id": "el_temible_breeze_ha_llegado",
-      "categoria": "noticias",
+      "id": "curiosidad_origen_minecraft",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&l&c¡El temible Breeze ha llegado!&r &7Enfrenta a este nuevo mob hostil que encontrarás en las Trial Chambers. ¡Sus ataques de viento te mantendrán alerta!"
+        "&d&lCuriosidad Gaming:&r &d¿Sabías que &eMinecraft&r &doriginalmente no se llamaba así? ¡Sus primeros nombres incluían \"Cave Game\" y \"Minecraft: Order of the Stone\"!."
       ]
     },
     {
-      "id": "nueva_arma_la_maza",
-      "categoria": "noticias",
+      "id": "lanzamientos_gaming_semanales",
+      "categoria": "lanzamientos",
       "mensajes": [
-        "&l&d¡Nueva arma: la Maza!&r &7Descubre el poder de la Maza, un arma que causa daño adicional cuanto más alto caigas antes de golpear. ¡Domina sus nuevos encantamientos exclusivos como Densidad y Brecha!"
-      ]
-    },
-    {
-      "id": "automatiza_con_el_crafter",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&e¡Automatiza con el Crafter!&r &7Simplifica tus procesos con el nuevo bloque Crafter, que permite la creación automática de objetos usando redstone. ¡Ideal para tus granjas y sistemas complejos!"
-      ]
-    },
-    {
-      "id": "bloques_decorativos_cobre_toba",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&a¡Bloques decorativos de Cobre y Toba!&r &7Expande tus opciones de construcción con una gran variedad de nuevos bloques de Cobre y Toba, perfectos para embellecer tus bases y creaciones."
-      ]
-    },
-    {
-      "id": "botin_en_las_bovedas",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&b¡Botín en las Bóvedas!&r &7Encuentra las nuevas Bóvedas dentro de las Trial Chambers. Cada jugador puede abrir una Bóveda una vez por medio de una Llave de Prueba para obtener recompensas únicas."
-      ]
-    },
-    {
-      "id": "nuevas_pinturas_discos_musica",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&e¡Nuevas Pinturas y Discos de Música!&r &7Personaliza aún más tus espacios con 20 nuevas pinturas y 3 nuevos discos de música, que añaden ambiente y estilo a tus construcciones."
-      ]
-    },
-    {
-      "id": "eventos_ominosos_evolucionados",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&d¡Eventos Ominosos Evolucionados!&r &7Experimenta un sistema de eventos ominosos renovado. Bebe una \"Ominous Bottle\" para incrementar el riesgo y la recompensa en tus Trial Chambers."
+        "&7&lLanzamientos Gaming de la Semana:&r &7Si buscas algo nuevo fuera de Minecraft, esta semana han salido juegos como &eTukoni: Forest Keepers&r, &eStarsand Island 1.0&r y &eThe Sinking City 2&r."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&a&l¡Lunes del Minero!",
+      "titulo": "&6&l¡Fiebre del Oro Minero!",
       "descripcion": [
-        "&7¡Comienza la semana con energía minera!",
-        "&7Venta extra de DIAMOND y COPPER_INGOT."
+        "&7¡Es lunes, hora de buscar riqueza!",
+        "&7Vende &eORO&7 con un &a+50%&7 de ganancia."
       ],
       "tipo": "PRECIO",
-      "item": "DIAMOND",
-      "porcentaje_extra": 30.0,
+      "item": "GOLD_INGOT",
+      "porcentaje_extra": 50.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 22
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&b&l¡Miércoles Acuático!",
+      "titulo": "&b&l¡Día del Explorador Ágil!",
       "descripcion": [
-        "&7¡Explora los océanos sin preocupaciones!",
-        "&7Obtén Respiración Acuática II."
+        "&7¡Desafía la jungla con destreza!",
+        "&7Obtén &bVelocidad II&7 para todo el día."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "WATER_BREATHING",
+      "efecto_pocion": "SPEED",
       "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
