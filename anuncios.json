@@ -1,43 +1,78 @@
 {
   "anuncios": [
     {
-      "id": "noticias_actualizacion_1_21",
+      "id": "actualizacion_1_21_integrada",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡La Actualización 1.21 \"Tricky Trials\" ha llegado!&r &bExplora las nuevas Cámaras de Prueba repletas de desafíos y tesoros.",
-        "&e&lNuevos Mobs a la vista:&r &eEnfréntate al astuto &cC&lBreeze&r &econ sus ataques de viento y al pantanoso &cC&lBogged&r &een las Cámaras de Prueba y pantanos.",
-        "&d&l¡Domina la Maza!&r &dDescubre la nueva arma que causa más daño cuanto más alto caes. ¡Perfecta para ataques sorpresa!.",
-        "&a&lAutomatiza tu mundo con el Fabricador:&r &aAhora puedes craftear automáticamente tus objetos usando Redstone. ¡La eficiencia nunca fue tan sencilla!.",
-        "&7&lNuevos Tesoros Ocultos:&r &7Encuentra los &eVaults&r &7dentro de las Cámaras de Prueba y obtén recompensas exclusivas con tus Llaves de Prueba.",
-        "&e&lDesafíos Ominosos:&r &ePrepárate para eventos más difíciles al beber una \"Ominous Bottle\" y transforma los generadores en &c&lGeneradores Ominosos&r.",
-        "&b&lNuevas Pinturas y Música:&r &b¡Dale un toque fresco a tus bases! Se han añadido 20 nuevas pinturas y 3 nuevos discos de música para decorar tu mundo."
+        "&e&l¡GRANDES NOVEDADES! &7La actualización 1.21, &bThe Tricky Trials&7, ya está &aCOMPLETAMENTE INTEGRADA&7 en nuestro servidor.",
+        "&7¡Prepárense para nuevos desafíos!"
       ]
     },
     {
-      "id": "curiosidad_origen_minecraft",
-      "categoria": "curiosidades",
+      "id": "explora_camaras_prueba",
+      "categoria": "consejos",
       "mensajes": [
-        "&d&lCuriosidad Gaming:&r &d¿Sabías que &eMinecraft&r &doriginalmente no se llamaba así? ¡Sus primeros nombres incluían \"Cave Game\" y \"Minecraft: Order of the Stone\"!."
+        "&b&l¡EXPLORA LAS CÁMARAS DE PRUEBA!&r &7Descubre las nuevas estructuras generadas proceduralmente, llenas de enemigos y recompensas.",
+        "¿Serás capaz de conquistarlas?"
       ]
     },
     {
-      "id": "lanzamientos_gaming_semanales",
-      "categoria": "lanzamientos",
+      "id": "nuevos_mobs_juego",
+      "categoria": "noticias",
       "mensajes": [
-        "&7&lLanzamientos Gaming de la Semana:&r &7Si buscas algo nuevo fuera de Minecraft, esta semana han salido juegos como &eTukoni: Forest Keepers&r, &eStarsand Island 1.0&r y &eThe Sinking City 2&r."
+        "&a&lNUEVOS MOBS EN EL JUEGO:&r &7Enfrenta al escurridizo &bThe Breeze&7 y al peligroso &bThe Bogged&7 en tus aventuras.",
+        "¡No te confíes!"
+      ]
+    },
+    {
+      "id": "botin_epico_bovedas",
+      "categoria": "consejos",
+      "mensajes": [
+        "&e&l¡DESBLOQUEA BOTÍN ÉPICO CON BÓVEDAS Y LLAVES DE PRUEBA!&r &7Completa los desafíos de los Trial Spawners para conseguir llaves y abrir las valiosas Bóvedas."
+      ]
+    },
+    {
+      "id": "domina_maza",
+      "categoria": "consejos",
+      "mensajes": [
+        "&d&l¡DOMINA LA MAZA!&r &7Prueba la nueva arma, &lLa Maza&r, y experimenta su daño devastador con cada caída.",
+        "¡Perfecta para emboscadas creativas!"
+      ]
+    },
+    {
+      "id": "automatiza_ensamblador",
+      "categoria": "consejos",
+      "mensajes": [
+        "&b&lAUTOMATIZA CON EL ENSAMBLADOR:&r &7El nuevo bloque &lThe Crafter&r ya está disponible para revolucionar tus granjas de recursos.",
+        "¡Crea sin límites!"
+      ]
+    },
+    {
+      "id": "domina_viento_wind_charges",
+      "categoria": "consejos",
+      "mensajes": [
+        "&a&lDOMINA EL VIENTO CON LAS WIND CHARGES:&r &7Usa las &bCargas de Viento&7 para impulsarte o para lanzar a tus enemigos por los aires.",
+        "¡Una nueva forma de combate!"
+      ]
+    },
+    {
+      "id": "cuidado_eventos_ominosos",
+      "categoria": "noticias",
+      "mensajes": [
+        "&c&l¡CUIDADO CON LOS EVENTOS OMINOSOS!&r &7Los desafíos se intensifican con &leventos especiales&r que pondrán a prueba tu habilidad al máximo."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Fiebre del Oro Minero!",
+      "titulo": "&6&l¡Día de la Mina Profunda!",
       "descripcion": [
-        "&7¡Es lunes, hora de buscar riqueza!",
-        "&7Vende &eORO&7 con un &a+50%&7 de ganancia."
+        "&7Es lunes, ¡a minar se ha dicho!",
+        "&7Bonus del 50% al vender DIAMOND."
       ],
       "tipo": "PRECIO",
-      "item": "GOLD_INGOT",
+      "item": "DIAMOND",
       "porcentaje_extra": 50.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
@@ -47,15 +82,15 @@
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&b&l¡Día del Explorador Ágil!",
+      "titulo": "&a&l¡Velocidad del Constructor!",
       "descripcion": [
-        "&7¡Desafía la jungla con destreza!",
-        "&7Obtén &bVelocidad II&7 para todo el día."
+        "&7¡Construye tus sueños más rápido hoy!",
+        "&7Obtén HASTE II para tus obras."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "SPEED",
+      "efecto_pocion": "HASTE",
       "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
