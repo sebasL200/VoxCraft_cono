@@ -1,79 +1,49 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21_integrada",
+      "id": "noticias_actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡GRANDES NOVEDADES! &7La actualización 1.21, &bThe Tricky Trials&7, ya está &aCOMPLETAMENTE INTEGRADA&7 en nuestro servidor.",
-        "&7¡Prepárense para nuevos desafíos!"
+        "Descubre lo más reciente para llevar tu experiencia de juego al siguiente nivel con la actualización 1.21.x.",
+        "&l&b¡La Actualización \"Tricky Trials\" ha llegado!&r Prepárate para nuevas aventuras y desafíos con la versión 1.21, ya disponible tanto para Java como Bedrock Edition.",
+        "&l&eExplora las Cámaras de Juicio:&r Adéntrate en las profundidades de estas nuevas estructuras, repletas de peligros, trampas y, por supuesto, recompensas únicas.",
+        "&l&dNueva Arma: El Mace (Maza):&r ¡Aprende a dominar la Maza, una poderosa arma que inflige más daño cuanto mayor sea tu caída antes de golpear!",
+        "&l&7Nuevos Mobs Hostiles: Breeze y Bogged:&r Enfréntate al astuto Breeze en las Cámaras de Juicio, que dispara ráfagas de viento, y al pantanoso Bogged, un esqueleto que lanza flechas de veneno.",
+        "&l&aEl Crafter: ¡Automatiza tus Creaciones!&r Descubre el bloque Crafter, que te permite craftear objetos automáticamente con redstone, abriendo un mundo de posibilidades.",
+        "&l&cCuidado con los Juicios Ominosos:&r Si tienes el efecto \"Mal Agüero\" al entrar en una Cámara de Juicio, se activarán los \"Juicios Ominosos\", una versión mucho más difícil pero con recompensas valiosas.",
+        "&l&bNuevos Bloques Decorativos:&r Embellece tus construcciones con las nuevas variantes de bloques de Cobre (rejillas, cincelados, puertas y trampillas) y Toba (pulida, ladrillos, escaleras y losas).",
+        "&l&eLos Bundles están de vuelta (Experimental):&r Experimenta con los Bundles, un objeto que te permite apilar diferentes tipos de ítems en una sola ranura de inventario, optimizando tu espacio."
       ]
     },
     {
-      "id": "explora_camaras_prueba",
-      "categoria": "consejos",
+      "id": "curiosidades_tricky_trials_anuncio",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&b&l¡EXPLORA LAS CÁMARAS DE PRUEBA!&r &7Descubre las nuevas estructuras generadas proceduralmente, llenas de enemigos y recompensas.",
-        "¿Serás capaz de conquistarlas?"
+        "&7Sabías que el \"Tricky Trials Update\" (1.21) de Minecraft fue anunciado oficialmente en Minecraft Live 2023 en octubre de 2023, antes de su lanzamiento en junio de 2024."
       ]
     },
     {
-      "id": "nuevos_mobs_juego",
+      "id": "lanzamientos_videojuegos_agosto_2026",
       "categoria": "noticias",
       "mensajes": [
-        "&a&lNUEVOS MOBS EN EL JUEGO:&r &7Enfrenta al escurridizo &bThe Breeze&7 y al peligroso &bThe Bogged&7 en tus aventuras.",
-        "¡No te confíes!"
-      ]
-    },
-    {
-      "id": "botin_epico_bovedas",
-      "categoria": "consejos",
-      "mensajes": [
-        "&e&l¡DESBLOQUEA BOTÍN ÉPICO CON BÓVEDAS Y LLAVES DE PRUEBA!&r &7Completa los desafíos de los Trial Spawners para conseguir llaves y abrir las valiosas Bóvedas."
-      ]
-    },
-    {
-      "id": "domina_maza",
-      "categoria": "consejos",
-      "mensajes": [
-        "&d&l¡DOMINA LA MAZA!&r &7Prueba la nueva arma, &lLa Maza&r, y experimenta su daño devastador con cada caída.",
-        "¡Perfecta para emboscadas creativas!"
-      ]
-    },
-    {
-      "id": "automatiza_ensamblador",
-      "categoria": "consejos",
-      "mensajes": [
-        "&b&lAUTOMATIZA CON EL ENSAMBLADOR:&r &7El nuevo bloque &lThe Crafter&r ya está disponible para revolucionar tus granjas de recursos.",
-        "¡Crea sin límites!"
-      ]
-    },
-    {
-      "id": "domina_viento_wind_charges",
-      "categoria": "consejos",
-      "mensajes": [
-        "&a&lDOMINA EL VIENTO CON LAS WIND CHARGES:&r &7Usa las &bCargas de Viento&7 para impulsarte o para lanzar a tus enemigos por los aires.",
-        "¡Una nueva forma de combate!"
-      ]
-    },
-    {
-      "id": "cuidado_eventos_ominosos",
-      "categoria": "noticias",
-      "mensajes": [
-        "&c&l¡CUIDADO CON LOS EVENTOS OMINOSOS!&r &7Los desafíos se intensifican con &leventos especiales&r que pondrán a prueba tu habilidad al máximo."
+        "&l&bLanzamientos de Videojuegos de esta Semana (19 - 25 de Agosto de 2026)&r",
+        "&7The Sinking City 2 fue lanzado el 18 de agosto, trayendo de vuelta su atmósfera lovecraftiana de misterio.",
+        "&7Aliens: Fireteam Elite 2 se prepara para su lanzamiento el 24 de agosto, prometiendo más acción cooperativa en el universo Alien.",
+        "&7Hacia finales de mes, el 27 de agosto, se esperan lanzamientos como Resonance: A Plague Tale Legacy y Metal Gear Solid: Master Collection Volume 2."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Día de la Mina Profunda!",
+      "titulo": "&6&l¡Fiebre del Diamante!",
       "descripcion": [
-        "&7Es lunes, ¡a minar se ha dicho!",
-        "&7Bonus del 50% al vender DIAMOND."
+        "&7¡Comienza la semana con brillo!",
+        "&725% extra al vender DIAMOND."
       ],
       "tipo": "PRECIO",
       "item": "DIAMOND",
-      "porcentaje_extra": 50.0,
+      "porcentaje_extra": 25.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -82,19 +52,19 @@
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&a&l¡Velocidad del Constructor!",
+      "titulo": "&a&l¡Día del Explorador Audaz!",
       "descripcion": [
-        "&7¡Construye tus sueños más rápido hoy!",
-        "&7Obtén HASTE II para tus obras."
+        "&7¡Aventura sin límites te espera!",
+        "&7Obtén Velocidad II para explorar."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "HASTE",
+      "efecto_pocion": "SPEED",
       "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 22
     }
   ]
 }
