@@ -1,76 +1,102 @@
 {
   "anuncios": [
     {
-      "id": "noticias_actualizacion_1_21",
+      "id": "actualizacion_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&l&b¡La Actualización 1.21 \"Tricky Trials\" ha llegado a nuestro servidor!&r &eExplora todas las nuevas características ahora mismo.&r",
-        "&aDescubre las nuevas &lCámaras de Desafío (Trial Chambers)&r&a, repletas de peligros y tesoros esperando ser descubiertos.&r",
-        "&cNuevos mobs hostiles: &lEl Breeze y el Bogged&r &cpondrán a prueba tus habilidades de combate en las Trial Chambers y los biomas de pantano.&r",
-        "&d¡Domina el nuevo armamento! La &lMaza&r &dinflige daño adicional cuanto mayor sea tu caída antes del impacto.&r",
-        "&7Automatiza tus creaciones con el &lBloque Crafter&r&7. Conéctalo a Redstone y fabrica objetos de forma eficiente.&r",
-        "&bDecora tu base con los &lnuevos bloques de Cobre&r &by las &20 nuevas pinturas&b disponibles en el juego.&r",
-        "&e¡Cuidado con las &lLámparas de Cobre&e! Emiten luz, pero se atenúan a medida que se oxidan con el tiempo debido a la oxidación.&r",
-        "&aEncuentra mapas de las &lCámaras de Desafío&r &aen los aldeanos para guiarte a estas nuevas y emocionantes estructuras.&r"
+        "&a&l¡ACTUALIZACIÓN 1.21.x \"TRICKY TRIALS\" YA DISPONIBLE!&r",
+        "&7La esperada actualización 1.21.x, conocida como \"Tricky Trials\", se lanzó oficialmente en junio de 2024, trayendo consigo un sinfín de nuevas aventuras y desafíos para todos los jugadores."
       ]
     },
     {
-      "id": "curiosidades_gaming",
+      "id": "explora_trial_chambers",
+      "categoria": "consejos",
+      "mensajes": [
+        "&b&l¡EXPLORA LAS PELIGROSAS TRIAL CHAMBERS!&r",
+        "&7Adéntrate en las profundidades entre las capas -40 y -20 para descubrir las Trial Chambers, nuevas y desafiantes estructuras subterráneas repletas de nuevos bloques, ítems y mobs que pondrán a prueba tus habilidades de combate y exploración."
+      ]
+    },
+    {
+      "id": "enfrenta_breeze_bogged",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡ENFRÉNTATE AL ASTUTO BREEZE Y AL VENENOSO BOGGED!&r",
+        "&7Conoce a dos nuevas amenazas en tus expediciones: el veloz Breeze, que dispara cargas de viento en las Trial Chambers, y el Bogged, una variante de esqueleto que acecha en las cámaras y los pantanos, armado con flechas envenenadas."
+      ]
+    },
+    {
+      "id": "domina_la_maza",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡DOMINA LA MAZA, LA NUEVA ARMA DEMOLEDORA!&r",
+        "&7Forja la poderosa Maza, una nueva arma que utiliza las varas de Breeze y que inflige más daño cuanto mayor sea tu caída, incluso pudiendo ignorar la armadura de tus enemigos más duros."
+      ]
+    },
+    {
+      "id": "automatiza_con_crafter",
+      "categoria": "consejos",
+      "mensajes": [
+        "&7&l¡AUTOMATIZA TUS FÁBRICAS CON EL CRAFTER!&r",
+        "&7La era de la automatización ha llegado a Minecraft con el Crafter, un bloque que te permite fabricar ítems de manera automática al recibir energía, abriendo un mundo de posibilidades para tus diseños de Redstone."
+      ]
+    },
+    {
+      "id": "nuevos_bloques_cobre_tuff",
+      "categoria": "noticias",
+      "mensajes": [
+        "&c&l¡NUEVOS BLOQUES DE COBRE Y TUBA PARA TUS CONSTRUCCIONES!&r",
+        "&7Da rienda suelta a tu creatividad con la adición de nuevos bloques de Cobre y Tuff, perfectos para embellecer tus bases y estructuras con texturas y colores frescos."
+      ]
+    },
+    {
+      "id": "usa_cargas_de_viento",
+      "categoria": "consejos",
+      "mensajes": [
+        "&a&l¡UTILIZA LAS CARGAS DE VIENTO PARA MOVERTE CON ESTILO!&r",
+        "&7Las cargas de viento, obtenidas del Breeze, no solo activan mecanismos, ¡sino que también te permiten realizar \"super saltos\" al lanzarlas a tus pies, ofreciendo nuevas formas de navegación!"
+      ]
+    },
+    {
+      "id": "minecraft_juego_mas_vendido",
       "categoria": "curiosidades",
       "mensajes": [
-        "&lMinecraft&r es el videojuego más vendido de la historia, con más de 300 millones de unidades vendidas en todo el mundo.",
-        "Los famosos fantasmas de &lPac-Man&r tienen nombres: el rojo es Blinky, el rosa es Pinky, el celeste es Inky y el amarillo es Clyde.",
-        "La primera aparición de &lMario&r fue en el juego &lDonkey Kong&r, donde era conocido como \"Jumpman\" y su profesión era carpintero, no fontanero. Recibió el nombre de Mario en honor a Mario Segale, el entonces propietario de las oficinas de Nintendo en Estados Unidos.",
-        "El videojuego &lMortal Kombat&r fue un catalizador para la creación de sistemas de clasificación por edad en los videojuegos, debido a su violencia explícita.",
-        "La &lGame Boy&r fue la primera consola de videojuegos en ser jugada en el espacio en 1993, cuando el astronauta ruso Aleksandr A. Serebrov llevó una a la estación espacial Mir para jugar &lTetris&r.",
-        "&lThe Elder Scrolls: Daggerfall&r, un juego de 1996, ostenta el récord del mapa más grande en un videojuego, abarcando aproximadamente 161,600 km².",
-        "&lRed Dead Redemption 2&r es el juego con el costo de creación más elevado en la historia, con una inversión de 800 millones de dólares.",
-        "&lThe Witcher 3: Wild Hunt&r ha ganado más de 800 premios, incluyendo más de 250 premios a Juego del Año."
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos",
-      "categoria": "noticias",
-      "mensajes": [
-        "**18 de agosto:** &lThe Sinking City 2&r (PS5, PC, XSX|S)",
-        "**20 de agosto:** &lMortal Shell 2&r (PS5, PC, XSX|S)",
-        "**21 de agosto:** &lBlood Red Rebirth&r (PC Linux)",
-        "**21 de agosto:** &lCicadamata\"&r (PC)"
+        "&b&l¡MINECRAFT, EL JUEGO MÁS VENDIDO DE LA HISTORIA!&r",
+        "&7Un dato curioso del mundo gamer: Minecraft ostenta el título de ser el videojuego más vendido de todos los tiempos, con más de 176 millones de copias comercializadas en todas las plataformas."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Día del Forjador!",
+      "titulo": "&6&l¡Rocas Xenolíticas!",
       "descripcion": [
-        "&7¡El material más fuerte te espera hoy!",
-        "&7Obtén 30% extra al vender DIAMOND e IRON_INGOT."
+        "&7¡Alien Fireteam Elite 2 se lanzó hoy!",
+        "&7Aumenta el precio del Tuff y obtén Resistencia I."
       ],
-      "tipo": "PRECIO",
-      "item": "DIAMOND",
-      "porcentaje_extra": 30.0,
-      "efecto_pocion": "NONE",
-      "nivel_efecto": 0,
+      "tipo": "AMBOS",
+      "item": "TUFF",
+      "porcentaje_extra": 15.0,
+      "efecto_pocion": "RESISTANCE",
+      "nivel_efecto": 1,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
     },
     {
-      "dia": "THURSDAY",
-      "titulo": "&b&l¡El Toque del Arquitecto!",
+      "dia": "WEDNESDAY",
+      "titulo": "&b&l¡Sigilo Táctico!",
       "descripcion": [
-        "&7¡Construye tus sueños con mayor rapidez!",
-        "&7Obtén HASTE II durante 4 horas."
+        "&7¡Metal Gear Solid Vol. 2 ya disponible!",
+        "&7Obtén Haste II para una minería veloz."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
       "efecto_pocion": "HASTE",
       "nivel_efecto": 2,
-      "todo_el_dia": false,
-      "hora_inicio": 16,
-      "hora_fin": 20
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     }
   ]
 }
