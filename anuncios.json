@@ -1,65 +1,62 @@
 {
   "anuncios": [
     {
-      "id": "actualizaciones_servidor_minecraft",
+      "id": "noticias_servidor_minecraft",
       "categoria": "noticias",
       "mensajes": [
-        "&l&b&a¡Noticias y Anuncios para tu Servidor de Minecraft!&r",
-        "¡Prepárense, aventureros, para estas emocionantes actualizaciones y novedades que llegan a nuestro servidor!",
-        "&e¡Actualización de Estabilidad 1.21.10 Java Edition!&r",
-        "&7Hemos actualizado el servidor a la versión 1.21.10 de Java Edition, que incluye importantes mejoras de estabilidad y correcciones de errores, garantizando una experiencia de juego más fluida para todos.&r",
-        "&b¡Nuevos Mobs en la Versión 1.21.11!&r",
-        "&7Prepárense para encontrar nuevos desafíos con la llegada de los Nautilos, Nautilos Zombis, Camellos Cáscara, Desecados y Caballos Zombis que ahora aparecen naturalmente en el mundo.&r",
-        "&a¡Armas y Armaduras Novedosas!&r",
-        "&7La versión 1.21.11 introduce nuevas lanzas como arma, y la armadura de Nautilus para protegerte en tus aventuras.&r",
-        "&e¡Mejoras Gráficas Disponibles!&r",
-        "&7Disfruta de una experiencia visual renovada con las nuevas opciones de gráficos como \"Filtro de Textura\" y \"Filtro Anisotrópico\" en la versión 1.21.11.&r",
-        "&b¡La Era del Cobre se Expande en Bedrock!&r",
-        "&7La actualización 1.21.100 de Bedrock Edition trae consigo armadura de cobre, nuevas herramientas y armas de cobre, ¡y hasta el Golem de Cobre que puede ayudarte a organizar tus ítems!&r",
-        "&a¡Cofres de Cobre y su Evolución!&r",
-        "&7Descubre los nuevos cofres de cobre que se oxidan con el tiempo y pueden ser encerados. ¡Ideales para tus bases!&r",
-        "&e¡Nuevas Cámaras de Trial y Mobs en 1.21 \"Tricky Trials\"!&r",
-        "&7La actualización principal 1.21 \"Tricky Trials\" añadió las desafiantes Cámaras de Trial, el peligroso Breeze y el nuevo tipo de esqueleto Pantanoso, ¡además de la poderosa Maza!&r",
-        "&b¡El Crafter para la Automatización!&r",
-        "&7Con el Crafter, la automatización de crafteos alcanza un nuevo nivel, permitiendo creaciones en masa con Redstone.&r"
+        "&f&l¡Atención, Aventureros! Tenemos anuncios importantes y llenos de color para mantenerlos al tanto de las últimas y emocionantes adiciones a nuestro servidor, ¡inspiradas en la actualización 1.21.x!",
+        "1. &a&l¡ACTUALIZACIÓN 1.21.x \"Tricky Trials\" DESPLEGADA!&r &fSumérgete en las nuevas &eTrial Chambers&f y enfréntate a desafíos únicos. ¡Descubre los &bTrial Spawners&f y las recompensas que te esperan!",
+        "2. &c&l¡NUEVOS MOBS EN EL SERVIDOR!&r &fPrepárate para combatir al escurridizo &eBreeze&f, que dispara cargas de viento, y al venenoso &7Bogged&f, una variante de esqueleto que encontrarás en pantanos.",
+        "3. &b&l¡ARMAZA TU ESTRATEGIA CON LA MAZA!&r &fHemos implementado la nueva arma, la &aMaza&f, junto con sus encantamientos exclusivos como &eDensity&f y &eWind Burst&f. ¡Siente el poder en cada golpe!",
+        "4. &e&l¡BLOQUES Y OBJETOS EXCLUSIVOS YA DISPONIBLES!&r &fExplora las nuevas adiciones de &aCobre&f (Bulb, Door, Grate, Trapdoor) y &aToba&f. Además, el &bCrafter&f para automatizar tus creaciones y nuevos &adiscos de música&f te esperan.",
+        "5. &d&l¡EVENTOS OMINOSOS IMPLEMENTADOS!&r &fLa dinámica de &eBad Omen&f ha sido rediseñada para dar acceso a &bEventos Ominosos&f. ¡Prepárate para retos aún mayores en las &eOminous Trial Chambers&f!",
+        "6. &7&l¡CONOCE LAS NUEVAS PINTURAS!&r &fDecora tus construcciones con las &a20 nuevas pinturas&f añadidas en la última actualización. ¡Personaliza tu espacio como nunca antes!",
+        "7. &b&l¡EXPLORA LAS TRIAL CHAMBERS!&r &fDescubre los vastos y peligrosos pasillos de las &eTrial Chambers&f, llenos de trampas y tesoros. ¡Un nuevo reto para los aventureros más audaces!",
+        "8. &a&l¡NUEVOS ESTADOS DE EFECTO!&r &fEnfréntate a los nuevos estados &eInfested, Oozing, Weaving, Wind Charged, Raid Omen y Trial Omen&f, que añadirán una nueva capa de estrategia al combate.",
+        "&f&l¡Esperamos que disfruten de todas estas novedades! ¡A minar y construir!"
       ]
     },
     {
-      "id": "curiosidades_mundo_gaming",
+      "id": "curiosidades_gaming",
       "categoria": "curiosidades",
       "mensajes": [
-        "&l&dCuriosidades del Mundo Gaming&r",
-        "&7El primer \"Easter Egg\" en un videojuego fue un acto de rebeldía de un desarrollador en el juego Adventure de Atari.&r",
-        "&7El famoso personaje Mario de Nintendo fue originalmente llamado Jumpman y se le dio el nombre de \"Mario\" en honor a Mario Segale, el enojado propietario de la oficina de Nintendo of America.&r",
-        "&7Minecraft es el videojuego más vendido de la historia, con más de 300 millones de copias vendidas en todo el mundo.&r",
-        "&7Los fantasmas de Pac-Man tienen nombres: el rojo es Blinky, el rosa es Pinky, el cian es Inky y el naranja es Clyde.&r",
-        "&7La consola Game Boy fue la primera en ser jugada en el espacio, llevada por el astronauta ruso Aleksandr A. Serebrov.&r",
-        "&7Se dice que el videojuego con el mapa más grande es The Elder Scrolls: Daggerfall, lanzado en 1996, con un tamaño de 161.600 km².&r"
+        "El primer \"Easter Egg\" en un videojuego fue en el juego \"Adventure\" de Atari 2600, creado por el programador Warren Robinett como un acto de rebeldía.",
+        "El famoso personaje de Nintendo, Mario, originalmente se llamaba \"Jumpman\". Fue rebautizado en honor a Mario Segale, el casero de las oficinas de Nintendo en EE. UU., quien reclamaba un arriendo atrasado.",
+        "Minecraft es el videojuego más vendido de la historia, con más de 200 millones de copias vendidas en todo el mundo.",
+        "El primer torneo de eSports se llevó a cabo el 19 de octubre de 1972 en la Universidad de Stanford, llamado \"The Intergalactic Spacewar Olympics\", y el premio fue una suscripción a la revista Rolling Stones.",
+        "El videojuego con el mapa más grande del mundo es \"Elder Scrolls: Daggerfall\", lanzado en 1996, con una extensión de 161.600 KM²."
       ]
     },
     {
-      "id": "proximos_lanzamientos_videojuegos",
+      "id": "lanzamientos_videojuegos_semana",
       "categoria": "noticias",
       "mensajes": [
-        "&l&cCPróximos Lanzamientos de Videojuegos (Semana del 24 de agosto de 2026)&r",
-        "&7Esta semana trae algunos títulos interesantes para los jugadores:&r",
-        "&7&lAliens: Fireteam Elite 2&r &7– Lanzamiento el 25 de agosto.&r",
-        "&7&lMetal Gear Solid: Master Collection Volume 2&r &7– Llega el 27 de agosto para PS5 y Switch 2.&r",
-        "&7&lStar Wars: Zero Company&r &7– También se lanza el 27 de agosto.&r"
+        "Esta semana trae varios lanzamientos interesantes para diversas plataformas:",
+        "&lOnce Human&r (PS5, Xbox Series X|S) - 25 de agosto. Este juego de supervivencia multijugador de mundo abierto, ya disponible en PC, llega a consolas.",
+        "&lApidya' Special&r (PS5, Xbox Series X|S, Switch, PC) - 25 de agosto. Un remake modernizado de un shoot 'em up de desplazamiento lateral con gráficos renovados y música remezclada.",
+        "&l1666: Amsterdam (Early Access)&r (PC) - 25 de agosto. Patrice Désilets, uno de los creadores de Assassin's Creed, lanza esta nueva franquicia de acción-aventura en tercera persona.",
+        "&lBlood Dungeon&r (PS5, Xbox Series X|S, Switch, Switch 2, PC) - 25 de agosto. Un plataformas 2D con mecánicas de disparo automático y una banda sonora \"totalmente loca\".",
+        "&lWestern Rye (Early Access)&r (PC) - 25 de agosto. Un juego de mundo abierto centrado en la supervivencia y la construcción en el Salvaje Oeste americano.",
+        "&lAliens: Fireteam Elite 2&r (PS5, Xbox Series X|S, PC) - 25 de agosto. Un shooter PvE cooperativo donde tu escuadrón se enfrenta a los temibles Xenomorfos.",
+        "&lResonance: A Plague Tale Legacy&r (PS5) - Esta semana.",
+        "&lStar Wars Zero Company&r (PS5) - Esta semana.",
+        "&lMetal Gear Solid: Master Collection Vol. 2&r (PS5) - Esta semana.",
+        "&lCombolands&r (PC) - Esta semana.",
+        "&lBox Knight&r (PC) - Esta semana."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Día del Forjador!&r",
+      "titulo": "&6&l¡Festival del Minero Hábil!",
       "descripcion": [
-        "&7¡Es el momento perfecto para fundir!&r",
-        "&7Obtén +50% al vender tus lingotes de cobre.&r"
+        "&7¡El cobre y la toba dominan esta semana!",
+        "&7Vende COBRE y TUFF con +25% de ganancia."
       ],
       "tipo": "PRECIO",
       "item": "COPPER_INGOT",
-      "porcentaje_extra": 50.0,
+      "porcentaje_extra": 25.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -68,18 +65,18 @@
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&a&l¡Bendición de la Cosecha!&r",
+      "titulo": "&c&l¡Día de la Cámara de Pruebas!",
       "descripcion": [
-        "&7¡El suelo es fértil y te sonríe!&r",
-        "&7Recibe Haste II para una siembra veloz.&r"
+        "&7¡Prepárate para los desafíos de las Trial Chambers!",
+        "&7Obtén Fuerza II por 3 horas en combate."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "HASTE",
+      "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
       "todo_el_dia": false,
-      "hora_inicio": 17,
+      "hora_inicio": 18,
       "hora_fin": 21
     }
   ]
