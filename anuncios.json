@@ -1,62 +1,26 @@
 {
   "anuncios": [
     {
-      "id": "noticias_servidor_minecraft",
+      "id": "nueva_actualizacion_cobre",
       "categoria": "noticias",
       "mensajes": [
-        "&f&l¡Atención, Aventureros! Tenemos anuncios importantes y llenos de color para mantenerlos al tanto de las últimas y emocionantes adiciones a nuestro servidor, ¡inspiradas en la actualización 1.21.x!",
-        "1. &a&l¡ACTUALIZACIÓN 1.21.x \"Tricky Trials\" DESPLEGADA!&r &fSumérgete en las nuevas &eTrial Chambers&f y enfréntate a desafíos únicos. ¡Descubre los &bTrial Spawners&f y las recompensas que te esperan!",
-        "2. &c&l¡NUEVOS MOBS EN EL SERVIDOR!&r &fPrepárate para combatir al escurridizo &eBreeze&f, que dispara cargas de viento, y al venenoso &7Bogged&f, una variante de esqueleto que encontrarás en pantanos.",
-        "3. &b&l¡ARMAZA TU ESTRATEGIA CON LA MAZA!&r &fHemos implementado la nueva arma, la &aMaza&f, junto con sus encantamientos exclusivos como &eDensity&f y &eWind Burst&f. ¡Siente el poder en cada golpe!",
-        "4. &e&l¡BLOQUES Y OBJETOS EXCLUSIVOS YA DISPONIBLES!&r &fExplora las nuevas adiciones de &aCobre&f (Bulb, Door, Grate, Trapdoor) y &aToba&f. Además, el &bCrafter&f para automatizar tus creaciones y nuevos &adiscos de música&f te esperan.",
-        "5. &d&l¡EVENTOS OMINOSOS IMPLEMENTADOS!&r &fLa dinámica de &eBad Omen&f ha sido rediseñada para dar acceso a &bEventos Ominosos&f. ¡Prepárate para retos aún mayores en las &eOminous Trial Chambers&f!",
-        "6. &7&l¡CONOCE LAS NUEVAS PINTURAS!&r &fDecora tus construcciones con las &a20 nuevas pinturas&f añadidas en la última actualización. ¡Personaliza tu espacio como nunca antes!",
-        "7. &b&l¡EXPLORA LAS TRIAL CHAMBERS!&r &fDescubre los vastos y peligrosos pasillos de las &eTrial Chambers&f, llenos de trampas y tesoros. ¡Un nuevo reto para los aventureros más audaces!",
-        "8. &a&l¡NUEVOS ESTADOS DE EFECTO!&r &fEnfréntate a los nuevos estados &eInfested, Oozing, Weaving, Wind Charged, Raid Omen y Trial Omen&f, que añadirán una nueva capa de estrategia al combate.",
-        "&f&l¡Esperamos que disfruten de todas estas novedades! ¡A minar y construir!"
-      ]
-    },
-    {
-      "id": "curiosidades_gaming",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "El primer \"Easter Egg\" en un videojuego fue en el juego \"Adventure\" de Atari 2600, creado por el programador Warren Robinett como un acto de rebeldía.",
-        "El famoso personaje de Nintendo, Mario, originalmente se llamaba \"Jumpman\". Fue rebautizado en honor a Mario Segale, el casero de las oficinas de Nintendo en EE. UU., quien reclamaba un arriendo atrasado.",
-        "Minecraft es el videojuego más vendido de la historia, con más de 200 millones de copias vendidas en todo el mundo.",
-        "El primer torneo de eSports se llevó a cabo el 19 de octubre de 1972 en la Universidad de Stanford, llamado \"The Intergalactic Spacewar Olympics\", y el premio fue una suscripción a la revista Rolling Stones.",
-        "El videojuego con el mapa más grande del mundo es \"Elder Scrolls: Daggerfall\", lanzado en 1996, con una extensión de 161.600 KM²."
-      ]
-    },
-    {
-      "id": "lanzamientos_videojuegos_semana",
-      "categoria": "noticias",
-      "mensajes": [
-        "Esta semana trae varios lanzamientos interesantes para diversas plataformas:",
-        "&lOnce Human&r (PS5, Xbox Series X|S) - 25 de agosto. Este juego de supervivencia multijugador de mundo abierto, ya disponible en PC, llega a consolas.",
-        "&lApidya' Special&r (PS5, Xbox Series X|S, Switch, PC) - 25 de agosto. Un remake modernizado de un shoot 'em up de desplazamiento lateral con gráficos renovados y música remezclada.",
-        "&l1666: Amsterdam (Early Access)&r (PC) - 25 de agosto. Patrice Désilets, uno de los creadores de Assassin's Creed, lanza esta nueva franquicia de acción-aventura en tercera persona.",
-        "&lBlood Dungeon&r (PS5, Xbox Series X|S, Switch, Switch 2, PC) - 25 de agosto. Un plataformas 2D con mecánicas de disparo automático y una banda sonora \"totalmente loca\".",
-        "&lWestern Rye (Early Access)&r (PC) - 25 de agosto. Un juego de mundo abierto centrado en la supervivencia y la construcción en el Salvaje Oeste americano.",
-        "&lAliens: Fireteam Elite 2&r (PS5, Xbox Series X|S, PC) - 25 de agosto. Un shooter PvE cooperativo donde tu escuadrón se enfrenta a los temibles Xenomorfos.",
-        "&lResonance: A Plague Tale Legacy&r (PS5) - Esta semana.",
-        "&lStar Wars Zero Company&r (PS5) - Esta semana.",
-        "&lMetal Gear Solid: Master Collection Vol. 2&r (PS5) - Esta semana.",
-        "&lCombolands&r (PC) - Esta semana.",
-        "&lBox Knight&r (PC) - Esta semana."
+        "&a¡Gran Actualización de Cobre en el Servidor!",
+        "&7Descubre nuevos bloques y crafteos.",
+        "&7¡A minar se ha dicho!"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Festival del Minero Hábil!",
+      "titulo": "&6&l¡Fiebre del Mineral Escarlata!",
       "descripcion": [
-        "&7¡El cobre y la toba dominan esta semana!",
-        "&7Vende COBRE y TUFF con +25% de ganancia."
+        "&7¡Las nuevas vetas de cobre te esperan!",
+        "&7Vende &eCOPPER_INGOT &7con un &a+50% &7de bonus."
       ],
       "tipo": "PRECIO",
       "item": "COPPER_INGOT",
-      "porcentaje_extra": 25.0,
+      "porcentaje_extra": 50.0,
       "efecto_pocion": "NONE",
       "nivel_efecto": 0,
       "todo_el_dia": true,
@@ -65,19 +29,19 @@
     },
     {
       "dia": "WEDNESDAY",
-      "titulo": "&c&l¡Día de la Cámara de Pruebas!",
+      "titulo": "&b&l¡Día del Explorador Audaz!",
       "descripcion": [
-        "&7¡Prepárate para los desafíos de las Trial Chambers!",
-        "&7Obtén Fuerza II por 3 horas en combate."
+        "&7¡Prepárate para nuevas aventuras subterráneas!",
+        "&7Obtén &9HASTE II &7para minar más rápido."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "STRENGTH",
+      "efecto_pocion": "HASTE",
       "nivel_efecto": 2,
       "todo_el_dia": false,
       "hora_inicio": 18,
-      "hora_fin": 21
+      "hora_fin": 22
     }
   ]
 }
