@@ -1,110 +1,94 @@
 {
   "anuncios": [
     {
-      "id": "mantenimiento_servidor",
-      "categoria": "server_events",
+      "id": "snapshot_26_3_10_lanzado",
+      "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Mantenimiento de Servidor Programado!",
-        "&7El día &b29 de agosto &7habrá una breve interrupción a las &b3:00 AM UTC &7para optimizar el rendimiento.",
-        "&7¡Agradecemos vuestra paciencia!"
+        "&l&e¡Snapshot 26.3.10 Lanzado!",
+        "&7Se ha liberado un nuevo snapshot para Minecraft Java Edition (26.3.10), ofreciendo un adelanto de las futuras características que llegarán en la versión 1.26.3. ¡A explorar lo que viene!"
       ]
     },
     {
-      "id": "evento_construccion",
-      "categoria": "server_events",
+      "id": "nuevas_opciones_construccion",
+      "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Evento de Construcción Creativa!",
-        "&7Demuestra tus habilidades y participa en nuestro concurso de construcción con el tema '&eCiudades Flotantes&7'.",
-        "&7¡Grandes premios esperan!"
+        "&l&b¡Nuevas Opciones de Construcción!",
+        "&7La Preview 26.50.24 introdujo escaleras y losas de hormigón en 16 colores, ampliando tus posibilidades creativas. ¡A construir con estilo!"
       ]
     },
     {
-      "id": "reglas_nether_proteccion",
-      "categoria": "server_updates",
+      "id": "mapas_exploradores_mejorados",
+      "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Nuevas Reglas del Nether!",
-        "&7Hemos implementado nuevas protecciones anti-griefing en el Nether.",
-        "&7¡A construir con seguridad y respeto!"
+        "&l&a¡Mapas Exploradores Mejorados!",
+        "&7En la última preview, los cofres de los campamentos abandonados ahora contienen mapas que te guiarán a más estructuras en el Overworld. ¡La aventura te espera!"
       ]
     },
     {
-      "id": "tienda_actualizada",
-      "categoria": "server_updates",
-      "mensajes": [
-        "&d&l¡Tienda del Servidor Actualizada!",
-        "&7Descubre los nuevos ítems de decoración y herramientas encantadas en nuestra tienda.",
-        "&7¡Visítanos pronto!"
-      ]
-    },
-    {
-      "id": "dato_curioso_minecraft_ventas",
+      "id": "gaming_en_cifras_smartphones",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7&l¡Consejo del Día!",
-        "&7¿Sabías que &eMinecraft es el videojuego más vendido de la historia&7, superando los 200 millones de copias?"
+        "&l&dEl Gaming en Cifras:",
+        "&7¿Sabías que el 68% de los propietarios de smartphones juegan en línea? ¡El móvil es una plataforma gigante!"
       ]
     },
     {
-      "id": "bug_bounty",
-      "categoria": "server_events",
-      "mensajes": [
-        "&c&l¡Bug Bounty Activo!",
-        "&7Encuentra y reporta errores críticos en el servidor y serás recompensado.",
-        "&7¡Ayúdanos a mejorar la experiencia!"
-      ]
-    },
-    {
-      "id": "expansion_mundo",
-      "categoria": "server_updates",
-      "mensajes": [
-        "&a&l¡Expansión del Mundo Próximamente!",
-        "&7Prepárense para nuevas tierras inexploradas en el mapa de recursos.",
-        "&7¡La aventura os llama!"
-      ]
-    },
-    {
-      "id": "dato_curioso_easter_egg",
+      "id": "edad_jugador_promedio",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&l¡Dato Curioso Gaming!",
-        "&7El primer 'Easter Egg' en un videojuego fue en &eAdventure para Atari 2600 &7en 1980, un acto de rebeldía de un programador."
+        "&l&eEdad del Jugador Promedio:",
+        "&7La edad promedio de un jugador de videojuegos hoy en día es de 32 años. ¡El gaming es para todas las edades!"
       ]
     },
     {
-      "id": "pvp_renovado",
-      "categoria": "server_updates",
+      "id": "metal_gear_solid_master_collection_2",
+      "categoria": "noticias",
       "mensajes": [
-        "&d&l¡El rincón del PvP renovado!",
-        "&7Hemos aplicado cambios para un combate más justo y emocionante.",
-        "&7¡Demuestra tu valía!"
+        "&l&b&l¡Metal Gear Solid: Master Collection Vol. 2 ya disponible!",
+        "&7La aclamada colección de espionaje y acción ha llegado esta semana, permitiéndote revivir clásicos legendarios."
       ]
     },
     {
-      "id": "se_buscan_moderadores",
-      "categoria": "recruitment",
+      "id": "novedades_playstation_plus_septiembre",
+      "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Se buscan Moderadores!",
-        "&7¿Eres activo, responsable y te apasiona Minecraft?",
-        "&7¡Envía tu solicitud y únete al equipo!"
+        "&l&cNovedades en PlayStation Plus:",
+        "&7Los juegos esenciales de septiembre para PS Plus, incluyendo el muy valorado *Big Walk* (93 Metacritic), se anuncian el 26 de agosto y estarán disponibles el 1 de septiembre."
+      ]
+    },
+    {
+      "id": "industria_gaming_auge",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&aLa Industria en Auge:",
+        "&7La industria del gaming sigue siendo una potencia cultural, tecnológica y económica en constante evolución."
+      ]
+    },
+    {
+      "id": "plataformas_favoritas_gaming",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&l&7Plataformas Favoritas:",
+        "&7Aproximadamente el 54% de los jugadores usan consolas como Xbox, PlayStation o Nintendo Switch, mientras que el 45% prefiere PC y laptops."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "FRIDAY",
-      "titulo": "&c&l¡Fiebre de Combate!",
+      "dia": "TUESDAY",
+      "titulo": "&7&l¡Infiltración Legendaria!",
       "descripcion": [
-        "&7¡La beta de Call of Duty: Modern Warfare 4",
-        "&7llega a Nintendo Switch 2! Obtén Fuerza II."
+        "&7¡Metal Gear Solid: Master Collection Vol. 2 ya",
+        "está aquí!"
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "STRENGTH",
+      "efecto_pocion": "RESISTANCE",
       "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 20
     }
   ]
 }
