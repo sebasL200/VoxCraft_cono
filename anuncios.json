@@ -1,47 +1,110 @@
 {
   "anuncios": [
     {
-      "id": "nueva_actualizacion_cobre",
-      "categoria": "noticias",
+      "id": "mantenimiento_servidor",
+      "categoria": "server_events",
       "mensajes": [
-        "&a¡Gran Actualización de Cobre en el Servidor!",
-        "&7Descubre nuevos bloques y crafteos.",
-        "&7¡A minar se ha dicho!"
+        "&e&l¡Mantenimiento de Servidor Programado!",
+        "&7El día &b29 de agosto &7habrá una breve interrupción a las &b3:00 AM UTC &7para optimizar el rendimiento.",
+        "&7¡Agradecemos vuestra paciencia!"
+      ]
+    },
+    {
+      "id": "evento_construccion",
+      "categoria": "server_events",
+      "mensajes": [
+        "&a&l¡Evento de Construcción Creativa!",
+        "&7Demuestra tus habilidades y participa en nuestro concurso de construcción con el tema '&eCiudades Flotantes&7'.",
+        "&7¡Grandes premios esperan!"
+      ]
+    },
+    {
+      "id": "reglas_nether_proteccion",
+      "categoria": "server_updates",
+      "mensajes": [
+        "&b&l¡Nuevas Reglas del Nether!",
+        "&7Hemos implementado nuevas protecciones anti-griefing en el Nether.",
+        "&7¡A construir con seguridad y respeto!"
+      ]
+    },
+    {
+      "id": "tienda_actualizada",
+      "categoria": "server_updates",
+      "mensajes": [
+        "&d&l¡Tienda del Servidor Actualizada!",
+        "&7Descubre los nuevos ítems de decoración y herramientas encantadas en nuestra tienda.",
+        "&7¡Visítanos pronto!"
+      ]
+    },
+    {
+      "id": "dato_curioso_minecraft_ventas",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7&l¡Consejo del Día!",
+        "&7¿Sabías que &eMinecraft es el videojuego más vendido de la historia&7, superando los 200 millones de copias?"
+      ]
+    },
+    {
+      "id": "bug_bounty",
+      "categoria": "server_events",
+      "mensajes": [
+        "&c&l¡Bug Bounty Activo!",
+        "&7Encuentra y reporta errores críticos en el servidor y serás recompensado.",
+        "&7¡Ayúdanos a mejorar la experiencia!"
+      ]
+    },
+    {
+      "id": "expansion_mundo",
+      "categoria": "server_updates",
+      "mensajes": [
+        "&a&l¡Expansión del Mundo Próximamente!",
+        "&7Prepárense para nuevas tierras inexploradas en el mapa de recursos.",
+        "&7¡La aventura os llama!"
+      ]
+    },
+    {
+      "id": "dato_curioso_easter_egg",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&l¡Dato Curioso Gaming!",
+        "&7El primer 'Easter Egg' en un videojuego fue en &eAdventure para Atari 2600 &7en 1980, un acto de rebeldía de un programador."
+      ]
+    },
+    {
+      "id": "pvp_renovado",
+      "categoria": "server_updates",
+      "mensajes": [
+        "&d&l¡El rincón del PvP renovado!",
+        "&7Hemos aplicado cambios para un combate más justo y emocionante.",
+        "&7¡Demuestra tu valía!"
+      ]
+    },
+    {
+      "id": "se_buscan_moderadores",
+      "categoria": "recruitment",
+      "mensajes": [
+        "&e&l¡Se buscan Moderadores!",
+        "&7¿Eres activo, responsable y te apasiona Minecraft?",
+        "&7¡Envía tu solicitud y únete al equipo!"
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&6&l¡Fiebre del Mineral Escarlata!",
+      "dia": "FRIDAY",
+      "titulo": "&c&l¡Fiebre de Combate!",
       "descripcion": [
-        "&7¡Las nuevas vetas de cobre te esperan!",
-        "&7Vende &eCOPPER_INGOT &7con un &a+50% &7de bonus."
-      ],
-      "tipo": "PRECIO",
-      "item": "COPPER_INGOT",
-      "porcentaje_extra": 50.0,
-      "efecto_pocion": "NONE",
-      "nivel_efecto": 0,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
-    },
-    {
-      "dia": "WEDNESDAY",
-      "titulo": "&b&l¡Día del Explorador Audaz!",
-      "descripcion": [
-        "&7¡Prepárate para nuevas aventuras subterráneas!",
-        "&7Obtén &9HASTE II &7para minar más rápido."
+        "&7¡La beta de Call of Duty: Modern Warfare 4",
+        "&7llega a Nintendo Switch 2! Obtén Fuerza II."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "HASTE",
+      "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 22
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     }
   ]
 }
