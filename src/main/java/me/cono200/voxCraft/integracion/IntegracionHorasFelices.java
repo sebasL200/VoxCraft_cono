@@ -78,7 +78,8 @@ public class IntegracionHorasFelices {
     }
 
     /**
-     * Parsea e inyecta los 2 eventos de la IA respetando los días nativos del plugin HorasFelices.
+     * Parsea e inyecta los eventos de la IA respetando los días nativos del plugin HorasFelices.
+     * Máximo 1 evento por semana, solo en días que estén libres (sin evento nativo).
      */
     public void inyectarHorasFelices(JsonArray horasFelicesJson) {
         HorasFelicesAPI api = obtenerAPI();
@@ -87,10 +88,11 @@ public class IntegracionHorasFelices {
             return;
         }
 
-        // Cargar los días que VoxCraft controló la semana pasada y limpiar SOLO esos días
+        // Cargar los días que VoxCraft controló en la ejecución anterior y limpiar SOLO esos días
+        // (devuelve el día a null, liberándolo para que HorasFelices lo use si quiere)
         Set<DayOfWeek> diasPrevios = cargarDiasPrevios();
         if (!diasPrevios.isEmpty()) {
-            plugin.getLogger().info("Limpiando " + diasPrevios.size() + " días previos de VoxCraft del itinerario...");
+            plugin.getLogger().info("Limpiando " + diasPrevios.size() + " día(s) previo(s) de VoxCraft del itinerario...");
             for (DayOfWeek dia : diasPrevios) {
                 try {
                     api.inyectarEventoFestivo(dia, null);
@@ -99,24 +101,24 @@ public class IntegracionHorasFelices {
         }
 
         if (horasFelicesJson == null || horasFelicesJson.size() == 0) {
-            plugin.getLogger().info("No se encontraron Horas Felices en el archivo JSON.");
+            plugin.getLogger().info("La IA no generó Horas Felices esta semana (semana sin evento de IA).");
             guardarDiasInyectados(new HashSet<>());
             return;
         }
 
-        // Límite duro: VoxCraft solo inyecta máximo 2 eventos (complementa los 2 nativos del plugin)
-        final int MAX_EVENTOS_IA = 2;
+        // Límite duro: VoxCraft solo inyecta máximo 1 evento (complementa los 2 nativos del plugin = 3 total)
+        final int MAX_EVENTOS_IA = 1;
         if (horasFelicesJson.size() > MAX_EVENTOS_IA) {
-            plugin.getLogger().warning("La IA generó " + horasFelicesJson.size() + " eventos pero VoxCraft solo procesará los primeros " + MAX_EVENTOS_IA + ".");
+            plugin.getLogger().warning("La IA generó " + horasFelicesJson.size() + " eventos pero VoxCraft solo procesará el primero.");
         }
 
-        plugin.getLogger().info("Iniciando inyección de " + Math.min(horasFelicesJson.size(), MAX_EVENTOS_IA) + " Horas Felices inyectadas por la IA...");
+        plugin.getLogger().info("Iniciando inyección de hasta " + MAX_EVENTOS_IA + " Hora(s) Feliz(ces) de la IA...");
 
         Set<DayOfWeek> diasNuevos = new HashSet<>();
         int inyectados = 0;
 
         for (JsonElement el : horasFelicesJson) {
-            if (inyectados >= MAX_EVENTOS_IA) break; // respetar el límite de 2
+            if (inyectados >= MAX_EVENTOS_IA) break;
             if (!el.isJsonObject()) continue;
             try {
                 JsonObject obj = el.getAsJsonObject();
@@ -144,6 +146,14 @@ public class IntegracionHorasFelices {
                 DayOfWeek dia = DayOfWeek.valueOf(diaStr.toUpperCase());
                 TipoEvento tipo = TipoEvento.valueOf(tipoStr.toUpperCase());
                 Material material = Material.valueOf(itemStr.toUpperCase());
+
+                // PROTECCIÓN ANTI-COLISIÓN: No sobreescribir días con eventos nativos de HorasFelices
+                EventoPrision eventoExistente = api.getEventoDelDia(dia);
+                if (eventoExistente != null) {
+                    plugin.getLogger().warning("El día " + dia + " ya tiene un evento nativo: '"
+                            + eventoExistente.getTitulo() + "'. VoxCraft NO lo sobreescribirá.");
+                    continue; // Saltar este día para proteger el evento nativo
+                }
 
                 PotionEffectType efectoPocion = null;
                 if (!efectoPocionStr.equalsIgnoreCase("NONE")) {
@@ -173,6 +183,6 @@ public class IntegracionHorasFelices {
 
         // Guardar los días nuevos para limpiarlos selectivamente la próxima semana
         guardarDiasInyectados(diasNuevos);
-        plugin.getLogger().info("VoxCraft registró " + diasNuevos.size() + " días propios en voxcraft_dias.yml.");
+        plugin.getLogger().info("VoxCraft registró " + diasNuevos.size() + " día(s) propio(s) en voxcraft_dias.yml.");
     }
 }

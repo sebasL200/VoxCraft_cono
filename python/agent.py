@@ -59,12 +59,18 @@ def main():
 
     if es_domingo:
         prompt_horas = (
-            "2. EXACTAMENTE 2 eventos de 'Hora Feliz' para 2 días DIFERENTES de la semana entrante, "
-            "plenamente FUNDAMENTADOS en alguna de las noticias que encontraste:\n"
-            "   - EVENTO 1 (PRECIO): Debe ser de tipo PRECIO, con un ítem de la tienda que valga más ese día. "
-            "Con un 30% de probabilidad puede ser AMBOS (precio + efecto de poción también).\n"
-            "   - EVENTO 2 (EFECTO): Debe ser de tipo EFECTO, con un efecto de poción que los jugadores recibirán. "
-            "Con un 30% de probabilidad puede ser AMBOS (efecto + precio de un ítem también).\n\n"
+            "2. OPCIONALMENTE, genera MÁXIMO 1 evento de 'Hora Feliz' para UN día de la semana entrante, "
+            "PERO SOLO si encontraste una noticia genuinamente relevante que lo justifique. Ejemplos válidos:\n"
+            "   - Un lanzamiento importante de videojuego esta semana\n"
+            "   - Una fecha especial o efeméride del mundo gaming\n"
+            "   - Una actualización significativa de Minecraft\n\n"
+            "Si NO encuentras ninguna noticia suficientemente relevante o especial para justificar un evento "
+            "temático, deja la lista `horas_felices` como lista VACÍA []. NO inventes excusas para llenar "
+            "el campo. Es perfectamente válido que una semana no tenga evento de IA.\n\n"
+            "Si SÍ hay justificación, el evento puede ser:\n"
+            "   - Tipo PRECIO: un ítem de la tienda que valga más ese día.\n"
+            "   - Tipo EFECTO: un efecto de poción global para los jugadores.\n"
+            "   - Tipo AMBOS: precio + efecto (solo si la noticia es MUY relevante).\n\n"
             "REGLAS CRÍTICAS PARA TÍTULOS Y CAMPOS MECÁNICOS:\n"
             "- TÍTULO: Crea un nombre inmersivo y temático que explique el motivo (ej. &6&l¡Día del Forjador!, "
             "&b&l¡Fiebre del Cobre!, &c&l¡La Gran Cacería!). NUNCA uses 'HAPPY HOUR', 'HORA FELIZ' ni el nombre del día.\n"
@@ -119,11 +125,10 @@ def main():
         try:
             print(f"Realizando Paso 2: Estructurando el contenido en formato JSON (Intento {intento + 1}/{max_retries})...")
             structure_prompt = (
-                f"Toma la información de noticias y 2 eventos de Hora Feliz redactada a continuación y "
+                f"Toma la información de noticias y posibles eventos de Hora Feliz redactada a continuación y "
                 f"conviértela estrictamente al formato JSON del esquema indicado.\n\n"
                 f"REGLAS DE VALIDACIÓN PARA EL JSON:\n"
-                f"- La lista `horas_felices` debe tener EXACTAMENTE 2 eventos en días DISTINTOS.\n"
-                f"- El Evento 1 debe ser tipo PRECIO o AMBOS. El Evento 2 debe ser tipo EFECTO o AMBOS.\n"
+                f"- La lista `horas_felices` debe tener MÁXIMO 1 evento. Si no hay justificación, debe ser una lista vacía [].\n"
                 f"- TÍTULO: Nunca uses 'HAPPY HOUR' ni 'HORA FELIZ'. Usa un nombre creativo y temático.\n"
                 f"- DESCRIPCIÓN: Exactamente 2 líneas por evento. Cada línea máximo 55 caracteres. "
                 f"Línea 1: el motivo. Línea 2: el beneficio. NUNCA una sola línea larga.\n"
@@ -170,11 +175,11 @@ def main():
                         })
                 data["anuncios"] = anuncios_limpios
 
-            # --- Post-procesamiento: garantizar máximo 2 eventos y líneas de descripción cortas ---
+            # --- Post-procesamiento: garantizar máximo 1 evento y líneas de descripción cortas ---
             MAX_LINEA = 55
             if "horas_felices" in data:
-                # Truncar a 2 eventos si la IA generó más
-                data["horas_felices"] = data["horas_felices"][:2]
+                # Truncar a 1 evento si la IA generó más
+                data["horas_felices"] = data["horas_felices"][:1]
                 # Partir líneas de descripción largas en 2 fragmentos
                 for ev in data["horas_felices"]:
                     nuevas_lineas = []
@@ -195,10 +200,13 @@ def main():
                     ev["descripcion"] = nuevas_lineas[:2]  # máximo 2 líneas por evento
 
 
-            # Validación: asegurar que hay exactamente 2 horas felices
+            # Validación: informar cuántas horas felices se generaron
             hf = data.get("horas_felices", [])
-            if len(hf) != 2:
-                print(f"Advertencia: Se esperaban 2 eventos de Hora Feliz pero se obtuvieron {len(hf)}. Continuando de todas formas.")
+            if len(hf) > 1:
+                print(f"Advertencia: Se esperaba máximo 1 evento de Hora Feliz pero se obtuvieron {len(hf)}. Truncando a 1.")
+                data["horas_felices"] = hf[:1]
+            else:
+                print(f"Horas Felices generadas: {len(hf)} evento(s) {'(semana sin evento de IA)' if len(hf) == 0 else ''}")
 
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
