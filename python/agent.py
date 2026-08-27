@@ -40,7 +40,7 @@ def main():
 
     # Determinar si hoy es domingo (UTC) -> único día en que se regeneran las Horas Felices
     hoy = datetime.now(timezone.utc)
-    es_domingo = (hoy.weekday() == 6)  # 6 = domingo en Python
+    es_domingo = true#(hoy.weekday() == 6)  # 6 = domingo en Python
     print(f"Fecha actual UTC: {hoy.strftime('%A %d/%m/%Y')} | ¿Generando Horas Felices? {'SÍ' if es_domingo else 'NO (solo domingos)'}")
 
     print("Iniciando cliente de Gemini...")
