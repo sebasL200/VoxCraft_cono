@@ -1,94 +1,141 @@
 {
   "anuncios": [
     {
-      "id": "snapshot_26_3_10_lanzado",
+      "id": "actualizacion_biomas",
       "categoria": "noticias",
       "mensajes": [
-        "&l&e¡Snapshot 26.3.10 Lanzado!",
-        "&7Se ha liberado un nuevo snapshot para Minecraft Java Edition (26.3.10), ofreciendo un adelanto de las futuras características que llegarán en la versión 1.26.3. ¡A explorar lo que viene!"
+        "&e&l¡Actualización de Biomas!&r",
+        "&7Hemos expandido nuestro mundo con nuevos biomas inspirados en la 1.21, ¡explora territorios inexplorados y encuentra recursos únicos!"
       ]
     },
     {
-      "id": "nuevas_opciones_construccion",
+      "id": "evento_pvp_semanal",
       "categoria": "noticias",
       "mensajes": [
-        "&l&b¡Nuevas Opciones de Construcción!",
-        "&7La Preview 26.50.24 introdujo escaleras y losas de hormigón en 16 colores, ampliando tus posibilidades creativas. ¡A construir con estilo!"
+        "&b&l¡Evento PvP Semanal!&r",
+        "&7Demuestra tu habilidad en nuestra arena de combate cada sábado a las 20:00. ¡Grandes premios esperan a los campeones!"
       ]
     },
     {
-      "id": "mapas_exploradores_mejorados",
+      "id": "tienda_cosmeticos_renovada",
       "categoria": "noticias",
       "mensajes": [
-        "&l&a¡Mapas Exploradores Mejorados!",
-        "&7En la última preview, los cofres de los campamentos abandonados ahora contienen mapas que te guiarán a más estructuras en el Overworld. ¡La aventura te espera!"
+        "&d&l¡Tienda de Cosméticos Renovada!&r",
+        "&7Descubre los nuevos sombreros, mascotas y capas que hemos añadido. ¡Personaliza tu estilo como nunca!"
       ]
     },
     {
-      "id": "gaming_en_cifras_smartphones",
+      "id": "optimizacion_rendimiento",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡Optimización de Rendimiento!&r",
+        "&7Hemos implementado mejoras significativas para una experiencia de juego más fluida y sin interrupciones."
+      ]
+    },
+    {
+      "id": "nuevas_misiones_diarias",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡Nuevas Misiones Diarias!&r",
+        "&7Habla con los aldeanos en el spawn para obtener desafíos diarios y recompensas exclusivas."
+      ]
+    },
+    {
+      "id": "bug_fixes_criticos",
+      "categoria": "noticias",
+      "mensajes": [
+        "&c&l¡Bug Fixes Críticos!&r",
+        "&7Hemos solucionado varios errores reportados por la comunidad. ¡Gracias por tu paciencia y apoyo!"
+      ]
+    },
+    {
+      "id": "sistema_clanes_mejorado",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡Sistema de Clanes Mejorado!&r",
+        "&7Ahora los clanes tienen más opciones de personalización y nuevas ventajas exclusivas."
+      ]
+    },
+    {
+      "id": "concurso_construccion",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡Concurso de Construcción!&r",
+        "&7Participa en nuestro desafío de construcción con temática de \"Civilizaciones Antiguas\". ¡Inscripciones abiertas!"
+      ]
+    },
+    {
+      "id": "recompensas_votar_duplicadas",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡Recompensas por Votar Duplicadas!&r",
+        "&7¡Apoya al servidor votando y recibe el doble de recompensas por tiempo limitado!"
+      ]
+    },
+    {
+      "id": "curiosidad_easter_egg",
       "categoria": "curiosidades",
       "mensajes": [
-        "&l&dEl Gaming en Cifras:",
-        "&7¿Sabías que el 68% de los propietarios de smartphones juegan en línea? ¡El móvil es una plataforma gigante!"
+        "&7&l¡Curiosidad Gamer!&r ¿Sabías que el primer 'Easter Egg' de la historia fue escondido por un programador en el juego Adventure de Atari 2600 en 1980?"
       ]
     },
     {
-      "id": "edad_jugador_promedio",
+      "id": "curiosidad_mario_jumpman",
       "categoria": "curiosidades",
       "mensajes": [
-        "&l&eEdad del Jugador Promedio:",
-        "&7La edad promedio de un jugador de videojuegos hoy en día es de 32 años. ¡El gaming es para todas las edades!"
+        "&eCuriosidad Gaming:",
+        "El icónico personaje de Nintendo, Mario, fue originalmente conocido como \"Jumpman\" antes de ser renombrado en honor a Mario Segale, el casero de las oficinas de Nintendo en EE. UU."
       ]
     },
     {
-      "id": "metal_gear_solid_master_collection_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&b&l¡Metal Gear Solid: Master Collection Vol. 2 ya disponible!",
-        "&7La aclamada colección de espionaje y acción ha llegado esta semana, permitiéndote revivir clásicos legendarios."
-      ]
-    },
-    {
-      "id": "novedades_playstation_plus_septiembre",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&cNovedades en PlayStation Plus:",
-        "&7Los juegos esenciales de septiembre para PS Plus, incluyendo el muy valorado *Big Walk* (93 Metacritic), se anuncian el 26 de agosto y estarán disponibles el 1 de septiembre."
-      ]
-    },
-    {
-      "id": "industria_gaming_auge",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&aLa Industria en Auge:",
-        "&7La industria del gaming sigue siendo una potencia cultural, tecnológica y económica en constante evolución."
-      ]
-    },
-    {
-      "id": "plataformas_favoritas_gaming",
+      "id": "curiosidad_samus_aran",
       "categoria": "curiosidades",
       "mensajes": [
-        "&l&7Plataformas Favoritas:",
-        "&7Aproximadamente el 54% de los jugadores usan consolas como Xbox, PlayStation o Nintendo Switch, mientras que el 45% prefiere PC y laptops."
+        "&eCuriosidad Gaming:",
+        "En el juego original Metroid de 1986, muchos jugadores se sorprendieron al descubrir que la poderosa cazarrecompensas Samus Aran era en realidad una mujer, un giro revolucionario para la época."
+      ]
+    },
+    {
+      "id": "curiosidad_pacman_perfecto",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&eCuriosidad Gaming:",
+        "Alcanzar la puntuación perfecta de 3.333.360 puntos en Pac-Man es una hazaña casi imposible, que requiere pasar 255 niveles sin perder una vida y comiendo absolutamente todo. Menos de diez personas en el mundo lo han logrado."
+      ]
+    },
+    {
+      "id": "curiosidad_tetris_vendido",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&eCuriosidad Gaming:",
+        "Se dice que el videojuego más vendido de la historia es Tetris, con más de 170 millones de copias vendidas desde su desarrollo en 1984 en la Unión Soviética."
+      ]
+    },
+    {
+      "id": "curiosidad_gta_v_caro",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&eCuriosidad Gaming:",
+        "Grand Theft Auto V ostenta el récord de ser uno de los videojuegos más caros de producir, con un presupuesto de 265 millones de dólares, superando a muchas producciones cinematográficas."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "TUESDAY",
-      "titulo": "&7&l¡Infiltración Legendaria!",
+      "dia": "THURSDAY",
+      "titulo": "&b&l¡El Pixel Dorado!",
       "descripcion": [
-        "&7¡Metal Gear Solid: Master Collection Vol. 2 ya",
-        "está aquí!"
+        "&7¡Celebramos el Día del Gamer este 29 de agosto!",
+        "&7Más esmeraldas al vender y Fuerza I activa."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
-      "efecto_pocion": "RESISTANCE",
-      "nivel_efecto": 2,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 20
+      "tipo": "AMBOS",
+      "item": "EMERALD",
+      "porcentaje_extra": 25.0,
+      "efecto_pocion": "STRENGTH",
+      "nivel_efecto": 1,
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     }
   ]
 }
