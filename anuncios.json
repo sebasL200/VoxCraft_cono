@@ -1,138 +1,75 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_biomas",
+      "id": "actualizacion_bedrock_26_40",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Actualización de Biomas!&r",
-        "&7Hemos expandido nuestro mundo con nuevos biomas inspirados en la 1.21, ¡explora territorios inexplorados y encuentra recursos únicos!"
+        "&a&l¡Nueva Actualización Bedrock 26.40! &7Hemos lanzado una nueva actualización con diversas correcciones de errores y mejoras de juego.&r"
       ]
     },
     {
-      "id": "evento_pvp_semanal",
+      "id": "explora_experimental",
+      "categoria": "novedades",
+      "mensajes": [
+        "&e&l¡Explora lo Experimental! &7Prueba las nuevas características experimentales como el bosque abigarrado y los campamentos abandonados.&r"
+      ]
+    },
+    {
+      "id": "mundo_tricky_trials",
+      "categoria": "novedades",
+      "mensajes": [
+        "&b&l¡El Mundo de Tricky Trials te Espera! &7Descubre las Cámaras de Prueba, enfrenta a los Breeze y Bogged, ¡y reclama tu recompensa!&r"
+      ]
+    },
+    {
+      "id": "domina_la_maza",
+      "categoria": "consejos",
+      "mensajes": [
+        "&d&l¡Domina la Maza! &7Aprende a usar la nueva arma, la Maza, y sus encantamientos exclusivos para superar desafíos.&r"
+      ]
+    },
+    {
+      "id": "nuevos_bloques_construccion",
+      "categoria": "novedades",
+      "mensajes": [
+        "&7&l¡Nuevos Bloques de Construcción! &7Experimenta con el Crafter, los Spawners de Prueba y las nuevas variantes de Cobre y Toba.&r"
+      ]
+    },
+    {
+      "id": "bug_fixes_recientes",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Evento PvP Semanal!&r",
-        "&7Demuestra tu habilidad en nuestra arena de combate cada sábado a las 20:00. ¡Grandes premios esperan a los campeones!"
+        "&c&l¡Bug Fixes Recientes! &7Mejoras en el comportamiento de botes y vagonetas para una experiencia más fluida.&r"
       ]
     },
     {
-      "id": "tienda_cosmeticos_renovada",
-      "categoria": "noticias",
+      "id": "era_del_cobre_expande",
+      "categoria": "novedades",
       "mensajes": [
-        "&d&l¡Tienda de Cosméticos Renovada!&r",
-        "&7Descubre los nuevos sombreros, mascotas y capas que hemos añadido. ¡Personaliza tu estilo como nunca!"
+        "&e&l¡La Era del Cobre se Expande! &7Descubre los Cofres de Cobre, Golems de Cobre y más equipo temático en tus aventuras.&r"
       ]
     },
     {
-      "id": "optimizacion_rendimiento",
-      "categoria": "noticias",
+      "id": "tu_feedback_importa",
+      "categoria": "consejos",
       "mensajes": [
-        "&a&l¡Optimización de Rendimiento!&r",
-        "&7Hemos implementado mejoras significativas para una experiencia de juego más fluida y sin interrupciones."
-      ]
-    },
-    {
-      "id": "nuevas_misiones_diarias",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡Nuevas Misiones Diarias!&r",
-        "&7Habla con los aldeanos en el spawn para obtener desafíos diarios y recompensas exclusivas."
-      ]
-    },
-    {
-      "id": "bug_fixes_criticos",
-      "categoria": "noticias",
-      "mensajes": [
-        "&c&l¡Bug Fixes Críticos!&r",
-        "&7Hemos solucionado varios errores reportados por la comunidad. ¡Gracias por tu paciencia y apoyo!"
-      ]
-    },
-    {
-      "id": "sistema_clanes_mejorado",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&l¡Sistema de Clanes Mejorado!&r",
-        "&7Ahora los clanes tienen más opciones de personalización y nuevas ventajas exclusivas."
-      ]
-    },
-    {
-      "id": "concurso_construccion",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡Concurso de Construcción!&r",
-        "&7Participa en nuestro desafío de construcción con temática de \"Civilizaciones Antiguas\". ¡Inscripciones abiertas!"
-      ]
-    },
-    {
-      "id": "recompensas_votar_duplicadas",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&l¡Recompensas por Votar Duplicadas!&r",
-        "&7¡Apoya al servidor votando y recibe el doble de recompensas por tiempo limitado!"
-      ]
-    },
-    {
-      "id": "curiosidad_easter_egg",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&l¡Curiosidad Gamer!&r ¿Sabías que el primer 'Easter Egg' de la historia fue escondido por un programador en el juego Adventure de Atari 2600 en 1980?"
-      ]
-    },
-    {
-      "id": "curiosidad_mario_jumpman",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&eCuriosidad Gaming:",
-        "El icónico personaje de Nintendo, Mario, fue originalmente conocido como \"Jumpman\" antes de ser renombrado en honor a Mario Segale, el casero de las oficinas de Nintendo en EE. UU."
-      ]
-    },
-    {
-      "id": "curiosidad_samus_aran",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&eCuriosidad Gaming:",
-        "En el juego original Metroid de 1986, muchos jugadores se sorprendieron al descubrir que la poderosa cazarrecompensas Samus Aran era en realidad una mujer, un giro revolucionario para la época."
-      ]
-    },
-    {
-      "id": "curiosidad_pacman_perfecto",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&eCuriosidad Gaming:",
-        "Alcanzar la puntuación perfecta de 3.333.360 puntos en Pac-Man es una hazaña casi imposible, que requiere pasar 255 niveles sin perder una vida y comiendo absolutamente todo. Menos de diez personas en el mundo lo han logrado."
-      ]
-    },
-    {
-      "id": "curiosidad_tetris_vendido",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&eCuriosidad Gaming:",
-        "Se dice que el videojuego más vendido de la historia es Tetris, con más de 170 millones de copias vendidas desde su desarrollo en 1984 en la Unión Soviética."
-      ]
-    },
-    {
-      "id": "curiosidad_gta_v_caro",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&eCuriosidad Gaming:",
-        "Grand Theft Auto V ostenta el récord de ser uno de los videojuegos más caros de producir, con un presupuesto de 265 millones de dólares, superando a muchas producciones cinematográficas."
+        "&b&l¡Tu Feedback Importa! &7Sigue reportando bugs y dejando sugerencias para futuras mejoras en el juego.&r"
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "THURSDAY",
-      "titulo": "&b&l¡El Pixel Dorado!",
+      "dia": "WEDNESDAY",
+      "titulo": "&6&l¡Giro de Aniversario Nsane!",
       "descripcion": [
-        "&7¡Celebramos el Día del Gamer este 29 de agosto!",
-        "&7Más esmeraldas al vender y Fuerza I activa."
+        "&7¡Crash Bandicoot cumple 30 años de aventura!",
+        "&7Obtén Haste II y bonus en GOLD_INGOT."
       ],
       "tipo": "AMBOS",
-      "item": "EMERALD",
-      "porcentaje_extra": 25.0,
-      "efecto_pocion": "STRENGTH",
-      "nivel_efecto": 1,
+      "item": "GOLD_INGOT",
+      "porcentaje_extra": 50.0,
+      "efecto_pocion": "HASTE",
+      "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
