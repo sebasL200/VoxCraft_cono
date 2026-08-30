@@ -1,78 +1,92 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_bedrock_26_40",
+      "id": "actualizacion_1_21_x",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Nueva Actualización Bedrock 26.40! &7Hemos lanzado una nueva actualización con diversas correcciones de errores y mejoras de juego.&r"
+        "&a&l¡ACTUALIZACIÓN 1.21.x! &7Las Cámaras de Prueba llegaron con la actualización Tricky Trials, ofreciendo nuevos desafíos y botines."
       ]
     },
     {
-      "id": "explora_experimental",
-      "categoria": "novedades",
-      "mensajes": [
-        "&e&l¡Explora lo Experimental! &7Prueba las nuevas características experimentales como el bosque abigarrado y los campamentos abandonados.&r"
-      ]
-    },
-    {
-      "id": "mundo_tricky_trials",
-      "categoria": "novedades",
-      "mensajes": [
-        "&b&l¡El Mundo de Tricky Trials te Espera! &7Descubre las Cámaras de Prueba, enfrenta a los Breeze y Bogged, ¡y reclama tu recompensa!&r"
-      ]
-    },
-    {
-      "id": "domina_la_maza",
-      "categoria": "consejos",
-      "mensajes": [
-        "&d&l¡Domina la Maza! &7Aprende a usar la nueva arma, la Maza, y sus encantamientos exclusivos para superar desafíos.&r"
-      ]
-    },
-    {
-      "id": "nuevos_bloques_construccion",
-      "categoria": "novedades",
-      "mensajes": [
-        "&7&l¡Nuevos Bloques de Construcción! &7Experimenta con el Crafter, los Spawners de Prueba y las nuevas variantes de Cobre y Toba.&r"
-      ]
-    },
-    {
-      "id": "bug_fixes_recientes",
+      "id": "nuevo_mob_breeze",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡Bug Fixes Recientes! &7Mejoras en el comportamiento de botes y vagonetas para una experiencia más fluida.&r"
+        "&b&l¡NUEVO MOBL Breeze! &7Cuidado con el nuevo mob Breeze que lanza ráfagas de viento y te espera en las Cámaras de Prueba."
       ]
     },
     {
-      "id": "era_del_cobre_expande",
-      "categoria": "novedades",
+      "id": "maza_mortal",
+      "categoria": "noticias",
       "mensajes": [
-        "&e&l¡La Era del Cobre se Expande! &7Descubre los Cofres de Cobre, Golems de Cobre y más equipo temático en tus aventuras.&r"
+        "&e&l¡MAZA MORTAL! &7Descubre y domina la nueva arma, la Maza, capaz de causar más daño con cada caída."
       ]
     },
     {
-      "id": "tu_feedback_importa",
-      "categoria": "consejos",
+      "id": "crafteo_automatico",
+      "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Tu Feedback Importa! &7Sigue reportando bugs y dejando sugerencias para futuras mejoras en el juego.&r"
+        "&d&l¡CRAFTEO AUTOMÁTICO! &7El Bloque Crafter ya está aquí, automatiza tus recetas y optimiza tu producción."
+      ]
+    },
+    {
+      "id": "mas_criaturas_marinas",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&l¡MÁS CRIATURAS MARINAS! &7Con la 1.21.11 llegaron los Nautilus y el Zombie Nautilus, explorando las profundidades."
+      ]
+    },
+    {
+      "id": "armadura_de_nautilus",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡ARMADURA DE NAUTILUS! &7Prepárate para equiparte con la nueva Armadura de Nautilus en la versión 1.21.11."
+      ]
+    },
+    {
+      "id": "lanzas_a_la_carga",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡LANZAS A LA CARGA! &7¡Las Lanzas son las nuevas armas introducidas en la actualización 1.21.11, listas para el combate!"
+      ]
+    },
+    {
+      "id": "armadura_equina_avanzada",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡ARMADURA EQUINA AVANZADA! &7Ahora puedes mejorar la Armadura de Caballo de Diamante a Netherite en la 1.21.11."
+      ]
+    },
+    {
+      "id": "bloques_cobre_tufo",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡BLOQUES DE COBRE Y TUFO! &7Se han añadido nuevos bloques decorativos y funcionales de Cobre y Tufo para tus construcciones."
+      ]
+    },
+    {
+      "id": "caballos_zombie_salvajes",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&l¡CABALLOS ZOMBIE SALVAJES! &7¡Ahora los Caballos Zombie aparecen de forma natural en el mundo!"
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "WEDNESDAY",
-      "titulo": "&6&l¡Giro de Aniversario Nsane!",
+      "dia": "MONDAY",
+      "titulo": "&e&l¡Locura al Volante!",
       "descripcion": [
-        "&7¡Crash Bandicoot cumple 30 años de aventura!",
-        "&7Obtén Haste II y bonus en GOLD_INGOT."
+        "&7¡Crazy Taxis: World Tour se mostró en Gamescom!",
+        "&7Obtén Velocidad II durante toda la tarde."
       ],
-      "tipo": "AMBOS",
-      "item": "GOLD_INGOT",
-      "porcentaje_extra": 50.0,
-      "efecto_pocion": "HASTE",
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
+      "efecto_pocion": "SPEED",
       "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 14,
+      "hora_fin": 20
     }
   ]
 }
