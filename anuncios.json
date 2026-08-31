@@ -1,92 +1,86 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21_x",
+      "id": "actualizacion_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21.x! &7Las Cámaras de Prueba llegaron con la actualización Tricky Trials, ofreciendo nuevos desafíos y botines."
+        "&a&l¡ACTUALIZACIÓN 1.21 TRICKY TRIALS YA DISPONIBLE!",
+        "&7Explora las nuevas Cámaras de Desafío y enfréntate a enemigos como el Breeze."
       ]
     },
     {
-      "id": "nuevo_mob_breeze",
+      "id": "nuevos_mobs_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡NUEVO MOBL Breeze! &7Cuidado con el nuevo mob Breeze que lanza ráfagas de viento y te espera en las Cámaras de Prueba."
+        "&b&l¡NUEVOS MOBS EN TU MUNDO!",
+        "&7Cuidado con el Breeze en las Trial Chambers y el Bogged en los pantanos. ¡Prepárate para la batalla!"
       ]
     },
     {
-      "id": "maza_mortal",
+      "id": "nueva_arma_mazo",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡MAZA MORTAL! &7Descubre y domina la nueva arma, la Maza, capaz de causar más daño con cada caída."
+        "&e&l¡DESATA EL PODER DEL MAZO!",
+        "&7Descubre la nueva y poderosa arma que causa más daño cuanto más alto caes. ¡Domina la gravedad!"
       ]
     },
     {
-      "id": "crafteo_automatico",
+      "id": "bloque_crafter",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡CRAFTEO AUTOMÁTICO! &7El Bloque Crafter ya está aquí, automatiza tus recetas y optimiza tu producción."
+        "&d&l¡AUTOMATIZA TUS CREACIONES CON EL CRAFTER!",
+        "&7El nuevo bloque Fabricador te permite crear objetos automáticamente con Redstone."
       ]
     },
     {
-      "id": "mas_criaturas_marinas",
+      "id": "decoracion_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡MÁS CRIATURAS MARINAS! &7Con la 1.21.11 llegaron los Nautilus y el Zombie Nautilus, explorando las profundidades."
+        "&7&l¡DECORA CON ESTILO TRICKY TRIALS!",
+        "&7Encuentra nuevos bloques de Cobre y Tuff, además de 20 nuevas pinturas para tu base."
       ]
     },
     {
-      "id": "armadura_de_nautilus",
+      "id": "item_carga_viento",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ARMADURA DE NAUTILUS! &7Prepárate para equiparte con la nueva Armadura de Nautilus en la versión 1.21.11."
+        "&b&l¡EXPLORA CON LA CARGA DE VIENTO!",
+        "&7Un nuevo ítem que te impulsa y te da ventaja en combate y exploración."
       ]
     },
     {
-      "id": "lanzas_a_la_carga",
+      "id": "alerta_mounts_of_mayhem",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡LANZAS A LA CARGA! &7¡Las Lanzas son las nuevas armas introducidas en la actualización 1.21.11, listas para el combate!"
+        "&c&l¡ALERTA MINECRAFT 1.21.11: MOUNTS OF MAYHEM!",
+        "&7¡Prepárate para nuevos desafíos con mobs como el Nautilo y el Caballo Zombi!"
       ]
     },
     {
-      "id": "armadura_equina_avanzada",
-      "categoria": "noticias",
+      "id": "dato_gamer_minecraft",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&e&l¡ARMADURA EQUINA AVANZADA! &7Ahora puedes mejorar la Armadura de Caballo de Diamante a Netherite en la 1.21.11."
-      ]
-    },
-    {
-      "id": "bloques_cobre_tufo",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡BLOQUES DE COBRE Y TUFO! &7Se han añadido nuevos bloques decorativos y funcionales de Cobre y Tufo para tus construcciones."
-      ]
-    },
-    {
-      "id": "caballos_zombie_salvajes",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7&l¡CABALLOS ZOMBIE SALVAJES! &7¡Ahora los Caballos Zombie aparecen de forma natural en el mundo!"
+        "&e&l¡EL DATO GAMER DE LA SEMANA!",
+        "&7¿Sabías que Minecraft es el juego más vendido de la historia con más de 200 millones de copias?"
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&e&l¡Locura al Volante!",
+      "dia": "WEDNESDAY",
+      "titulo": "&c&l¡Fiebre de la Montura!",
       "descripcion": [
-        "&7¡Crazy Taxis: World Tour se mostró en Gamescom!",
-        "&7Obtén Velocidad II durante toda la tarde."
+        "&7¡Se descubrieron nuevas monturas y peligros en",
+        "la 1.21.11!"
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "SPEED",
+      "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
-      "todo_el_dia": false,
-      "hora_inicio": 14,
-      "hora_fin": 20
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     }
   ]
 }
