@@ -1,81 +1,80 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_tricky_trials",
+      "id": "camaras_prueba_desafian",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21 TRICKY TRIALS YA DISPONIBLE!",
-        "&7Explora las nuevas Cámaras de Desafío y enfréntate a enemigos como el Breeze."
+        "&a&l¡Las Cámaras de Prueba Desafían! &7Explora las nuevas estructuras generadas, llenas de retos únicos y el spawner ominoso. &e¡Prepárate para la aventura!"
       ]
     },
     {
-      "id": "nuevos_mobs_tricky_trials",
+      "id": "mazo_poderoso",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡NUEVOS MOBS EN TU MUNDO!",
-        "&7Cuidado con el Breeze en las Trial Chambers y el Bogged en los pantanos. ¡Prepárate para la batalla!"
+        "&b&l¡Empuña el Mazo Poderoso! &7La nueva arma del juego ya está disponible. &7¡Aprovecha su fuerza para aplastar a tus enemigos con golpes demoledores desde la altura!"
       ]
     },
     {
-      "id": "nueva_arma_mazo",
+      "id": "breeze_merodea",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡DESATA EL PODER DEL MAZO!",
-        "&7Descubre la nueva y poderosa arma que causa más daño cuanto más alto caes. ¡Domina la gravedad!"
+        "&d&l¡El Breeze Merodea! &7Enfréntate a este nuevo y escurridizo mob en las Cámaras de Prueba. &c¡Cuidado con sus ataques de viento que te lanzarán por los aires!"
       ]
     },
     {
-      "id": "bloque_crafter",
+      "id": "nuevos_bloques_decorativos",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡AUTOMATIZA TUS CREACIONES CON EL CRAFTER!",
-        "&7El nuevo bloque Fabricador te permite crear objetos automáticamente con Redstone."
+        "&e&l¡Nuevos Bloques Decorativos! &7Decora tus construcciones con las atractivas variantes de Tuff y Cobre. &7¡Dale un toque único a tus proyectos!"
       ]
     },
     {
-      "id": "decoracion_tricky_trials",
+      "id": "evento_construccion_base_subterranea",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡DECORA CON ESTILO TRICKY TRIALS!",
-        "&7Encuentra nuevos bloques de Cobre y Tuff, además de 20 nuevas pinturas para tu base."
+        "&7&l¡Evento de Construcción Temático! &7Participa en nuestro desafío semanal: construye la mejor \"Base Subterránea\". &e¡Grandes premios esperan a los ganadores!"
       ]
     },
     {
-      "id": "item_carga_viento",
+      "id": "mercado_servidor_actualizado",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡EXPLORA CON LA CARGA DE VIENTO!",
-        "&7Un nuevo ítem que te impulsa y te da ventaja en combate y exploración."
+        "&a&l¡Mercado del Servidor Actualizado! &7¡Descubre nuevas ofertas y materiales esenciales para tus creaciones! &b¡No te quedes sin tus recursos!"
       ]
     },
     {
-      "id": "alerta_mounts_of_mayhem",
+      "id": "celebramos_crash_bandicoot",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡ALERTA MINECRAFT 1.21.11: MOUNTS OF MAYHEM!",
-        "&7¡Prepárate para nuevos desafíos con mobs como el Nautilo y el Caballo Zombi!"
+        "&d&l¡Celebramos a Crash Bandicoot! &7El icónico marsupial cumple 30 años este mes. &7¡Únete a un desafío especial de parkour en el spawn!"
       ]
     },
     {
-      "id": "dato_gamer_minecraft",
-      "categoria": "curiosidades",
+      "id": "lanzamientos_epicos_semana",
+      "categoria": "noticias",
       "mensajes": [
-        "&e&l¡EL DATO GAMER DE LA SEMANA!",
-        "&7¿Sabías que Minecraft es el juego más vendido de la historia con más de 200 millones de copias?"
+        "&c&l¡Lanzamientos Épicos esta Semana! &7Grandes títulos como \"The Blood of Dawnwalker\" y \"Onimusha: Way of the Sword\" llegan. &e¡Explora nuevos horizontes!"
+      ]
+    },
+    {
+      "id": "mini_evento_pesca",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡Mini-Evento de Pesca! &7¡Este fin de semana, pesca tiene doble probabilidad de encontrar tesoros raros! &e¡A por el botín acuático!"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "WEDNESDAY",
-      "titulo": "&c&l¡Fiebre de la Montura!",
+      "titulo": "&c&l¡Ascenso del Caminante Nocturno!",
       "descripcion": [
-        "&7¡Se descubrieron nuevas monturas y peligros en",
-        "la 1.21.11!"
+        "&7¡Celebramos el lanzamiento de The Blood of Dawnwalker!",
+        "&7Obtén Fuerza II y más &eOro&7 al venderlo todo el día."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
+      "tipo": "AMBOS",
+      "item": "GOLD_INGOT",
+      "porcentaje_extra": 25.0,
       "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
       "todo_el_dia": true,
