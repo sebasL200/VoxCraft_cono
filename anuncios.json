@@ -1,4 +1,86 @@
 {
-  "anuncios": [],
-  "horas_felices": []
+  "anuncios": [
+    {
+      "id": "nuevo_sistema_versiones",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡NUEVO SISTEMA DE VERSIONES!",
+        "&7Mojang ha actualizado la numeración de versiones. ¡Ahora se basan en el año!"
+      ]
+    },
+    {
+      "id": "minecraft_26_3_septiembre",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡MINECRAFT 26.3 EN SEPTIEMBRE!",
+        "&7La actualización 'Chaos Cubed' llegó en junio y la 26.3, que incluye el bioma Dappled Forest, se espera este mes."
+      ]
+    },
+    {
+      "id": "explora_dappled_forest",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡EXPLORA EL DAPPLED FOREST!",
+        "&7Descubre el nuevo bioma con paisajes de tonos ámbar y hojas crujientes que llega con la 26.3."
+      ]
+    },
+    {
+      "id": "minecraft_dungeons_ii",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡MINECRAFT DUNGEONS II LLEGA!",
+        "&7El esperado spin-off se lanza el 29 de septiembre con un mundo interconectado y nuevas mecánicas de juego."
+      ]
+    },
+    {
+      "id": "nuevo_contenido_marketplace_pass",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&l¡NUEVO CONTENIDO EN MARKETPLACE PASS!",
+        "&7El Pase de Septiembre de 2026 ya está aquí con creaciones como 'The Bloop' y 'Village Cities'."
+      ]
+    },
+    {
+      "id": "realms_plus_novedades",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&c¡REALMS PLUS CON MÁS NOVEDADES!",
+        "&7Los suscriptores de Realms Plus también tienen contenido fresco y emocionante este mes."
+      ]
+    },
+    {
+      "id": "prueba_26_3_ya",
+      "categoria": "consejos",
+      "mensajes": [
+        "&a&l¡PRUEBA LA 26.3 YA!",
+        "&7Puedes explorar el Dappled Forest y otras novedades en los Snapshots de la 1.26.3, como el Snapshot 10."
+      ]
+    },
+    {
+      "id": "mas_contenido_game_drops",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡MÁS CONTENIDO CON \"GAME DROPS\"!",
+        "&7Mojang se centra ahora en lanzamientos de contenido más frecuentes llamados \"game drops\" a lo largo del año."
+      ]
+    }
+  ],
+  "horas_felices": [
+    {
+      "dia": "TUESDAY",
+      "titulo": "&c&l¡Zona de Guerra Abierta!",
+      "descripcion": [
+        "&7¡Call of Duty: Black Ops Cold War se ha lanzado!",
+        "&7Obtén Fuerza II y un +20% en Lingotes de Oro."
+      ],
+      "tipo": "AMBOS",
+      "item": "GOLD_INGOT",
+      "porcentaje_extra": 20.0,
+      "efecto_pocion": "STRENGTH",
+      "nivel_efecto": 2,
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 20
+    }
+  ]
 }
