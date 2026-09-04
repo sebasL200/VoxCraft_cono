@@ -1,86 +1,78 @@
 {
   "anuncios": [
     {
-      "id": "nuevo_sistema_versiones",
+      "id": "actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡NUEVO SISTEMA DE VERSIONES!",
-        "&7Mojang ha actualizado la numeración de versiones. ¡Ahora se basan en el año!"
+        "&a&l¡ACTUALIZACIÓN 1.21.x! &eDescubre las C&maras de Prueba y enfréntate a nuevos desafíos. &7La exploración trae recompensas únicas."
       ]
     },
     {
-      "id": "minecraft_26_3_septiembre",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&l¡MINECRAFT 26.3 EN SEPTIEMBRE!",
-        "&7La actualización 'Chaos Cubed' llegó en junio y la 26.3, que incluye el bioma Dappled Forest, se espera este mes."
-      ]
-    },
-    {
-      "id": "explora_dappled_forest",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡EXPLORA EL DAPPLED FOREST!",
-        "&7Descubre el nuevo bioma con paisajes de tonos ámbar y hojas crujientes que llega con la 26.3."
-      ]
-    },
-    {
-      "id": "minecraft_dungeons_ii",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡MINECRAFT DUNGEONS II LLEGA!",
-        "&7El esperado spin-off se lanza el 29 de septiembre con un mundo interconectado y nuevas mecánicas de juego."
-      ]
-    },
-    {
-      "id": "nuevo_contenido_marketplace_pass",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7&l¡NUEVO CONTENIDO EN MARKETPLACE PASS!",
-        "&7El Pase de Septiembre de 2026 ya está aquí con creaciones como 'The Bloop' y 'Village Cities'."
-      ]
-    },
-    {
-      "id": "realms_plus_novedades",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&c¡REALMS PLUS CON MÁS NOVEDADES!",
-        "&7Los suscriptores de Realms Plus también tienen contenido fresco y emocionante este mes."
-      ]
-    },
-    {
-      "id": "prueba_26_3_ya",
+      "id": "guia_elimina_breeze",
       "categoria": "consejos",
       "mensajes": [
-        "&a&l¡PRUEBA LA 26.3 YA!",
-        "&7Puedes explorar el Dappled Forest y otras novedades en los Snapshots de la 1.26.3, como el Snapshot 10."
+        "&b&lGUÍA: ELIMINA AL BREEZE. &eDomina las nuevas mecánicas de combate y sus ataques de viento. &7¡Prepara tu estrategia!"
       ]
     },
     {
-      "id": "mas_contenido_game_drops",
+      "id": "nuevos_disenos_armadura",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡MÁS CONTENIDO CON \"GAME DROPS\"!",
-        "&7Mojang se centra ahora en lanzamientos de contenido más frecuentes llamados \"game drops\" a lo largo del año."
+        "&e&lNUEVOS DISEÑOS DE ARMADURA. &bEncuentra los patrones de herrería en los cofres de las C&maras de Prueba. &7¡Personaliza tu equipo!"
+      ]
+    },
+    {
+      "id": "crafter_llega",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&lEL CRAFTER LLEGA AL SERVIDOR. &aAutomatiza tus creaciones con el nuevo bloque de crafteo automático. &7¡Optimizaci&n al máximo!"
+      ]
+    },
+    {
+      "id": "evento_pvp_semanal",
+      "categoria": "eventos",
+      "mensajes": [
+        "&7&lEVENTO PVP SEMANAL. &cPrepárense para la Arena de Batalla este s&bado. &7¡Grandes premios esperan a los campeones!"
+      ]
+    },
+    {
+      "id": "concurso_construccion",
+      "categoria": "eventos",
+      "mensajes": [
+        "&a&lCONCURSO DE CONSTRUCCIÓN. &eCrea tu mejor 'Escondite Secreto' y gana fabulosos premios. &7¡M&s detalles en el Discord!"
+      ]
+    },
+    {
+      "id": "items_exclusivos_tienda",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&lITEMS EXCLUSIVOS EN LA TIENDA. &dHemos a&adido nuevas cosméticos y herramientas con encantamientos especiales. &7¡Visítanos ahora!"
+      ]
+    },
+    {
+      "id": "recordatorio_normas",
+      "categoria": "recordatorio",
+      "mensajes": [
+        "&c&lRECORDATORIO DE NORMAS. &7Para mantener un ambiente sano, por favor, revisa las reglas del servidor. &7¡Juntos hacemos una mejor comunidad!"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "TUESDAY",
-      "titulo": "&c&l¡Zona de Guerra Abierta!",
+      "titulo": "&c&l¡Filo del Samurái!",
       "descripcion": [
-        "&7¡Call of Duty: Black Ops Cold War se ha lanzado!",
-        "&7Obtén Fuerza II y un +20% en Lingotes de Oro."
+        "&7¡Onimusha: Way of the Sword se lanzó!",
+        "&7Obtén Fuerza II en combate todo el día."
       ],
-      "tipo": "AMBOS",
-      "item": "GOLD_INGOT",
-      "porcentaje_extra": 20.0,
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
       "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 20
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     }
   ]
 }
