@@ -1,69 +1,84 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21",
+      "id": "noticia_salas_juicio",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21.x! &eDescubre las C&maras de Prueba y enfréntate a nuevos desafíos. &7La exploración trae recompensas únicas."
+        "&a&l¡Explora las Salas de Juicio!",
+        "&7Desafía las nuevas Trial Chambers de la 1.21.x y obtén valiosas recompensas."
       ]
     },
     {
-      "id": "guia_elimina_breeze",
+      "id": "noticia_armaduras_lobo",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡Nuevas Armaduras de Lobo!",
+        "&7Protege a tus fieles compañeros con las Armaduras para Lobos crafteables introducidas en 1.21.x."
+      ]
+    },
+    {
+      "id": "noticia_crafteo_automatico",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡El Crafteo Automático ya está aquí!",
+        "&7Descubre la Crafter y automatiza tus producciones como nunca antes en la 1.21.x."
+      ]
+    },
+    {
+      "id": "noticia_decoracion_mundo",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡Decoración para tu Mundo!",
+        "&7Ahora puedes colocar macetas en soportes de pociones y más, gracias a las novedades de la 1.21.x."
+      ]
+    },
+    {
+      "id": "curiosidad_mario_bros",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7¿Sabías que...",
+        "&eSuper Mario Bros. (1985) es a menudo acreditado por revivir la industria del videojuego tras la crisis del 83?"
+      ]
+    },
+    {
+      "id": "curiosidad_minecraft_ventas",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7El videojuego más vendido de la historia es &bMinecraft&7, con más de 300 millones de copias en todo el mundo."
+      ]
+    },
+    {
+      "id": "consejo_vota_servidor",
       "categoria": "consejos",
       "mensajes": [
-        "&b&lGUÍA: ELIMINA AL BREEZE. &eDomina las nuevas mecánicas de combate y sus ataques de viento. &7¡Prepara tu estrategia!"
+        "&e¡Vota por el Servidor!",
+        "&7Ayúdanos a crecer y recibe increíbles recompensas exclusivas por tu apoyo."
       ]
     },
     {
-      "id": "nuevos_disenos_armadura",
+      "id": "noticia_proximas_mejoras",
       "categoria": "noticias",
       "mensajes": [
-        "&e&lNUEVOS DISEÑOS DE ARMADURA. &bEncuentra los patrones de herrería en los cofres de las C&maras de Prueba. &7¡Personaliza tu equipo!"
+        "&d&l¡Próximas Mejoras!",
+        "&7Estamos trabajando en optimizaciones para la estabilidad y el rendimiento general del servidor."
       ]
     },
     {
-      "id": "crafter_llega",
+      "id": "noticia_lanzamiento_onimusha",
       "categoria": "noticias",
       "mensajes": [
-        "&d&lEL CRAFTER LLEGA AL SERVIDOR. &aAutomatiza tus creaciones con el nuevo bloque de crafteo automático. &7¡Optimizaci&n al máximo!"
-      ]
-    },
-    {
-      "id": "evento_pvp_semanal",
-      "categoria": "eventos",
-      "mensajes": [
-        "&7&lEVENTO PVP SEMANAL. &cPrepárense para la Arena de Batalla este s&bado. &7¡Grandes premios esperan a los campeones!"
-      ]
-    },
-    {
-      "id": "concurso_construccion",
-      "categoria": "eventos",
-      "mensajes": [
-        "&a&lCONCURSO DE CONSTRUCCIÓN. &eCrea tu mejor 'Escondite Secreto' y gana fabulosos premios. &7¡M&s detalles en el Discord!"
-      ]
-    },
-    {
-      "id": "items_exclusivos_tienda",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&lITEMS EXCLUSIVOS EN LA TIENDA. &dHemos a&adido nuevas cosméticos y herramientas con encantamientos especiales. &7¡Visítanos ahora!"
-      ]
-    },
-    {
-      "id": "recordatorio_normas",
-      "categoria": "recordatorio",
-      "mensajes": [
-        "&c&lRECORDATORIO DE NORMAS. &7Para mantener un ambiente sano, por favor, revisa las reglas del servidor. &7¡Juntos hacemos una mejor comunidad!"
+        "&b&l¡Un hito histórico!",
+        "&7El esperado juego &aOnimusha: Way of the Sword&7 se lanzó esta semana, expandiendo la legendaria saga."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "TUESDAY",
-      "titulo": "&c&l¡Filo del Samurái!",
+      "dia": "MONDAY",
+      "titulo": "&c&l¡El Camino del Samurai!",
       "descripcion": [
-        "&7¡Onimusha: Way of the Sword se lanzó!",
-        "&7Obtén Fuerza II en combate todo el día."
+        "&7¡Onimusha: Way of the Sword llegó esta semana!",
+        "&7Empuña tu espada con Fuerza II todo el día."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
