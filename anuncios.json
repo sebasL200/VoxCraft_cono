@@ -1,4 +1,78 @@
 {
-  "anuncios": [],
-  "horas_felices": []
+  "anuncios": [
+    {
+      "id": "bienvenida_nuevos_mineros",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡Bienvenida a Nuevos Mineros! &7Un saludo a todos los nuevos jugadores que se unen a nuestra comunidad. ¡Esperamos que disfruten su estancia!"
+      ]
+    },
+    {
+      "id": "evento_construccion_semanal",
+      "categoria": "eventos",
+      "mensajes": [
+        "&b&lEvento de Construcción Semanal: &e¡Demuestra tu creatividad! Esta semana, el tema es 'Ciudades Subterráneas'. ¡Hay premios para los 3 mejores!"
+      ]
+    },
+    {
+      "id": "mantenimiento_programado",
+      "categoria": "mantenimiento",
+      "mensajes": [
+        "&e&lMantenimiento Programado: &7Este miércoles, 9 de septiembre, de 03:00 a 05:00 AM (CET) tendremos un breve mantenimiento. ¡Gracias por su paciencia!"
+      ]
+    },
+    {
+      "id": "novedades_tienda_servidor",
+      "categoria": "tienda",
+      "mensajes": [
+        "&d&lNovedades en la Tienda del Servidor: &7Hemos añadido nuevos cosméticos y herramientas encantadas. ¡Visita la tienda para las ofertas!"
+      ]
+    },
+    {
+      "id": "valheim_version_1_0",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&lValheim alcanza la versión 1.0: &l&a¡Un hito en la supervivencia! &7Celebramos este lanzamiento mayor, ¿qué construcción nórdica harás hoy?"
+      ]
+    },
+    {
+      "id": "halloween_the_game_lanzamiento",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&c¡El terror llega al gaming! &c&lHalloween: The Game &7se lanzó este 8 de septiembre. ¿Te atreves a enfrentar los horrores de la noche en nuestro servidor?"
+      ]
+    },
+    {
+      "id": "hot_wheels_infinite_rush_lanzamiento",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&bCarreras al Máximo: &b&lHot Wheels Infinite Rush &7está disponible desde el 10 de septiembre. ¡Construye tus propios circuitos en Minecraft!"
+      ]
+    },
+    {
+      "id": "recordatorio_reglas",
+      "categoria": "consejos",
+      "mensajes": [
+        "&e&lRecordatorio de Reglas: &7Por favor, revisen nuestras normas de convivencia. ¡Mantengamos un ambiente positivo para todos los jugadores!"
+      ]
+    }
+  ],
+  "horas_felices": [
+    {
+      "dia": "TUESDAY",
+      "titulo": "&c&l¡Noche de los Horrores!",
+      "descripcion": [
+        "&7¡Halloween: The Game se lanzó este 8 de septiembre!",
+        "&7¡Doble precio por HUESO y Fuerza II todo el día!"
+      ],
+      "tipo": "AMBOS",
+      "item": "BONE",
+      "porcentaje_extra": 100.0,
+      "efecto_pocion": "STRENGTH",
+      "nivel_efecto": 2,
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
+    }
+  ]
 }
