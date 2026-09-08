@@ -1,75 +1,91 @@
 {
   "anuncios": [
     {
-      "id": "bienvenida_nuevos_mineros",
+      "id": "noticia_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Bienvenida a Nuevos Mineros! &7Un saludo a todos los nuevos jugadores que se unen a nuestra comunidad. ¡Esperamos que disfruten su estancia!"
+        "&a¡La &lActualización Tricky Trials (1.21)&r &aha llegado!",
+        "&aPrepárate para explorar las nuevas y peligrosas Trial Chambers."
       ]
     },
     {
-      "id": "evento_construccion_semanal",
-      "categoria": "eventos",
-      "mensajes": [
-        "&b&lEvento de Construcción Semanal: &e¡Demuestra tu creatividad! Esta semana, el tema es 'Ciudades Subterráneas'. ¡Hay premios para los 3 mejores!"
-      ]
-    },
-    {
-      "id": "mantenimiento_programado",
-      "categoria": "mantenimiento",
-      "mensajes": [
-        "&e&lMantenimiento Programado: &7Este miércoles, 9 de septiembre, de 03:00 a 05:00 AM (CET) tendremos un breve mantenimiento. ¡Gracias por su paciencia!"
-      ]
-    },
-    {
-      "id": "novedades_tienda_servidor",
-      "categoria": "tienda",
-      "mensajes": [
-        "&d&lNovedades en la Tienda del Servidor: &7Hemos añadido nuevos cosméticos y herramientas encantadas. ¡Visita la tienda para las ofertas!"
-      ]
-    },
-    {
-      "id": "valheim_version_1_0",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7&lValheim alcanza la versión 1.0: &l&a¡Un hito en la supervivencia! &7Celebramos este lanzamiento mayor, ¿qué construcción nórdica harás hoy?"
-      ]
-    },
-    {
-      "id": "halloween_the_game_lanzamiento",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&c¡El terror llega al gaming! &c&lHalloween: The Game &7se lanzó este 8 de septiembre. ¿Te atreves a enfrentar los horrores de la noche en nuestro servidor?"
-      ]
-    },
-    {
-      "id": "hot_wheels_infinite_rush_lanzamiento",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&bCarreras al Máximo: &b&lHot Wheels Infinite Rush &7está disponible desde el 10 de septiembre. ¡Construye tus propios circuitos en Minecraft!"
-      ]
-    },
-    {
-      "id": "recordatorio_reglas",
+      "id": "consejo_mapas_trial_chambers",
       "categoria": "consejos",
       "mensajes": [
-        "&e&lRecordatorio de Reglas: &7Por favor, revisen nuestras normas de convivencia. ¡Mantengamos un ambiente positivo para todos los jugadores!"
+        "&b¡Encuentra las &lTrial Chambers&r &bcon facilidad!",
+        "&bLos aldeanos cartógrafos venden mapas que te guiarán."
+      ]
+    },
+    {
+      "id": "consejo_efecto_bad_omen",
+      "categoria": "consejos",
+      "mensajes": [
+        "&e¡Cuidado con el efecto &lBad Omen&r!",
+        "&eTransforma spawners en desafíos y recompensas."
+      ]
+    },
+    {
+      "id": "noticia_arma_mace",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d¡Domina el combate con la &lmace&r!",
+        "&dNueva arma con encantamientos únicos para más daño."
+      ]
+    },
+    {
+      "id": "curiosidad_trial_chambers_materiales",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7Las &lTrial Chambers&r &7son una mina de oro:",
+        "&7Están construidas con toba y cobre, ¡ideales!"
+      ]
+    },
+    {
+      "id": "noticia_nuevo_mob_breeze",
+      "categoria": "noticias",
+      "mensajes": [
+        "&c¡Enfréntate al &lBreeze&r, &cel nuevo mob hostil!",
+        "&c¡Prepara tus mejores estrategias de combate!"
+      ]
+    },
+    {
+      "id": "consejo_saquea_vaults",
+      "categoria": "consejos",
+      "mensajes": [
+        "&a¡Saquea los &lvaults&r &ay descubre tesoros valiosos:",
+        "&aHerramientas, armas y armaduras raras."
+      ]
+    },
+    {
+      "id": "dato_curioso_easter_egg",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lDato Curioso Gaming:&r",
+        "&bEl primer \"Easter Egg\" en Adventure de Atari 2600."
+      ]
+    },
+    {
+      "id": "dato_curioso_minecraft_ventas",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&e&lDato Curioso Gaming:&r",
+        "&eMinecraft, el juego más vendido con +200M copias."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "TUESDAY",
-      "titulo": "&c&l¡Noche de los Horrores!",
+      "titulo": "&c&l¡La Cacería de la Luna de Sangre!",
       "descripcion": [
-        "&7¡Halloween: The Game se lanzó este 8 de septiembre!",
-        "&7¡Doble precio por HUESO y Fuerza II todo el día!"
+        "&7¡Halloween: The Game se lanzó esta semana!",
+        "&7¡Vende tus PORKCHOP con un 25.0% extra!"
       ],
-      "tipo": "AMBOS",
-      "item": "BONE",
-      "porcentaje_extra": 100.0,
-      "efecto_pocion": "STRENGTH",
-      "nivel_efecto": 2,
+      "tipo": "PRECIO",
+      "item": "PORKCHOP",
+      "porcentaje_extra": 25.0,
+      "efecto_pocion": "NONE",
+      "nivel_efecto": 0,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
