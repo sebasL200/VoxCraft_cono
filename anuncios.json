@@ -1,94 +1,117 @@
 {
   "anuncios": [
     {
-      "id": "noticia_tricky_trials",
+      "id": "actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&a¡La &lActualización Tricky Trials (1.21)&r &aha llegado!",
-        "&aPrepárate para explorar las nuevas y peligrosas Trial Chambers."
+        "&a&l¡ACTUALIZACIÓN 1.21 'TRICKY TRIALS' LLEGÓ!",
+        "&7Explora Cámaras, Breeze y crafteos automáticos."
       ]
     },
     {
-      "id": "consejo_mapas_trial_chambers",
-      "categoria": "consejos",
-      "mensajes": [
-        "&b¡Encuentra las &lTrial Chambers&r &bcon facilidad!",
-        "&bLos aldeanos cartógrafos venden mapas que te guiarán."
-      ]
-    },
-    {
-      "id": "consejo_efecto_bad_omen",
-      "categoria": "consejos",
-      "mensajes": [
-        "&e¡Cuidado con el efecto &lBad Omen&r!",
-        "&eTransforma spawners en desafíos y recompensas."
-      ]
-    },
-    {
-      "id": "noticia_arma_mace",
+      "id": "nuevos_bloques_cobre_toba",
       "categoria": "noticias",
       "mensajes": [
-        "&d¡Domina el combate con la &lmace&r!",
-        "&dNueva arma con encantamientos únicos para más daño."
+        "&b&l¡NUEVOS BLOQUES DE COBRE Y TUBA!",
+        "&7Decora tus construcciones con variantes flamantes."
       ]
     },
     {
-      "id": "curiosidad_trial_chambers_materiales",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7Las &lTrial Chambers&r &7son una mina de oro:",
-        "&7Están construidas con toba y cobre, ¡ideales!"
-      ]
-    },
-    {
-      "id": "noticia_nuevo_mob_breeze",
+      "id": "domina_mazo_carga_viento",
       "categoria": "noticias",
       "mensajes": [
-        "&c¡Enfréntate al &lBreeze&r, &cel nuevo mob hostil!",
-        "&c¡Prepara tus mejores estrategias de combate!"
+        "&e&l¡DOMINA EL MAZO Y LA CARGA DE VIENTO!",
+        "&7Descubre arma y objeto para combate renovado."
       ]
     },
     {
-      "id": "consejo_saquea_vaults",
-      "categoria": "consejos",
+      "id": "proximo_bioma_bosque_moteado",
+      "categoria": "noticias",
       "mensajes": [
-        "&a¡Saquea los &lvaults&r &ay descubre tesoros valiosos:",
-        "&aHerramientas, armas y armaduras raras."
+        "&d&l¡PROXIMAMENTE: BIOMA BOSQUE MOTEADO!",
+        "&7Explora Poplar y arbustos rojos en 2026."
       ]
     },
     {
-      "id": "dato_curioso_easter_egg",
+      "id": "sneak_peek_cuevas_azufre_cinabrio",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&l¡SNEAK PEEK: CUEVAS DE AZUFRE Y CINABRIO!",
+        "&7Nuevas profundidades con bloques y mobs en 2026."
+      ]
+    },
+    {
+      "id": "actualizacion_inventario_ui",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡ACTUALIZACIÓN DE INVENTARIO Y UI!",
+        "&7Mejoras en interfaz para una experiencia fluida en 2026."
+      ]
+    },
+    {
+      "id": "construye_con_lana",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡CONSTRUYE CON LANA: LOSETAS Y ESCALERAS!",
+        "&7Diseña con nuevas opciones de construcción en lana (2026)."
+      ]
+    },
+    {
+      "id": "campamentos_abandonados",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡ENCUENTRA CAMPAMENTOS ABANDONADOS!",
+        "&7Nuevas estructuras en biomas de superficie (2026)."
+      ]
+    },
+    {
+      "id": "curiosidad_minecraft_mas_vendido",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&lDato Curioso Gaming:&r",
-        "&bEl primer \"Easter Egg\" en Adventure de Atari 2600."
+        "&b&lDATO CURIOSO:",
+        "&7Minecraft, el más vendido con +200M copias."
       ]
     },
     {
-      "id": "dato_curioso_minecraft_ventas",
+      "id": "curiosidad_origen_nombre_mario",
       "categoria": "curiosidades",
       "mensajes": [
-        "&e&lDato Curioso Gaming:&r",
-        "&eMinecraft, el juego más vendido con +200M copias."
+        "&b&lDATO CURIOSO:",
+        "&7Mario, antes 'Jumpman', nombrado por su casero."
+      ]
+    },
+    {
+      "id": "curiosidad_pacman_puntuacion_perfecta",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lDATO CURIOSO:",
+        "&7Pac-Man perfecto: 3.333.360 puntos. ¡Casi imposible!"
+      ]
+    },
+    {
+      "id": "curiosidad_daggerfall_mapa_mas_grande",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lDATO CURIOSO:",
+        "&7Daggerfall (1996) tiene el mapa más grande: 161.600 KM²."
+      ]
+    },
+    {
+      "id": "curiosidad_mortal_kombat_clasificacion_edad",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lDATO CURIOSO:",
+        "&7Mortal Kombat dio origen a las clasificaciones de edad."
+      ]
+    },
+    {
+      "id": "curiosidad_gameboy_en_espacio",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lDATO CURIOSO:",
+        "&7La Game Boy fue la 1ª consola jugada en el espacio (1993)."
       ]
     }
   ],
-  "horas_felices": [
-    {
-      "dia": "TUESDAY",
-      "titulo": "&c&l¡La Cacería de la Luna de Sangre!",
-      "descripcion": [
-        "&7¡Halloween: The Game se lanzó esta semana!",
-        "&7¡Vende tus PORKCHOP con un 25.0% extra!"
-      ],
-      "tipo": "PRECIO",
-      "item": "PORKCHOP",
-      "porcentaje_extra": 25.0,
-      "efecto_pocion": "NONE",
-      "nivel_efecto": 0,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
-    }
-  ]
+  "horas_felices": []
 }
