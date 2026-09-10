@@ -1,115 +1,59 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21",
+      "id": "minecraft_dungeons_ii_lanzamiento",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21 'TRICKY TRIALS' LLEGÓ!",
-        "&7Explora Cámaras, Breeze y crafteos automáticos."
+        "&b&l¡ATENCIÓN! &e&lMinecraft Dungeons II &7llega el &b28 de septiembre de 2026&7. ¡Prepara tus armas!"
       ]
     },
     {
-      "id": "nuevos_bloques_cobre_toba",
+      "id": "dungeons_ii_detalles_gamescom",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡NUEVOS BLOQUES DE COBRE Y TUBA!",
-        "&7Decora tus construcciones con variantes flamantes."
+        "&a¡Nuevos detalles de &lDungeons II&a! &7Descubre herreros y combate en el gameplay revelado en Gamescom 2026."
       ]
     },
     {
-      "id": "domina_mazo_carga_viento",
+      "id": "explora_camaras_de_prueba",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡DOMINA EL MAZO Y LA CARGA DE VIENTO!",
-        "&7Descubre arma y objeto para combate renovado."
+        "&d¡Explora las &lCámaras de Prueba&d! &7Desafía los mobs y trampas de la actualización 1.21.x de Minecraft."
       ]
     },
     {
-      "id": "proximo_bioma_bosque_moteado",
+      "id": "automatizacion_crafter",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡PROXIMAMENTE: BIOMA BOSQUE MOTEADO!",
-        "&7Explora Poplar y arbustos rojos en 2026."
+        "&e&l¡Automatización a tu alcance! &7Aprovecha el poder del &lCrafter &een la 1.21.x para craftear más eficientemente."
       ]
     },
     {
-      "id": "sneak_peek_cuevas_azufre_cinabrio",
+      "id": "domina_onda_expansiva_wind_charges",
+      "categoria": "consejos",
+      "mensajes": [
+        "&b&l¡Domina la Onda Expansiva! &7Usa las &lWind Charges &bpara moverte y atacar con estilo en la última versión."
+      ]
+    },
+    {
+      "id": "cuidado_con_los_bogged",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡SNEAK PEEK: CUEVAS DE AZUFRE Y CINABRIO!",
-        "&7Nuevas profundidades con bloques y mobs en 2026."
+        "&c&l¡Cuidado con los &lBogged&c! &7Estos nuevos esqueletos musgosos te esperan en pantanos y Cámaras de Prueba."
       ]
     },
     {
-      "id": "actualizacion_inventario_ui",
+      "id": "el_mazo_ha_llegado",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN DE INVENTARIO Y UI!",
-        "&7Mejoras en interfaz para una experiencia fluida en 2026."
+        "&d&l¡El Mazo ha llegado! &7Experimenta la fuerza bruta de la nueva arma de la 1.21.x para golpes devastadores."
       ]
     },
     {
-      "id": "construye_con_lana",
-      "categoria": "noticias",
+      "id": "enfrentate_al_breeze",
+      "categoria": "consejos",
       "mensajes": [
-        "&b&l¡CONSTRUYE CON LANA: LOSETAS Y ESCALERAS!",
-        "&7Diseña con nuevas opciones de construcción en lana (2026)."
-      ]
-    },
-    {
-      "id": "campamentos_abandonados",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡ENCUENTRA CAMPAMENTOS ABANDONADOS!",
-        "&7Nuevas estructuras en biomas de superficie (2026)."
-      ]
-    },
-    {
-      "id": "curiosidad_minecraft_mas_vendido",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&lDATO CURIOSO:",
-        "&7Minecraft, el más vendido con +200M copias."
-      ]
-    },
-    {
-      "id": "curiosidad_origen_nombre_mario",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&lDATO CURIOSO:",
-        "&7Mario, antes 'Jumpman', nombrado por su casero."
-      ]
-    },
-    {
-      "id": "curiosidad_pacman_puntuacion_perfecta",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&lDATO CURIOSO:",
-        "&7Pac-Man perfecto: 3.333.360 puntos. ¡Casi imposible!"
-      ]
-    },
-    {
-      "id": "curiosidad_daggerfall_mapa_mas_grande",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&lDATO CURIOSO:",
-        "&7Daggerfall (1996) tiene el mapa más grande: 161.600 KM²."
-      ]
-    },
-    {
-      "id": "curiosidad_mortal_kombat_clasificacion_edad",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&lDATO CURIOSO:",
-        "&7Mortal Kombat dio origen a las clasificaciones de edad."
-      ]
-    },
-    {
-      "id": "curiosidad_gameboy_en_espacio",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&lDATO CURIOSO:",
-        "&7La Game Boy fue la 1ª consola jugada en el espacio (1993)."
+        "&a&l¡Enfréntate al &lBreeze&a! &7Aprende los patrones de este escurridizo mob de viento en las Cámaras de Prueba."
       ]
     }
   ],
