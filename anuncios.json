@@ -1,59 +1,83 @@
 {
   "anuncios": [
     {
-      "id": "minecraft_dungeons_ii_lanzamiento",
+      "id": "nuevas_variantes_lobos",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡ATENCIÓN! &e&lMinecraft Dungeons II &7llega el &b28 de septiembre de 2026&7. ¡Prepara tus armas!"
+        "&a&l¡Nuevas Variantes de Lobos Disponibles!",
+        "&7Descubre las 8 razas distintas en tus exploraciones."
       ]
     },
     {
-      "id": "dungeons_ii_detalles_gamescom",
+      "id": "armaduras_lobos_disponibles",
       "categoria": "noticias",
       "mensajes": [
-        "&a¡Nuevos detalles de &lDungeons II&a! &7Descubre herreros y combate en el gameplay revelado en Gamescom 2026."
+        "&b&lArmaduras para Lobos ya en el Servidor!",
+        "&7Protege a tus fieles compañeros con la nueva armadura de lobo."
       ]
     },
     {
-      "id": "explora_camaras_de_prueba",
+      "id": "armadillo_ha_llegado",
       "categoria": "noticias",
       "mensajes": [
-        "&d¡Explora las &lCámaras de Prueba&d! &7Desafía los mobs y trampas de la actualización 1.21.x de Minecraft."
+        "&e&l¡El Armadillo Ha Llegado!",
+        "&7Encuentra a esta criatura pacífica en biomas cálidos y áridos."
       ]
     },
     {
-      "id": "automatizacion_crafter",
+      "id": "minecraft_juego_mas_vendido",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&d&lMinecraft: El Juego Más Vendido de la Historia!",
+        "&7Únete a los millones de jugadores que exploran sin límites."
+      ]
+    },
+    {
+      "id": "origen_mario_jumpman",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7&lDato Curioso: El Origen de Mario!",
+        "&7Sabías que nuestro fontanero favorito fue originalmente un carpintero llamado Jump Man."
+      ]
+    },
+    {
+      "id": "tetris_en_el_espacio",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&c&l¡El Tetris en el Espacio!",
+        "&7Un Gameboy con Tetris fue la primera consola jugada en el espacio en 1993."
+      ]
+    },
+    {
+      "id": "fantasmas_pacman_nombres",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&a&lSabías Qué? Los Fantasmas de Pac-Man!",
+        "&7Blinky, Pinky, Inky y Clyde tienen nombres propios."
+      ]
+    },
+    {
+      "id": "mortal_kombat_clasificacion_edad",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lImpacto Gaming: La Clasificación por Edad!",
+        "&7Mortal Kombat impulsó la creación de sistemas de clasificación por contenido."
+      ]
+    },
+    {
+      "id": "industria_gaming_en_auge",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&e&lLa Industria Gaming en Auge!",
+        "&7Supera en ingresos a las industrias del cine y la música combinadas."
+      ]
+    },
+    {
+      "id": "mantenimiento_programado",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Automatización a tu alcance! &7Aprovecha el poder del &lCrafter &een la 1.21.x para craftear más eficientemente."
-      ]
-    },
-    {
-      "id": "domina_onda_expansiva_wind_charges",
-      "categoria": "consejos",
-      "mensajes": [
-        "&b&l¡Domina la Onda Expansiva! &7Usa las &lWind Charges &bpara moverte y atacar con estilo en la última versión."
-      ]
-    },
-    {
-      "id": "cuidado_con_los_bogged",
-      "categoria": "noticias",
-      "mensajes": [
-        "&c&l¡Cuidado con los &lBogged&c! &7Estos nuevos esqueletos musgosos te esperan en pantanos y Cámaras de Prueba."
-      ]
-    },
-    {
-      "id": "el_mazo_ha_llegado",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡El Mazo ha llegado! &7Experimenta la fuerza bruta de la nueva arma de la 1.21.x para golpes devastadores."
-      ]
-    },
-    {
-      "id": "enfrentate_al_breeze",
-      "categoria": "consejos",
-      "mensajes": [
-        "&a&l¡Enfréntate al &lBreeze&a! &7Aprende los patrones de este escurridizo mob de viento en las Cámaras de Prueba."
+        "&d&lMantenimiento Programado!",
+        "&7Estaremos realizando ajustes menores para mejorar la experiencia de juego pronto."
       ]
     }
   ],
