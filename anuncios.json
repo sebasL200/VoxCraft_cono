@@ -1,85 +1,140 @@
 {
   "anuncios": [
     {
-      "id": "nuevas_variantes_lobos",
+      "id": "noticia_camaras_prueba",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Nuevas Variantes de Lobos Disponibles!",
-        "&7Descubre las 8 razas distintas en tus exploraciones."
+        "&a&l¡Explora las Cámaras de Prueba!",
+        "&eNuevos desafíos y tesoros te esperan en la versión 1.21.x."
       ]
     },
     {
-      "id": "armaduras_lobos_disponibles",
+      "id": "noticia_breeze",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lArmaduras para Lobos ya en el Servidor!",
-        "&7Protege a tus fieles compañeros con la nueva armadura de lobo."
+        "&b&l¡Enfréntate al Breeze!",
+        "&7Un nuevo mob elemental desafía a los aventureros en las mazmorras."
       ]
     },
     {
-      "id": "armadillo_ha_llegado",
+      "id": "noticia_mejoras_cobre",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡El Armadillo Ha Llegado!",
-        "&7Encuentra a esta criatura pacífica en biomas cálidos y áridos."
+        "&e&l¡Mejoras en el Cobre!",
+        "&dDescubre las nuevas variantes de bloques de cobre para tus construcciones."
       ]
     },
     {
-      "id": "minecraft_juego_mas_vendido",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&d&lMinecraft: El Juego Más Vendido de la Historia!",
-        "&7Únete a los millones de jugadores que exploran sin límites."
-      ]
-    },
-    {
-      "id": "origen_mario_jumpman",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lDato Curioso: El Origen de Mario!",
-        "&7Sabías que nuestro fontanero favorito fue originalmente un carpintero llamado Jump Man."
-      ]
-    },
-    {
-      "id": "tetris_en_el_espacio",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&c&l¡El Tetris en el Espacio!",
-        "&7Un Gameboy con Tetris fue la primera consola jugada en el espacio en 1993."
-      ]
-    },
-    {
-      "id": "fantasmas_pacman_nombres",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&a&lSabías Qué? Los Fantasmas de Pac-Man!",
-        "&7Blinky, Pinky, Inky y Clyde tienen nombres propios."
-      ]
-    },
-    {
-      "id": "mortal_kombat_clasificacion_edad",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&lImpacto Gaming: La Clasificación por Edad!",
-        "&7Mortal Kombat impulsó la creación de sistemas de clasificación por contenido."
-      ]
-    },
-    {
-      "id": "industria_gaming_en_auge",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&e&lLa Industria Gaming en Auge!",
-        "&7Supera en ingresos a las industrias del cine y la música combinadas."
-      ]
-    },
-    {
-      "id": "mantenimiento_programado",
+      "id": "noticia_crafter",
       "categoria": "noticias",
       "mensajes": [
-        "&d&lMantenimiento Programado!",
-        "&7Estaremos realizando ajustes menores para mejorar la experiencia de juego pronto."
+        "&d&l¡Automatiza con el Crafter!",
+        "&aOptimiza tus granjas y creaciones con el nuevo bloque Crafter."
+      ]
+    },
+    {
+      "id": "noticia_pociones_experimentales",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&l¡Nuevas Pociones Experimentales!",
+        "&bPonte a prueba con efectos únicos de la actualización 1.21.x."
+      ]
+    },
+    {
+      "id": "anuncio_reporta_bugs",
+      "categoria": "anuncios",
+      "mensajes": [
+        "&c&l¡Reporta tus Bugs!",
+        "&eAyúdanos a mantener el servidor estable en la versión más reciente."
+      ]
+    },
+    {
+      "id": "anuncio_guia_supervivencia",
+      "categoria": "consejos",
+      "mensajes": [
+        "&a&l¡Guía de Supervivencia 1.21!",
+        "&7Visita nuestro foro para consejos sobre los nuevos biomas y estructuras."
+      ]
+    },
+    {
+      "id": "anuncio_unete_comunidad",
+      "categoria": "anuncios",
+      "mensajes": [
+        "&b&l¡Únete a la comunidad!",
+        "&dComparte tus hazañas en las desafiantes Cámaras de Prueba."
+      ]
+    },
+    {
+      "id": "curiosidad_easter_egg",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lCuriosidad Gaming:",
+        "&7El 1er \"Easter Egg\" fue en \"Adventure\" (1980) de Atari.",
+        "&7Programador lo escondió por falta de créditos."
+      ]
+    },
+    {
+      "id": "curiosidad_mario_nombre",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lCuriosidad Gaming:",
+        "&7Mario, de Nintendo, antes era 'Jumpman'.",
+        "&7Fue rebautizado por el casero Mario Segale."
+      ]
+    },
+    {
+      "id": "curiosidad_minecraft_ventas",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lCuriosidad Gaming:",
+        "&7Minecraft es el videojuego más vendido de la historia,",
+        "&7con más de 200 millones de copias mundialmente."
+      ]
+    },
+    {
+      "id": "curiosidad_gta_presupuesto",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lCuriosidad Gaming:",
+        "&7GTA V tuvo un presupuesto de $265 millones,",
+        "&7superando a muchas películas de Hollywood."
+      ]
+    },
+    {
+      "id": "lanzamiento_valheim_1_0",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡Lanzamiento Gaming:",
+        "&7Valheim 1.0 llegó el 9 de septiembre.",
+        "&7Incluye Deep North y nuevas plataformas."
+      ]
+    },
+    {
+      "id": "lanzamiento_epic_mickey",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡Lanzamiento Gaming:",
+        "&7Disney Epic Mickey: Rebrushed sale el 15 sept.",
+        "&7Aventura de acción en PC, Switch, PS4 y Xbox One."
       ]
     }
   ],
-  "horas_felices": []
+  "horas_felices": [
+    {
+      "dia": "MONDAY",
+      "titulo": "&a&l¡La Forja Vikinga!",
+      "descripcion": [
+        "&7¡Valheim 1.0 ha llegado! ¡Celebra su lanzamiento!",
+        "&7Obtén Haste II al picar en todo el servidor hoy."
+      ],
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
+      "efecto_pocion": "HASTE",
+      "nivel_efecto": 2,
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
+    }
+  ]
 }
