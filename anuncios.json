@@ -1,137 +1,133 @@
 {
   "anuncios": [
     {
-      "id": "noticia_camaras_prueba",
+      "id": "actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Explora las Cámaras de Prueba!",
-        "&eNuevos desafíos y tesoros te esperan en la versión 1.21.x."
+        "&a&l¡ACTUALIZACIÓN 1.21 \"TRICKY TRIALS\" YA DISPONIBLE!",
+        "&7Explora las Cámaras de Prueba, enfréntate a la Brisa y el Empantanado."
       ]
     },
     {
-      "id": "noticia_breeze",
+      "id": "nuevos_bloques_cobre_tufo",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Enfréntate al Breeze!",
-        "&7Un nuevo mob elemental desafía a los aventureros en las mazmorras."
+        "&b&l¡NUEVOS BLOQUES DE COBRE Y TUFO!",
+        "&7Descubre el Crafter, la Bulbo de Cobre y el Cincelado de Tufo para tus construcciones."
       ]
     },
     {
-      "id": "noticia_mejoras_cobre",
+      "id": "juicios_siniestros",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Mejoras en el Cobre!",
-        "&dDescubre las nuevas variantes de bloques de cobre para tus construcciones."
+        "&e&l¡ENFRÉNTATE A LOS JUICIOS SINIESTROS!",
+        "&7Con el efecto Mal Augurio, los Desafiadores Siniestros te esperan con mayores recompensas y bóvedas ocultas."
       ]
     },
     {
-      "id": "noticia_crafter",
+      "id": "nueva_arma_mazo",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡Automatiza con el Crafter!",
-        "&aOptimiza tus granjas y creaciones con el nuevo bloque Crafter."
+        "&d&l¡EL MAZO, NUEVA ARMA MORTAL!",
+        "&7Provoca más daño cuanto mayor sea tu caída antes del impacto en tus enemigos."
       ]
     },
     {
-      "id": "noticia_pociones_experimentales",
+      "id": "nuevos_objetos_efectos",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡Nuevas Pociones Experimentales!",
-        "&bPonte a prueba con efectos únicos de la actualización 1.21.x."
+        "&7&l¡NUEVOS OBJETOS Y EFECTOS!",
+        "&7Descubre pociones y flechas con efectos únicos como Infestación, Oozing, Weaving y Wind Charging."
       ]
     },
     {
-      "id": "anuncio_reporta_bugs",
-      "categoria": "anuncios",
+      "id": "mas_musica_arte",
+      "categoria": "noticias",
       "mensajes": [
-        "&c&l¡Reporta tus Bugs!",
-        "&eAyúdanos a mantener el servidor estable en la versión más reciente."
+        "&a&l¡MÁS MÚSICA Y ARTE EN TU MUNDO!",
+        "&7Añadidas nuevas Discos de Música y 20 pinturas para decorar tus creaciones."
       ]
     },
     {
-      "id": "anuncio_guia_supervivencia",
-      "categoria": "consejos",
+      "id": "chaos_cubed_lanzamiento",
+      "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Guía de Supervivencia 1.21!",
-        "&7Visita nuestro foro para consejos sobre los nuevos biomas y estructuras."
+        "&c&l¡CHAOS CUBED HA LLEGADO!",
+        "&7Explora un mundo con nuevas físicas y el foco en el Azufre con la reciente actualización lanzada en junio de 2026."
       ]
     },
     {
-      "id": "anuncio_unete_comunidad",
-      "categoria": "anuncios",
+      "id": "tiny_takeover_adelanto",
+      "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Únete a la comunidad!",
-        "&dComparte tus hazañas en las desafiantes Cámaras de Prueba."
+        "&b&l¡PREPÁRATE PARA TINY TAKEOVER!",
+        "&7Mojang adelanta una actualización, presentada en marzo de 2026, centrada en mobs bebé y mayor inmersión."
       ]
     },
     {
-      "id": "curiosidad_easter_egg",
+      "id": "armadura_nautilus_lanzas",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡ARMADURA DE NAUTILUS Y LANZAS!",
+        "&7Desde diciembre de 2025 (versión 1.21.11), equipa a tus Nautilus y utiliza lanzas para el combate montado."
+      ]
+    },
+    {
+      "id": "curiosidad_tennis_for_two",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&lCuriosidad Gaming:",
-        "&7El 1er \"Easter Egg\" fue en \"Adventure\" (1980) de Atari.",
-        "&7Programador lo escondió por falta de créditos."
+        "&7El primer videojuego no fue Pong, sino \"Tennis for Two\", creado en 1958."
       ]
     },
     {
-      "id": "curiosidad_mario_nombre",
+      "id": "curiosidad_mario_jumpman",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&lCuriosidad Gaming:",
-        "&7Mario, de Nintendo, antes era 'Jumpman'.",
-        "&7Fue rebautizado por el casero Mario Segale."
+        "&7Mario fue originalmente un carpintero llamado Jumpman, antes de convertirse en el fontanero que conocemos."
       ]
     },
     {
-      "id": "curiosidad_minecraft_ventas",
+      "id": "curiosidad_pacman_pizza",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&lCuriosidad Gaming:",
-        "&7Minecraft es el videojuego más vendido de la historia,",
-        "&7con más de 200 millones de copias mundialmente."
+        "&7El diseño de Pac-Man se inspiró en una pizza a la que le faltaba una rebanada."
       ]
     },
     {
-      "id": "curiosidad_gta_presupuesto",
+      "id": "curiosidad_codigo_konami",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&lCuriosidad Gaming:",
-        "&7GTA V tuvo un presupuesto de $265 millones,",
-        "&7superando a muchas películas de Hollywood."
+        "&7El famoso \"Código Konami\" ha aparecido en más de 100 juegos diferentes."
       ]
     },
     {
-      "id": "lanzamiento_valheim_1_0",
-      "categoria": "noticias",
+      "id": "curiosidad_jugadoras_mujeres",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&a&l¡Lanzamiento Gaming:",
-        "&7Valheim 1.0 llegó el 9 de septiembre.",
-        "&7Incluye Deep North y nuevas plataformas."
+        "&7Casi la mitad de los jugadores de videojuegos son mujeres, desmintiendo el estereotipo masculino del gamer."
       ]
     },
     {
-      "id": "lanzamiento_epic_mickey",
-      "categoria": "noticias",
+      "id": "curiosidad_playstation_origen",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&a&l¡Lanzamiento Gaming:",
-        "&7Disney Epic Mickey: Rebrushed sale el 15 sept.",
-        "&7Aventura de acción en PC, Switch, PS4 y Xbox One."
+        "&7La PlayStation surgió de una colaboración fallida entre Sony y Nintendo para un accesorio de CD para la Super Nintendo."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&a&l¡La Forja Vikinga!",
+      "titulo": "&6&l¡Caos Cuántico Desatado!",
       "descripcion": [
-        "&7¡Valheim 1.0 ha llegado! ¡Celebra su lanzamiento!",
-        "&7Obtén Haste II al picar en todo el servidor hoy."
+        "&7¡Celebramos el lanzamiento de Chaos Cubed!",
+        "&7Azufre extra y efecto Haste para todos."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
+      "tipo": "AMBOS",
+      "item": "COAL",
+      "porcentaje_extra": 50.0,
       "efecto_pocion": "HASTE",
-      "nivel_efecto": 2,
+      "nivel_efecto": 1,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
