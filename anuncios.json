@@ -1,133 +1,91 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21",
+      "id": "actualizacion_wilderness_bound",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21 \"TRICKY TRIALS\" YA DISPONIBLE!",
-        "&7Explora las Cámaras de Prueba, enfréntate a la Brisa y el Empantanado."
+        "&a&l¡ACTUALIZACIÓN 26.3: WILDERNESS BOUND LLEGA MAÑANA!",
+        "&7Prepárense para la aventura, ¡la gran actualización llega el 15 de septiembre!"
       ]
     },
     {
-      "id": "nuevos_bloques_cobre_tufo",
+      "id": "ajustes_pre_lanzamiento",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡NUEVOS BLOQUES DE COBRE Y TUFO!",
-        "&7Descubre el Crafter, la Bulbo de Cobre y el Cincelado de Tufo para tus construcciones."
+        "&b&lÚLTIMOS AJUSTES ANTES DEL LANZAMIENTO",
+        "&7¡Hemos estado probando los Pre-Lanzamientos 2 y 3 para asegurar la mejor experiencia!"
       ]
     },
     {
-      "id": "juicios_siniestros",
+      "id": "pase_mercado_septiembre",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡ENFRÉNTATE A LOS JUICIOS SINIESTROS!",
-        "&7Con el efecto Mal Augurio, los Desafiadores Siniestros te esperan con mayores recompensas y bóvedas ocultas."
+        "&e&lNUEVO CONTENIDO EN EL PASE DE MERCADO DE SEPTIEMBRE",
+        "&7¡Descubran \"The Bloop\", \"Village Cities\" y más mapas nuevos este mes!"
       ]
     },
     {
-      "id": "nueva_arma_mazo",
+      "id": "mejoras_rendimiento_servidor",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡EL MAZO, NUEVA ARMA MORTAL!",
-        "&7Provoca más daño cuanto mayor sea tu caída antes del impacto en tus enemigos."
+        "&d&lMEJORAS DE RENDIMIENTO EN EL SERVIDOR",
+        "&7Hemos optimizado varios plugins para una jugabilidad más fluida. ¡Menos lag, más diversión!"
       ]
     },
     {
-      "id": "nuevos_objetos_efectos",
+      "id": "novedades_mundo",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡NUEVOS OBJETOS Y EFECTOS!",
-        "&7Descubre pociones y flechas con efectos únicos como Infestación, Oozing, Weaving y Wind Charging."
+        "&7&l¡NOVEDADES EN EL MUNDO!",
+        "&7Se han descubierto nuevas zonas inexploradas en el mapa. ¡Aventura y tesoros esperan!"
       ]
     },
     {
-      "id": "mas_musica_arte",
+      "id": "torneo_pvp_semanal",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡MÁS MÚSICA Y ARTE EN TU MUNDO!",
-        "&7Añadidas nuevas Discos de Música y 20 pinturas para decorar tus creaciones."
+        "&c&l¡TORNEO PVP SEMANAL!",
+        "&7¡Inscríbete ahora para nuestro torneo PVP de este sábado y gana increíbles premios!"
       ]
     },
     {
-      "id": "chaos_cubed_lanzamiento",
+      "id": "concurso_construccion_salvaje",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡CHAOS CUBED HA LLEGADO!",
-        "&7Explora un mundo con nuevas físicas y el foco en el Azufre con la reciente actualización lanzada en junio de 2026."
+        "&b&lCONSTRUCCIÓN TEMÁTICA: REFUGIO SALVAJE",
+        "&7¡Participa en nuestro concurso de construcción con temática \"Wilderness Bound\"! ¡Grandes recompensas!"
       ]
     },
     {
-      "id": "tiny_takeover_adelanto",
+      "id": "recordatorio_reglas",
+      "categoria": "consejos",
+      "mensajes": [
+        "&a&lRECORDATORIO: REGLAS DEL SERVIDOR",
+        "&7Ayúdanos a mantener un ambiente sano. ¡Consulta las reglas en /reglas!"
+      ]
+    },
+    {
+      "id": "nuevos_encantamientos",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡PREPÁRATE PARA TINY TAKEOVER!",
-        "&7Mojang adelanta una actualización, presentada en marzo de 2026, centrada en mobs bebé y mayor inmersión."
-      ]
-    },
-    {
-      "id": "armadura_nautilus_lanzas",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡ARMADURA DE NAUTILUS Y LANZAS!",
-        "&7Desde diciembre de 2025 (versión 1.21.11), equipa a tus Nautilus y utiliza lanzas para el combate montado."
-      ]
-    },
-    {
-      "id": "curiosidad_tennis_for_two",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7El primer videojuego no fue Pong, sino \"Tennis for Two\", creado en 1958."
-      ]
-    },
-    {
-      "id": "curiosidad_mario_jumpman",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7Mario fue originalmente un carpintero llamado Jumpman, antes de convertirse en el fontanero que conocemos."
-      ]
-    },
-    {
-      "id": "curiosidad_pacman_pizza",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7El diseño de Pac-Man se inspiró en una pizza a la que le faltaba una rebanada."
-      ]
-    },
-    {
-      "id": "curiosidad_codigo_konami",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7El famoso \"Código Konami\" ha aparecido en más de 100 juegos diferentes."
-      ]
-    },
-    {
-      "id": "curiosidad_jugadoras_mujeres",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7Casi la mitad de los jugadores de videojuegos son mujeres, desmintiendo el estereotipo masculino del gamer."
-      ]
-    },
-    {
-      "id": "curiosidad_playstation_origen",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7La PlayStation surgió de una colaboración fallida entre Sony y Nintendo para un accesorio de CD para la Super Nintendo."
+        "&e&l¡NUEVOS ENCANTAMIENTOS DISPONIBLES!",
+        "&7Descubre nuevos libros encantados de nivel V en las tiendas del servidor."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&6&l¡Caos Cuántico Desatado!",
+      "dia": "TUESDAY",
+      "titulo": "&6&l¡Expedición Salvaje!",
       "descripcion": [
-        "&7¡Celebramos el lanzamiento de Chaos Cubed!",
-        "&7Azufre extra y efecto Haste para todos."
+        "&7¡Celebramos la actualización 26.3 Wilderness Bound!",
+        "&7El Tuff y el Haste II te acompañan todo el día."
       ],
       "tipo": "AMBOS",
-      "item": "COAL",
-      "porcentaje_extra": 50.0,
+      "item": "TUFF",
+      "porcentaje_extra": 25.0,
       "efecto_pocion": "HASTE",
-      "nivel_efecto": 1,
+      "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
