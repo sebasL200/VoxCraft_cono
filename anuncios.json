@@ -1,91 +1,75 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_wilderness_bound",
+      "id": "actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 26.3: WILDERNESS BOUND LLEGA MAÑANA!",
-        "&7Prepárense para la aventura, ¡la gran actualización llega el 15 de septiembre!"
+        "&a&l¡ACTUALIZACIÓN 1.21.x: CAJAS FUERTES Y CÁMARAS DE PRUEBA!"
       ]
     },
     {
-      "id": "ajustes_pre_lanzamiento",
-      "categoria": "noticias",
+      "id": "nuevos_desafios_breeze",
+      "categoria": "novedades",
       "mensajes": [
-        "&b&lÚLTIMOS AJUSTES ANTES DEL LANZAMIENTO",
-        "&7¡Hemos estado probando los Pre-Lanzamientos 2 y 3 para asegurar la mejor experiencia!"
+        "&e&l¡NUEVOS DESAFÍOS! &7Enfrenta a los temibles Breeze en las Trial Chambers."
       ]
     },
     {
-      "id": "pase_mercado_septiembre",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&lNUEVO CONTENIDO EN EL PASE DE MERCADO DE SEPTIEMBRE",
-        "&7¡Descubran \"The Bloop\", \"Village Cities\" y más mapas nuevos este mes!"
-      ]
-    },
-    {
-      "id": "mejoras_rendimiento_servidor",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&lMEJORAS DE RENDIMIENTO EN EL SERVIDOR",
-        "&7Hemos optimizado varios plugins para una jugabilidad más fluida. ¡Menos lag, más diversión!"
-      ]
-    },
-    {
-      "id": "novedades_mundo",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7&l¡NOVEDADES EN EL MUNDO!",
-        "&7Se han descubierto nuevas zonas inexploradas en el mapa. ¡Aventura y tesoros esperan!"
-      ]
-    },
-    {
-      "id": "torneo_pvp_semanal",
-      "categoria": "noticias",
-      "mensajes": [
-        "&c&l¡TORNEO PVP SEMANAL!",
-        "&7¡Inscríbete ahora para nuestro torneo PVP de este sábado y gana increíbles premios!"
-      ]
-    },
-    {
-      "id": "concurso_construccion_salvaje",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&lCONSTRUCCIÓN TEMÁTICA: REFUGIO SALVAJE",
-        "&7¡Participa en nuestro concurso de construcción con temática \"Wilderness Bound\"! ¡Grandes recompensas!"
-      ]
-    },
-    {
-      "id": "recordatorio_reglas",
+      "id": "armadura_lobo",
       "categoria": "consejos",
       "mensajes": [
-        "&a&lRECORDATORIO: REGLAS DEL SERVIDOR",
-        "&7Ayúdanos a mantener un ambiente sano. ¡Consulta las reglas en /reglas!"
+        "&b&l¡PROTECCIÓN RENOVADA! &7Descubre cómo craftear la Armadura para Lobo."
       ]
     },
     {
-      "id": "nuevos_encantamientos",
-      "categoria": "noticias",
+      "id": "expedicion_vaults",
+      "categoria": "novedades",
       "mensajes": [
-        "&e&l¡NUEVOS ENCANTAMIENTOS DISPONIBLES!",
-        "&7Descubre nuevos libros encantados de nivel V en las tiendas del servidor."
+        "&d&l¡EXPEDICIÓN PROFUNDA! &7Ya disponibles las Tuff y Copper Vaults en tus aventuras."
+      ]
+    },
+    {
+      "id": "minijuego_semanal_parkour",
+      "categoria": "evento",
+      "mensajes": [
+        "&a&l¡MINIJUEGO SEMANAL! &7Nuevo mapa de Parkour en la zona de minijuegos."
+      ]
+    },
+    {
+      "id": "evento_construccion_aldea_flotante",
+      "categoria": "evento",
+      "mensajes": [
+        "&e&l¡EVENTO DE CONSTRUCCIÓN! &7Tema 'Aldea Flotante' inicia este viernes. ¡Participa!"
+      ]
+    },
+    {
+      "id": "mercado_servidor_nuevos_items",
+      "categoria": "actualizaciones",
+      "mensajes": [
+        "&b&l¡MERCADO DEL SERVIDOR! &7Nuevos ítems de comercio añadidos. ¡Visita los puestos!"
+      ]
+    },
+    {
+      "id": "sugerencias_abiertas",
+      "categoria": "comunidad",
+      "mensajes": [
+        "&d&l¡SUGERENCIAS ABIERTAS! &7Danos tus ideas para futuras actualizaciones y eventos."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "TUESDAY",
-      "titulo": "&6&l¡Expedición Salvaje!",
+      "dia": "MONDAY",
+      "titulo": "&e&l¡Aniversario de Leyendas Digitales!",
       "descripcion": [
-        "&7¡Celebramos la actualización 26.3 Wilderness Bound!",
-        "&7El Tuff y el Haste II te acompañan todo el día."
+        "&7¡Celebramos 30 años de TGS y RPGs épicos!",
+        "&7Obtén LUCK I para encontrar tesoros ocultos."
       ],
-      "tipo": "AMBOS",
-      "item": "TUFF",
-      "porcentaje_extra": 25.0,
-      "efecto_pocion": "HASTE",
-      "nivel_efecto": 2,
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
+      "efecto_pocion": "LUCK",
+      "nivel_efecto": 1,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
