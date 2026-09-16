@@ -1,75 +1,67 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21",
+      "id": "noticias_actualizacion_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21.x: CAJAS FUERTES Y CÁMARAS DE PRUEBA!"
+        "&a&l¡Actualización 1.21 'Tricky Trials' ya disponible!&7 Sumérgete en nuevos desafíos y misterios.",
+        "&b&lExplora las Trial Chambers:&7 Nuevas estructuras subterráneas repletas de peligros y recompensas aguardan a los más valientes.",
+        "&e&lConoce a los nuevos mobs:&7 Enfrenta al escurridizo Breeze en las Trial Chambers y al venenoso Bogged en pantanos.",
+        "&d&lEmpuña la Maza, el arma definitiva:&7 ¡Causa más daño cuanto mayor sea tu caída! Domina el arte del combate aéreo.",
+        "&a&lAutomatiza tu mundo con el Crafter:&7 Este nuevo bloque permite la creación automática de objetos usando Redstone.",
+        "&b&lNuevos bloques de Cobre:&7 Expande tus construcciones con Lámparas, Puertas, Rejas y Trampillas de Cobre.",
+        "&e&lDesafíos Ominous Trials:&7 ¿Crees tener lo suficiente? Supera versiones más difíciles de las Trial Chambers para un botín exclusivo.",
+        "&d&lEl arte en tu hogar:&7 Descubre 20 nuevas pinturas para decorar tus bases y darle un toque artístico a tus construcciones.",
+        "&a&lMúsica para tus oídos:&7 Disfruta de 3 nuevos discos de música, compuestos por Aaron Cherof y Lena Raine.",
+        "&b&lArqueología mejorada:&7 Con la brocha y los sitios de excavación, desentierra fragmentos de cerámica y secretos ocultos."
       ]
     },
     {
-      "id": "nuevos_desafios_breeze",
-      "categoria": "novedades",
+      "id": "curiosidades_mundo_gaming",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&e&l¡NUEVOS DESAFÍOS! &7Enfrenta a los temibles Breeze en las Trial Chambers."
+        "El primer \"Easter Egg\" en un videojuego fue escondido por Warren Robinett en Adventure para Atari 2600, como un acto de rebeldía al no ser acreditado por la empresa.",
+        "El famoso personaje de Nintendo, Mario, fue originalmente llamado \"Jumpman\" y se suponía que era un carpintero antes de convertirse en el plomero que conocemos.",
+        "Metroid (1986) sorprendió a muchos jugadores al revelar que su protagonista, Samus Aran, era una mujer, algo inusual para la época.",
+        "Minecraft ostenta el título del videojuego más vendido de la historia, superando los 200 millones de copias comercializadas a nivel mundial.",
+        "El infame juego de E.T. the Extra-Terrestrial para Atari es a menudo citado como el peor juego de la historia, desarrollado en tan solo cuatro semanas.",
+        "Gracias a la extrema violencia de Mortal Kombat, se establecieron los sistemas de clasificación por edad para los videojuegos.",
+        "El mapa más grande en un videojuego se encuentra en Elder Scrolls: Daggerfall, lanzado en 1996, con una extensión de 161.600 KM².",
+        "La Game Boy fue la primera consola en ser jugada en el espacio por el astronauta ruso Aleksandr A. Serebrov en 1993, quien disfrutó de Tetris a bordo de la estación espacial Mir.",
+        "El primer torneo de eSports registrado ocurrió en 1972 en la Universidad de Stanford, llamado \"The Intergalactic Spacewar Olympics\".",
+        "El mundo de Minecraft en su versión para PC es asombrosamente vasto, 9,258,235 veces más grande que la Tierra."
       ]
     },
     {
-      "id": "armadura_lobo",
-      "categoria": "consejos",
+      "id": "lanzamientos_videojuegos_septiembre_2026",
+      "categoria": "lanzamientos",
       "mensajes": [
-        "&b&l¡PROTECCIÓN RENOVADA! &7Descubre cómo craftear la Armadura para Lobo."
-      ]
-    },
-    {
-      "id": "expedicion_vaults",
-      "categoria": "novedades",
-      "mensajes": [
-        "&d&l¡EXPEDICIÓN PROFUNDA! &7Ya disponibles las Tuff y Copper Vaults en tus aventuras."
-      ]
-    },
-    {
-      "id": "minijuego_semanal_parkour",
-      "categoria": "evento",
-      "mensajes": [
-        "&a&l¡MINIJUEGO SEMANAL! &7Nuevo mapa de Parkour en la zona de minijuegos."
-      ]
-    },
-    {
-      "id": "evento_construccion_aldea_flotante",
-      "categoria": "evento",
-      "mensajes": [
-        "&e&l¡EVENTO DE CONSTRUCCIÓN! &7Tema 'Aldea Flotante' inicia este viernes. ¡Participa!"
-      ]
-    },
-    {
-      "id": "mercado_servidor_nuevos_items",
-      "categoria": "actualizaciones",
-      "mensajes": [
-        "&b&l¡MERCADO DEL SERVIDOR! &7Nuevos ítems de comercio añadidos. ¡Visita los puestos!"
-      ]
-    },
-    {
-      "id": "sugerencias_abiertas",
-      "categoria": "comunidad",
-      "mensajes": [
-        "&d&l¡SUGERENCIAS ABIERTAS! &7Danos tus ideas para futuras actualizaciones y eventos."
+        "&6&lMoonlighter 2: The Endless Vault&7 - Lanzado el 2 de septiembre.",
+        "&6&lLa Sangre de Dawnwalker&7 - Lanzado el 3 de septiembre.",
+        "&6&lOnimusha: Way of the Sword&7 - El regreso de la saga de Capcom, lanzado el 4 de septiembre para PlayStation 5, Xbox Series X|S, Nintendo Switch 2 y PC.",
+        "&6&lNBA 2K27&7 - Lanzado el 4 de septiembre para PS5, Switch 2, PC y Xbox Series X.",
+        "&6&lMewgenics&7 - Lanzado el 8 de septiembre para consolas.",
+        "&6&lValheim 1.0 + Deep North&7 - Lanzado el 9 de septiembre.",
+        "&6&lWolverine de Marvel&7 - Lanzado el 15 de septiembre.",
+        "&6&lEndless Legend 2&7 - Se espera su lanzamiento el 17 de septiembre.",
+        "&6&lSilent Hill: Townfall&7 - Se espera su lanzamiento el 24 de septiembre.",
+        "&6&lEA Sports FC 27&7 - Se espera su lanzamiento el 25 de septiembre."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&e&l¡Aniversario de Leyendas Digitales!",
+      "titulo": "&c&l¡Furia Adamantium!",
       "descripcion": [
-        "&7¡Celebramos 30 años de TGS y RPGs épicos!",
-        "&7Obtén LUCK I para encontrar tesoros ocultos."
+        "&7¡Marvel's Wolverine ha llegado a las consolas!",
+        "&7Obtén Fuerza II para dominar tus combates."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "LUCK",
-      "nivel_efecto": 1,
+      "efecto_pocion": "STRENGTH",
+      "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
