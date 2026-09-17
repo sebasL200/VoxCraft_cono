@@ -1,70 +1,121 @@
 {
   "anuncios": [
     {
-      "id": "noticias_actualizacion_tricky_trials",
+      "id": "actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Actualización 1.21 'Tricky Trials' ya disponible!&7 Sumérgete en nuevos desafíos y misterios.",
-        "&b&lExplora las Trial Chambers:&7 Nuevas estructuras subterráneas repletas de peligros y recompensas aguardan a los más valientes.",
-        "&e&lConoce a los nuevos mobs:&7 Enfrenta al escurridizo Breeze en las Trial Chambers y al venenoso Bogged en pantanos.",
-        "&d&lEmpuña la Maza, el arma definitiva:&7 ¡Causa más daño cuanto mayor sea tu caída! Domina el arte del combate aéreo.",
-        "&a&lAutomatiza tu mundo con el Crafter:&7 Este nuevo bloque permite la creación automática de objetos usando Redstone.",
-        "&b&lNuevos bloques de Cobre:&7 Expande tus construcciones con Lámparas, Puertas, Rejas y Trampillas de Cobre.",
-        "&e&lDesafíos Ominous Trials:&7 ¿Crees tener lo suficiente? Supera versiones más difíciles de las Trial Chambers para un botín exclusivo.",
-        "&d&lEl arte en tu hogar:&7 Descubre 20 nuevas pinturas para decorar tus bases y darle un toque artístico a tus construcciones.",
-        "&a&lMúsica para tus oídos:&7 Disfruta de 3 nuevos discos de música, compuestos por Aaron Cherof y Lena Raine.",
-        "&b&lArqueología mejorada:&7 Con la brocha y los sitios de excavación, desentierra fragmentos de cerámica y secretos ocultos."
+        "&a&l¡ACTUALIZACIÓN 1.21 \"TRICKY TRIALS\" YA DISPONIBLE!&r",
+        "&7Explora las nuevas Cámaras de Prueba, enfrenta desafíos únicos y consigue recompensas exclusivas."
       ]
     },
     {
-      "id": "curiosidades_mundo_gaming",
+      "id": "nuevos_mobs_acechan",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡NUEVOS MOBS ACECHAN EN TU MUNDO!&r",
+        "&7Cuidado con el veloz Breeze en las Cámaras de Prueba y los nuevos esqueletos venenosos Bogged en pantanos. ¡Prepárate para la batalla!"
+      ]
+    },
+    {
+      "id": "forja_el_mazo",
+      "categoria": "consejos",
+      "mensajes": [
+        "&e&l¡FORJA EL PODEROSO MAZO!&r",
+        "&7Descubre cómo craftear la nueva y demoledora arma, el Mace, utilizando Breeze Rods y Heavy Cores. ¡Un golpe puede cambiarlo todo!"
+      ]
+    },
+    {
+      "id": "revolucion_crafter",
+      "categoria": "consejos",
+      "mensajes": [
+        "&d&l¡REVOLUCIÓN CON EL CRAFTER!&r",
+        "&7Automatiza tus procesos de crafteo como nunca antes con el nuevo bloque Crafter. ¡Tus granjas de Redstone alcanzarán un nuevo nivel!"
+      ]
+    },
+    {
+      "id": "nuevos_bloques_construccion",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&l¡NUEVOS BLOQUES PARA TUS CONSTRUCCIONES!&r",
+        "&7Dale un toque fresco a tus proyectos con la gran variedad de bloques de Cobre y Toba introducidos en la actualización 1.21."
+      ]
+    },
+    {
+      "id": "mejoras_rendimiento",
+      "categoria": "noticias",
+      "mensajes": [
+        "&c&l¡MEJORAS DE RENDIMIENTO Y ERRORES CORREGIDOS!&r",
+        "&7Se han implementado hotfixes recientes que mejoran la experiencia de juego, corrigiendo bugs visuales y aumentando el FPS."
+      ]
+    },
+    {
+      "id": "armaduras_cobre_bedrock",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡ARMADURAS DE COBRE EN BEDROCK!&r",
+        "&7La versión 1.21.100 de Bedrock Edition incluye nuevas armaduras de cobre, ofreciendo durabilidad entre el cuero y el hierro."
+      ]
+    },
+    {
+      "id": "nueva_musica_pinturas",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡NUEVA MÚSICA Y PINTURAS!&r",
+        "&7Amplía tu colección con nuevos discos de música y emocionantes pinturas para decorar tus hogares, ¡incluyendo la famosa \"Dennis\"!"
+      ]
+    },
+    {
+      "id": "mercado_gaming_2026",
       "categoria": "curiosidades",
       "mensajes": [
-        "El primer \"Easter Egg\" en un videojuego fue escondido por Warren Robinett en Adventure para Atari 2600, como un acto de rebeldía al no ser acreditado por la empresa.",
-        "El famoso personaje de Nintendo, Mario, fue originalmente llamado \"Jumpman\" y se suponía que era un carpintero antes de convertirse en el plomero que conocemos.",
-        "Metroid (1986) sorprendió a muchos jugadores al revelar que su protagonista, Samus Aran, era una mujer, algo inusual para la época.",
-        "Minecraft ostenta el título del videojuego más vendido de la historia, superando los 200 millones de copias comercializadas a nivel mundial.",
-        "El infame juego de E.T. the Extra-Terrestrial para Atari es a menudo citado como el peor juego de la historia, desarrollado en tan solo cuatro semanas.",
-        "Gracias a la extrema violencia de Mortal Kombat, se establecieron los sistemas de clasificación por edad para los videojuegos.",
-        "El mapa más grande en un videojuego se encuentra en Elder Scrolls: Daggerfall, lanzado en 1996, con una extensión de 161.600 KM².",
-        "La Game Boy fue la primera consola en ser jugada en el espacio por el astronauta ruso Aleksandr A. Serebrov en 1993, quien disfrutó de Tetris a bordo de la estación espacial Mir.",
-        "El primer torneo de eSports registrado ocurrió en 1972 en la Universidad de Stanford, llamado \"The Intergalactic Spacewar Olympics\".",
-        "El mundo de Minecraft en su versión para PC es asombrosamente vasto, 9,258,235 veces más grande que la Tierra."
+        "&7El mercado global de videojuegos se proyecta para alcanzar los 189 mil millones de dólares este año, mostrando un crecimiento constante en la industria."
       ]
     },
     {
-      "id": "lanzamientos_videojuegos_septiembre_2026",
-      "categoria": "lanzamientos",
+      "id": "ia_desarrollo_videojuegos",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&6&lMoonlighter 2: The Endless Vault&7 - Lanzado el 2 de septiembre.",
-        "&6&lLa Sangre de Dawnwalker&7 - Lanzado el 3 de septiembre.",
-        "&6&lOnimusha: Way of the Sword&7 - El regreso de la saga de Capcom, lanzado el 4 de septiembre para PlayStation 5, Xbox Series X|S, Nintendo Switch 2 y PC.",
-        "&6&lNBA 2K27&7 - Lanzado el 4 de septiembre para PS5, Switch 2, PC y Xbox Series X.",
-        "&6&lMewgenics&7 - Lanzado el 8 de septiembre para consolas.",
-        "&6&lValheim 1.0 + Deep North&7 - Lanzado el 9 de septiembre.",
-        "&6&lWolverine de Marvel&7 - Lanzado el 15 de septiembre.",
-        "&6&lEndless Legend 2&7 - Se espera su lanzamiento el 17 de septiembre.",
-        "&6&lSilent Hill: Townfall&7 - Se espera su lanzamiento el 24 de septiembre.",
-        "&6&lEA Sports FC 27&7 - Se espera su lanzamiento el 25 de septiembre."
+        "&7La Inteligencia Artificial está revolucionando el desarrollo de videojuegos; el 97% de los desarrolladores ya la utiliza para acelerar la creación de assets."
+      ]
+    },
+    {
+      "id": "auge_juego_portatil_nube",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7El juego portátil y en la nube está en auge, cambiando dónde y cómo interactúan los jugadores con sus títulos favoritos, priorizando la accesibilidad fluida."
+      ]
+    },
+    {
+      "id": "dia_del_gamer",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7El 29 de agosto se celebró el Día del Gamer, una fecha que nació en España en 2008 y se ha consolidado como un fenómeno cultural global."
+      ]
+    },
+    {
+      "id": "aniversario_castlevania",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7La saga Castlevania celebra su 40 aniversario el 26 de septiembre de 2026, marcando cuatro décadas desde su primer lanzamiento."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&c&l¡Furia Adamantium!",
+      "dia": "SATURDAY",
+      "titulo": "&c&l¡Aniversario Siniestro: Noche del Cazavampiros!",
       "descripcion": [
-        "&7¡Marvel's Wolverine ha llegado a las consolas!",
-        "&7Obtén Fuerza II para dominar tus combates."
+        "&7¡Celebramos 40 años de Castlevania!",
+        "&7Obtén Fuerza II contra criaturas de la noche."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
       "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 22
     }
   ]
 }
