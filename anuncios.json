@@ -1,121 +1,155 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21",
+      "id": "noticia_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21 \"TRICKY TRIALS\" YA DISPONIBLE!&r",
-        "&7Explora las nuevas Cámaras de Prueba, enfrenta desafíos únicos y consigue recompensas exclusivas."
+        "&a&l¡Tricky Trials Ha Llegado! &fExplora las nuevas Cámaras de Desafío y enfréntate a los Breeze, que traen desafíos y recompensas exclusivas."
       ]
     },
     {
-      "id": "nuevos_mobs_acechan",
+      "id": "noticia_nuevos_mobs",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡NUEVOS MOBS ACECHAN EN TU MUNDO!&r",
-        "&7Cuidado con el veloz Breeze en las Cámaras de Prueba y los nuevos esqueletos venenosos Bogged en pantanos. ¡Prepárate para la batalla!"
+        "&b&lNuevos Amigos y Enemigos: &fConoce a los mobs Breeze y Bogged, ambos con habilidades únicas que pondrán a prueba tus estrategias de combate."
       ]
     },
     {
-      "id": "forja_el_mazo",
-      "categoria": "consejos",
-      "mensajes": [
-        "&e&l¡FORJA EL PODEROSO MAZO!&r",
-        "&7Descubre cómo craftear la nueva y demoledora arma, el Mace, utilizando Breeze Rods y Heavy Cores. ¡Un golpe puede cambiarlo todo!"
-      ]
-    },
-    {
-      "id": "revolucion_crafter",
-      "categoria": "consejos",
-      "mensajes": [
-        "&d&l¡REVOLUCIÓN CON EL CRAFTER!&r",
-        "&7Automatiza tus procesos de crafteo como nunca antes con el nuevo bloque Crafter. ¡Tus granjas de Redstone alcanzarán un nuevo nivel!"
-      ]
-    },
-    {
-      "id": "nuevos_bloques_construccion",
+      "id": "noticia_maza",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡NUEVOS BLOQUES PARA TUS CONSTRUCCIONES!&r",
-        "&7Dale un toque fresco a tus proyectos con la gran variedad de bloques de Cobre y Toba introducidos en la actualización 1.21."
+        "&e&l¡Domina la Maza! &fDescubre la nueva arma que causa más daño cuanto mayor sea la altura desde la que caes. ¡Perfecta para ataques sorpresa!"
       ]
     },
     {
-      "id": "mejoras_rendimiento",
+      "id": "noticia_fabricador",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡MEJORAS DE RENDIMIENTO Y ERRORES CORREGIDOS!&r",
-        "&7Se han implementado hotfixes recientes que mejoran la experiencia de juego, corrigiendo bugs visuales y aumentando el FPS."
+        "&d&lAutomatiza con el Fabricador: &fEl nuevo bloque Crafter te permite la creación automática de objetos, optimizando tus granjas y procesos."
       ]
     },
     {
-      "id": "armaduras_cobre_bedrock",
+      "id": "noticia_cobre_toba",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ARMADURAS DE COBRE EN BEDROCK!&r",
-        "&7La versión 1.21.100 de Bedrock Edition incluye nuevas armaduras de cobre, ofreciendo durabilidad entre el cuero y el hierro."
+        "&7&lCobre y Toba Renovados: &fEncuentra y utiliza las nuevas variantes decorativas de bloques de Cobre y Toba para embellecer tus construcciones."
       ]
     },
     {
-      "id": "nueva_musica_pinturas",
+      "id": "noticia_jardin_despierta",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡NUEVA MÚSICA Y PINTURAS!&r",
-        "&7Amplía tu colección con nuevos discos de música y emocionantes pinturas para decorar tus hogares, ¡incluyendo la famosa \"Dennis\"!"
+        "&a&lEl Jardín Despierta: &fExplora el misterioso bioma Cracking Pale, introducido en la actualización 1.21.4, con su atmósfera única y nuevas criaturas."
       ]
     },
     {
-      "id": "mercado_gaming_2026",
+      "id": "noticia_armadura_netherite_caballos",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&lArmadura de Netherite para Caballos: &f¡Protege a tu montura con la flamante armadura de Netherite, la protección más fuerte para tus fieles compañeros!"
+      ]
+    },
+    {
+      "id": "noticia_cavernas_caos_cubed",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&lCavernas de Caos Cubed: &fAdéntrate en el nuevo bioma con piscinas de azufre burbujeante, que llegó con la actualización 'Chaos Cubed' de junio de 2026."
+      ]
+    },
+    {
+      "id": "noticia_nuevas_pinturas",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡Nuevas Pinturas! &fDecora tus bases y hogares con las 20 nuevas pinturas disponibles, incluyendo obras de artistas reconocidos de Minecraft."
+      ]
+    },
+    {
+      "id": "curiosidad_minecraft_vendido",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7El mercado global de videojuegos se proyecta para alcanzar los 189 mil millones de dólares este año, mostrando un crecimiento constante en la industria."
+        "&7&lSabías que... &fMinecraft es el videojuego más vendido de la historia, con más de 200 millones de copias vendidas globalmente."
       ]
     },
     {
-      "id": "ia_desarrollo_videojuegos",
+      "id": "curiosidad_easter_egg_adventure",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7La Inteligencia Artificial está revolucionando el desarrollo de videojuegos; el 97% de los desarrolladores ya la utiliza para acelerar la creación de assets."
+        "&7&lCuriosidad: &fEl primer 'Easter Egg' en un videojuego fue en el juego 'Adventure' de Atari 2600, y fue un acto de rebeldía del programador."
       ]
     },
     {
-      "id": "auge_juego_portatil_nube",
+      "id": "curiosidad_overworld_tamano",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7El juego portátil y en la nube está en auge, cambiando dónde y cómo interactúan los jugadores con sus títulos favoritos, priorizando la accesibilidad fluida."
+        "&7&lUn dato asombroso: &fEl overworld de Minecraft es aproximadamente 9.258.235 veces más grande que la superficie de la Tierra."
       ]
     },
     {
-      "id": "dia_del_gamer",
+      "id": "curiosidad_game_boy_espacio",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7El 29 de agosto se celebró el Día del Gamer, una fecha que nació en España en 2008 y se ha consolidado como un fenómeno cultural global."
+        "&7&lHecho histórico: &fEl Game Boy fue la primera consola de videojuegos en ser jugada en el espacio por el astronauta ruso Aleksandr A. Serebrov en 1993."
       ]
     },
     {
-      "id": "aniversario_castlevania",
+      "id": "curiosidad_mortal_kombat_esrb",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7La saga Castlevania celebra su 40 aniversario el 26 de septiembre de 2026, marcando cuatro décadas desde su primer lanzamiento."
+        "&7&lImpacto cultural: &fMortal Kombat fue tan controversial por su violencia que impulsó la creación de sistemas de clasificación por edades para videojuegos."
+      ]
+    },
+    {
+      "id": "curiosidad_et_atari",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7&lDesarrollo: &fEl juego 'E.T. the Extra-Terrestrial' para Atari, a menudo considerado el peor juego de la historia, fue programado en solo cuatro semanas."
+      ]
+    },
+    {
+      "id": "lanzamiento_marvels_wolverine",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&lMarvel's Wolverine: &f¡El esperado exclusivo de PS5 llega este 15 de septiembre de 2026! Prepárate para la acción mutante."
+      ]
+    },
+    {
+      "id": "lanzamiento_destroy_all_humans_2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&lDestroy All Humans! 2: Reprobed: &fEl divertido remake del clásico llega a Switch 2 este 15 de septiembre de 2026 para sembrar el caos extraterrestre."
+      ]
+    },
+    {
+      "id": "lanzamiento_runescape_dragonwilds",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&lRuneScape: Dragonwilds: &fLa versión 1.0 de este juego de supervivencia y construcción en mundo abierto se lanza el 15 de septiembre de 2026."
+      ]
+    },
+    {
+      "id": "lanzamiento_dave_the_diver",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&lDAVE THE DIVER: &fLa aclamada aventura de pesca y gestión de sushi se estrena en Android y iPhone este 17 de septiembre de 2026."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "SATURDAY",
-      "titulo": "&c&l¡Aniversario Siniestro: Noche del Cazavampiros!",
+      "dia": "MONDAY",
+      "titulo": "&c&l¡Furia Adamantium!",
       "descripcion": [
-        "&7¡Celebramos 40 años de Castlevania!",
-        "&7Obtén Fuerza II contra criaturas de la noche."
+        "&7¡Marvel's Wolverine ha llegado a PS5!",
+        "&7Obtén Fuerza II en todo el servidor."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
       "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 22
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     }
   ]
 }
