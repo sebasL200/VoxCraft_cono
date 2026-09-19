@@ -1,146 +1,83 @@
 {
   "anuncios": [
     {
-      "id": "noticia_tricky_trials",
+      "id": "actualizacion_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Tricky Trials Ha Llegado! &fExplora las nuevas Cámaras de Desafío y enfréntate a los Breeze, que traen desafíos y recompensas exclusivas."
+        "&a&l¡ACTUALIZACIÓN 1.21.x: Tricky Trials ya disponible en el servidor! Explora nuevas dimensiones de desafío y aventura."
       ]
     },
     {
-      "id": "noticia_nuevos_mobs",
+      "id": "explora_trial_chambers",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lNuevos Amigos y Enemigos: &fConoce a los mobs Breeze y Bogged, ambos con habilidades únicas que pondrán a prueba tus estrategias de combate."
+        "&b&l¡Adéntrate en las profundidades y explora las misteriosas Trial Chambers, llenas de nuevos peligros y tesoros!"
       ]
     },
     {
-      "id": "noticia_maza",
+      "id": "nuevas_amenazas_breeze_bogged",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Domina la Maza! &fDescubre la nueva arma que causa más daño cuanto mayor sea la altura desde la que caes. ¡Perfecta para ataques sorpresa!"
+        "&e&l¡Enfréntate a las nuevas amenazas! Cuidado con el temible Breeze y el venenoso Bogged en tus exploraciones."
       ]
     },
     {
-      "id": "noticia_fabricador",
+      "id": "nuevo_amigo_armadillo",
       "categoria": "noticias",
       "mensajes": [
-        "&d&lAutomatiza con el Fabricador: &fEl nuevo bloque Crafter te permite la creación automática de objetos, optimizando tus granjas y procesos."
+        "&d&l¡Haz un nuevo amigo! El adorable Armadillo se une al juego; úsalo para proteger a tus leales lobos con su armadura única."
       ]
     },
     {
-      "id": "noticia_cobre_toba",
+      "id": "nueva_arma_mace",
       "categoria": "noticias",
       "mensajes": [
-        "&7&lCobre y Toba Renovados: &fEncuentra y utiliza las nuevas variantes decorativas de bloques de Cobre y Toba para embellecer tus construcciones."
+        "&7&l¡Domina el combate con la nueva Mace! Este arma poderosa te permitirá enfrentar a tus enemigos de formas épicas."
       ]
     },
     {
-      "id": "noticia_jardin_despierta",
+      "id": "optimiza_bases_auto_crafters",
+      "categoria": "consejos",
+      "mensajes": [
+        "&l&a¡Optimiza tus bases! Descubre la eficiencia de los Auto-Crafters para automatizar tus procesos de fabricación."
+      ]
+    },
+    {
+      "id": "desafio_trial_spawners",
       "categoria": "noticias",
       "mensajes": [
-        "&a&lEl Jardín Despierta: &fExplora el misterioso bioma Cracking Pale, introducido en la actualización 1.21.4, con su atmósfera única y nuevas criaturas."
+        "&c&l¡Acepta el desafío de los Trial Spawners! Supera oleadas de enemigos para obtener valiosas Trial Keys."
       ]
     },
     {
-      "id": "noticia_armadura_netherite_caballos",
+      "id": "desbloquea_vaults",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lArmadura de Netherite para Caballos: &f¡Protege a tu montura con la flamante armadura de Netherite, la protección más fuerte para tus fieles compañeros!"
+        "&b&l¡Desbloquea los secretos de los nuevos Vaults! Usa tus Trial Keys para acceder a recompensas legendarias."
       ]
     },
     {
-      "id": "noticia_cavernas_caos_cubed",
+      "id": "mantenimiento_programado_20260923",
       "categoria": "noticias",
       "mensajes": [
-        "&e&lCavernas de Caos Cubed: &fAdéntrate en el nuevo bioma con piscinas de azufre burbujeante, que llegó con la actualización 'Chaos Cubed' de junio de 2026."
+        "&e&l¡Mantenimiento programado! El servidor estará inactivo brevemente el 23/09/2026 a las 03:00 AM UTC para mejoras. ¡Gracias por tu paciencia!"
       ]
     },
     {
-      "id": "noticia_nuevas_pinturas",
-      "categoria": "noticias",
+      "id": "reporta_bugs_121x",
+      "categoria": "consejos",
       "mensajes": [
-        "&d&l¡Nuevas Pinturas! &fDecora tus bases y hogares con las 20 nuevas pinturas disponibles, incluyendo obras de artistas reconocidos de Minecraft."
-      ]
-    },
-    {
-      "id": "curiosidad_minecraft_vendido",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lSabías que... &fMinecraft es el videojuego más vendido de la historia, con más de 200 millones de copias vendidas globalmente."
-      ]
-    },
-    {
-      "id": "curiosidad_easter_egg_adventure",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lCuriosidad: &fEl primer 'Easter Egg' en un videojuego fue en el juego 'Adventure' de Atari 2600, y fue un acto de rebeldía del programador."
-      ]
-    },
-    {
-      "id": "curiosidad_overworld_tamano",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lUn dato asombroso: &fEl overworld de Minecraft es aproximadamente 9.258.235 veces más grande que la superficie de la Tierra."
-      ]
-    },
-    {
-      "id": "curiosidad_game_boy_espacio",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lHecho histórico: &fEl Game Boy fue la primera consola de videojuegos en ser jugada en el espacio por el astronauta ruso Aleksandr A. Serebrov en 1993."
-      ]
-    },
-    {
-      "id": "curiosidad_mortal_kombat_esrb",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lImpacto cultural: &fMortal Kombat fue tan controversial por su violencia que impulsó la creación de sistemas de clasificación por edades para videojuegos."
-      ]
-    },
-    {
-      "id": "curiosidad_et_atari",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lDesarrollo: &fEl juego 'E.T. the Extra-Terrestrial' para Atari, a menudo considerado el peor juego de la historia, fue programado en solo cuatro semanas."
-      ]
-    },
-    {
-      "id": "lanzamiento_marvels_wolverine",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&lMarvel's Wolverine: &f¡El esperado exclusivo de PS5 llega este 15 de septiembre de 2026! Prepárate para la acción mutante."
-      ]
-    },
-    {
-      "id": "lanzamiento_destroy_all_humans_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&lDestroy All Humans! 2: Reprobed: &fEl divertido remake del clásico llega a Switch 2 este 15 de septiembre de 2026 para sembrar el caos extraterrestre."
-      ]
-    },
-    {
-      "id": "lanzamiento_runescape_dragonwilds",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&lRuneScape: Dragonwilds: &fLa versión 1.0 de este juego de supervivencia y construcción en mundo abierto se lanza el 15 de septiembre de 2026."
-      ]
-    },
-    {
-      "id": "lanzamiento_dave_the_diver",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&lDAVE THE DIVER: &fLa aclamada aventura de pesca y gestión de sushi se estrena en Android y iPhone este 17 de septiembre de 2026."
+        "&d&l¡Tu opinión importa! Reporta cualquier bug de la 1.21.x que encuentres para que mejoremos tu experiencia de juego."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&c&l¡Furia Adamantium!",
+      "dia": "TUESDAY",
+      "titulo": "&c&l¡La Furia del Adamantio!",
       "descripcion": [
-        "&7¡Marvel's Wolverine ha llegado a PS5!",
-        "&7Obtén Fuerza II en todo el servidor."
+        "&7¡El esperado Marvel's Wolverine",
+        "&7llegó esta semana a consolas y PC!"
       ],
       "tipo": "EFECTO",
       "item": "AIR",
