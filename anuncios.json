@@ -1,89 +1,99 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_tricky_trials",
+      "id": "descubre_bioma_bosque_moteado",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21.x: Tricky Trials ya disponible en el servidor! Explora nuevas dimensiones de desafío y aventura."
+        "&a&l¡Descubre el Bioma Bosque Moteado!",
+        "&7La reciente actualización Wilderness Bound trae un impresionante bioma otoñal con árboles de Álamo de colores vibrantes."
       ]
     },
     {
-      "id": "explora_trial_chambers",
+      "id": "explora_campamentos_abandonados",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Adéntrate en las profundidades y explora las misteriosas Trial Chambers, llenas de nuevos peligros y tesoros!"
+        "&e&l¡Explora los Campamentos Abandonados!",
+        "&7Aventúrate en estas nuevas estructuras dispersas por los biomas para encontrar botín valioso y Mapas de Explorador."
       ]
     },
     {
-      "id": "nuevas_amenazas_breeze_bogged",
+      "id": "relax_camas_paja_cojines",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Enfréntate a las nuevas amenazas! Cuidado con el temible Breeze y el venenoso Bogged en tus exploraciones."
+        "&d&l¡Relájate con Camas de Paja y Cojines!",
+        "&7La actualización Wilderness Bound introduce Camas de Paja de un solo uso para saltar la noche, y Cojines para decorar tu base."
       ]
     },
     {
-      "id": "nuevo_amigo_armadillo",
+      "id": "nuevos_sets_madera_alamo",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡Haz un nuevo amigo! El adorable Armadillo se une al juego; úsalo para proteger a tus leales lobos con su armadura única."
+        "&b&l¡Nuevos Sets de Madera de Álamo!",
+        "&7Construye con un nuevo tipo de madera gris cálido, perfecta para tus proyectos de diseño."
       ]
     },
     {
-      "id": "nueva_arma_mace",
+      "id": "nuevo_sistema_versionado_minecraft",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡Domina el combate con la nueva Mace! Este arma poderosa te permitirá enfrentar a tus enemigos de formas épicas."
+        "&7&l¡Nuevo Sistema de Versionado de Minecraft!",
+        "&7A partir de 2026, las versiones de Minecraft inician con '26.x' en Java y '26.x.x' en Bedrock, reflejando actualizaciones más frecuentes."
       ]
     },
     {
-      "id": "optimiza_bases_auto_crafters",
+      "id": "recuerda_poder_maza",
       "categoria": "consejos",
       "mensajes": [
-        "&l&a¡Optimiza tus bases! Descubre la eficiencia de los Auto-Crafters para automatizar tus procesos de fabricación."
+        "&c&l¡Recuerda el Poder de la Maza!",
+        "&7La actualización Tricky Trials (1.21) introdujo esta arma única para un estilo de combate diferente."
       ]
     },
     {
-      "id": "desafio_trial_spawners",
-      "categoria": "noticias",
-      "mensajes": [
-        "&c&l¡Acepta el desafío de los Trial Spawners! Supera oleadas de enemigos para obtener valiosas Trial Keys."
-      ]
-    },
-    {
-      "id": "desbloquea_vaults",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&l¡Desbloquea los secretos de los nuevos Vaults! Usa tus Trial Keys para acceder a recompensas legendarias."
-      ]
-    },
-    {
-      "id": "mantenimiento_programado_20260923",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡Mantenimiento programado! El servidor estará inactivo brevemente el 23/09/2026 a las 03:00 AM UTC para mejoras. ¡Gracias por tu paciencia!"
-      ]
-    },
-    {
-      "id": "reporta_bugs_121x",
+      "id": "domina_camaras_prueba",
       "categoria": "consejos",
       "mensajes": [
-        "&d&l¡Tu opinión importa! Reporta cualquier bug de la 1.21.x que encuentres para que mejoremos tu experiencia de juego."
+        "&b&l¡Domina las Cámaras de Prueba!",
+        "&7Enfrenta desafíos en los Trial Spawners y las Cámaras de Prueba para obtener recompensas épicas de la 1.21."
+      ]
+    },
+    {
+      "id": "curiosidad_primer_easter_egg",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&e&l¡Curiosidad Gaming: El Primer Easter Egg!",
+        "&7¿Sabías que el primer 'Easter Egg' fue un acto de rebeldía? Warren Robinett escondió su nombre en el juego Adventure de Atari 2600 en 1980."
+      ]
+    },
+    {
+      "id": "curiosidad_origen_mario",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&d&l¡Curiosidad Gaming: El Origen de Mario!",
+        "&7El famoso personaje de Nintendo, originalmente \"Jumpman\", fue renombrado \"Mario\" en honor a Mario Segale, el casero de Nintendo."
+      ]
+    },
+    {
+      "id": "curiosidad_minecraft_mas_vendido",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&a&l¡Minecraft: El Juego Más Vendido!",
+        "&7Con más de 200 millones de copias vendidas, Minecraft es el videojuego más vendido de la historia."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "TUESDAY",
-      "titulo": "&c&l¡La Furia del Adamantio!",
+      "dia": "THURSDAY",
+      "titulo": "&a&l¡Día de Exploración Silvestre!",
       "descripcion": [
-        "&7¡El esperado Marvel's Wolverine",
-        "&7llegó esta semana a consolas y PC!"
+        "&7¡Celebramos la Wilderness Bound!",
+        "&7Obtén Haste I y 25% extra en Lingotes de Hierro."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
-      "efecto_pocion": "STRENGTH",
-      "nivel_efecto": 2,
+      "tipo": "AMBOS",
+      "item": "IRON_INGOT",
+      "porcentaje_extra": 25.0,
+      "efecto_pocion": "HASTE",
+      "nivel_efecto": 1,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
