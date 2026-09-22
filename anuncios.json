@@ -1,109 +1,89 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21_tricky_trials",
+      "id": "minecraft_live_2026_se_acerca",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21 'TRICKY TRIALS'!",
-        "&eExplora las nuevas Trial Chambers, enfrenta a los Breeze y Bogged,",
-        "&e¡y descubre el Armadillo! &7¡Aventuras te esperan!"
+        "&a&l¡Minecraft Live 2026 se acerca!&r &7Este 26 de septiembre, sintoniza para posibles anuncios de la \"mayor actualización en 15 años\", ¡con una nueva dimensión en el horizonte!"
       ]
     },
     {
-      "id": "nueva_arma_maza",
+      "id": "actualizacion_tricky_trials_disponible",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡NUEVA ARMA: LA MAZA!",
-        "&eDomina los cielos y el combate cuerpo a cuerpo con la potente Maza,",
-        "&eperfecta para grandes golpes tras una caída."
+        "&b&l¡La Actualización Tricky Trials ya está aquí!&r &7Explora las Cámaras de Juicio, enfréntate a nuevos mobs como el Breeze y el Bogged, y descubre el poderoso Martillo."
       ]
     },
     {
-      "id": "autocrafting_crafter",
-      "categoria": "noticias",
+      "id": "nuevos_bloques_decorativos",
+      "categoria": "consejos",
       "mensajes": [
-        "&e&l¡AUTOCRAFTING CON EL CRAFTER!",
-        "&bSimplifica tus granjas y automatiza la creación de ítems",
-        "&bcon el ingenioso bloque Crafter. &7¡La eficiencia al máximo!"
+        "&e&l¡Nuevos bloques decorativos!&r &7Decora tus construcciones con las nuevas variantes de Cobre y Toba, perfectas para darle un toque único a tus proyectos."
       ]
     },
     {
-      "id": "bloques_cobre_toba",
-      "categoria": "noticias",
+      "id": "crafter_revoluciona_redstone",
+      "categoria": "consejos",
       "mensajes": [
-        "&d&l¡BLOQUES DE COBRE Y TOBA!",
-        "&eDecora tus construcciones y fortalece tus bases",
-        "&econ los nuevos sets de bloques de Cobre y Toba de las Trial Chambers."
+        "&d&l¡El Crafter revoluciona tu redstone!&r &7Automatiza tus creaciones con el nuevo bloque Crafter, llevando tus granjas y mecanismos a otro nivel."
       ]
     },
     {
-      "id": "correccion_critica_1_21_1",
-      "categoria": "noticias",
+      "id": "explora_camaras_juicio",
+      "categoria": "consejos",
       "mensajes": [
-        "&7&l¡CORRECCIÓN CRÍTICA EN 1.21.1!",
-        "&7Hemos actualizado a la versión 1.21.1, que incluye",
-        "&7correcciones de exploits críticos y nuevas opciones de idioma. &a¡Juego más seguro!"
+        "&7&l¡Explora las nuevas Cámaras de Juicio!&r &7Enfréntate a desafíos únicos con los Trial Spawners y Ominous Trial Spawners para conseguir botines valiosos."
       ]
     },
     {
-      "id": "nuevos_patrones_estandarte",
+      "id": "armadura_para_lobos",
       "categoria": "noticias",
       "mensajes": [
-        "&l&c¡NUEVOS PATRONES DE ESTANDARTE!",
-        "&ePersonaliza tus estandartes con los nuevos patrones",
-        "&e'Field Masoned' y 'Bordure Indented' de la 1.21.2. &7¡Muestra tu estilo!"
+        "&a&l¡Armadura para lobos y más!&r &7La actualización Tricky Trials también trae novedades como armaduras para tus lobos y la posibilidad de teñirlas a tu gusto."
       ]
     },
     {
-      "id": "mas_cuadros_mundo",
+      "id": "actualizacion_wilderness_bound_disponible",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡MÁS CUADROS PARA TU MUNDO!",
-        "&bDescubre las 20 nuevas pinturas añadidas en la actualización 1.21,",
-        "&bcon obras de Sarah Boeving y Kristoffer Zetterstrand."
+        "&b&l¡Actualización \"Wilderness Bound\" (26.3) disponible!&r &7Descubre las últimas mejoras y correcciones en la versión más reciente para Java y Bedrock."
       ]
     },
     {
-      "id": "easter_eggs_extranos",
+      "id": "teaser_minecraft_movie_squared",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡Teaser de \"A Minecraft Movie Squared\"!&r &7Se ha revelado el título oficial de la secuela de la película de Minecraft, ¡\"A Minecraft Movie Squared\"!"
+      ]
+    },
+    {
+      "id": "minecraft_dungeons_2_y_el_sift",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡Minecraft Dungeons 2 y el Sift!&r &7Se ha confirmado que una nueva dimensión, \"El Sift\", llegará en Minecraft Dungeons 2, ¡y podría expandirse al juego base!"
+      ]
+    },
+    {
+      "id": "nuevas_obras_arte_minecraft",
       "categoria": "curiosidades",
       "mensajes": [
-        "&e&l¡EASTER EGGS EXTRAÑOS!",
-        "&7Un video reciente revela los Easter Eggs más 'desquiciados'",
-        "&7en la historia de los videojuegos, desde experimentos psicológicos hasta confesiones ocultas."
-      ]
-    },
-    {
-      "id": "graveyard_keeper_2_disponible",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&l¡GRAVEYARD KEEPER 2 YA DISPONIBLE!",
-        "&eSi te gusta la gestión con un toque oscuro,",
-        "&e¡la secuela de Graveyard Keeper se lanzó el 22 de septiembre!"
-      ]
-    },
-    {
-      "id": "horror_silent_hill_townfall",
-      "categoria": "noticias",
-      "mensajes": [
-        "&c&l¡HORROR EN SILENT HILL: TOWNFALL!",
-        "&eEl esperado Silent Hill: Townfall se estrena el 24 de septiembre.",
-        "&7¡Prepárense para los sustos!"
+        "&7&l¡Nuevas obras de arte en Minecraft!&r &7La actualización 1.21.x introdujo 20 nuevas pinturas de artistas como Sarah Boeving y Kristoffer Zetterstrand."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&d&l¡Incursión a las Mazmorras!",
+      "dia": "SATURDAY",
+      "titulo": "&b&l¡Visiones del Sift!",
       "descripcion": [
-        "&7¡Minecraft Dungeons II ha llegado!",
-        "&7Oro +25% y Resistencia I al minar."
+        "&7¡Minecraft Live trae pistas de una nueva dimensión!",
+        "&7Esmeraldas +50% y Suerte II en todo el servidor."
       ],
       "tipo": "AMBOS",
-      "item": "GOLD_INGOT",
-      "porcentaje_extra": 25.0,
-      "efecto_pocion": "RESISTANCE",
-      "nivel_efecto": 1,
+      "item": "EMERALD",
+      "porcentaje_extra": 50.0,
+      "efecto_pocion": "LUCK",
+      "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
