@@ -1,88 +1,74 @@
 {
   "anuncios": [
     {
-      "id": "minecraft_live_2026_se_acerca",
+      "id": "minecraft_live_anuncio_sabado",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Minecraft Live 2026 se acerca!&r &7Este 26 de septiembre, sintoniza para posibles anuncios de la \"mayor actualización en 15 años\", ¡con una nueva dimensión en el horizonte!"
+        "&l&b¡ATENCIÓN! Minecraft Live se transmitirá este Sábado 26 de Septiembre.&r"
       ]
     },
     {
-      "id": "actualizacion_tricky_trials_disponible",
+      "id": "minecraft_live_actualizacion_grande",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡La Actualización Tricky Trials ya está aquí!&r &7Explora las Cámaras de Juicio, enfréntate a nuevos mobs como el Breeze y el Bogged, y descubre el poderoso Martillo."
+        "&e¡Se esperan anuncios importantes! Podría revelarse la &d&lACTUALIZACIÓN MÁS GRANDE &een 15 años para Minecraft, ¿una nueva dimensión?&r"
       ]
     },
     {
-      "id": "nuevos_bloques_decorativos",
-      "categoria": "consejos",
-      "mensajes": [
-        "&e&l¡Nuevos bloques decorativos!&r &7Decora tus construcciones con las nuevas variantes de Cobre y Toba, perfectas para darle un toque único a tus proyectos."
-      ]
-    },
-    {
-      "id": "crafter_revoluciona_redstone",
-      "categoria": "consejos",
-      "mensajes": [
-        "&d&l¡El Crafter revoluciona tu redstone!&r &7Automatiza tus creaciones con el nuevo bloque Crafter, llevando tus granjas y mecanismos a otro nivel."
-      ]
-    },
-    {
-      "id": "explora_camaras_juicio",
-      "categoria": "consejos",
-      "mensajes": [
-        "&7&l¡Explora las nuevas Cámaras de Juicio!&r &7Enfréntate a desafíos únicos con los Trial Spawners y Ominous Trial Spawners para conseguir botines valiosos."
-      ]
-    },
-    {
-      "id": "armadura_para_lobos",
+      "id": "actualizacion_wilderness_bound",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Armadura para lobos y más!&r &7La actualización Tricky Trials también trae novedades como armaduras para tus lobos y la posibilidad de teñirlas a tu gusto."
+        "&aLa actualización &lWilderness Bound&r &aha llegado recientemente. ¡Explorad el nuevo bioma de &lBosque Salpicado&a!&r"
       ]
     },
     {
-      "id": "actualizacion_wilderness_bound_disponible",
+      "id": "marketplace_realms_septiembre",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Actualización \"Wilderness Bound\" (26.3) disponible!&r &7Descubre las últimas mejoras y correcciones en la versión más reciente para Java y Bedrock."
+        "&b¡Ya está disponible el nuevo contenido de &lMarketplace Pass y Realms Plus&r &bde Septiembre 2026! Incluye nuevos mapas y texturas.&r"
       ]
     },
     {
-      "id": "teaser_minecraft_movie_squared",
+      "id": "bedrock_edition_mejoras",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Teaser de \"A Minecraft Movie Squared\"!&r &7Se ha revelado el título oficial de la secuela de la película de Minecraft, ¡\"A Minecraft Movie Squared\"!"
+        "&7La versión &lBedrock Edition 26.50&r &7ha recibido mejoras en el cargador de JSON de bloques y etiquetas de hojas.&r"
       ]
     },
     {
-      "id": "minecraft_dungeons_2_y_el_sift",
+      "id": "minecraft_dungeons_2_lanzamiento",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡Minecraft Dungeons 2 y el Sift!&r &7Se ha confirmado que una nueva dimensión, \"El Sift\", llegará en Minecraft Dungeons 2, ¡y podría expandirse al juego base!"
+        "&a¡Preparaos! &lMinecraft Dungeons 2&r &ase lanza el 29 de Septiembre con la dimensión Sift.&r"
       ]
     },
     {
-      "id": "nuevas_obras_arte_minecraft",
+      "id": "recordatorio_tricky_trials",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&lRECORDATORIO:&r &eLa emocionante actualización &lTricky Trials (1.21)&r &eya está disponible con Cámaras de Prueba, el Breeze y el Crafter.&r"
+      ]
+    },
+    {
+      "id": "curiosidad_gaming_mario",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7&l¡Nuevas obras de arte en Minecraft!&r &7La actualización 1.21.x introdujo 20 nuevas pinturas de artistas como Sarah Boeving y Kristoffer Zetterstrand."
+        "&d&lCuriosidad Gaming:&r &d¿Sabías que &lMario&r &dse llamaba originalmente &lJumpman&r en Donkey Kong?&r"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "SATURDAY",
-      "titulo": "&b&l¡Visiones del Sift!",
+      "titulo": "&6&l¡Vientos de Cambio Dimensionales!&r",
       "descripcion": [
-        "&7¡Minecraft Live trae pistas de una nueva dimensión!",
-        "&7Esmeraldas +50% y Suerte II en todo el servidor."
+        "&7¡Se acerca Minecraft Live con novedades impactantes!",
+        "&7Obtén HASTE II y &e+50% esmeraldas al minar."
       ],
       "tipo": "AMBOS",
       "item": "EMERALD",
       "porcentaje_extra": 50.0,
-      "efecto_pocion": "LUCK",
+      "efecto_pocion": "HASTE",
       "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
