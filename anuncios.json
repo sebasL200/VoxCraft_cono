@@ -1,73 +1,73 @@
 {
   "anuncios": [
     {
-      "id": "minecraft_live_anuncio_sabado",
+      "id": "actualizacion_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&l&b¡ATENCIÓN! Minecraft Live se transmitirá este Sábado 26 de Septiembre.&r"
+        "&a&l¡ACTUALIZACIÓN 1.21.x TRICKY TRIALS!&r &7La emocionante actualización ha llegado con Cámaras de Desafío."
       ]
     },
     {
-      "id": "minecraft_live_actualizacion_grande",
+      "id": "nuevos_mobs_breeze_bogged",
       "categoria": "noticias",
       "mensajes": [
-        "&e¡Se esperan anuncios importantes! Podría revelarse la &d&lACTUALIZACIÓN MÁS GRANDE &een 15 años para Minecraft, ¿una nueva dimensión?&r"
+        "&b&lNUEVOS MOBS: BREEZE Y BOGGED!&r &7Enfrenta al veloz Breeze en las Trial Chambers y al pantanoso Bogged."
       ]
     },
     {
-      "id": "actualizacion_wilderness_bound",
+      "id": "poder_de_la_maza",
       "categoria": "noticias",
       "mensajes": [
-        "&aLa actualización &lWilderness Bound&r &aha llegado recientemente. ¡Explorad el nuevo bioma de &lBosque Salpicado&a!&r"
+        "&e&l¡DESATA EL PODER DE LA MAZA!&r &7Descubre y craftea la nueva y poderosa arma que causa más daño con las caídas."
       ]
     },
     {
-      "id": "marketplace_realms_septiembre",
+      "id": "crafter_automatico",
       "categoria": "noticias",
       "mensajes": [
-        "&b¡Ya está disponible el nuevo contenido de &lMarketplace Pass y Realms Plus&r &bde Septiembre 2026! Incluye nuevos mapas y texturas.&r"
+        "&d&lEL CRAFTER AUTOMÁTICO YA ESTÁ AQUÍ!&r &7Revoluciona tus diseños de Redstone con el nuevo bloque Crafter."
       ]
     },
     {
-      "id": "bedrock_edition_mejoras",
+      "id": "bloques_cobre_tufa",
       "categoria": "noticias",
       "mensajes": [
-        "&7La versión &lBedrock Edition 26.50&r &7ha recibido mejoras en el cargador de JSON de bloques y etiquetas de hojas.&r"
+        "&7&lBLOQUES DE COBRE Y TUBA MEJORADOS!&r &7Nuevas variantes decorativas de cobre y tufa para tus construcciones."
       ]
     },
     {
-      "id": "minecraft_dungeons_2_lanzamiento",
+      "id": "nuevas_pinturas_discos",
       "categoria": "noticias",
       "mensajes": [
-        "&a¡Preparaos! &lMinecraft Dungeons 2&r &ase lanza el 29 de Septiembre con la dimensión Sift.&r"
+        "&a&lNUEVAS PINTURAS Y DISCOS MUSICALES!&r &7Decora tus bases y ambienta tus aventuras con contenido fresco."
       ]
     },
     {
-      "id": "recordatorio_tricky_trials",
+      "id": "correccion_errores_1_21_10",
       "categoria": "noticias",
       "mensajes": [
-        "&e&lRECORDATORIO:&r &eLa emocionante actualización &lTricky Trials (1.21)&r &eya está disponible con Cámaras de Prueba, el Breeze y el Crafter.&r"
+        "&c&lCORRECCIÓN DE ERRORES EN 1.21.10!&r &7Se han lanzado hotfixes para Java Edition solucionando problemas importantes."
       ]
     },
     {
-      "id": "curiosidad_gaming_mario",
-      "categoria": "curiosidades",
+      "id": "botellas_eventos_ominosos",
+      "categoria": "noticias",
       "mensajes": [
-        "&d&lCuriosidad Gaming:&r &d¿Sabías que &lMario&r &dse llamaba originalmente &lJumpman&r en Donkey Kong?&r"
+        "&e&lBOTELLAS Y EVENTOS OMINOSOS!&r &7Rediseño de Bad Omen y nuevos efectos de estado como Infested y Oozing."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "SATURDAY",
-      "titulo": "&6&l¡Vientos de Cambio Dimensionales!&r",
+      "dia": "MONDAY",
+      "titulo": "&b&l¡Resonancia del Federal Bureau!",
       "descripcion": [
-        "&7¡Se acerca Minecraft Live con novedades impactantes!",
-        "&7Obtén HASTE II y &e+50% esmeraldas al minar."
+        "&7¡Control Resonant llegó hoy a las consolas!",
+        "&7Obtén HASTE II al minar en cualquier mundo."
       ],
-      "tipo": "AMBOS",
-      "item": "EMERALD",
-      "porcentaje_extra": 50.0,
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
       "efecto_pocion": "HASTE",
       "nivel_efecto": 2,
       "todo_el_dia": true,
