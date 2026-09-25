@@ -1,75 +1,91 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_tricky_trials",
+      "id": "noticia_actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21.x TRICKY TRIALS!&r &7La emocionante actualización ha llegado con Cámaras de Desafío."
+        "&e&l¡Actualización 1.21 \"Tricky Trials\" ya disponible!",
+        "&7Explora las desafiantes Trial Chambers, enfrenta al Breeze y usa el nuevo Crafter."
       ]
     },
     {
-      "id": "nuevos_mobs_breeze_bogged",
+      "id": "noticia_camaras_prueba",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lNUEVOS MOBS: BREEZE Y BOGGED!&r &7Enfrenta al veloz Breeze en las Trial Chambers y al pantanoso Bogged."
+        "&b&lNuevos Desafíos: Cámaras de Prueba.",
+        "&7Demuestra tu habilidad contra oleadas de mobs ajustadas a tu número de jugadores y gana botines exclusivos."
       ]
     },
     {
-      "id": "poder_de_la_maza",
+      "id": "noticia_crafter_disponible",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡DESATA EL PODER DE LA MAZA!&r &7Descubre y craftea la nueva y poderosa arma que causa más daño con las caídas."
+        "&a&lEl Crafter ha llegado para quedarse.",
+        "&7Automatiza tu producción de objetos con el revolucionario bloque Crafter, ¡lleva tu eficiencia al máximo!"
       ]
     },
     {
-      "id": "crafter_automatico",
+      "id": "noticia_nuevos_mobs",
       "categoria": "noticias",
       "mensajes": [
-        "&d&lEL CRAFTER AUTOMÁTICO YA ESTÁ AQUÍ!&r &7Revoluciona tus diseños de Redstone con el nuevo bloque Crafter."
+        "&d&lPresentamos al Breeze y al Bogged.",
+        "&7Dos nuevos mobs hostiles te esperan para desafiarte en tus aventuras. ¡Cuidado con los ataques de viento!"
       ]
     },
     {
-      "id": "bloques_cobre_tufa",
+      "id": "noticia_minecraft_live_2024",
       "categoria": "noticias",
       "mensajes": [
-        "&7&lBLOQUES DE COBRE Y TUBA MEJORADOS!&r &7Nuevas variantes decorativas de cobre y tufa para tus construcciones."
+        "&7¡Minecraft Live 2024 fue un éxito total!",
+        "&7Se anunciaron emocionantes novedades para el futuro de Minecraft, incluyendo la versión 1.22."
       ]
     },
     {
-      "id": "nuevas_pinturas_discos",
+      "id": "noticia_bloques_cobre_toba",
       "categoria": "noticias",
       "mensajes": [
-        "&a&lNUEVAS PINTURAS Y DISCOS MUSICALES!&r &7Decora tus bases y ambienta tus aventuras con contenido fresco."
+        "&e&lNuevos Bloques: Cobre y Toba.",
+        "&7Descubre las Copper Bulbs que se oxidan y se atenúan, además de una variedad de bloques decorativos de Toba."
       ]
     },
     {
-      "id": "correccion_errores_1_21_10",
-      "categoria": "noticias",
+      "id": "curiosidad_minecraft_mas_vendido",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&c&lCORRECCIÓN DE ERRORES EN 1.21.10!&r &7Se han lanzado hotfixes para Java Edition solucionando problemas importantes."
+        "&a&lDato Curioso Gaming:",
+        "&7¿Sabías que Minecraft ostenta el título de ser el videojuego más vendido de la historia con más de 200 millones de copias?"
       ]
     },
     {
-      "id": "botellas_eventos_ominosos",
+      "id": "curiosidad_primer_easter_egg",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&lDato Curioso Gaming:",
+        "&7El primer 'Easter Egg' registrado en un videojuego fue en 'Adventure' (Atari 2600) en 1980. ¡Un programador escondió su nombre!"
+      ]
+    },
+    {
+      "id": "noticia_lanzamiento_dune_awakening",
       "categoria": "noticias",
       "mensajes": [
-        "&e&lBOTELLAS Y EVENTOS OMINOSOS!&r &7Rediseño de Bad Omen y nuevos efectos de estado como Infested y Oozing."
+        "&d&lLanzamiento de la Semana:",
+        "&7¡Dune: Awakening ya está disponible! Un épico juego de supervivencia en mundo abierto ambientado en el universo de Dune."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&b&l¡Resonancia del Federal Bureau!",
+      "dia": "TUESDAY",
+      "titulo": "&6&l¡Travesía de Arrakis!",
       "descripcion": [
-        "&7¡Control Resonant llegó hoy a las consolas!",
-        "&7Obtén HASTE II al minar en cualquier mundo."
+        "&7¡Dune: Awakening ha llegado a consolas esta semana!",
+        "&7Obtén +20% en Lingotes de Oro y Resistencia I."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
-      "efecto_pocion": "HASTE",
-      "nivel_efecto": 2,
+      "tipo": "AMBOS",
+      "item": "GOLD_INGOT",
+      "porcentaje_extra": 20.0,
+      "efecto_pocion": "RESISTANCE",
+      "nivel_efecto": 1,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
