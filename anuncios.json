@@ -1,91 +1,99 @@
 {
   "anuncios": [
     {
-      "id": "noticia_actualizacion_1_21",
+      "id": "actualizacion_mayor_minecraft_live",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Actualización 1.21 \"Tricky Trials\" ya disponible!",
-        "&7Explora las desafiantes Trial Chambers, enfrenta al Breeze y usa el nuevo Crafter."
+        "&a&l¡ACTUALIZACIÓN MAYOR!&r",
+        "&e&l¡Minecraft Live 2026 ha revelado las próximas grandes novedades! Prepárense para una posible nueva dimensión o una expansión del End que cambiará el juego para siempre."
       ]
     },
     {
-      "id": "noticia_camaras_prueba",
+      "id": "nueva_region_bioma_bosque_moteado",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lNuevos Desafíos: Cámaras de Prueba.",
-        "&7Demuestra tu habilidad contra oleadas de mobs ajustadas a tu número de jugadores y gana botines exclusivos."
+        "&b&l¡NUEVA REGIÓN EXPLORABLE!&r",
+        "&e&lDescubran el &aBioma Bosque Moteado&e, parte de la reciente actualización &aWilderness Bound&e. ¡Exploren &7Campamentos Abandonados&e y nuevos retos!"
       ]
     },
     {
-      "id": "noticia_crafter_disponible",
+      "id": "construye_estilo_autumn_drop",
       "categoria": "noticias",
       "mensajes": [
-        "&a&lEl Crafter ha llegado para quedarse.",
-        "&7Automatiza tu producción de objetos con el revolucionario bloque Crafter, ¡lleva tu eficiencia al máximo!"
+        "&d&l¡CONSTRUYE CON ESTILO!&r",
+        "&e&lLa actualización &aAutumn Drop&e ya está aquí con escaleras y losas de hormigón coloreado en 16 tonos. ¡Denle un toque único a sus creaciones!"
       ]
     },
     {
-      "id": "noticia_nuevos_mobs",
+      "id": "lanzamiento_minecraft_dungeons_ii",
       "categoria": "noticias",
       "mensajes": [
-        "&d&lPresentamos al Breeze y al Bogged.",
-        "&7Dos nuevos mobs hostiles te esperan para desafiarte en tus aventuras. ¡Cuidado con los ataques de viento!"
+        "&7&l¡NUEVO DUNGEON CRAWLER!&r",
+        "&e&l&bMinecraft Dungeons II&e se lanza el 29 de septiembre, introduciendo la &bdimensión del Sift&e. ¿Veremos un portal en nuestro mundo?"
       ]
     },
     {
-      "id": "noticia_minecraft_live_2024",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7¡Minecraft Live 2024 fue un éxito total!",
-        "&7Se anunciaron emocionantes novedades para el futuro de Minecraft, incluyendo la versión 1.22."
-      ]
-    },
-    {
-      "id": "noticia_bloques_cobre_toba",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&lNuevos Bloques: Cobre y Toba.",
-        "&7Descubre las Copper Bulbs que se oxidan y se atenúan, además de una variedad de bloques decorativos de Toba."
-      ]
-    },
-    {
-      "id": "curiosidad_minecraft_mas_vendido",
+      "id": "actualizacion_mobs_bebes",
       "categoria": "curiosidades",
       "mensajes": [
-        "&a&lDato Curioso Gaming:",
-        "&7¿Sabías que Minecraft ostenta el título de ser el videojuego más vendido de la historia con más de 200 millones de copias?"
+        "&c&l¡CRIATURAS MÁS ADORABLES!&r",
+        "&e&lLos bebés mobs recibieron un lavado de cara este año, ¡con &dcerditos más regordetes&e y &dperritos más peludos&e! Incluso hay &acreativos &anombres de etiquetas."
       ]
     },
     {
-      "id": "curiosidad_primer_easter_egg",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&lDato Curioso Gaming:",
-        "&7El primer 'Easter Egg' registrado en un videojuego fue en 'Adventure' (Atari 2600) en 1980. ¡Un programador escondió su nombre!"
-      ]
-    },
-    {
-      "id": "noticia_lanzamiento_dune_awakening",
+      "id": "ia_avanza_gaming",
       "categoria": "noticias",
       "mensajes": [
-        "&d&lLanzamiento de la Semana:",
-        "&7¡Dune: Awakening ya está disponible! Un épico juego de supervivencia en mundo abierto ambientado en el universo de Dune."
+        "&l&l¡IA AVANZA EN EL GAMING!&r",
+        "&e&lLa Inteligencia Artificial está creando mundos más dinámicos y NPCs realistas. ¡El futuro del gaming ya está aquí!"
+      ]
+    },
+    {
+      "id": "mercado_gaming_crecimiento",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡MERCADO EN CRECIMIENTO!&r",
+        "&e&lEl mercado global de videojuegos alcanzará los &a213.9 mil millones de dólares&e en 2026. ¡Una industria imparable!"
+      ]
+    },
+    {
+      "id": "cross_play_en_auge",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡CROSS-PLAY EN AUGE!&r",
+        "&e&lLa posibilidad de jugar con amigos de &bdiferentes plataformas&e es una tendencia clave para 2026."
+      ]
+    },
+    {
+      "id": "trial_chambers_tricky_trials",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡NUEVAS CÁMARAS DE PRUEBA!&r",
+        "&e&lLa versión 1.21 “&dTricky Trials&e” introdujo las &dTrial Chambers&e, estructuras con desafíos para los aventureros."
+      ]
+    },
+    {
+      "id": "lanzamiento_gta_vi",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡PRÓXIMO GRAN LANZAMIENTO!&r",
+        "&e&l&6Grand Theft Auto VI&e es uno de los títulos más esperados de 2026, ¡previsto para noviembre!"
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "TUESDAY",
-      "titulo": "&6&l¡Travesía de Arrakis!",
+      "dia": "MONDAY",
+      "titulo": "&b&l¡Aventura en el Sift!",
       "descripcion": [
-        "&7¡Dune: Awakening ha llegado a consolas esta semana!",
-        "&7Obtén +20% en Lingotes de Oro y Resistencia I."
+        "&7¡Minecraft Dungeons II se aventura el 29 de Septiembre!",
+        "&7Obtén Fuerza II y esmeraldas valen el doble."
       ],
       "tipo": "AMBOS",
-      "item": "GOLD_INGOT",
-      "porcentaje_extra": 20.0,
-      "efecto_pocion": "RESISTANCE",
-      "nivel_efecto": 1,
+      "item": "EMERALD",
+      "porcentaje_extra": 100.0,
+      "efecto_pocion": "STRENGTH",
+      "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
