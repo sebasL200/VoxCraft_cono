@@ -1,98 +1,81 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_mayor_minecraft_live",
+      "id": "nueva_dimension_the_sift",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN MAYOR!&r",
-        "&e&l¡Minecraft Live 2026 ha revelado las próximas grandes novedades! Prepárense para una posible nueva dimensión o una expansión del End que cambiará el juego para siempre."
+        "&a&l¡Anunciada la Nueva Dimensión \"The Sift\" para 2027! &r&7Prepárense, exploradores: Minecraft Live 2026 reveló la cuarta dimensión, ¡llegando a Java y Bedrock en 2027!"
       ]
     },
     {
-      "id": "nueva_region_bioma_bosque_moteado",
+      "id": "cuevas_heladas",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡NUEVA REGIÓN EXPLORABLE!&r",
-        "&e&lDescubran el &aBioma Bosque Moteado&e, parte de la reciente actualización &aWilderness Bound&e. ¡Exploren &7Campamentos Abandonados&e y nuevos retos!"
+        "&b&l¡Explora las Novedosas Cuevas Heladas! &r&7El próximo \"game drop\" de Minecraft introducirá este gélido bioma con cristales luminosos, estalactitas y zombies congelados."
       ]
     },
     {
-      "id": "construye_estilo_autumn_drop",
+      "id": "minecraft_dungeons_ii_lanzamiento",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡CONSTRUYE CON ESTILO!&r",
-        "&e&lLa actualización &aAutumn Drop&e ya está aquí con escaleras y losas de hormigón coloreado en 16 tonos. ¡Denle un toque único a sus creaciones!"
+        "&e&l¡Minecraft Dungeons II se Lanza esta Semana! &r&7A partir del 29 de septiembre de 2026, adéntrense en esta secuela y obtengan un primer vistazo a la dimensión \"The Sift\"."
       ]
     },
     {
-      "id": "lanzamiento_minecraft_dungeons_ii",
+      "id": "paquetes_sonido_marketplace",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡NUEVO DUNGEON CRAWLER!&r",
-        "&e&l&bMinecraft Dungeons II&e se lanza el 29 de septiembre, introduciendo la &bdimensión del Sift&e. ¿Veremos un portal en nuestro mundo?"
+        "&d&l¡Paquetes de Efectos de Sonido en el Marketplace! &r&7Próximamente este año, Mojang lanzará nuevos paquetes de sonidos para personalizar tu experiencia en Minecraft."
       ]
     },
     {
-      "id": "actualizacion_mobs_bebes",
+      "id": "minecraft_world_expansion",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&l¡Minecraft World se Expande con Hotel y Montaña Rusa! &r&7Un hotel temático y una atracción \"Escape the Nether\" abrirán en 2027 en Chessington World of Adventures Resort."
+      ]
+    },
+    {
+      "id": "actualizacion_1_21_tricky_trials",
+      "categoria": "consejos",
+      "mensajes": [
+        "&a&l¡Sigue Descubriendo la Actualización 1.21 Tricky Trials! &r&7Las Cámaras de Prueba, el Crafter automático y los nuevos mobs Breeze y Bogged esperan ser conquistados."
+      ]
+    },
+    {
+      "id": "gaming_refugio_global",
       "categoria": "curiosidades",
       "mensajes": [
-        "&c&l¡CRIATURAS MÁS ADORABLES!&r",
-        "&e&lLos bebés mobs recibieron un lavado de cara este año, ¡con &dcerditos más regordetes&e y &dperritos más peludos&e! Incluso hay &acreativos &anombres de etiquetas."
+        "&b&l¡El Gaming como Refugio Global! &r&7Más de 212 millones de personas en EE. UU. juegan videojuegos, con un 67% buscando relajarse y divertirse."
       ]
     },
     {
-      "id": "ia_avanza_gaming",
-      "categoria": "noticias",
+      "id": "accesibilidad_tendencia_2026",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&l&l¡IA AVANZA EN EL GAMING!&r",
-        "&e&lLa Inteligencia Artificial está creando mundos más dinámicos y NPCs realistas. ¡El futuro del gaming ya está aquí!"
+        "&e&l¡La Accesibilidad es Tendencia en 2026! &r&7La industria se enfoca en hacer los juegos inclusivos con más opciones de color, subtítulos y dificultad ajustable."
       ]
     },
     {
-      "id": "mercado_gaming_crecimiento",
-      "categoria": "noticias",
+      "id": "juegos_indie_creatividad",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&a&l¡MERCADO EN CRECIMIENTO!&r",
-        "&e&lEl mercado global de videojuegos alcanzará los &a213.9 mil millones de dólares&e en 2026. ¡Una industria imparable!"
-      ]
-    },
-    {
-      "id": "cross_play_en_auge",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&l¡CROSS-PLAY EN AUGE!&r",
-        "&e&lLa posibilidad de jugar con amigos de &bdiferentes plataformas&e es una tendencia clave para 2026."
-      ]
-    },
-    {
-      "id": "trial_chambers_tricky_trials",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡NUEVAS CÁMARAS DE PRUEBA!&r",
-        "&e&lLa versión 1.21 “&dTricky Trials&e” introdujo las &dTrial Chambers&e, estructuras con desafíos para los aventureros."
-      ]
-    },
-    {
-      "id": "lanzamiento_gta_vi",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡PRÓXIMO GRAN LANZAMIENTO!&r",
-        "&e&l&6Grand Theft Auto VI&e es uno de los títulos más esperados de 2026, ¡previsto para noviembre!"
+        "&d&l¡Los Juegos Indie Siguen Impulsando la Creatividad! &r&7Los títulos independientes son el corazón de la innovación en la industria del gaming este 2026, ofreciendo ideas frescas."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&b&l¡Aventura en el Sift!",
+      "titulo": "&b&l¡Exploración Dimensional!",
       "descripcion": [
-        "&7¡Minecraft Dungeons II se aventura el 29 de Septiembre!",
-        "&7Obtén Fuerza II y esmeraldas valen el doble."
+        "&7¡Minecraft Dungeons II ya está aquí con el Sift!",
+        "&7Obtén más esmeraldas y Prisa II al minar."
       ],
       "tipo": "AMBOS",
       "item": "EMERALD",
-      "porcentaje_extra": 100.0,
-      "efecto_pocion": "STRENGTH",
+      "porcentaje_extra": 25.0,
+      "efecto_pocion": "HASTE",
       "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
