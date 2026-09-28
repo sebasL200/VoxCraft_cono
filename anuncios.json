@@ -1,80 +1,73 @@
 {
   "anuncios": [
     {
-      "id": "nueva_dimension_the_sift",
+      "id": "noticia_sift_dimension",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Anunciada la Nueva Dimensión \"The Sift\" para 2027! &r&7Prepárense, exploradores: Minecraft Live 2026 reveló la cuarta dimensión, ¡llegando a Java y Bedrock en 2027!"
+        "&b&l¡EXPLORADORES! &eMojang ha revelado El Sift, ¡la primera nueva dimensión en Minecraft en más de 14 años! Prepárense para una experiencia etérea y vibrante en 2027."
       ]
     },
     {
-      "id": "cuevas_heladas",
+      "id": "noticia_cuevas_hielo",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Explora las Novedosas Cuevas Heladas! &r&7El próximo \"game drop\" de Minecraft introducirá este gélido bioma con cristales luminosos, estalactitas y zombies congelados."
+        "&7¡FRÍO INTENSO! &bLas Cuevas de Hielo llegan como el próximo \"game drop\" con cristales luminosos y el nuevo zombi congelado, ¡que lanza bolas de hielo! Explorar el subsuelo será más peligroso."
       ]
     },
     {
-      "id": "minecraft_dungeons_ii_lanzamiento",
+      "id": "noticia_dungeons_ii",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Minecraft Dungeons II se Lanza esta Semana! &r&7A partir del 29 de septiembre de 2026, adéntrense en esta secuela y obtengan un primer vistazo a la dimensión \"The Sift\"."
+        "&a¡LANZAMIENTO ÉPICO! &eMinecraft Dungeons II ya está disponible desde el 29 de septiembre, ¡y es el primer lugar donde podrán vislumbrar la nueva dimensión El Sift!"
       ]
     },
     {
-      "id": "paquetes_sonido_marketplace",
+      "id": "noticia_minecraft_vida_real",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡Paquetes de Efectos de Sonido en el Marketplace! &r&7Próximamente este año, Mojang lanzará nuevos paquetes de sonidos para personalizar tu experiencia en Minecraft."
+        "&d¡MINECRAFT EN LA VIDA REAL! &aUn hotel oficial de Minecraft y la montaña rusa 'Escape The Nether' abrirán en 2027 en el Chessington World of Adventures Resort."
       ]
     },
     {
-      "id": "minecraft_world_expansion",
+      "id": "noticia_packs_sonido",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡Minecraft World se Expande con Hotel y Montaña Rusa! &r&7Un hotel temático y una atracción \"Escape the Nether\" abrirán en 2027 en Chessington World of Adventures Resort."
+        "&a¡PERSONALIZA TU SONIDO! &ePróximamente, packs de efectos de sonido oficiales llegarán al Marketplace de Minecraft, ofreciendo nuevas formas de personalizar tu experiencia."
       ]
     },
     {
-      "id": "actualizacion_1_21_tricky_trials",
-      "categoria": "consejos",
+      "id": "noticia_plataforma_creadores",
+      "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Sigue Descubriendo la Actualización 1.21 Tricky Trials! &r&7Las Cámaras de Prueba, el Crafter automático y los nuevos mobs Breeze y Bogged esperan ser conquistados."
+        "&7¡UN NUEVO HORIZONTE PARA CREADORES! &bMojang ha anunciado una nueva plataforma dedicada a empoderar a la comunidad para construir y crear experiencias dentro de Minecraft."
       ]
     },
     {
-      "id": "gaming_refugio_global",
+      "id": "curiosidad_mario_jumpman",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&l¡El Gaming como Refugio Global! &r&7Más de 212 millones de personas en EE. UU. juegan videojuegos, con un 67% buscando relajarse y divertirse."
+        "&e¿SABÍAS QUE...? &7El famoso personaje Mario de Nintendo no siempre se llamó así; en su primera aparición en Donkey Kong (1981) era conocido como Jumpman."
       ]
     },
     {
-      "id": "accesibilidad_tendencia_2026",
+      "id": "curiosidad_pacman_pizza",
       "categoria": "curiosidades",
       "mensajes": [
-        "&e&l¡La Accesibilidad es Tendencia en 2026! &r&7La industria se enfoca en hacer los juegos inclusivos con más opciones de color, subtítulos y dificultad ajustable."
-      ]
-    },
-    {
-      "id": "juegos_indie_creatividad",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&d&l¡Los Juegos Indie Siguen Impulsando la Creatividad! &r&7Los títulos independientes son el corazón de la innovación en la industria del gaming este 2026, ofreciendo ideas frescas."
+        "&e¿DATO CURIOSO? &7El diseño original de Pac-Man fue inspirado por una pizza a la que le faltaba una rebanada. ¡Un bocado de historia de los videojuegos!"
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&b&l¡Exploración Dimensional!",
+      "dia": "TUESDAY",
+      "titulo": "&c&l¡Fisura Dimensional: El Sift!",
       "descripcion": [
-        "&7¡Minecraft Dungeons II ya está aquí con el Sift!",
-        "&7Obtén más esmeraldas y Prisa II al minar."
+        "&7¡Explora la corrupción de almas con Dungeons II!",
+        "&7Diamantes valen 50% más, obtén Prisa II."
       ],
       "tipo": "AMBOS",
-      "item": "EMERALD",
-      "porcentaje_extra": 25.0,
+      "item": "DIAMOND",
+      "porcentaje_extra": 50.0,
       "efecto_pocion": "HASTE",
       "nivel_efecto": 2,
       "todo_el_dia": true,
