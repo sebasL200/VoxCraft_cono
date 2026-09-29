@@ -1,74 +1,74 @@
 {
   "anuncios": [
     {
-      "id": "noticia_sift_dimension",
+      "id": "noticia_camaras_desafio",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡EXPLORADORES! &eMojang ha revelado El Sift, ¡la primera nueva dimensión en Minecraft en más de 14 años! Prepárense para una experiencia etérea y vibrante en 2027."
+        "&b&l¡EXPLORA LAS CÁMARAS DE DESAFÍO! &7Descubre las nuevas estructuras subterráneas repletas de peligros y tesoros en la actualización Tricky Trials."
       ]
     },
     {
-      "id": "noticia_cuevas_hielo",
+      "id": "noticia_nuevos_mobs",
       "categoria": "noticias",
       "mensajes": [
-        "&7¡FRÍO INTENSO! &bLas Cuevas de Hielo llegan como el próximo \"game drop\" con cristales luminosos y el nuevo zombi congelado, ¡que lanza bolas de hielo! Explorar el subsuelo será más peligroso."
+        "&c&l¡NUEVOS MOBS: BREEZE Y BOGGED! &7Enfrenta a estas criaturas únicas; el Breeze en las Trial Chambers y el Bogged en los biomas de pantano."
       ]
     },
     {
-      "id": "noticia_dungeons_ii",
+      "id": "noticia_la_maza",
       "categoria": "noticias",
       "mensajes": [
-        "&a¡LANZAMIENTO ÉPICO! &eMinecraft Dungeons II ya está disponible desde el 29 de septiembre, ¡y es el primer lugar donde podrán vislumbrar la nueva dimensión El Sift!"
+        "&a&l¡LA MAZA: TU NUEVA ARMA POTENTE! &7Domina el campo de batalla con este nuevo mazo que causa más daño al caer desde grandes alturas."
       ]
     },
     {
-      "id": "noticia_minecraft_vida_real",
+      "id": "noticia_el_crafter",
       "categoria": "noticias",
       "mensajes": [
-        "&d¡MINECRAFT EN LA VIDA REAL! &aUn hotel oficial de Minecraft y la montaña rusa 'Escape The Nether' abrirán en 2027 en el Chessington World of Adventures Resort."
+        "&e&l¡CONSTRUYE CON EL CRAFTER! &7Automatiza la creación de ítems con este innovador bloque activado por Redstone."
       ]
     },
     {
-      "id": "noticia_packs_sonido",
+      "id": "noticia_bloques_cobre_toba",
       "categoria": "noticias",
       "mensajes": [
-        "&a¡PERSONALIZA TU SONIDO! &ePróximamente, packs de efectos de sonido oficiales llegarán al Marketplace de Minecraft, ofreciendo nuevas formas de personalizar tu experiencia."
+        "&d&l¡BLOQUES DE COBRE Y TUBA EXPANSIÓN! &7Personaliza tus construcciones con una gran variedad de nuevas variantes de cobre y bloques de toba."
       ]
     },
     {
-      "id": "noticia_plataforma_creadores",
+      "id": "noticia_mapas_camaras",
       "categoria": "noticias",
       "mensajes": [
-        "&7¡UN NUEVO HORIZONTE PARA CREADORES! &bMojang ha anunciado una nueva plataforma dedicada a empoderar a la comunidad para construir y crear experiencias dentro de Minecraft."
+        "&b&l¡MAPAS PARA LAS CÁMARAS! &7Adquiere mapas de los aldeanos para localizar fácilmente las esquivas Cámaras de Desafío."
       ]
     },
     {
-      "id": "curiosidad_mario_jumpman",
-      "categoria": "curiosidades",
+      "id": "noticia_eventos_siniestros",
+      "categoria": "noticias",
       "mensajes": [
-        "&e¿SABÍAS QUE...? &7El famoso personaje Mario de Nintendo no siempre se llamó así; en su primera aparición en Donkey Kong (1981) era conocido como Jumpman."
+        "&7&l¡EVENTOS SINIESTROS REDISEÑADOS! &7Prepárate para desafíos de incursiones (raids) más intensos y estratégicos con el nuevo sistema de Bad Omen."
       ]
     },
     {
-      "id": "curiosidad_pacman_pizza",
-      "categoria": "curiosidades",
+      "id": "noticia_botes_atables",
+      "categoria": "noticias",
       "mensajes": [
-        "&e¿DATO CURIOSO? &7El diseño original de Pac-Man fue inspirado por una pizza a la que le faltaba una rebanada. ¡Un bocado de historia de los videojuegos!"
+        "&a&l¡BOTES AHORA ATABLES! &7¡Mantén tus embarcaciones seguras con la nueva habilidad de atar botes!"
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "TUESDAY",
-      "titulo": "&c&l¡Fisura Dimensional: El Sift!",
+      "dia": "MONDAY",
+      "titulo": "&b&l¡Recompensa del Héroe Dungeoneer!",
       "descripcion": [
-        "&7¡Explora la corrupción de almas con Dungeons II!",
-        "&7Diamantes valen 50% más, obtén Prisa II."
+        "&7¡Minecraft Dungeons 2 ha llegado!",
+        "&7Obtén Fuerza II para tus aventuras."
       ],
-      "tipo": "AMBOS",
-      "item": "DIAMOND",
-      "porcentaje_extra": 50.0,
-      "efecto_pocion": "HASTE",
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
+      "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
