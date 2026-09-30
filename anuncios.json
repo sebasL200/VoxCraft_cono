@@ -1,75 +1,90 @@
 {
   "anuncios": [
     {
-      "id": "noticia_camaras_desafio",
+      "id": "actualizacion_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡EXPLORA LAS CÁMARAS DE DESAFÍO! &7Descubre las nuevas estructuras subterráneas repletas de peligros y tesoros en la actualización Tricky Trials."
+        "&a&l¡ACTUALIZACIÓN 1.21 - TRICKY TRIALS HA LLEGADO!"
       ]
     },
     {
-      "id": "noticia_nuevos_mobs",
+      "id": "explora_camaras_prueba",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡NUEVOS MOBS: BREEZE Y BOGGED! &7Enfrenta a estas criaturas únicas; el Breeze en las Trial Chambers y el Bogged en los biomas de pantano."
+        "&b&l¡EXPLORA LAS CÁMARAS DE PRUEBA!",
+        "&7Nuevas estructuras repletas de desafíos y recompensas esperan."
       ]
     },
     {
-      "id": "noticia_la_maza",
+      "id": "cuidado_con_breeze",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡LA MAZA: TU NUEVA ARMA POTENTE! &7Domina el campo de batalla con este nuevo mazo que causa más daño al caer desde grandes alturas."
+        "&c&l¡CUIDADO CON EL BREEZE!",
+        "&7Este nuevo mob elemental te espera en las Cámaras de Prueba."
       ]
     },
     {
-      "id": "noticia_el_crafter",
+      "id": "domina_maza",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡CONSTRUYE CON EL CRAFTER! &7Automatiza la creación de ítems con este innovador bloque activado por Redstone."
+        "&d&l¡DOMINA LA MAZA!",
+        "&7Una nueva arma que causa más daño con cada caída."
       ]
     },
     {
-      "id": "noticia_bloques_cobre_toba",
+      "id": "automatiza_crafter",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡BLOQUES DE COBRE Y TUBA EXPANSIÓN! &7Personaliza tus construcciones con una gran variedad de nuevas variantes de cobre y bloques de toba."
+        "&e&l¡AUTOMATIZA CON EL CRAFTER!",
+        "&7El nuevo bloque permite la creación automática de ítems."
       ]
     },
     {
-      "id": "noticia_mapas_camaras",
+      "id": "nuevos_bloques_construir",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡MAPAS PARA LAS CÁMARAS! &7Adquiere mapas de los aldeanos para localizar fácilmente las esquivas Cámaras de Desafío."
+        "&7&l¡NUEVOS BLOQUES PARA CONSTRUIR!",
+        "&7El cobre y la toba abren un mundo de posibilidades decorativas."
       ]
     },
     {
-      "id": "noticia_eventos_siniestros",
+      "id": "bogged_en_pantanos",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡EVENTOS SINIESTROS REDISEÑADOS! &7Prepárate para desafíos de incursiones (raids) más intensos y estratégicos con el nuevo sistema de Bad Omen."
+        "&a&l¡EL BOGGED MERODEA EN PANTANOS!",
+        "&7Una variante del esqueleto más lenta y con flechas venenosas."
       ]
     },
     {
-      "id": "noticia_botes_atables",
-      "categoria": "noticias",
+      "id": "gaming_multiplataforma",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&a&l¡BOTES AHORA ATABLES! &7¡Mantén tus embarcaciones seguras con la nueva habilidad de atar botes!"
+        "&b&l¡EL FUTURO DEL GAMING ES MULTIPLATAFORMA!",
+        "&7La progresión compartida rompe barreras entre jugadores."
+      ]
+    },
+    {
+      "id": "ia_impulsa_desarrollo_juegos",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&e&l¡LA IA IMPULSA EL DESARROLLO DE JUEGOS!",
+        "&7El 97% de los desarrolladores usa IA para crear experiencias épicas."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&b&l¡Recompensa del Héroe Dungeoneer!",
+      "dia": "WEDNESDAY",
+      "titulo": "&b&l¡Aventura en las Criptas!",
       "descripcion": [
-        "&7¡Minecraft Dungeons 2 ha llegado!",
-        "&7Obtén Fuerza II para tus aventuras."
+        "&7¡Minecraft Dungeons II lanzado esta semana!",
+        "&7Vende esmeraldas con +30% y obtén Fuerza I."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
+      "tipo": "AMBOS",
+      "item": "EMERALD",
+      "porcentaje_extra": 30.0,
       "efecto_pocion": "STRENGTH",
-      "nivel_efecto": 2,
+      "nivel_efecto": 1,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
