@@ -1,88 +1,81 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_tricky_trials",
+      "id": "noticia_nueva_dimension_cernidor",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21 - TRICKY TRIALS HA LLEGADO!"
+        "&a&l¡Nueva Dimensión: El Cernidor!",
+        "&bDescubre el primer reino nuevo en más de 14 años, ¡El Cernidor llega en 2027!"
       ]
     },
     {
-      "id": "explora_camaras_prueba",
+      "id": "noticia_cuevas_hielo",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡EXPLORA LAS CÁMARAS DE PRUEBA!",
-        "&7Nuevas estructuras repletas de desafíos y recompensas esperan."
+        "&b&l¡Explora las Cuevas de Hielo!",
+        "&ePrepárate para biomas gélidos con cristales luminosos y variantes de zombis congelados."
       ]
     },
     {
-      "id": "cuidado_con_breeze",
+      "id": "noticia_herramientas_creador",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡CUIDADO CON EL BREEZE!",
-        "&7Este nuevo mob elemental te espera en las Cámaras de Prueba."
+        "&e&l¡Actualización de Herramientas de Creador!",
+        "&d¡Mojang ha mejorado las herramientas para tus construcciones y mods!"
       ]
     },
     {
-      "id": "domina_maza",
+      "id": "noticia_batalla_prueba",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡DOMINA LA MAZA!",
-        "&7Una nueva arma que causa más daño con cada caída."
+        "&d&l¡Regresa la Batalla de Prueba!",
+        "&7¡Aventureros, las Cámaras de Prueba os esperan con sus desafíos y recompensas exclusivas!"
       ]
     },
     {
-      "id": "automatiza_crafter",
+      "id": "noticia_arma_mangual",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡AUTOMATIZA CON EL CRAFTER!",
-        "&7El nuevo bloque permite la creación automática de ítems."
+        "&c&l¡Domina el Mangual!",
+        "&e¡Empuña la nueva arma pesada y siente el poder devastador de cada golpe en combate!"
       ]
     },
     {
-      "id": "nuevos_bloques_construir",
+      "id": "noticia_bloque_toba",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡NUEVOS BLOQUES PARA CONSTRUIR!",
-        "&7El cobre y la toba abren un mundo de posibilidades decorativas."
+        "&7&l¡El Bloque de Toba ha Llegado!",
+        "&aUtiliza este nuevo material en tus construcciones para diseños únicos y resistentes."
       ]
     },
     {
-      "id": "bogged_en_pantanos",
+      "id": "noticia_lanzamiento_switch_2",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡EL BOGGED MERODEA EN PANTANOS!",
-        "&7Una variante del esqueleto más lenta y con flechas venenosas."
+        "&e&l¡Lanzamiento en Switch 2!",
+        "&bMinecraft llega oficialmente a Nintendo Switch 2 este 27 de octubre de 2026."
       ]
     },
     {
-      "id": "gaming_multiplataforma",
-      "categoria": "curiosidades",
+      "id": "noticia_cargas_viento",
+      "categoria": "noticias",
       "mensajes": [
-        "&b&l¡EL FUTURO DEL GAMING ES MULTIPLATAFORMA!",
-        "&7La progresión compartida rompe barreras entre jugadores."
-      ]
-    },
-    {
-      "id": "ia_impulsa_desarrollo_juegos",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&e&l¡LA IA IMPULSA EL DESARROLLO DE JUEGOS!",
-        "&7El 97% de los desarrolladores usa IA para crear experiencias épicas."
+        "&a&l¡Cargas de Viento en Acción!",
+        "&dDomina estas nuevas habilidades para controlar el campo de batalla y la movilidad."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "WEDNESDAY",
-      "titulo": "&b&l¡Aventura en las Criptas!",
+      "dia": "TUESDAY",
+      "titulo": "&c&l¡Asalto de la Horda!",
       "descripcion": [
-        "&7¡Minecraft Dungeons II lanzado esta semana!",
-        "&7Vende esmeraldas con +30% y obtén Fuerza I."
+        "&7¡Gears of War: E-Day ha llegado!",
+        "&7Más fuerza en combate y hierro al minar."
       ],
       "tipo": "AMBOS",
-      "item": "EMERALD",
-      "porcentaje_extra": 30.0,
+      "item": "IRON_INGOT",
+      "porcentaje_extra": 20.0,
       "efecto_pocion": "STRENGTH",
       "nivel_efecto": 1,
       "todo_el_dia": true,
