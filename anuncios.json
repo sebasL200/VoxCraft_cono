@@ -1,83 +1,107 @@
 {
   "anuncios": [
     {
-      "id": "noticia_nueva_dimension_cernidor",
+      "id": "actualizacion_snaps",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Nueva Dimensión: El Cernidor!",
-        "&bDescubre el primer reino nuevo en más de 14 años, ¡El Cernidor llega en 2027!"
+        "&a&l¡ACTUALIZACIÓN DE SNAPS!",
+        "&7El &eSnapshot 26.4.2 &7ya está disponible para probar las novedades del próximo Drop de Invierno.",
+        "&l¡Reporta bugs!"
       ]
     },
     {
-      "id": "noticia_cuevas_hielo",
+      "id": "explora_cuevas_heladas",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Explora las Cuevas de Hielo!",
-        "&ePrepárate para biomas gélidos con cristales luminosos y variantes de zombis congelados."
+        "&b&l¡EXPLORA CUEVAS HELADAS!",
+        "&7El &eDrop 4 &7de Minecraft traerá nuevas cuevas de hielo, zombies congelados y cristales de hielo.",
+        "&l¡Prepárate para el frío!"
       ]
     },
     {
-      "id": "noticia_herramientas_creador",
+      "id": "nueva_dimension_sift",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Actualización de Herramientas de Creador!",
-        "&d¡Mojang ha mejorado las herramientas para tus construcciones y mods!"
+        "&d&l¡UNA NUEVA DIMENSIÓN!",
+        "&7La &edimensión \"The Sift\" &7ha sido confirmada para llegar a Minecraft Vanilla en 2027.",
+        "&l¡Un misterio por descubrir!"
       ]
     },
     {
-      "id": "noticia_batalla_prueba",
+      "id": "minecraft_switch_2",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡Regresa la Batalla de Prueba!",
-        "&7¡Aventureros, las Cámaras de Prueba os esperan con sus desafíos y recompensas exclusivas!"
+        "&a&l¡MINECRAFT EN SWITCH 2!",
+        "&7Minecraft estará disponible para &eNintendo Switch 2 &7a partir del 27 de octubre de 2026, con gráficos mejorados."
       ]
     },
     {
-      "id": "noticia_arma_mangual",
+      "id": "herramientas_creadores",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡Domina el Mangual!",
-        "&e¡Empuña la nueva arma pesada y siente el poder devastador de cada golpe en combate!"
+        "&e&l¡MÁS HERRAMIENTAS PARA CREADORES!",
+        "&7Se lanzará la plataforma &eMinecraft Creator &7para facilitar la creación de contenido y addons.",
+        "&l¡Imagina lo que viene!"
       ]
     },
     {
-      "id": "noticia_bloque_toba",
+      "id": "dungeons_ii_disponible",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡El Bloque de Toba ha Llegado!",
-        "&aUtiliza este nuevo material en tus construcciones para diseños únicos y resistentes."
+        "&b&l¡DUNGEONS II YA DISPONIBLE!",
+        "&7La secuela &eMinecraft Dungeons II &7se lanzó el 29 de septiembre.",
+        "&l¡Aventura con amigos en Sift!"
       ]
     },
     {
-      "id": "noticia_lanzamiento_switch_2",
-      "categoria": "noticias",
+      "id": "dato_curioso_mario",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&e&l¡Lanzamiento en Switch 2!",
-        "&bMinecraft llega oficialmente a Nintendo Switch 2 este 27 de octubre de 2026."
+        "&7&l¡DATO CURIOSO!",
+        "&eMario &7originalmente fue un carpintero llamado &bJumpman &7antes de convertirse en el fontanero que conocemos."
       ]
     },
     {
-      "id": "noticia_cargas_viento",
+      "id": "sabias_que_gamers_mujeres",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7&l¡SABÍAS QUÉ?",
+        "&eCasi la mitad de los gamers &7(46%) son mujeres, rompiendo estereotipos.",
+        "&b¡El gaming es para todos!"
+      ]
+    },
+    {
+      "id": "clasicos_remasterizados_dw3",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Cargas de Viento en Acción!",
-        "&dDomina estas nuevas habilidades para controlar el campo de batalla y la movilidad."
+        "&e&l¡CLÁSICOS REMASTERIZADOS!",
+        "&7&cDynasty Warriors 3: Complete Edition Remastered &7se lanzó el 1 de octubre.",
+        "&l¡A revivir batallas épicas!"
+      ]
+    },
+    {
+      "id": "carreras_estelares_swgr",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡CARRERAS ESTELARES!",
+        "&7&cStar Wars: Galactic Racer &7se lanza el 6 de octubre.",
+        "&l¡Prepara tus vainas y desafía la galaxia!"
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "TUESDAY",
-      "titulo": "&c&l¡Asalto de la Horda!",
+      "dia": "MONDAY",
+      "titulo": "&c&l¡Asedio de Sera!",
       "descripcion": [
-        "&7¡Gears of War: E-Day ha llegado!",
-        "&7Más fuerza en combate y hierro al minar."
+        "&7¡Gears of War: E-Day ya disponible!",
+        "&7Obtén Resistencia II en tus batallas."
       ],
-      "tipo": "AMBOS",
-      "item": "IRON_INGOT",
-      "porcentaje_extra": 20.0,
-      "efecto_pocion": "STRENGTH",
-      "nivel_efecto": 1,
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
+      "efecto_pocion": "RESISTANCE",
+      "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
