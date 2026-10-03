@@ -1,105 +1,61 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_snaps",
+      "id": "actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN DE SNAPS!",
-        "&7El &eSnapshot 26.4.2 &7ya está disponible para probar las novedades del próximo Drop de Invierno.",
-        "&l¡Reporta bugs!"
+        "&a&l¡ACTUALIZACIÓN 1.21 TRICKY TRIALS YA DISPONIBLE!",
+        "&b&l¡EXPLORA LAS CÁMARAS DE DESAFÍO! Nuevas estructuras llenas de peligro y recompensas te esperan.",
+        "&e&l¡ENFRENTA AL BREEZE Y AL BOGGED! Descubre los nuevos mobs hostiles en cámaras y pantanos.",
+        "&d&l¡DOMINA LA MAZA! Una nueva y poderosa arma que inflige más daño al caer desde mayor altura.",
+        "&7&l¡AUTOMATIZA CON EL CRAFTER! Crea objetos automáticamente con el nuevo bloque que funciona con Redstone."
       ]
     },
     {
-      "id": "explora_cuevas_heladas",
+      "id": "minecraft_live_2026_novedades",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡EXPLORA CUEVAS HELADAS!",
-        "&7El &eDrop 4 &7de Minecraft traerá nuevas cuevas de hielo, zombies congelados y cristales de hielo.",
-        "&l¡Prepárate para el frío!"
+        "&a&l¡MINECRAFT LIVE 2026 ANUNCIA NOVEDADES! Prepárense para la \"Nueva Dimensión Sift\" y \"Cuevas de Hielo\".",
+        "&b&l¡MÁS COBRE QUE NUNCA! La actualización 1.21 trae una gran variedad de nuevos bloques decorativos de cobre.",
+        "&e&l¡PERSONALIZA TUS ESPACIOS! Descubre las 20 nuevas pinturas para decorar tus bases."
       ]
     },
     {
-      "id": "nueva_dimension_sift",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡UNA NUEVA DIMENSIÓN!",
-        "&7La &edimensión \"The Sift\" &7ha sido confirmada para llegar a Minecraft Vanilla en 2027.",
-        "&l¡Un misterio por descubrir!"
-      ]
-    },
-    {
-      "id": "minecraft_switch_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&l¡MINECRAFT EN SWITCH 2!",
-        "&7Minecraft estará disponible para &eNintendo Switch 2 &7a partir del 27 de octubre de 2026, con gráficos mejorados."
-      ]
-    },
-    {
-      "id": "herramientas_creadores",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡MÁS HERRAMIENTAS PARA CREADORES!",
-        "&7Se lanzará la plataforma &eMinecraft Creator &7para facilitar la creación de contenido y addons.",
-        "&l¡Imagina lo que viene!"
-      ]
-    },
-    {
-      "id": "dungeons_ii_disponible",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&l¡DUNGEONS II YA DISPONIBLE!",
-        "&7La secuela &eMinecraft Dungeons II &7se lanzó el 29 de septiembre.",
-        "&l¡Aventura con amigos en Sift!"
-      ]
-    },
-    {
-      "id": "dato_curioso_mario",
+      "id": "curiosidades_gaming",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7&l¡DATO CURIOSO!",
-        "&eMario &7originalmente fue un carpintero llamado &bJumpman &7antes de convertirse en el fontanero que conocemos."
+        "&b&l¡DATOS CURIOSOS GAMING!",
+        "&7El primer \"Easter Egg\" fue en \"Adventure\" (Atari 2600) en 1980.",
+        "&7Mario se llamó \"Jumpman\". Su nombre actual fue por Mario Segale.",
+        "&7En \"Metroid\" (1986), Samus Aran era un personaje femenino.",
+        "&7\"Polybius\", un arcade de 1981, causaba efectos extraños (nunca comprobado).",
+        "&7El mundo de Minecraft es 9 millones de veces más grande que la Tierra."
       ]
     },
     {
-      "id": "sabias_que_gamers_mujeres",
-      "categoria": "curiosidades",
+      "id": "lanzamientos_videojuegos_oct_2026",
+      "categoria": "lanzamientos",
       "mensajes": [
-        "&7&l¡SABÍAS QUÉ?",
-        "&eCasi la mitad de los gamers &7(46%) son mujeres, rompiendo estereotipos.",
-        "&b¡El gaming es para todos!"
-      ]
-    },
-    {
-      "id": "clasicos_remasterizados_dw3",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡CLÁSICOS REMASTERIZADOS!",
-        "&7&cDynasty Warriors 3: Complete Edition Remastered &7se lanzó el 1 de octubre.",
-        "&l¡A revivir batallas épicas!"
-      ]
-    },
-    {
-      "id": "carreras_estelares_swgr",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&l¡CARRERAS ESTELARES!",
-        "&7&cStar Wars: Galactic Racer &7se lanza el 6 de octubre.",
-        "&l¡Prepara tus vainas y desafía la galaxia!"
+        "&6&l¡LANZAMIENTOS DE LA SEMANA (3-9 OCT 2026)!",
+        "&eResident Evil 2, 3 y 4 (Remakes/Remasters): ¡Ya en PC, PS5, Xbox Series, iOS y Switch 2!",
+        "&eAce Combat 8: Wings of Theve: ¡A la carga en PC, PS5 y Xbox Series!",
+        "&eGears of War: E-Day: Sexta entrega, acción trepidante para Xbox Series.",
+        "&eStar Wars: Galactic Racer: Nuevas carreras estelares en PS5 y Xbox Series.",
+        "&eTambién Forever Ago y Hell is Us: ¡Nuevas aventuras te esperan!"
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&c&l¡Asedio de Sera!",
+      "titulo": "&b&l¡La Grieta Gélida Se Abre!",
       "descripcion": [
-        "&7¡Gears of War: E-Day ya disponible!",
-        "&7Obtén Resistencia II en tus batallas."
+        "&7¡Minecraft Live 2026: Nueva Dimensión Sift y Cuevas!",
+        "&7¡Bonus de hierro y Resistencia II al picar!"
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
+      "tipo": "AMBOS",
+      "item": "IRON_INGOT",
+      "porcentaje_extra": 50.0,
       "efecto_pocion": "RESISTANCE",
       "nivel_efecto": 2,
       "todo_el_dia": true,
