@@ -1,61 +1,87 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21",
+      "id": "noticia_actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21 TRICKY TRIALS YA DISPONIBLE!",
-        "&b&l¡EXPLORA LAS CÁMARAS DE DESAFÍO! Nuevas estructuras llenas de peligro y recompensas te esperan.",
-        "&e&l¡ENFRENTA AL BREEZE Y AL BOGGED! Descubre los nuevos mobs hostiles en cámaras y pantanos.",
-        "&d&l¡DOMINA LA MAZA! Una nueva y poderosa arma que inflige más daño al caer desde mayor altura.",
-        "&7&l¡AUTOMATIZA CON EL CRAFTER! Crea objetos automáticamente con el nuevo bloque que funciona con Redstone."
+        "&a¡La Actualización 1.21 'Tricky Trials' llegó! &7Prepárense para nuevos desafíos y estructuras subterráneas."
       ]
     },
     {
-      "id": "minecraft_live_2026_novedades",
+      "id": "noticia_camaras_prueba",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡MINECRAFT LIVE 2026 ANUNCIA NOVEDADES! Prepárense para la \"Nueva Dimensión Sift\" y \"Cuevas de Hielo\".",
-        "&b&l¡MÁS COBRE QUE NUNCA! La actualización 1.21 trae una gran variedad de nuevos bloques decorativos de cobre.",
-        "&e&l¡PERSONALIZA TUS ESPACIOS! Descubre las 20 nuevas pinturas para decorar tus bases."
+        "&bDescubre las &lCámaras de Prueba&r&b, donde te esperan emocionantes combates y recompensas únicas."
       ]
     },
     {
-      "id": "curiosidades_gaming",
+      "id": "noticia_mob_breeze",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e¡Enfrenta al &lBreeze&r&e, un nuevo mob hostil que lanza cargas de viento y tiene un potente empuje! &7¡Cuidado con los acantilados!"
+      ]
+    },
+    {
+      "id": "noticia_arma_mazo",
+      "categoria": "noticias",
+      "mensajes": [
+        "&dEquípate con el &lMazo&r&d, la nueva arma contundente de la 1.21, ¡perfecta para aplastar a tus enemigos!"
+      ]
+    },
+    {
+      "id": "noticia_nuevos_bloques",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7La actualización también trae nuevos bloques de &lCobre&r&7 y &lToba&r&7 para tus construcciones más creativas."
+      ]
+    },
+    {
+      "id": "noticia_bloque_crafter",
+      "categoria": "noticias",
+      "mensajes": [
+        "&aAutomatiza tus granjas con el &lCrafter&r&a, el bloque que revoluciona las creaciones de Redstone."
+      ]
+    },
+    {
+      "id": "curiosidad_minecraft_ventas",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&l¡DATOS CURIOSOS GAMING!",
-        "&7El primer \"Easter Egg\" fue en \"Adventure\" (Atari 2600) en 1980.",
-        "&7Mario se llamó \"Jumpman\". Su nombre actual fue por Mario Segale.",
-        "&7En \"Metroid\" (1986), Samus Aran era un personaje femenino.",
-        "&7\"Polybius\", un arcade de 1981, causaba efectos extraños (nunca comprobado).",
-        "&7El mundo de Minecraft es 9 millones de veces más grande que la Tierra."
+        "&b¿Sabías que &lMinecraft&r&b es el videojuego más vendido de la historia con más de 200 millones de copias?"
       ]
     },
     {
-      "id": "lanzamientos_videojuegos_oct_2026",
-      "categoria": "lanzamientos",
+      "id": "curiosidad_easter_egg",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&6&l¡LANZAMIENTOS DE LA SEMANA (3-9 OCT 2026)!",
-        "&eResident Evil 2, 3 y 4 (Remakes/Remasters): ¡Ya en PC, PS5, Xbox Series, iOS y Switch 2!",
-        "&eAce Combat 8: Wings of Theve: ¡A la carga en PC, PS5 y Xbox Series!",
-        "&eGears of War: E-Day: Sexta entrega, acción trepidante para Xbox Series.",
-        "&eStar Wars: Galactic Racer: Nuevas carreras estelares en PS5 y Xbox Series.",
-        "&eTambién Forever Ago y Hell is Us: ¡Nuevas aventuras te esperan!"
+        "&e¡Un dato curioso! El primer 'Easter Egg' de la historia fue en el juego Adventure de Atari 2600 en 1980."
+      ]
+    },
+    {
+      "id": "curiosidad_mario_jumpman",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&dEl personaje de Mario originalmente se llamaba 'Jumpman', ¡un carpintero antes que fontanero!"
+      ]
+    },
+    {
+      "id": "noticia_pruebas_fatidicas",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7Las &lPruebas Fatídicas&r&7 en las Cámaras de Prueba ofrecen un nivel de dificultad extra para los más valientes."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&b&l¡La Grieta Gélida Se Abre!",
+      "titulo": "&c&l¡Día de la Defensa C.O.G.!",
       "descripcion": [
-        "&7¡Minecraft Live 2026: Nueva Dimensión Sift y Cuevas!",
-        "&7¡Bonus de hierro y Resistencia II al picar!"
+        "&7¡Gears of War: E-Day ha llegado!",
+        "&7Obtén Resistencia II al luchar contra las hordas."
       ],
-      "tipo": "AMBOS",
-      "item": "IRON_INGOT",
-      "porcentaje_extra": 50.0,
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
       "efecto_pocion": "RESISTANCE",
       "nivel_efecto": 2,
       "todo_el_dia": true,
