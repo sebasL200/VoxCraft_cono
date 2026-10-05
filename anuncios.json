@@ -1,88 +1,98 @@
 {
   "anuncios": [
     {
-      "id": "noticia_actualizacion_1_21",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a¡La Actualización 1.21 'Tricky Trials' llegó! &7Prepárense para nuevos desafíos y estructuras subterráneas."
-      ]
-    },
-    {
       "id": "noticia_camaras_prueba",
       "categoria": "noticias",
       "mensajes": [
-        "&bDescubre las &lCámaras de Prueba&r&b, donde te esperan emocionantes combates y recompensas únicas."
+        "&a&l¡Explora las Cámaras de Prueba!",
+        "&r&7La actualización 1.21, 'Tricky Trials', te espera con desafíos, tesoros y las nuevas criaturas Breeze y Bogged."
       ]
     },
     {
-      "id": "noticia_mob_breeze",
+      "id": "noticia_bedrock_hardcore",
       "categoria": "noticias",
       "mensajes": [
-        "&e¡Enfrenta al &lBreeze&r&e, un nuevo mob hostil que lanza cargas de viento y tiene un potente empuje! &7¡Cuidado con los acantilados!"
+        "&b&lNuevos Horizontes en Bedrock:",
+        "&r&7La actualización 'Bundles of Bravery' trajo el modo Hardcore y los prácticos Bundles para la Bedrock Edition."
       ]
     },
     {
-      "id": "noticia_arma_mazo",
+      "id": "noticia_arma_maza",
       "categoria": "noticias",
       "mensajes": [
-        "&dEquípate con el &lMazo&r&d, la nueva arma contundente de la 1.21, ¡perfecta para aplastar a tus enemigos!"
+        "&e&l¡Domina la Maza!",
+        "&r&7Descubre la nueva y poderosa arma contundente introducida en la versión 1.21, ¡perfecta para el combate cuerpo a cuerpo!"
       ]
     },
     {
-      "id": "noticia_nuevos_bloques",
+      "id": "noticia_nuevas_pinturas",
       "categoria": "noticias",
       "mensajes": [
-        "&7La actualización también trae nuevos bloques de &lCobre&r&7 y &lToba&r&7 para tus construcciones más creativas."
+        "&d&lArte en Bloques:",
+        "&r&7Personaliza tus construcciones con las 20 nuevas pinturas que se añadieron en la reciente actualización de Minecraft."
       ]
     },
     {
-      "id": "noticia_bloque_crafter",
+      "id": "noticia_futuros_bebes",
       "categoria": "noticias",
       "mensajes": [
-        "&aAutomatiza tus granjas con el &lCrafter&r&a, el bloque que revoluciona las creaciones de Redstone."
+        "&7&lPróximamente en Beta/Preview:",
+        "&r&7¡Prepárate para adorables bebés de Hoglin, Zoglin, Snifflet, Panda y Strider en futuras actualizaciones!"
       ]
     },
     {
       "id": "curiosidad_minecraft_ventas",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b¿Sabías que &lMinecraft&r&b es el videojuego más vendido de la historia con más de 200 millones de copias?"
+        "&b&lDato Curioso Gaming:",
+        "&r&7¿Sabías que Minecraft es el videojuego más vendido de la historia con más de 330 millones de copias?"
       ]
     },
     {
-      "id": "curiosidad_easter_egg",
+      "id": "curiosidad_mario_origen",
       "categoria": "curiosidades",
       "mensajes": [
-        "&e¡Un dato curioso! El primer 'Easter Egg' de la historia fue en el juego Adventure de Atari 2600 en 1980."
+        "&e&lHistoria Gaming:",
+        "&r&7El icónico Mario no fue fontanero al inicio, su primer trabajo fue como carpintero llamado Jumpman en Donkey Kong."
       ]
     },
     {
-      "id": "curiosidad_mario_jumpman",
+      "id": "curiosidad_mortal_kombat_esrb",
       "categoria": "curiosidades",
       "mensajes": [
-        "&dEl personaje de Mario originalmente se llamaba 'Jumpman', ¡un carpintero antes que fontanero!"
+        "&d&lImpacto Gaming:",
+        "&r&7Mortal Kombat jugó un papel crucial en la creación de los sistemas de clasificación por edad en los videojuegos debido a su contenido."
       ]
     },
     {
-      "id": "noticia_pruebas_fatidicas",
-      "categoria": "noticias",
+      "id": "lanzamiento_gears_of_war",
+      "categoria": "lanzamientos",
       "mensajes": [
-        "&7Las &lPruebas Fatídicas&r&7 en las Cámaras de Prueba ofrecen un nivel de dificultad extra para los más valientes."
+        "&c&l¡Lanzamiento Épico!",
+        "&r&7\"Gears of War: E-Day\" se estrena esta semana, prometiendo una nueva dosis de acción intensa para los fans."
+      ]
+    },
+    {
+      "id": "lanzamiento_epic_mickey",
+      "categoria": "lanzamientos",
+      "mensajes": [
+        "&a&l¡Clásico Renovado!",
+        "&r&7\"Disney Epic Mickey Rebrushed\" llega esta semana, reviviendo la aventura del famoso ratón en una versión remasterizada."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&c&l¡Día de la Defensa C.O.G.!",
+      "dia": "TUESDAY",
+      "titulo": "&c&l¡Día de los Locust!",
       "descripcion": [
-        "&7¡Gears of War: E-Day ha llegado!",
-        "&7Obtén Resistencia II al luchar contra las hordas."
+        "&7¡Gears of War: E-Day se lanza esta semana!",
+        "&7Diamantes valen 20% más y obtén Fuerza II."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
-      "efecto_pocion": "RESISTANCE",
+      "tipo": "AMBOS",
+      "item": "DIAMOND",
+      "porcentaje_extra": 20.0,
+      "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
