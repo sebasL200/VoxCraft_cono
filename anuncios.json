@@ -1,97 +1,97 @@
 {
   "anuncios": [
     {
-      "id": "noticia_camaras_prueba",
+      "id": "noticia_trial_chambers",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Explora las Cámaras de Prueba!",
-        "&r&7La actualización 1.21, 'Tricky Trials', te espera con desafíos, tesoros y las nuevas criaturas Breeze y Bogged."
+        "&a&l¡Cámaras de Desafío Descubiertas!",
+        "&7Explora las nuevas Trial Chambers, estructuras subterráneas llenas de trampas y retos de combate generados aleatoriamente."
       ]
     },
     {
-      "id": "noticia_bedrock_hardcore",
+      "id": "noticia_nuevos_mobs",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lNuevos Horizontes en Bedrock:",
-        "&r&7La actualización 'Bundles of Bravery' trajo el modo Hardcore y los prácticos Bundles para la Bedrock Edition."
+        "&c&l¡Enfrenta a los Nuevos Mobs!",
+        "&7Prepárate para desafiar al veloz Breeze con sus ataques de viento y al peligroso Bogged, un esqueleto cubierto de musgo y flechas venenosas."
       ]
     },
     {
-      "id": "noticia_arma_maza",
+      "id": "noticia_maza_poderosa",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Domina la Maza!",
-        "&r&7Descubre la nueva y poderosa arma contundente introducida en la versión 1.21, ¡perfecta para el combate cuerpo a cuerpo!"
+        "&b&l¡Domina la Maza Poderosa!",
+        "&7Descubre la nueva arma que inflige más daño cuanto más alto caes antes de golpear a tu objetivo."
       ]
     },
     {
-      "id": "noticia_nuevas_pinturas",
+      "id": "noticia_fabricador",
       "categoria": "noticias",
       "mensajes": [
-        "&d&lArte en Bloques:",
-        "&r&7Personaliza tus construcciones con las 20 nuevas pinturas que se añadieron en la reciente actualización de Minecraft."
+        "&e&l¡Automatiza con el Fabricador!",
+        "&7Simplifica tus procesos con el nuevo bloque Crafter, que permite la creación automática de objetos usando Redstone."
       ]
     },
     {
-      "id": "noticia_futuros_bebes",
+      "id": "noticia_cobre_expandido",
       "categoria": "noticias",
       "mensajes": [
-        "&7&lPróximamente en Beta/Preview:",
-        "&r&7¡Prepárate para adorables bebés de Hoglin, Zoglin, Snifflet, Panda y Strider en futuras actualizaciones!"
+        "&d&l¡Decoración con Cobre Expandida!",
+        "&7Embellece tus construcciones con una gran variedad de nuevos bloques de cobre, incluyendo lámparas que se atenúan al oxidarse."
       ]
     },
     {
-      "id": "curiosidad_minecraft_ventas",
+      "id": "noticia_nuevas_obras_arte",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡Nuevas Obras de Arte!",
+        "&7Personaliza tus bases con la adición de 20 nuevas pinturas para decorar tus paredes."
+      ]
+    },
+    {
+      "id": "anuncio_optimizacion_servidor",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&l¡Optimización del Servidor!",
+        "&7Hemos implementado mejoras de rendimiento generales para asegurar una experiencia de juego más fluida y estable para todos."
+      ]
+    },
+    {
+      "id": "curiosidad_minecraft_mas_vendido",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&lDato Curioso Gaming:",
-        "&r&7¿Sabías que Minecraft es el videojuego más vendido de la historia con más de 330 millones de copias?"
+        "&b&l¡Dato Curioso Gaming: Minecraft el Rey!",
+        "&7¿Sabías que Minecraft es el videojuego más vendido de la historia, con más de 200 millones de copias vendidas?"
       ]
     },
     {
-      "id": "curiosidad_mario_origen",
+      "id": "curiosidad_origen_mario",
       "categoria": "curiosidades",
       "mensajes": [
-        "&e&lHistoria Gaming:",
-        "&r&7El icónico Mario no fue fontanero al inicio, su primer trabajo fue como carpintero llamado Jumpman en Donkey Kong."
+        "&e&l¡Dato Curioso Gaming: El Origen de Mario!",
+        "&7Antes de ser el famoso fontanero, Mario fue un carpintero llamado \"Jumpman\" en Donkey Kong."
       ]
     },
     {
-      "id": "curiosidad_mortal_kombat_esrb",
+      "id": "curiosidad_primer_easter_egg",
       "categoria": "curiosidades",
       "mensajes": [
-        "&d&lImpacto Gaming:",
-        "&r&7Mortal Kombat jugó un papel crucial en la creación de los sistemas de clasificación por edad en los videojuegos debido a su contenido."
-      ]
-    },
-    {
-      "id": "lanzamiento_gears_of_war",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&c&l¡Lanzamiento Épico!",
-        "&r&7\"Gears of War: E-Day\" se estrena esta semana, prometiendo una nueva dosis de acción intensa para los fans."
-      ]
-    },
-    {
-      "id": "lanzamiento_epic_mickey",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&a&l¡Clásico Renovado!",
-        "&r&7\"Disney Epic Mickey Rebrushed\" llega esta semana, reviviendo la aventura del famoso ratón en una versión remasterizada."
+        "&d&l¡Dato Curioso Gaming: Primer Easter Egg!",
+        "&7El primer \"huevo de pascua\" en videojuegos fue la firma oculta del programador Warren Robinett en el juego Adventure de Atari 2600 en 1980."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "TUESDAY",
-      "titulo": "&c&l¡Día de los Locust!",
+      "dia": "FRIDAY",
+      "titulo": "&c&l¡Fuerza del Relámpago!",
       "descripcion": [
-        "&7¡Gears of War: E-Day se lanza esta semana!",
-        "&7Diamantes valen 20% más y obtén Fuerza II."
+        "&7¡Thunder Hoop Collection ya disponible!",
+        "&7Obtén Fuerza II para tus combates."
       ],
-      "tipo": "AMBOS",
-      "item": "DIAMOND",
-      "porcentaje_extra": 20.0,
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
       "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
       "todo_el_dia": true,
