@@ -1,93 +1,76 @@
 {
   "anuncios": [
     {
-      "id": "noticia_trial_chambers",
+      "id": "actualizacion_1_21_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Cámaras de Desafío Descubiertas!",
-        "&7Explora las nuevas Trial Chambers, estructuras subterráneas llenas de trampas y retos de combate generados aleatoriamente."
+        "&a&l¡ACTUALIZACIÓN 1.21 'TRICKY TRIALS' LLEGÓ! &7Descubre todas las novedades y desafíos que te esperan en tu mundo, lanzada el 13 de junio de 2024."
       ]
     },
     {
-      "id": "noticia_nuevos_mobs",
+      "id": "explora_camaras_desafio",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡Enfrenta a los Nuevos Mobs!",
-        "&7Prepárate para desafiar al veloz Breeze con sus ataques de viento y al peligroso Bogged, un esqueleto cubierto de musgo y flechas venenosas."
+        "&b&l¡EXPLORA LAS CÁMARAS DE DESAFÍO! &7Enfréntate a las nuevas estructuras subterráneas diseñadas para el combate con spawners dinámicos y tesoros."
       ]
     },
     {
-      "id": "noticia_maza_poderosa",
+      "id": "cuidado_con_el_breeze",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Domina la Maza Poderosa!",
-        "&7Descubre la nueva arma que inflige más daño cuanto más alto caes antes de golpear a tu objetivo."
+        "&e&l¡CUIDADO CON EL BREEZE! &7Este nuevo mob hostil te atacará con ráfagas de viento en las Trial Chambers. ¡Prepárate para la batalla!"
       ]
     },
     {
-      "id": "noticia_fabricador",
+      "id": "el_bogged_hace_su_aparicion",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Automatiza con el Fabricador!",
-        "&7Simplifica tus procesos con el nuevo bloque Crafter, que permite la creación automática de objetos usando Redstone."
+        "&d&l¡EL BOGGED HACE SU APARICIÓN! &7Un nuevo esqueleto variante cubierto de musgo con flechas venenosas te acecha en pantanos y Trial Chambers."
       ]
     },
     {
-      "id": "noticia_cobre_expandido",
+      "id": "automatiza_con_el_crafter",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡Decoración con Cobre Expandida!",
-        "&7Embellece tus construcciones con una gran variedad de nuevos bloques de cobre, incluyendo lámparas que se atenúan al oxidarse."
+        "&7&l¡AUTOMATIZA CON EL CRAFTER! &7Simplifica tus creaciones con el nuevo bloque que permite craftear automáticamente usando redstone."
       ]
     },
     {
-      "id": "noticia_nuevas_obras_arte",
+      "id": "domina_la_maza",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Nuevas Obras de Arte!",
-        "&7Personaliza tus bases con la adición de 20 nuevas pinturas para decorar tus paredes."
+        "&c&l¡DOMINA LA MAZA! &7Empuña la nueva y poderosa arma que inflige más daño cuanto mayor sea tu caída, requiriendo un Heavy Core para su creación."
       ]
     },
     {
-      "id": "anuncio_optimizacion_servidor",
+      "id": "nuevos_bloques_cobre_toba",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡Optimización del Servidor!",
-        "&7Hemos implementado mejoras de rendimiento generales para asegurar una experiencia de juego más fluida y estable para todos."
+        "&a&l¡NUEVOS BLOQUES DE COBRE Y TOBA! &7Decora y construye como nunca antes con las nuevas variantes de cobre (bombillas, puertas) y toba."
       ]
     },
     {
-      "id": "curiosidad_minecraft_mas_vendido",
-      "categoria": "curiosidades",
+      "id": "armadillos_armadura_lobos",
+      "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Dato Curioso Gaming: Minecraft el Rey!",
-        "&7¿Sabías que Minecraft es el videojuego más vendido de la historia, con más de 200 millones de copias vendidas?"
+        "&b&l¡ARMADILLOS Y ARMADURA PARA LOBOS! &7Encuentra a los armadillos en sabanas y utiliza sus escamas para proteger a tu fiel compañero con la nueva armadura de lobo."
       ]
     },
     {
-      "id": "curiosidad_origen_mario",
-      "categoria": "curiosidades",
+      "id": "desafios_siniestros",
+      "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Dato Curioso Gaming: El Origen de Mario!",
-        "&7Antes de ser el famoso fontanero, Mario fue un carpintero llamado \"Jumpman\" en Donkey Kong."
-      ]
-    },
-    {
-      "id": "curiosidad_primer_easter_egg",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&d&l¡Dato Curioso Gaming: Primer Easter Egg!",
-        "&7El primer \"huevo de pascua\" en videojuegos fue la firma oculta del programador Warren Robinett en el juego Adventure de Atari 2600 en 1980."
+        "&e&l¡DESAFÍOS SINIESTROS! &7Las Ominous Bottles te llevarán a pruebas más difíciles dentro de las Trial Chambers, ofreciendo recompensas aún mayores."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "FRIDAY",
-      "titulo": "&c&l¡Fuerza del Relámpago!",
+      "dia": "TUESDAY",
+      "titulo": "&c&l¡DÍA E: INVASIÓN LOCUST!",
       "descripcion": [
-        "&7¡Thunder Hoop Collection ya disponible!",
-        "&7Obtén Fuerza II para tus combates."
+        "&7¡Gears of War: E-Day se lanzó!",
+        "&7Obtén Fuerza II en todo el servidor."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
