@@ -1,82 +1,63 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21_tricky_trials",
+      "id": "noticia_tricky_trials_update",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21 'TRICKY TRIALS' LLEGÓ! &7Descubre todas las novedades y desafíos que te esperan en tu mundo, lanzada el 13 de junio de 2024."
+        "&a&l¡La Actualización \"Tricky Trials\" ha llegado! &7Explora las Cámaras de Prueba, enfrenta al Breeze y domina la Maza.",
+        "&b&l¡Nuevas Armas y Enemigos! &7Descubre la Maza con encantamientos como Densidad y Breach, y desafía a los mobs Breeze y Bogged.",
+        "&e&l¡Prepara tus defensas! &7Las Cámaras de Prueba presentan desafíos de combate con el nuevo Bloque Generador de Prueba."
       ]
     },
     {
-      "id": "explora_camaras_desafio",
+      "id": "noticia_mounts_of_mayhem",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡EXPLORA LAS CÁMARAS DE DESAFÍO! &7Enfréntate a las nuevas estructuras subterráneas diseñadas para el combate con spawners dinámicos y tesoros."
+        "&d&l¡Actualización 1.21.11 \"Mounts of Mayhem\"! &7Nuevos mobs como el Nautilo y el Caballo Zombi, ¡además de la Lanza!"
       ]
     },
     {
-      "id": "cuidado_con_el_breeze",
+      "id": "noticia_hotfixes_recientes",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡CUIDADO CON EL BREEZE! &7Este nuevo mob hostil te atacará con ráfagas de viento en las Trial Chambers. ¡Prepárate para la batalla!"
+        "&7¡Hotfixes Recientes! &7Las versiones 1.21.10 (Java) y 1.21.100 (Bedrock) corrigen importantes errores para una experiencia más fluida."
       ]
     },
     {
-      "id": "el_bogged_hace_su_aparicion",
-      "categoria": "noticias",
+      "id": "curiosidad_minecraft_mas_vendido",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&d&l¡EL BOGGED HACE SU APARICIÓN! &7Un nuevo esqueleto variante cubierto de musgo con flechas venenosas te acecha en pantanos y Trial Chambers."
+        "&a&l¡Minecraft, el Gigante de los Juegos! &7Es el videojuego más vendido de la historia, ¡con millones de aventureros en todo el mundo!"
       ]
     },
     {
-      "id": "automatiza_con_el_crafter",
-      "categoria": "noticias",
+      "id": "curiosidad_tamano_mundo_minecraft",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&7&l¡AUTOMATIZA CON EL CRAFTER! &7Simplifica tus creaciones con el nuevo bloque que permite craftear automáticamente usando redstone."
+        "&b&l¡El Mundo de Minecraft es ENORME! &7Su Overworld es más de 9 millones de veces más grande que la Tierra real."
       ]
     },
     {
-      "id": "domina_la_maza",
-      "categoria": "noticias",
+      "id": "consejo_materiales_camaras",
+      "categoria": "consejos",
       "mensajes": [
-        "&c&l¡DOMINA LA MAZA! &7Empuña la nueva y poderosa arma que inflige más daño cuanto mayor sea tu caída, requiriendo un Heavy Core para su creación."
-      ]
-    },
-    {
-      "id": "nuevos_bloques_cobre_toba",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&l¡NUEVOS BLOQUES DE COBRE Y TOBA! &7Decora y construye como nunca antes con las nuevas variantes de cobre (bombillas, puertas) y toba."
-      ]
-    },
-    {
-      "id": "armadillos_armadura_lobos",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&l¡ARMADILLOS Y ARMADURA PARA LOBOS! &7Encuentra a los armadillos en sabanas y utiliza sus escamas para proteger a tu fiel compañero con la nueva armadura de lobo."
-      ]
-    },
-    {
-      "id": "desafios_siniestros",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡DESAFÍOS SINIESTROS! &7Las Ominous Bottles te llevarán a pruebas más difíciles dentro de las Trial Chambers, ofreciendo recompensas aún mayores."
+        "&e&l¡Materiales de las Cámaras! &7Las nuevas estructuras subterráneas están hechas de toba y cobre, ¡perfectas para tus construcciones!"
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "TUESDAY",
-      "titulo": "&c&l¡DÍA E: INVASIÓN LOCUST!",
+      "dia": "MONDAY",
+      "titulo": "&c&l¡Día de la Emergencia!",
       "descripcion": [
         "&7¡Gears of War: E-Day se lanzó!",
-        "&7Obtén Fuerza II en todo el servidor."
+        "&7Hierro 25% extra y Fuerza I todo el día."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
+      "tipo": "AMBOS",
+      "item": "IRON_INGOT",
+      "porcentaje_extra": 25.0,
       "efecto_pocion": "STRENGTH",
-      "nivel_efecto": 2,
+      "nivel_efecto": 1,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
