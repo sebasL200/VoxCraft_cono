@@ -1,63 +1,117 @@
 {
   "anuncios": [
     {
-      "id": "noticia_tricky_trials_update",
+      "id": "noticia_1_21_lanzada",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡La Actualización \"Tricky Trials\" ha llegado! &7Explora las Cámaras de Prueba, enfrenta al Breeze y domina la Maza.",
-        "&b&l¡Nuevas Armas y Enemigos! &7Descubre la Maza con encantamientos como Densidad y Breach, y desafía a los mobs Breeze y Bogged.",
-        "&e&l¡Prepara tus defensas! &7Las Cámaras de Prueba presentan desafíos de combate con el nuevo Bloque Generador de Prueba."
+        "&a&l¡Actualización 1.21 Tricky Trials Lanzada!",
+        "&7La esperada actualización ya está aquí, llena de peligros y recompensas para todos los aventureros."
       ]
     },
     {
-      "id": "noticia_mounts_of_mayhem",
+      "id": "noticia_camaras_desafio",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡Actualización 1.21.11 \"Mounts of Mayhem\"! &7Nuevos mobs como el Nautilo y el Caballo Zombi, ¡además de la Lanza!"
+        "&b&l¡Explora las Cámaras de Desafío!",
+        "&7Adéntrate en las nuevas estructuras subterráneas, repletas de emocionantes combates y tesoros ocultos."
       ]
     },
     {
-      "id": "noticia_hotfixes_recientes",
+      "id": "noticia_nuevos_mobs",
       "categoria": "noticias",
       "mensajes": [
-        "&7¡Hotfixes Recientes! &7Las versiones 1.21.10 (Java) y 1.21.100 (Bedrock) corrigen importantes errores para una experiencia más fluida."
+        "&e&l¡Nuevos Mobs: Breeze y Bogged!",
+        "&7Prepárate para enfrentar al astuto Breeze y al peligroso Bogged en tus próximas aventuras por las Trial Chambers."
       ]
     },
     {
-      "id": "curiosidad_minecraft_mas_vendido",
+      "id": "noticia_maza_encantamientos",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡Domina la Maza y sus Encantamientos!",
+        "&7Empuña la poderosa Maza, una nueva arma ideal para el combate vertical, con encantamientos únicos como Densidad y Ráfaga de Viento."
+      ]
+    },
+    {
+      "id": "noticia_fabricador",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&l¡El Fabricador Llega al Juego!",
+        "&7Automatiza la creación de objetos con el nuevo bloque Fabricador y optimiza tus granjas y sistemas de producción."
+      ]
+    },
+    {
+      "id": "noticia_era_cobre",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡La Era del Cobre se Expande!",
+        "&7Descubre nuevas armaduras, objetos y el ingenioso Gólem de Cobre, trayendo más opciones al uso de este versátil metal."
+      ]
+    },
+    {
+      "id": "noticia_servidor_1_21_8",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡Prepara tu Servidor para 1.21.8!",
+        "&7Es crucial mantener tu servidor actualizado para disfrutar de las últimas mejoras de rendimiento y seguridad que traen las versiones más recientes de 1.21.x."
+      ]
+    },
+    {
+      "id": "noticia_eventos_ominosos",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡Eventos Ominosos: Un Nuevo Desafío!",
+        "&7Enfrenta versiones más difíciles de los juicios activando el nuevo sistema de Eventos Ominosos, ¡solo para los más valientes!"
+      ]
+    },
+    {
+      "id": "noticia_bloques_toba_cobre",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡Nuevos Bloques de Toba y Cobre!",
+        "&7Decora tus construcciones con las variadas texturas y usos de los nuevos bloques de toba y cobre, añadiendo más estilo a tus creaciones."
+      ]
+    },
+    {
+      "id": "curiosidades_gaming",
       "categoria": "curiosidades",
       "mensajes": [
-        "&a&l¡Minecraft, el Gigante de los Juegos! &7Es el videojuego más vendido de la historia, ¡con millones de aventureros en todo el mundo!"
+        "&6&lCuriosidades del Mundo Gaming:",
+        "&7- El primer \"Easter Egg\" en un videojuego fue escondido por Warren Robinett en el juego Adventure de Atari 2600 en 1980, como un acto de rebeldía al no recibir crédito por su trabajo.",
+        "&7- El famoso personaje de Nintendo, Mario, originalmente se llamaba \"Jumpman\" y fue rebautizado en honor a Mario Segale, el casero de las oficinas de Nintendo en EE. UU.",
+        "&7- Minecraft es el videojuego más vendido de la historia, con más de 200 millones de copias vendidas en todo el mundo.",
+        "&7- La saga Mortal Kombat fue tan impactante por su violencia que impulsó la creación de los sistemas de clasificación por edades para videojuegos.",
+        "&7- El videojuego con el mapa más grande del mundo es Elder Scrolls: Daggerfall, lanzado en 1996, con una extensión de 161.600 km²."
       ]
     },
     {
-      "id": "curiosidad_tamano_mundo_minecraft",
-      "categoria": "curiosidades",
+      "id": "lanzamientos_videojuegos_oct_5_11",
+      "categoria": "lanzamientos",
       "mensajes": [
-        "&b&l¡El Mundo de Minecraft es ENORME! &7Su Overworld es más de 9 millones de veces más grande que la Tierra real."
-      ]
-    },
-    {
-      "id": "consejo_materiales_camaras",
-      "categoria": "consejos",
-      "mensajes": [
-        "&e&l¡Materiales de las Cámaras! &7Las nuevas estructuras subterráneas están hechas de toba y cobre, ¡perfectas para tus construcciones!"
+        "&d&lLanzamientos de Videojuegos Destacados Esta Semana (del 5 al 11 de octubre de 2026):",
+        "&7Esta semana nos trae algunos títulos muy esperados para diversas plataformas:",
+        "&a&lAion 2 &7(PC): Un nuevo MMORPG free-to-play se lanza el 5 de octubre.",
+        "&a&lGears of War: E-Day &7(Xbox Series X|S, PC): La esperada precuela de la icónica saga llega el 6 de octubre.",
+        "&a&lStar Wars: Galactic Racer &7(PS5, Xbox Series X|S, PC): Prepara tus motores para este nuevo juego de carreras galácticas, disponible el 6 de octubre.",
+        "&a&lDisney Epic Mickey: Rebrushed &7(Switch 2): Una versión remasterizada del clásico de plataformas aterriza el 6 de octubre.",
+        "&a&lDeep Rock Galactic: Survivor &7(PS5, Switch, Switch 2): Este auto-shooter en solitario llega a más consolas el 7 de octubre.",
+        "&a&lDragon's Dogma 2: Dark Arisen Expansion &7(PC, Xbox Series, PS5, Switch 2): Una expansión para el aclamado RPG, disponible el 9 de octubre."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&c&l¡Día de la Emergencia!",
+      "dia": "TUESDAY",
+      "titulo": "&c&l¡Día de la Horda Locust!",
       "descripcion": [
-        "&7¡Gears of War: E-Day se lanzó!",
-        "&7Hierro 25% extra y Fuerza I todo el día."
+        "&7¡Gears of War: E-Day llegó!",
+        "&7Prepárate con Fuerza II todo el día."
       ],
-      "tipo": "AMBOS",
-      "item": "IRON_INGOT",
-      "porcentaje_extra": 25.0,
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
       "efecto_pocion": "STRENGTH",
-      "nivel_efecto": 1,
+      "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
