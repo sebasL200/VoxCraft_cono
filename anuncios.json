@@ -1,116 +1,98 @@
 {
   "anuncios": [
     {
-      "id": "noticia_1_21_lanzada",
+      "id": "nueva_dimension_sift",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Actualización 1.21 Tricky Trials Lanzada!",
-        "&7La esperada actualización ya está aquí, llena de peligros y recompensas para todos los aventureros."
+        "&a&l¡Nueva Dimensión Anunciada!",
+        "&7Mojang reveló &b'The Sift'&7, la cuarta dimensión, ¡llegando en 2027!"
       ]
     },
     {
-      "id": "noticia_camaras_desafio",
+      "id": "cuevas_heladas_frostbite",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Explora las Cámaras de Desafío!",
-        "&7Adéntrate en las nuevas estructuras subterráneas, repletas de emocionantes combates y tesoros ocultos."
+        "&e&l¡Prepárense para las Cuevas Heladas!",
+        "&7La próxima gran actualización traerá cuevas de hielo, el &bFrostbite &7y un efecto de &bCongelación &7en Q4 2026."
       ]
     },
     {
-      "id": "noticia_nuevos_mobs",
+      "id": "snapshots_cuevas_heladas",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Nuevos Mobs: Breeze y Bogged!",
-        "&7Prepárate para enfrentar al astuto Breeze y al peligroso Bogged en tus próximas aventuras por las Trial Chambers."
+        "&b&l¡Prueba las Novedades Ya!",
+        "&7Los snapshots de Java 26.4 y Bedrock Preview 26.60.29 ya permiten explorar las cuevas heladas."
       ]
     },
     {
-      "id": "noticia_maza_encantamientos",
+      "id": "wilderness_bound_lanzado",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡Domina la Maza y sus Encantamientos!",
-        "&7Empuña la poderosa Maza, una nueva arma ideal para el combate vertical, con encantamientos únicos como Densidad y Ráfaga de Viento."
+        "&d&l¡Wilderness Bound Lanzado!",
+        "&7La versión 26.3 (Java) y 26.50 (Bedrock) ya está disponible, con bosques otoñales y campamentos."
       ]
     },
     {
-      "id": "noticia_fabricador",
+      "id": "minecraft_switch_2",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡El Fabricador Llega al Juego!",
-        "&7Automatiza la creación de objetos con el nuevo bloque Fabricador y optimiza tus granjas y sistemas de producción."
+        "&e&l¡Minecraft llega a Nintendo Switch 2!",
+        "&7Disfruta de la versión con 'Vibrant Visuals' y un pack de Mario actualizado el 27 de octubre."
       ]
     },
     {
-      "id": "noticia_era_cobre",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&l¡La Era del Cobre se Expande!",
-        "&7Descubre nuevas armaduras, objetos y el ingenioso Gólem de Cobre, trayendo más opciones al uso de este versátil metal."
-      ]
-    },
-    {
-      "id": "noticia_servidor_1_21_8",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&l¡Prepara tu Servidor para 1.21.8!",
-        "&7Es crucial mantener tu servidor actualizado para disfrutar de las últimas mejoras de rendimiento y seguridad que traen las versiones más recientes de 1.21.x."
-      ]
-    },
-    {
-      "id": "noticia_eventos_ominosos",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡Eventos Ominosos: Un Nuevo Desafío!",
-        "&7Enfrenta versiones más difíciles de los juicios activando el nuevo sistema de Eventos Ominosos, ¡solo para los más valientes!"
-      ]
-    },
-    {
-      "id": "noticia_bloques_toba_cobre",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡Nuevos Bloques de Toba y Cobre!",
-        "&7Decora tus construcciones con las variadas texturas y usos de los nuevos bloques de toba y cobre, añadiendo más estilo a tus creaciones."
-      ]
-    },
-    {
-      "id": "curiosidades_gaming",
+      "id": "regresa_codigo_konami",
       "categoria": "curiosidades",
       "mensajes": [
-        "&6&lCuriosidades del Mundo Gaming:",
-        "&7- El primer \"Easter Egg\" en un videojuego fue escondido por Warren Robinett en el juego Adventure de Atari 2600 en 1980, como un acto de rebeldía al no recibir crédito por su trabajo.",
-        "&7- El famoso personaje de Nintendo, Mario, originalmente se llamaba \"Jumpman\" y fue rebautizado en honor a Mario Segale, el casero de las oficinas de Nintendo en EE. UU.",
-        "&7- Minecraft es el videojuego más vendido de la historia, con más de 200 millones de copias vendidas en todo el mundo.",
-        "&7- La saga Mortal Kombat fue tan impactante por su violencia que impulsó la creación de los sistemas de clasificación por edades para videojuegos.",
-        "&7- El videojuego con el mapa más grande del mundo es Elder Scrolls: Daggerfall, lanzado en 1996, con una extensión de 161.600 km²."
+        "&a&l¡Regresa el Código Konami!",
+        "&7¿Sabías que este famoso código ha aparecido en más de 100 videojuegos? ¡Un clásico!"
       ]
     },
     {
-      "id": "lanzamientos_videojuegos_oct_5_11",
-      "categoria": "lanzamientos",
+      "id": "recuerda_tricky_trials",
+      "categoria": "consejos",
       "mensajes": [
-        "&d&lLanzamientos de Videojuegos Destacados Esta Semana (del 5 al 11 de octubre de 2026):",
-        "&7Esta semana nos trae algunos títulos muy esperados para diversas plataformas:",
-        "&a&lAion 2 &7(PC): Un nuevo MMORPG free-to-play se lanza el 5 de octubre.",
-        "&a&lGears of War: E-Day &7(Xbox Series X|S, PC): La esperada precuela de la icónica saga llega el 6 de octubre.",
-        "&a&lStar Wars: Galactic Racer &7(PS5, Xbox Series X|S, PC): Prepara tus motores para este nuevo juego de carreras galácticas, disponible el 6 de octubre.",
-        "&a&lDisney Epic Mickey: Rebrushed &7(Switch 2): Una versión remasterizada del clásico de plataformas aterriza el 6 de octubre.",
-        "&a&lDeep Rock Galactic: Survivor &7(PS5, Switch, Switch 2): Este auto-shooter en solitario llega a más consolas el 7 de octubre.",
-        "&a&lDragon's Dogma 2: Dark Arisen Expansion &7(PC, Xbox Series, PS5, Switch 2): Una expansión para el aclamado RPG, disponible el 9 de octubre."
+        "&c&l¡Recuerda Tricky Trials!",
+        "&7La actualización 1.21.x trae cámaras de prueba, nuevos mobs y el auto-crafter. ¡Sigue explorando sus desafíos!"
+      ]
+    },
+    {
+      "id": "dato_curioso_mario",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7&lDato Curioso Gaming:",
+        "&7Originalmente, ¡Mario era un carpintero antes de convertirse en plomero!"
+      ]
+    },
+    {
+      "id": "novedad_servidores_whitelist",
+      "categoria": "consejos",
+      "mensajes": [
+        "&7&lNovedad en Servidores:",
+        "&7La lista blanca viene activada por defecto en los nuevos servidores desde la versión 26.3 Wilderness Bound."
+      ]
+    },
+    {
+      "id": "minecraft_dungeons_ii_lanzado",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡Minecraft Dungeons II ya Disponible!",
+        "&7Ya puedes experimentar 'The Sift' en este nuevo título, lanzado el 29 de septiembre de 2026."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "TUESDAY",
-      "titulo": "&c&l¡Día de la Horda Locust!",
+      "dia": "WEDNESDAY",
+      "titulo": "&b&l¡La Escarcha de las Cuevas Heladas!",
       "descripcion": [
-        "&7¡Gears of War: E-Day llegó!",
-        "&7Prepárate con Fuerza II todo el día."
+        "&7¡Explora las nuevas cuevas heladas en previews!",
+        "&7Obtén Resistencia II al minar en cuevas."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "STRENGTH",
+      "efecto_pocion": "RESISTANCE",
       "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
