@@ -1,102 +1,62 @@
 {
   "anuncios": [
     {
-      "id": "nueva_dimension_sift",
+      "id": "novedades_servidor_minecraft",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Nueva Dimensión Anunciada!",
-        "&7Mojang reveló &b'The Sift'&7, la cuarta dimensión, ¡llegando en 2027!"
+        "&7¡Prepara tus herramientas y explora el mundo! Aquí te traemos las últimas noticias para mantenerte al día con todo lo que sucede en el universo de Minecraft y en nuestro servidor.",
+        "&b&l¡EXPLORA LA DIMENSIÓN SIFT!&r &7Mojang ha anunciado la primera nueva dimensión en más de 14 años, \"The Sift\", que llegará en 2027 a Java y Bedrock Edition. ¡Prepárense para una aventura completamente nueva!",
+        "&e&l¡NIEVE Y PELIGRO EN LAS CUEVAS DE HIELO!&r &7Llegan las nuevas cuevas de hielo con cristales que emiten luz (¡cuidado que se derriten!) y una variante de mob hostil, el Zombie Congelado, que lanza bolas de hielo.",
+        "&d&l¡MINECRAFT DUNGEONS II ANUNCIADO!&r &7En Minecraft Live 2026 se reveló la secuela, Minecraft Dungeons II. ¡Más mazmorras, más botín y más acción te esperan!",
+        "&a&l¡MINECRAFT LLEGA A NINTENDO SWITCH 2!&r &7A partir del 27 de octubre de 2026, Minecraft estará disponible en Nintendo Switch 2 con gráficos mejorados y \"Vibrant Visuals\".",
+        "&b&l¡ACTUALIZACIÓN GRATUITA PARA SWITCH!&r &7Si ya tienes Minecraft digital en tu Switch original, podrás obtener la Standard Edition para Switch 2 gratis hasta enero de 2027.",
+        "&e&l¡ABRE EL HOTEL MINECRAFT!&r &7Mojang abrirá su primer hotel temático de Minecraft en el Chessington World of Adventures Resort de Londres, ofreciendo una experiencia inmersiva única.",
+        "&a&l¡DESAFÍO WILDERNESS BOUND ACTIVO!&r &7Participa en el Desafío de la Comunidad \"Wilderness Bound\" colocando cojines y camas de paja para ganar ítems de creador de personaje y skins de Java exclusivos.",
+        "&c&l¡SNAPSHOTS RECIENTES DISPONIBLES!&r &7Las últimas versiones de desarrollo, como Minecraft 26.4 Snapshot 3 y Minecraft Preview 26.60, ya están disponibles para pruebas. ¡Ayuda a moldear el futuro de Minecraft!",
+        "&b&l¡MAZA Y CARGA DE VIENTO!&r &7Recuerda las potentes adiciones de la actualización 1.21: la Maza para combates devastadores y las Cargas de Viento para un movimiento dinámico.",
+        "&e&l¡BLOQUES DE COBRE Y TUBA!&r &7No olvides explorar las nuevas posibilidades de construcción y decoración que ofrecen los bloques de Cobre y Toba, elementos clave de la Tricky Trials Update."
       ]
     },
     {
-      "id": "cuevas_heladas_frostbite",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡Prepárense para las Cuevas Heladas!",
-        "&7La próxima gran actualización traerá cuevas de hielo, el &bFrostbite &7y un efecto de &bCongelación &7en Q4 2026."
-      ]
-    },
-    {
-      "id": "snapshots_cuevas_heladas",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&l¡Prueba las Novedades Ya!",
-        "&7Los snapshots de Java 26.4 y Bedrock Preview 26.60.29 ya permiten explorar las cuevas heladas."
-      ]
-    },
-    {
-      "id": "wilderness_bound_lanzado",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡Wilderness Bound Lanzado!",
-        "&7La versión 26.3 (Java) y 26.50 (Bedrock) ya está disponible, con bosques otoñales y campamentos."
-      ]
-    },
-    {
-      "id": "minecraft_switch_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡Minecraft llega a Nintendo Switch 2!",
-        "&7Disfruta de la versión con 'Vibrant Visuals' y un pack de Mario actualizado el 27 de octubre."
-      ]
-    },
-    {
-      "id": "regresa_codigo_konami",
+      "id": "curiosidades_gaming",
       "categoria": "curiosidades",
       "mensajes": [
-        "&a&l¡Regresa el Código Konami!",
-        "&7¿Sabías que este famoso código ha aparecido en más de 100 videojuegos? ¡Un clásico!"
+        "&l&7Curiosidades del Mundo Gaming:",
+        "&7El primer \"Easter Egg\" fue una forma de rebelión: en 1980, el programador Warren Robinett escondió su nombre en una sala secreta del juego Adventure para Atari 2600.",
+        "&7Originalmente, Mario se llamaba \"Jumpman\". Fue rebautizado como \"Mario\" en honor a Mario Segale, el casero de las oficinas de Nintendo en EE. UU.",
+        "&7Samus Aran, la protagonista de Metroid de 1986, sorprendió a los jugadores al revelarse como mujer al final del juego, un giro revolucionario para la época.",
+        "&7Minecraft es el videojuego más vendido de la historia, con más de 200 millones de copias vendidas en todo el mundo, superando a títulos como GTA V y Tetris.",
+        "&7El primer torneo de eSports se celebró el 19 de octubre de 1972 en la Universidad de Stanford, llamado \"The Intergalactic Spacewar Olympics\", con un premio de una suscripción a la revista Rolling Stones."
       ]
     },
     {
-      "id": "recuerda_tricky_trials",
-      "categoria": "consejos",
-      "mensajes": [
-        "&c&l¡Recuerda Tricky Trials!",
-        "&7La actualización 1.21.x trae cámaras de prueba, nuevos mobs y el auto-crafter. ¡Sigue explorando sus desafíos!"
-      ]
-    },
-    {
-      "id": "dato_curioso_mario",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lDato Curioso Gaming:",
-        "&7Originalmente, ¡Mario era un carpintero antes de convertirse en plomero!"
-      ]
-    },
-    {
-      "id": "novedad_servidores_whitelist",
-      "categoria": "consejos",
-      "mensajes": [
-        "&7&lNovedad en Servidores:",
-        "&7La lista blanca viene activada por defecto en los nuevos servidores desde la versión 26.3 Wilderness Bound."
-      ]
-    },
-    {
-      "id": "minecraft_dungeons_ii_lanzado",
+      "id": "lanzamientos_videojuegos_semana",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Minecraft Dungeons II ya Disponible!",
-        "&7Ya puedes experimentar 'The Sift' en este nuevo título, lanzado el 29 de septiembre de 2026."
+        "&l&eLanzamientos de Videojuegos esta Semana (12 al 18 de Octubre de 2026):",
+        "&b&lPlanet Zoo 2&r (PC)",
+        "&b&lCastlevania: Belmont's Curse&r (PC, PS5, Xbox Series X/S, Switch 2)",
+        "&b&lEnshrouded&r (PS5, PC - sale de acceso anticipado en PC)",
+        "&b&lSound System&r (PC)"
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "WEDNESDAY",
-      "titulo": "&b&l¡La Escarcha de las Cuevas Heladas!",
+      "dia": "THURSDAY",
+      "titulo": "&c&l¡La Maldición del Cazador!",
       "descripcion": [
-        "&7¡Explora las nuevas cuevas heladas en previews!",
-        "&7Obtén Resistencia II al minar en cuevas."
+        "&7¡Castlevania: Belmont's Curse se lanzó!",
+        "&7Obtén Fuerza II y Resistencia I."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
-      "efecto_pocion": "RESISTANCE",
+      "tipo": "AMBOS",
+      "item": "BONE",
+      "porcentaje_extra": 50.0,
+      "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
+      "todo_el_dia": false,
+      "hora_inicio": 18,
+      "hora_fin": 20
     }
   ]
 }
