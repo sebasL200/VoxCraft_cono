@@ -1,62 +1,150 @@
 {
   "anuncios": [
     {
-      "id": "novedades_servidor_minecraft",
+      "id": "noticia_trial_chambers",
       "categoria": "noticias",
       "mensajes": [
-        "&7¡Prepara tus herramientas y explora el mundo! Aquí te traemos las últimas noticias para mantenerte al día con todo lo que sucede en el universo de Minecraft y en nuestro servidor.",
-        "&b&l¡EXPLORA LA DIMENSIÓN SIFT!&r &7Mojang ha anunciado la primera nueva dimensión en más de 14 años, \"The Sift\", que llegará en 2027 a Java y Bedrock Edition. ¡Prepárense para una aventura completamente nueva!",
-        "&e&l¡NIEVE Y PELIGRO EN LAS CUEVAS DE HIELO!&r &7Llegan las nuevas cuevas de hielo con cristales que emiten luz (¡cuidado que se derriten!) y una variante de mob hostil, el Zombie Congelado, que lanza bolas de hielo.",
-        "&d&l¡MINECRAFT DUNGEONS II ANUNCIADO!&r &7En Minecraft Live 2026 se reveló la secuela, Minecraft Dungeons II. ¡Más mazmorras, más botín y más acción te esperan!",
-        "&a&l¡MINECRAFT LLEGA A NINTENDO SWITCH 2!&r &7A partir del 27 de octubre de 2026, Minecraft estará disponible en Nintendo Switch 2 con gráficos mejorados y \"Vibrant Visuals\".",
-        "&b&l¡ACTUALIZACIÓN GRATUITA PARA SWITCH!&r &7Si ya tienes Minecraft digital en tu Switch original, podrás obtener la Standard Edition para Switch 2 gratis hasta enero de 2027.",
-        "&e&l¡ABRE EL HOTEL MINECRAFT!&r &7Mojang abrirá su primer hotel temático de Minecraft en el Chessington World of Adventures Resort de Londres, ofreciendo una experiencia inmersiva única.",
-        "&a&l¡DESAFÍO WILDERNESS BOUND ACTIVO!&r &7Participa en el Desafío de la Comunidad \"Wilderness Bound\" colocando cojines y camas de paja para ganar ítems de creador de personaje y skins de Java exclusivos.",
-        "&c&l¡SNAPSHOTS RECIENTES DISPONIBLES!&r &7Las últimas versiones de desarrollo, como Minecraft 26.4 Snapshot 3 y Minecraft Preview 26.60, ya están disponibles para pruebas. ¡Ayuda a moldear el futuro de Minecraft!",
-        "&b&l¡MAZA Y CARGA DE VIENTO!&r &7Recuerda las potentes adiciones de la actualización 1.21: la Maza para combates devastadores y las Cargas de Viento para un movimiento dinámico.",
-        "&e&l¡BLOQUES DE COBRE Y TUBA!&r &7No olvides explorar las nuevas posibilidades de construcción y decoración que ofrecen los bloques de Cobre y Toba, elementos clave de la Tricky Trials Update."
+        "&l&d¡Prepárense para los Desafíos!",
+        "&7Las nuevas 'Trial Chambers' han llegado, estructuras llenas de retos y recompensas aguardan a los más valientes. ¡Encuéntrenlas y conquisten sus peligros!"
       ]
     },
     {
-      "id": "curiosidades_gaming",
+      "id": "noticia_autocrafteo",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&b¡Automatiza tus Creaciones!",
+        "&7La función de auto-crafteo ya está disponible, llevando la eficiencia a un nuevo nivel para todos los ingenieros de Redstone."
+      ]
+    },
+    {
+      "id": "noticia_wind_charges",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&e¡Dominio Aéreo con Cargas de Viento!",
+        "&7Descubre y utiliza las nuevas 'Wind Charges' para un movimiento táctico y combates dinámicos."
+      ]
+    },
+    {
+      "id": "noticia_arma_mazo",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&c¡El Mazo, un Arma de Leyenda!",
+        "&7Forja y empuña el nuevo 'Mace', un arma de rareza Épica capaz de infligir daño devastador."
+      ]
+    },
+    {
+      "id": "noticia_armadura_lobos",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&d¡Protege a tus Fieles Lobos!",
+        "&7Los adorables armadillos llegan con sus 'Scutes', perfectos para crear la nueva y muy esperada armadura para lobos."
+      ]
+    },
+    {
+      "id": "noticia_lamparas_cobre",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&7¡Iluminación Dinámica con Lámparas de Cobre!",
+        "&7Experimenta con las nuevas lámparas de cobre, cuya luz varía según su nivel de oxidación."
+      ]
+    },
+    {
+      "id": "noticia_nuevas_pinturas",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&a¡Renueva tus Estancias con Nuevas Pinturas!",
+        "&7Se han añadido 20 nuevas pinturas, ofreciendo más opciones para personalizar tus construcciones."
+      ]
+    },
+    {
+      "id": "noticia_objetos_epicos",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&b¡Objetos Épicos Redefinidos!",
+        "&7El 'Heavy Core', el Tridente y el Mazo ahora brillan con el glorioso color púrpura de la rareza Épica."
+      ]
+    },
+    {
+      "id": "noticia_bioma_dappled_forest",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&e¡Explora el Bioma 'Dappled Forest'!",
+        "&7La actualización 26.3/26.50 'Wilderness Bound' trae consigo el hermoso bioma 'Dappled Forest' y nuevos bloques de concreto y lana, además de cojines para tus bases."
+      ]
+    },
+    {
+      "id": "noticia_escudos_prioritarios",
+      "categoria": "noticias",
+      "mensajes": [
+        "&l&a¡Escudos Prioritarios en Combate!",
+        "&7Tus escudos ahora tienen prioridad sobre las palas y azadas, evitando accidentes al bloquear en el fragor de la batalla."
+      ]
+    },
+    {
+      "id": "curiosidad_primer_easter_egg",
       "categoria": "curiosidades",
       "mensajes": [
-        "&l&7Curiosidades del Mundo Gaming:",
-        "&7El primer \"Easter Egg\" fue una forma de rebelión: en 1980, el programador Warren Robinett escondió su nombre en una sala secreta del juego Adventure para Atari 2600.",
-        "&7Originalmente, Mario se llamaba \"Jumpman\". Fue rebautizado como \"Mario\" en honor a Mario Segale, el casero de las oficinas de Nintendo en EE. UU.",
-        "&7Samus Aran, la protagonista de Metroid de 1986, sorprendió a los jugadores al revelarse como mujer al final del juego, un giro revolucionario para la época.",
-        "&7Minecraft es el videojuego más vendido de la historia, con más de 200 millones de copias vendidas en todo el mundo, superando a títulos como GTA V y Tetris.",
-        "&7El primer torneo de eSports se celebró el 19 de octubre de 1972 en la Universidad de Stanford, llamado \"The Intergalactic Spacewar Olympics\", con un premio de una suscripción a la revista Rolling Stones."
+        "&d&lEl Primer 'Easter Egg' por Rebeldía:",
+        "&7El programador Warren Robinett escondió su nombre en el juego 'Adventure' (1980) para Atari 2600, creando el primer 'Easter Egg' por falta de créditos empresariales."
       ]
     },
     {
-      "id": "lanzamientos_videojuegos_semana",
+      "id": "curiosidad_origen_mario",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&d&lEl Origen del Nombre de Mario:",
+        "&7El icónico personaje de Nintendo, originalmente 'Jumpman', fue rebautizado como 'Mario' en honor a Mario Segale, el casero de las oficinas de Nintendo en EE. UU. que reclamaba un alquiler atrasado."
+      ]
+    },
+    {
+      "id": "curiosidad_samus_aran",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&d&lSamus Aran, la Heroína Sorpresa:",
+        "&7En el lanzamiento de 'Metroid' (1986), los jugadores asumían que Samus era hombre, una revelación que sorprendió a muchos al final del juego."
+      ]
+    },
+    {
+      "id": "curiosidad_minecraft_mas_vendido",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&d&lMinecraft, el Más Vendido:",
+        "&7Con más de 200 millones de copias, Minecraft ostenta el título del videojuego más vendido de la historia, superando a gigantes como GTA V y Tetris."
+      ]
+    },
+    {
+      "id": "curiosidad_juego_mas_costoso",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&d&lEl Juego Más Costoso de Crear:",
+        "&7'Red Dead Redemption 2' se posiciona como el videojuego con la creación más cara de la historia, con una inversión de 800 millones de dólares."
+      ]
+    },
+    {
+      "id": "noticia_lanzamientos_semana",
       "categoria": "noticias",
       "mensajes": [
-        "&l&eLanzamientos de Videojuegos esta Semana (12 al 18 de Octubre de 2026):",
-        "&b&lPlanet Zoo 2&r (PC)",
-        "&b&lCastlevania: Belmont's Curse&r (PC, PS5, Xbox Series X/S, Switch 2)",
-        "&b&lEnshrouded&r (PS5, PC - sale de acceso anticipado en PC)",
-        "&b&lSound System&r (PC)"
+        "&a&lLanzamientos Destacados de la Semana (12-18 de octubre de 2026):",
+        "&7Esta semana, el mundo del gaming se prepara para la llegada de títulos importantes. Entre ellos, se perfilan lanzamientos esperados como &bPhantom Blade Zero &7y &bModern Warfare 4 &7en PS5."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "THURSDAY",
-      "titulo": "&c&l¡La Maldición del Cazador!",
+      "dia": "WEDNESDAY",
+      "titulo": "&c&l¡Día de Combate Táctico!",
       "descripcion": [
-        "&7¡Castlevania: Belmont's Curse se lanzó!",
-        "&7Obtén Fuerza II y Resistencia I."
+        "&7¡Modern Warfare 4 ha llegado hoy!",
+        "&7Obtén Fuerza II en combate todo el día."
       ],
-      "tipo": "AMBOS",
-      "item": "BONE",
-      "porcentaje_extra": 50.0,
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
       "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
-      "hora_fin": 20
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
     }
   ]
 }
