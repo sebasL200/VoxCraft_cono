@@ -1,145 +1,124 @@
 {
   "anuncios": [
     {
-      "id": "noticia_trial_chambers",
+      "id": "noticia_actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&l&d¡Prepárense para los Desafíos!",
-        "&7Las nuevas 'Trial Chambers' han llegado, estructuras llenas de retos y recompensas aguardan a los más valientes. ¡Encuéntrenlas y conquisten sus peligros!"
+        "&a&l¡ACTUALIZACIÓN 1.21 YA DISPONIBLE!",
+        "&7La tan esperada \"Tricky Trials\" trae nuevas aventuras y desafíos a tu mundo."
       ]
     },
     {
-      "id": "noticia_autocrafteo",
+      "id": "noticia_nuevos_mobs_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&l&b¡Automatiza tus Creaciones!",
-        "&7La función de auto-crafteo ya está disponible, llevando la eficiencia a un nuevo nivel para todos los ingenieros de Redstone."
+        "&b&l¡NUEVOS MOBS EN LA 1.21!",
+        "&7Enfrenta al veloz Breeze en las Trial Chambers y al venenoso Bogged en pantanos y Trial Chambers."
       ]
     },
     {
-      "id": "noticia_wind_charges",
+      "id": "noticia_desafios_mortales",
       "categoria": "noticias",
       "mensajes": [
-        "&l&e¡Dominio Aéreo con Cargas de Viento!",
-        "&7Descubre y utiliza las nuevas 'Wind Charges' para un movimiento táctico y combates dinámicos."
+        "&e&l¡DESAFÍOS MORTALES!",
+        "&7Explora las nuevas Trial Chambers, repletas de generadores de monstruos y tesoros ocultos."
       ]
     },
     {
-      "id": "noticia_arma_mazo",
+      "id": "noticia_maza_arma_letal",
       "categoria": "noticias",
       "mensajes": [
-        "&l&c¡El Mazo, un Arma de Leyenda!",
-        "&7Forja y empuña el nuevo 'Mace', un arma de rareza Épica capaz de infligir daño devastador."
+        "&d&l¡LA MAZA, TU NUEVA ARMA LETAL!",
+        "&7Causa más daño cuanto mayor sea tu caída con esta poderosa herramienta de combate."
       ]
     },
     {
-      "id": "noticia_armadura_lobos",
+      "id": "noticia_automatiza_crafter",
       "categoria": "noticias",
       "mensajes": [
-        "&l&d¡Protege a tus Fieles Lobos!",
-        "&7Los adorables armadillos llegan con sus 'Scutes', perfectos para crear la nueva y muy esperada armadura para lobos."
+        "&7&l¡AUTOMATIZA TU MUNDO CON EL CRAFTER!",
+        "&7El nuevo Bloque Fabricador permite craftear objetos de forma automática usando Redstone."
       ]
     },
     {
-      "id": "noticia_lamparas_cobre",
+      "id": "noticia_bloques_cobre_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&l&7¡Iluminación Dinámica con Lámparas de Cobre!",
-        "&7Experimenta con las nuevas lámparas de cobre, cuya luz varía según su nivel de oxidación."
+        "&a&l¡BLOQUES DE COBRE NUNCA VISTOS!",
+        "&7Descubre la versátil Lámpara de Cobre, puertas, rejas y trampillas de cobre."
       ]
     },
     {
-      "id": "noticia_nuevas_pinturas",
+      "id": "noticia_mapas_exploradores",
       "categoria": "noticias",
       "mensajes": [
-        "&l&a¡Renueva tus Estancias con Nuevas Pinturas!",
-        "&7Se han añadido 20 nuevas pinturas, ofreciendo más opciones para personalizar tus construcciones."
+        "&b&l¡MAPAS PARA EXPLORADORES!",
+        "&7Consigue un \"Trial Explorer Map\" para localizar las Trial Chambers y sus recompensas."
       ]
     },
     {
-      "id": "noticia_objetos_epicos",
+      "id": "noticia_arte_nuevo_base",
       "categoria": "noticias",
       "mensajes": [
-        "&l&b¡Objetos Épicos Redefinidos!",
-        "&7El 'Heavy Core', el Tridente y el Mazo ahora brillan con el glorioso color púrpura de la rareza Épica."
+        "&e&l¡ARTE NUEVO PARA TU BASE!",
+        "&7¡Decora tus construcciones con 20 pinturas inéditas añadidas en la actualización 1.21!"
       ]
     },
     {
-      "id": "noticia_bioma_dappled_forest",
+      "id": "noticia_enemigos_mas_duros_botella_siniestra",
       "categoria": "noticias",
       "mensajes": [
-        "&l&e¡Explora el Bioma 'Dappled Forest'!",
-        "&7La actualización 26.3/26.50 'Wilderness Bound' trae consigo el hermoso bioma 'Dappled Forest' y nuevos bloques de concreto y lana, además de cojines para tus bases."
-      ]
-    },
-    {
-      "id": "noticia_escudos_prioritarios",
-      "categoria": "noticias",
-      "mensajes": [
-        "&l&a¡Escudos Prioritarios en Combate!",
-        "&7Tus escudos ahora tienen prioridad sobre las palas y azadas, evitando accidentes al bloquear en el fragor de la batalla."
+        "&d&l¡ENEMIGOS MÁS DUROS CON LA BOTELLA SINIESTRA!",
+        "&7Activa desafíos aún mayores en las Trial Chambers usando la Ominous Bottle."
       ]
     },
     {
       "id": "curiosidad_primer_easter_egg",
       "categoria": "curiosidades",
       "mensajes": [
-        "&d&lEl Primer 'Easter Egg' por Rebeldía:",
-        "&7El programador Warren Robinett escondió su nombre en el juego 'Adventure' (1980) para Atari 2600, creando el primer 'Easter Egg' por falta de créditos empresariales."
+        "El primer \"Easter Egg\" en un videojuego fue un acto de rebeldía de un desarrollador en el juego Adventure de Atari."
       ]
     },
     {
-      "id": "curiosidad_origen_mario",
+      "id": "curiosidad_mario_jump_man",
       "categoria": "curiosidades",
       "mensajes": [
-        "&d&lEl Origen del Nombre de Mario:",
-        "&7El icónico personaje de Nintendo, originalmente 'Jumpman', fue rebautizado como 'Mario' en honor a Mario Segale, el casero de las oficinas de Nintendo en EE. UU. que reclamaba un alquiler atrasado."
-      ]
-    },
-    {
-      "id": "curiosidad_samus_aran",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&d&lSamus Aran, la Heroína Sorpresa:",
-        "&7En el lanzamiento de 'Metroid' (1986), los jugadores asumían que Samus era hombre, una revelación que sorprendió a muchos al final del juego."
+        "Originalmente, el famoso personaje de Nintendo, Mario, se llamaba \"Jump Man\" y era un carpintero antes de convertirse en el fontanero que todos conocemos."
       ]
     },
     {
       "id": "curiosidad_minecraft_mas_vendido",
       "categoria": "curiosidades",
       "mensajes": [
-        "&d&lMinecraft, el Más Vendido:",
-        "&7Con más de 200 millones de copias, Minecraft ostenta el título del videojuego más vendido de la historia, superando a gigantes como GTA V y Tetris."
+        "Minecraft es el videojuego más vendido de la historia, superando los 200 millones de copias a nivel mundial."
       ]
     },
     {
-      "id": "curiosidad_juego_mas_costoso",
+      "id": "curiosidad_game_boy_espacio",
       "categoria": "curiosidades",
       "mensajes": [
-        "&d&lEl Juego Más Costoso de Crear:",
-        "&7'Red Dead Redemption 2' se posiciona como el videojuego con la creación más cara de la historia, con una inversión de 800 millones de dólares."
+        "La consola Game Boy fue la primera en ser jugada en el espacio por el astronauta ruso Aleksandr A. Serebrov, quien disfrutó de Tetris."
       ]
     },
     {
-      "id": "noticia_lanzamientos_semana",
-      "categoria": "noticias",
+      "id": "curiosidad_daggerfall_mapa",
+      "categoria": "curiosidades",
       "mensajes": [
-        "&a&lLanzamientos Destacados de la Semana (12-18 de octubre de 2026):",
-        "&7Esta semana, el mundo del gaming se prepara para la llegada de títulos importantes. Entre ellos, se perfilan lanzamientos esperados como &bPhantom Blade Zero &7y &bModern Warfare 4 &7en PS5."
+        "El mapa del juego The Elder Scrolls: Daggerfall (1996) es gigantesco, con una extensión de 161.600 KM², empequeñeciendo a muchos juegos modernos."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "WEDNESDAY",
-      "titulo": "&c&l¡Día de Combate Táctico!",
+      "dia": "MONDAY",
+      "titulo": "&c&l¡LA MALDICIÓN DEL CAZAVAMPIROS!",
       "descripcion": [
-        "&7¡Modern Warfare 4 ha llegado hoy!",
-        "&7Obtén Fuerza II en combate todo el día."
+        "&7¡Castlevania: Belmont's Curse llegó!",
+        "&7Obtén Fuerza II y esmeraldas extra hoy."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
+      "tipo": "AMBOS",
+      "item": "EMERALD",
+      "porcentaje_extra": 30.0,
       "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
       "todo_el_dia": true,
