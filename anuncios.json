@@ -1,128 +1,133 @@
 {
   "anuncios": [
     {
-      "id": "noticia_actualizacion_1_21",
+      "id": "nueva_ceo_mojang",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21 YA DISPONIBLE!",
-        "&7La tan esperada \"Tricky Trials\" trae nuevas aventuras y desafíos a tu mundo."
+        "&a&l¡Nueva CEO para Mojang!&r",
+        "&eMaria Angelo Smith asumirá el liderazgo como CEO de Mojang a partir del 19 de octubre."
       ]
     },
     {
-      "id": "noticia_nuevos_mobs_1_21",
+      "id": "dimension_the_sift_se_acerca",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡NUEVOS MOBS EN LA 1.21!",
-        "&7Enfrenta al veloz Breeze en las Trial Chambers y al venenoso Bogged en pantanos y Trial Chambers."
+        "&b&l¡La Dimensión 'The Sift' se acerca!&r",
+        "&eMinecraft Live 2026 reveló que 'The Sift', la primera nueva dimensión en más de 14 años, llegará a Java y Bedrock en 2027."
       ]
     },
     {
-      "id": "noticia_desafios_mortales",
+      "id": "cuevas_hielo_se_avecina",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡DESAFÍOS MORTALES!",
-        "&7Explora las nuevas Trial Chambers, repletas de generadores de monstruos y tesoros ocultos."
+        "&7&l¡Se avecinan las Cuevas de Hielo!&r",
+        "&eEl 'Winter 2026 Game Drop' de diciembre traerá un nuevo bioma con cristales, carámbanos y el temible Zombie Congelado."
       ]
     },
     {
-      "id": "noticia_maza_arma_letal",
+      "id": "minecraft_dungeons_ii_disponible",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡LA MAZA, TU NUEVA ARMA LETAL!",
-        "&7Causa más daño cuanto mayor sea tu caída con esta poderosa herramienta de combate."
+        "&d&l¡Minecraft Dungeons II ya disponible!&r",
+        "&eLa esperada secuela de aventuras, Minecraft Dungeons II, se lanzó oficialmente el pasado 29 de septiembre de 2026."
       ]
     },
     {
-      "id": "noticia_automatiza_crafter",
+      "id": "minecraft_world_londres_2027",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡AUTOMATIZA TU MUNDO CON EL CRAFTER!",
-        "&7El nuevo Bloque Fabricador permite craftear objetos de forma automática usando Redstone."
+        "&a&l¡Minecraft World en Londres en 2027!&r",
+        "&eUn nuevo parque temático y un hotel temático de Minecraft abrirán sus puertas en Londres el próximo año."
       ]
     },
     {
-      "id": "noticia_bloques_cobre_1_21",
+      "id": "pre_compra_minecraft_switch_2",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡BLOQUES DE COBRE NUNCA VISTOS!",
-        "&7Descubre la versátil Lámpara de Cobre, puertas, rejas y trampillas de cobre."
+        "&b&l¡Pre-compra Minecraft para Nintendo Switch 2!&r",
+        "&eYa puedes reservar tu copia de Minecraft para la nueva Nintendo Switch 2, con lanzamiento previsto para el 27 de octubre."
       ]
     },
     {
-      "id": "noticia_mapas_exploradores",
+      "id": "nueva_division_xp_xbox",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡MAPAS PARA EXPLORADORES!",
-        "&7Consigue un \"Trial Explorer Map\" para localizar las Trial Chambers y sus recompensas."
-      ]
-    },
-    {
-      "id": "noticia_arte_nuevo_base",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡ARTE NUEVO PARA TU BASE!",
-        "&7¡Decora tus construcciones con 20 pinturas inéditas añadidas en la actualización 1.21!"
-      ]
-    },
-    {
-      "id": "noticia_enemigos_mas_duros_botella_siniestra",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡ENEMIGOS MÁS DUROS CON LA BOTELLA SINIESTRA!",
-        "&7Activa desafíos aún mayores en las Trial Chambers usando la Ominous Bottle."
+        "&7&l¡Nueva División XP en Xbox!&r",
+        "&eXbox ha creado una nueva división 'XP' para expandir sus franquicias a cine, TV y experiencias en vivo, liderada por Kaen Waters."
       ]
     },
     {
       "id": "curiosidad_primer_easter_egg",
       "categoria": "curiosidades",
       "mensajes": [
-        "El primer \"Easter Egg\" en un videojuego fue un acto de rebeldía de un desarrollador en el juego Adventure de Atari."
+        "&lEl Primer \"Easter Egg\"&r",
+        "&7fue un acto de rebeldía: en 1980, el programador Warren Robinett escondió su nombre en una habitación secreta del juego \"Adventure\" para Atari 2600."
       ]
     },
     {
-      "id": "curiosidad_mario_jump_man",
+      "id": "curiosidad_mario_nombre_original",
       "categoria": "curiosidades",
       "mensajes": [
-        "Originalmente, el famoso personaje de Nintendo, Mario, se llamaba \"Jump Man\" y era un carpintero antes de convertirse en el fontanero que todos conocemos."
+        "&lMario, el fontanero más famoso,&r",
+        "&7originalmente se llamaba \"Jumpman\" y fue rebautizado en honor a Mario Segale, el casero de las oficinas de Nintendo en EE. UU."
       ]
     },
     {
       "id": "curiosidad_minecraft_mas_vendido",
       "categoria": "curiosidades",
       "mensajes": [
-        "Minecraft es el videojuego más vendido de la historia, superando los 200 millones de copias a nivel mundial."
+        "&l'Minecraft' es el videojuego más vendido de la historia,&r",
+        "&7con más de 200 millones de copias. Su Overworld es 9,258,235 veces más grande que la Tierra en PC."
+      ]
+    },
+    {
+      "id": "curiosidad_samus_aran",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&lSamus Aran&r",
+        "&7sorprendió a los jugadores de 'Metroid' (1986) al revelar que era una mujer al final del juego, un giro revolucionario."
       ]
     },
     {
       "id": "curiosidad_game_boy_espacio",
       "categoria": "curiosidades",
       "mensajes": [
-        "La consola Game Boy fue la primera en ser jugada en el espacio por el astronauta ruso Aleksandr A. Serebrov, quien disfrutó de Tetris."
+        "&lLa consola Game Boy&r",
+        "&7fue la primera en ser jugada en el espacio por el astronauta ruso Aleksandr A. Serebrov."
       ]
     },
     {
-      "id": "curiosidad_daggerfall_mapa",
-      "categoria": "curiosidades",
+      "id": "lanzamiento_planet_zoo_2",
+      "categoria": "lanzamientos",
       "mensajes": [
-        "El mapa del juego The Elder Scrolls: Daggerfall (1996) es gigantesco, con una extensión de 161.600 KM², empequeñeciendo a muchos juegos modernos."
+        "&lPlanet Zoo 2:&r",
+        "&7Lanzado el 13 de octubre."
+      ]
+    },
+    {
+      "id": "lanzamiento_castlevania_belmonts_curse",
+      "categoria": "lanzamientos",
+      "mensajes": [
+        "&lCastlevania: Belmont's Curse:&r",
+        "&7Llega el 15 de octubre. Este lanzamiento es particularmente relevante para los fans de la saga."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&c&l¡LA MALDICIÓN DEL CAZAVAMPIROS!",
+      "dia": "FRIDAY",
+      "titulo": "&c&l¡La Maldición de Belmont!",
       "descripcion": [
-        "&7¡Castlevania: Belmont's Curse llegó!",
-        "&7Obtén Fuerza II y esmeraldas extra hoy."
+        "&7¡Castlevania: Belmont's Curse se lanzó!",
+        "&7Fuerza II y +25% venta de BONE por la noche."
       ],
       "tipo": "AMBOS",
-      "item": "EMERALD",
-      "porcentaje_extra": 30.0,
+      "item": "BONE",
+      "porcentaje_extra": 25.0,
       "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
+      "todo_el_dia": false,
+      "hora_inicio": 18,
       "hora_fin": 24
     }
   ]
