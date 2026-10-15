@@ -1,133 +1,85 @@
 {
   "anuncios": [
     {
-      "id": "nueva_ceo_mojang",
+      "id": "actualizacion_1_21_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Nueva CEO para Mojang!&r",
-        "&eMaria Angelo Smith asumirá el liderazgo como CEO de Mojang a partir del 19 de octubre."
+        "&a&l¡ACTUALIZACIÓN 1.21: Tricky Trials ya disponible!",
+        "&7Explora las Cámaras de Prueba y enfréntate a nuevos desafíos."
       ]
     },
     {
-      "id": "dimension_the_sift_se_acerca",
+      "id": "nuevos_bloques_cobre_toba",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡La Dimensión 'The Sift' se acerca!&r",
-        "&eMinecraft Live 2026 reveló que 'The Sift', la primera nueva dimensión en más de 14 años, llegará a Java y Bedrock en 2027."
+        "&b&l¡Nuevos Bloques de Cobre y Toba!",
+        "&7Decora tus construcciones con los impresionantes bloques añadidos en la 1.21."
       ]
     },
     {
-      "id": "cuevas_hielo_se_avecina",
+      "id": "domina_la_maza",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡Se avecinan las Cuevas de Hielo!&r",
-        "&eEl 'Winter 2026 Game Drop' de diciembre traerá un nuevo bioma con cristales, carámbanos y el temible Zombie Congelado."
+        "&e&l¡Domina la Maza!",
+        "&7Prueba tu fuerza con la nueva arma devastadora que llegó en la última gran actualización."
+      ]
+    },
+    {
+      "id": "eventos_ominosos",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡Eventos Ominosos te esperan!",
+        "&7Prepárate para encuentros inesperados y recompensas únicas en tus aventuras."
+      ]
+    },
+    {
+      "id": "contenido_fresco_mercado",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7¡Contenido Fresco en el Mercado!",
+        "&7Descubre packs como 'Civilizaciones' y 'Bosses Rise' este octubre de 2026."
       ]
     },
     {
       "id": "minecraft_dungeons_ii_disponible",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡Minecraft Dungeons II ya disponible!&r",
-        "&eLa esperada secuela de aventuras, Minecraft Dungeons II, se lanzó oficialmente el pasado 29 de septiembre de 2026."
+        "&l&b¡Minecraft Dungeons II ya disponible!",
+        "&7Sumérgete en nuevas aventuras con este emocionante lanzamiento."
       ]
     },
     {
-      "id": "minecraft_world_londres_2027",
+      "id": "futuro_gaming_ia",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Minecraft World en Londres en 2027!&r",
-        "&eUn nuevo parque temático y un hotel temático de Minecraft abrirán sus puertas en Londres el próximo año."
+        "&a&l¡El Futuro del Gaming: Más IA!",
+        "&7Nuevos mundos dinámicos y NPCs realistas se perfilan para el 2026."
       ]
     },
     {
-      "id": "pre_compra_minecraft_switch_2",
+      "id": "gaming_multiplataforma_auge",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Pre-compra Minecraft para Nintendo Switch 2!&r",
-        "&eYa puedes reservar tu copia de Minecraft para la nueva Nintendo Switch 2, con lanzamiento previsto para el 27 de octubre."
-      ]
-    },
-    {
-      "id": "nueva_division_xp_xbox",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7&l¡Nueva División XP en Xbox!&r",
-        "&eXbox ha creado una nueva división 'XP' para expandir sus franquicias a cine, TV y experiencias en vivo, liderada por Kaen Waters."
-      ]
-    },
-    {
-      "id": "curiosidad_primer_easter_egg",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&lEl Primer \"Easter Egg\"&r",
-        "&7fue un acto de rebeldía: en 1980, el programador Warren Robinett escondió su nombre en una habitación secreta del juego \"Adventure\" para Atari 2600."
-      ]
-    },
-    {
-      "id": "curiosidad_mario_nombre_original",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&lMario, el fontanero más famoso,&r",
-        "&7originalmente se llamaba \"Jumpman\" y fue rebautizado en honor a Mario Segale, el casero de las oficinas de Nintendo en EE. UU."
-      ]
-    },
-    {
-      "id": "curiosidad_minecraft_mas_vendido",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&l'Minecraft' es el videojuego más vendido de la historia,&r",
-        "&7con más de 200 millones de copias. Su Overworld es 9,258,235 veces más grande que la Tierra en PC."
-      ]
-    },
-    {
-      "id": "curiosidad_samus_aran",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&lSamus Aran&r",
-        "&7sorprendió a los jugadores de 'Metroid' (1986) al revelar que era una mujer al final del juego, un giro revolucionario."
-      ]
-    },
-    {
-      "id": "curiosidad_game_boy_espacio",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&lLa consola Game Boy&r",
-        "&7fue la primera en ser jugada en el espacio por el astronauta ruso Aleksandr A. Serebrov."
-      ]
-    },
-    {
-      "id": "lanzamiento_planet_zoo_2",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&lPlanet Zoo 2:&r",
-        "&7Lanzado el 13 de octubre."
-      ]
-    },
-    {
-      "id": "lanzamiento_castlevania_belmonts_curse",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&lCastlevania: Belmont's Curse:&r",
-        "&7Llega el 15 de octubre. Este lanzamiento es particularmente relevante para los fans de la saga."
+        "&e&l¡Gaming Multiplataforma en Auge!",
+        "&7Juega con amigos sin importar su dispositivo, ¡la conexión es clave!"
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "FRIDAY",
+      "dia": "MONDAY",
       "titulo": "&c&l¡La Maldición de Belmont!",
       "descripcion": [
-        "&7¡Castlevania: Belmont's Curse se lanzó!",
-        "&7Fuerza II y +25% venta de BONE por la noche."
+        "&7¡Castlevania: Belmont's Curse llegó!",
+        "&7Obtén Fuerza II para cazar monstruos."
       ],
-      "tipo": "AMBOS",
-      "item": "BONE",
-      "porcentaje_extra": 25.0,
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
       "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
-      "todo_el_dia": false,
-      "hora_inicio": 18,
+      "todo_el_dia": true,
+      "hora_inicio": 0,
       "hora_fin": 24
     }
   ]
