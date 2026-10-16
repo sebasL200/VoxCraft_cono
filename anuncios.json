@@ -1,77 +1,85 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21_tricky_trials",
+      "id": "aniversario_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21: Tricky Trials ya disponible!",
-        "&7Explora las Cámaras de Prueba y enfréntate a nuevos desafíos."
+        "&a&l¡Celebramos el Aniversario de Tricky Trials!",
+        "&7Hace 3 años, el 15 de octubre de 2023, se anunció oficialmente la increíble actualización 1.21 \"Tricky Trials\" de Minecraft, trayendo consigo desafíos únicos y nuevas mecánicas."
       ]
     },
     {
-      "id": "nuevos_bloques_cobre_toba",
+      "id": "nuevas_pinturas",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Nuevos Bloques de Cobre y Toba!",
-        "&7Decora tus construcciones con los impresionantes bloques añadidos en la 1.21."
+        "&b&l¡Nuevas obras de arte para tu hogar!",
+        "&7Decora tus bases con las 20 nuevas pinturas que llegaron con la actualización Tricky Trials. ¡Encuentra tu favorita y personaliza tu espacio!"
       ]
     },
     {
-      "id": "domina_la_maza",
+      "id": "explora_camaras_juicio",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Domina la Maza!",
-        "&7Prueba tu fuerza con la nueva arma devastadora que llegó en la última gran actualización."
+        "&e&l¡Explora las Cámaras de Juicio!",
+        "&7Atrévete a enfrentar los desafíos de las Trial Chambers, repletas de nuevos bloques y recompensas épicas. ¡La aventura te espera!"
       ]
     },
     {
-      "id": "eventos_ominosos",
+      "id": "domina_el_mace",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡Eventos Ominosos te esperan!",
-        "&7Prepárate para encuentros inesperados y recompensas únicas en tus aventuras."
+        "&d&l¡Domina el Mace!",
+        "&7Descubre el Mace, la poderosa arma introducida en la 1.21. ¡Aprende sus encantamientos exclusivos como Breach y Wind Burst para combates devastadores!"
       ]
     },
     {
-      "id": "contenido_fresco_mercado",
+      "id": "cuidado_nuevos_mobs",
       "categoria": "noticias",
       "mensajes": [
-        "&7¡Contenido Fresco en el Mercado!",
-        "&7Descubre packs como 'Civilizaciones' y 'Bosses Rise' este octubre de 2026."
+        "&7&l¡Cuidado con los nuevos mobs!",
+        "&7Los astutos Breeze y los venenosos Bogged ahora rondan las Cámaras de Juicio. ¡Prepárate para enfrentarlos y reclamar tus victorias!"
       ]
     },
     {
-      "id": "minecraft_dungeons_ii_disponible",
+      "id": "crea_con_crafter",
       "categoria": "noticias",
       "mensajes": [
-        "&l&b¡Minecraft Dungeons II ya disponible!",
-        "&7Sumérgete en nuevas aventuras con este emocionante lanzamiento."
+        "&e&l¡Crea sin límites con el Crafter!",
+        "&7Automatiza tus procesos con el innovador bloque Crafter de la versión 1.21. ¡La eficiencia nunca fue tan sencilla!"
       ]
     },
     {
-      "id": "futuro_gaming_ia",
+      "id": "construcciones_cobre_toba",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡El Futuro del Gaming: Más IA!",
-        "&7Nuevos mundos dinámicos y NPCs realistas se perfilan para el 2026."
+        "&b&l¡Expande tus construcciones con Cobre y Toba!",
+        "&7Descubre todas las nuevas variantes de bloques de Cobre y Toba, perfectas para darle un toque fresco a tus proyectos."
       ]
     },
     {
-      "id": "gaming_multiplataforma_auge",
+      "id": "minecraft_rey_indiscutible",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&a&l¡Minecraft: ¡El Rey Indiscutible!",
+        "&7Dato curioso: ¡Minecraft sigue siendo el videojuego más vendido de todos los tiempos, con más de 176 millones de copias! ¡Gracias por ser parte de esta leyenda!"
+      ]
+    },
+    {
+      "id": "arqueologia_sniffers",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Gaming Multiplataforma en Auge!",
-        "&7Juega con amigos sin importar su dispositivo, ¡la conexión es clave!"
+        "&d&l¡Arqueología y Sniffers!",
+        "&7¿Sabías que la actualización Trails & Tales (1.20) trajo la arqueología y el Sniffer? Desentierra secretos y cría a estas adorables criaturas."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&c&l¡La Maldición de Belmont!",
+      "dia": "FRIDAY",
+      "titulo": "&c&l¡Asalto de Combate Moderno!",
       "descripcion": [
-        "&7¡Castlevania: Belmont's Curse llegó!",
-        "&7Obtén Fuerza II para cazar monstruos."
+        "&7¡Call of Duty: Modern Warfare 4 llega!",
+        "&7Obtén Fuerza II para tus batallas."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
