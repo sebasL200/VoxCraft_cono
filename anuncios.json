@@ -1,89 +1,97 @@
 {
   "anuncios": [
     {
-      "id": "aniversario_tricky_trials",
+      "id": "actualizacion_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Celebramos el Aniversario de Tricky Trials!",
-        "&7Hace 3 años, el 15 de octubre de 2023, se anunció oficialmente la increíble actualización 1.21 \"Tricky Trials\" de Minecraft, trayendo consigo desafíos únicos y nuevas mecánicas."
+        "&a&l¡ACTUALIZACIÓN 1.21.x - TRICKY TRIALS YA DISPONIBLE!",
+        "&7La gran actualización \"Tricky Trials\" fue lanzada oficialmente el 13 de junio de 2024 para las ediciones Bedrock y Java, trayendo una gran cantidad de características nuevas, estructuras y más."
       ]
     },
     {
-      "id": "nuevas_pinturas",
+      "id": "nuevos_mobs_breeze_bogged_armadillo",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Nuevas obras de arte para tu hogar!",
-        "&7Decora tus bases con las 20 nuevas pinturas que llegaron con la actualización Tricky Trials. ¡Encuentra tu favorita y personaliza tu espacio!"
+        "&b&lNUEVOS MOBS: ¡BREEZE, BOGGED Y ARMADILLO TE ESPERAN!",
+        "&7Descubre al Armadillo, que ofrece armadura para tus lobos, al esquivo Breeze en las Trial Chambers, y a los esqueletos venenosos Bogged en pantanos."
       ]
     },
     {
-      "id": "explora_camaras_juicio",
+      "id": "descubre_trial_chambers",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Explora las Cámaras de Juicio!",
-        "&7Atrévete a enfrentar los desafíos de las Trial Chambers, repletas de nuevos bloques y recompensas épicas. ¡La aventura te espera!"
+        "&e&lDESCUBRE LAS TRIAL CHAMBERS: ¡DESAFÍOS Y TESOROS!",
+        "&7Explora las nuevas estructuras de mazmorras llenas de combates y acertijos, que albergan Trial Spawners y codiciadas Vaults."
       ]
     },
     {
-      "id": "domina_el_mace",
+      "id": "crafters_automaticos",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡Domina el Mace!",
-        "&7Descubre el Mace, la poderosa arma introducida en la 1.21. ¡Aprende sus encantamientos exclusivos como Breach y Wind Burst para combates devastadores!"
+        "&d&l¡CREA CON FACILIDAD: LLEGAN LOS CRAFTERS AUTOMÁTICOS!",
+        "&7Simplifica tu proceso de creación con la introducción de los crafters automáticos, permitiéndote automatizar la producción de ítems."
       ]
     },
     {
-      "id": "cuidado_nuevos_mobs",
+      "id": "moda_minecraft_armor_trims_pinturas",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡Cuidado con los nuevos mobs!",
-        "&7Los astutos Breeze y los venenosos Bogged ahora rondan las Cámaras de Juicio. ¡Prepárate para enfrentarlos y reclamar tus victorias!"
+        "&7&l¡MODA EN MINECRAFT! ¡NUEVOS ARMOR TRIMS Y PINTURAS!",
+        "&7Personaliza tu equipo con los nuevos Armor Trims y decora tus construcciones con una variedad de nuevas pinturas."
       ]
     },
     {
-      "id": "crea_con_crafter",
+      "id": "minecraft_switch_2",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Crea sin límites con el Crafter!",
-        "&7Automatiza tus procesos con el innovador bloque Crafter de la versión 1.21. ¡La eficiencia nunca fue tan sencilla!"
+        "&e&lMINECRAFT EN SWITCH 2: ¡VISUALES VIBRANTES EL 27 DE OCTUBRE!",
+        "&7Prepárate para el lanzamiento de Minecraft en Nintendo Switch 2 el 27 de octubre de 2026, con una estética de \"Visuales Vibrantes\" y un paquete actualizado de Super Mario Mash-Up."
       ]
     },
     {
-      "id": "construcciones_cobre_toba",
+      "id": "guia_mace_nueva_arma",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Expande tus construcciones con Cobre y Toba!",
-        "&7Descubre todas las nuevas variantes de bloques de Cobre y Toba, perfectas para darle un toque fresco a tus proyectos."
+        "&b&lGUÍA DE MACE: ¡DOMINA EL NUEVO ARMA DE MINECRAFT!",
+        "&7La actualización 1.21.x también introdujo una nueva arma crafteable, la Mace, para combates intensos."
       ]
     },
     {
-      "id": "minecraft_rey_indiscutible",
+      "id": "marketplace_3000_muebles",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡NOVEDADES EN EL MARKETPLACE: MÁS DE 3000 MUEBLES DISPONIBLES!",
+        "&7El Marketplace de Minecraft ha recibido una gran actualización con más de 3000 nuevos artículos de mobiliario de Waypoint Studios para decorar tus bases."
+      ]
+    },
+    {
+      "id": "recap_minecraft_live_2026_nuevas_dimensiones",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&lRECAP MINECRAFT LIVE SEPTIEMBRE 2026: ¡NUEVAS DIMENSIONES PRONTO!",
+        "&7El resumen de Minecraft Live de septiembre de 2026 mencionó nuevas dimensiones, \"Minecraft World\", y \"Dungeons II\", con más detalles por venir."
+      ]
+    },
+    {
+      "id": "dato_curioso_carta_pokemon_vendida",
       "categoria": "curiosidades",
       "mensajes": [
-        "&a&l¡Minecraft: ¡El Rey Indiscutible!",
-        "&7Dato curioso: ¡Minecraft sigue siendo el videojuego más vendido de todos los tiempos, con más de 176 millones de copias! ¡Gracias por ser parte de esta leyenda!"
-      ]
-    },
-    {
-      "id": "arqueologia_sniffers",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡Arqueología y Sniffers!",
-        "&7¿Sabías que la actualización Trails & Tales (1.20) trajo la arqueología y el Sniffer? Desentierra secretos y cría a estas adorables criaturas."
+        "&c&lEL DATO CURIOSO: ¡UNA CARTA POKÉMON SE VENDIÓ POR $156,000!",
+        "&7En noticias generales de gaming, una carta Pokémon diseñada por un niño de seis años se vendió por $156,000 en una subasta el 27 de septiembre de 2026."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "FRIDAY",
-      "titulo": "&c&l¡Asalto de Combate Moderno!",
+      "dia": "MONDAY",
+      "titulo": "&c&l¡Maldición del Belmont!",
       "descripcion": [
-        "&7¡Call of Duty: Modern Warfare 4 llega!",
-        "&7Obtén Fuerza II para tus batallas."
+        "&7¡Castlevania: Belmont's Curse ha llegado!",
+        "&7Obtén Fuerza II y un +50% en lingotes de oro."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
+      "tipo": "AMBOS",
+      "item": "GOLD_INGOT",
+      "porcentaje_extra": 50.0,
       "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
       "todo_el_dia": true,
