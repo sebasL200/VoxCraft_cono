@@ -1,97 +1,77 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_tricky_trials",
+      "id": "noticia_actualizacion_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21.x - TRICKY TRIALS YA DISPONIBLE!",
-        "&7La gran actualización \"Tricky Trials\" fue lanzada oficialmente el 13 de junio de 2024 para las ediciones Bedrock y Java, trayendo una gran cantidad de características nuevas, estructuras y más."
+        "&a&l¡Actualización Tricky Trials 1.21.x!",
+        "&7¡Descubre las nuevas Cámaras de Prueba y el desafiante Spawner de Prueba!"
       ]
     },
     {
-      "id": "nuevos_mobs_breeze_bogged_armadillo",
+      "id": "noticia_desafios_ominosos",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lNUEVOS MOBS: ¡BREEZE, BOGGED Y ARMADILLO TE ESPERAN!",
-        "&7Descubre al Armadillo, que ofrece armadura para tus lobos, al esquivo Breeze en las Trial Chambers, y a los esqueletos venenosos Bogged en pantanos."
+        "&b&lNuevos Desafíos Ominosos:",
+        "&7¿Listo para la prueba definitiva? ¡Activa los Desafíos Ominosos para recompensas épicas!"
       ]
     },
     {
-      "id": "descubre_trial_chambers",
+      "id": "noticia_decoracion_renovada",
       "categoria": "noticias",
       "mensajes": [
-        "&e&lDESCUBRE LAS TRIAL CHAMBERS: ¡DESAFÍOS Y TESOROS!",
-        "&7Explora las nuevas estructuras de mazmorras llenas de combates y acertijos, que albergan Trial Spawners y codiciadas Vaults."
+        "&e&lDecoración Renovada:",
+        "&7¡Explora las 20 nuevas pinturas añadidas en la 1.21.x para embellecer tu mundo!"
       ]
     },
     {
-      "id": "crafters_automaticos",
+      "id": "noticia_mejoras_rendimiento",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡CREA CON FACILIDAD: LLEGAN LOS CRAFTERS AUTOMÁTICOS!",
-        "&7Simplifica tu proceso de creación con la introducción de los crafters automáticos, permitiéndote automatizar la producción de ítems."
+        "&d&lMejoras de Rendimiento:",
+        "&7¡Carga de chunks optimizada y puertas dobles de distintos materiales ya son posibles!"
       ]
     },
     {
-      "id": "moda_minecraft_armor_trims_pinturas",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7&l¡MODA EN MINECRAFT! ¡NUEVOS ARMOR TRIMS Y PINTURAS!",
-        "&7Personaliza tu equipo con los nuevos Armor Trims y decora tus construcciones con una variedad de nuevas pinturas."
-      ]
-    },
-    {
-      "id": "minecraft_switch_2",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&lMINECRAFT EN SWITCH 2: ¡VISUALES VIBRANTES EL 27 DE OCTUBRE!",
-        "&7Prepárate para el lanzamiento de Minecraft en Nintendo Switch 2 el 27 de octubre de 2026, con una estética de \"Visuales Vibrantes\" y un paquete actualizado de Super Mario Mash-Up."
-      ]
-    },
-    {
-      "id": "guia_mace_nueva_arma",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&lGUÍA DE MACE: ¡DOMINA EL NUEVO ARMA DE MINECRAFT!",
-        "&7La actualización 1.21.x también introdujo una nueva arma crafteable, la Mace, para combates intensos."
-      ]
-    },
-    {
-      "id": "marketplace_3000_muebles",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡NOVEDADES EN EL MARKETPLACE: MÁS DE 3000 MUEBLES DISPONIBLES!",
-        "&7El Marketplace de Minecraft ha recibido una gran actualización con más de 3000 nuevos artículos de mobiliario de Waypoint Studios para decorar tus bases."
-      ]
-    },
-    {
-      "id": "recap_minecraft_live_2026_nuevas_dimensiones",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&lRECAP MINECRAFT LIVE SEPTIEMBRE 2026: ¡NUEVAS DIMENSIONES PRONTO!",
-        "&7El resumen de Minecraft Live de septiembre de 2026 mencionó nuevas dimensiones, \"Minecraft World\", y \"Dungeons II\", con más detalles por venir."
-      ]
-    },
-    {
-      "id": "dato_curioso_carta_pokemon_vendida",
+      "id": "curiosidad_minecraft_ventas",
       "categoria": "curiosidades",
       "mensajes": [
-        "&c&lEL DATO CURIOSO: ¡UNA CARTA POKÉMON SE VENDIÓ POR $156,000!",
-        "&7En noticias generales de gaming, una carta Pokémon diseñada por un niño de seis años se vendió por $156,000 en una subasta el 27 de septiembre de 2026."
+        "&7¿Sabías que &lMinecraft &7es el videojuego más vendido de la historia, con más de 200 millones de copias?"
+      ]
+    },
+    {
+      "id": "curiosidad_primer_easter_egg",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7Curiosidad: El primer &l\"Easter Egg\" &7en videojuegos lo escondió un programador en Adventure (1980)."
+      ]
+    },
+    {
+      "id": "curiosidad_mario_jumpman",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7Dato Gaming: El nombre original de &lMario &7era \"Jumpman\", ¡nombrado así por un casero enojado de Nintendo!"
+      ]
+    },
+    {
+      "id": "curiosidad_the_witcher_premios",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7Récord: &lThe Witcher 3: Wild Hunt &7es el videojuego más premiado de la historia, con más de 800 galardones."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&c&l¡Maldición del Belmont!",
+      "dia": "FRIDAY",
+      "titulo": "&c&l¡Operación Black Ops!",
       "descripcion": [
-        "&7¡Castlevania: Belmont's Curse ha llegado!",
-        "&7Obtén Fuerza II y un +50% en lingotes de oro."
+        "&7¡Call of Duty: Black Ops 6 ha aterrizado!",
+        "&7Obtén Fuerza II y +30% en Lingotes de Hierro."
       ],
       "tipo": "AMBOS",
-      "item": "GOLD_INGOT",
-      "porcentaje_extra": 50.0,
+      "item": "IRON_INGOT",
+      "porcentaje_extra": 30.0,
       "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
       "todo_el_dia": true,
