@@ -1,79 +1,128 @@
 {
   "anuncios": [
     {
-      "id": "noticia_actualizacion_tricky_trials",
+      "id": "noticia_nueva_dimension",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Actualización Tricky Trials 1.21.x!",
-        "&7¡Descubre las nuevas Cámaras de Prueba y el desafiante Spawner de Prueba!"
+        "&b&l¡NUEVA DIMENSIÓN ANUNCIADA! &7¡'The Sift' llegará en 2027, el primer reino nuevo en 14 años!"
       ]
     },
     {
-      "id": "noticia_desafios_ominosos",
+      "id": "noticia_cuevas_hielo",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lNuevos Desafíos Ominosos:",
-        "&7¿Listo para la prueba definitiva? ¡Activa los Desafíos Ominosos para recompensas épicas!"
+        "&a&l¡SE ACERCAN LAS CUEVAS DE HIELO! &7El próximo \"game drop\" trae Zombis Congelados y bolas de hielo."
       ]
     },
     {
-      "id": "noticia_decoracion_renovada",
+      "id": "noticia_musica_bucle",
       "categoria": "noticias",
       "mensajes": [
-        "&e&lDecoración Renovada:",
-        "&7¡Explora las 20 nuevas pinturas añadidas en la 1.21.x para embellecer tu mundo!"
+        "&e&l¡MÚSICA EN BUCLE! &7¡Ahora puedes usar cofres sobre los Jukeboxes para crear tus propias playlists!"
       ]
     },
     {
-      "id": "noticia_mejoras_rendimiento",
+      "id": "noticia_hielo_fragil",
       "categoria": "noticias",
       "mensajes": [
-        "&d&lMejoras de Rendimiento:",
-        "&7¡Carga de chunks optimizada y puertas dobles de distintos materiales ya son posibles!"
+        "&c&l¡PELIGRO: HIELO FRÁGIL! &7Cuidado al explorar las nuevas cuevas de hielo; ¡el suelo se rompe bajo tus pies!"
+      ]
+    },
+    {
+      "id": "noticia_equilibrio_mobs",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡EQUILIBRIO DE MOBS! &7Mojang está experimentando con un reajuste de la aparición de criaturas en el Nether."
+      ]
+    },
+    {
+      "id": "noticia_camaras_juicio",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&l¡DESAFÍA LAS CÁMARAS DE JUICIO! &7La actualización 1.21 \"Tricky Trials\" trae nuevos desafíos y la poderosa Maza."
+      ]
+    },
+    {
+      "id": "noticia_bedrock_switch2",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡ACTUALIZACIÓN BEDROCK PARA SWITCH 2! &7La versión 26.60 llegará el 27 de octubre con mejoras para la nueva consola."
+      ]
+    },
+    {
+      "id": "noticia_nuevos_bloques_1_21",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡NUEVOS BLOQUES DE COBRE Y TOBA! &7Decora tus bases con las nuevas variantes de bloques introducidas en la 1.21."
       ]
     },
     {
       "id": "curiosidad_minecraft_ventas",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7¿Sabías que &lMinecraft &7es el videojuego más vendido de la historia, con más de 200 millones de copias?"
-      ]
-    },
-    {
-      "id": "curiosidad_primer_easter_egg",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7Curiosidad: El primer &l\"Easter Egg\" &7en videojuegos lo escondió un programador en Adventure (1980)."
+        "&7&l¿Sabías que... &eMinecraft es el videojuego más vendido de todos los tiempos, con más de 350 millones de copias?"
       ]
     },
     {
       "id": "curiosidad_mario_jumpman",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7Dato Gaming: El nombre original de &lMario &7era \"Jumpman\", ¡nombrado así por un casero enojado de Nintendo!"
+        "&7&lUn clásico: &eAntes de ser 'Mario', el personaje de Nintendo se llamaba 'Jumpman' en el juego Donkey Kong."
       ]
     },
     {
-      "id": "curiosidad_the_witcher_premios",
+      "id": "curiosidad_minecraft_tamano",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7Récord: &lThe Witcher 3: Wild Hunt &7es el videojuego más premiado de la historia, con más de 800 galardones."
+        "&7&lEl tamaño importa: &eSi el mundo de Minecraft fuera real, ¡tendría el tamaño del planeta Neptuno!"
+      ]
+    },
+    {
+      "id": "curiosidad_mario_sprites",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7&lEstrategia de diseño: &eLas nubes y los arbustos en el Super Mario Bros. original usaban el mismo 'sprite', ¡solo que con colores diferentes!"
+      ]
+    },
+    {
+      "id": "curiosidad_tetris_espacio",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7&lEn el espacio: &eTetris fue el primer videojuego jugado en el espacio, por un astronauta ruso en 1993."
+      ]
+    },
+    {
+      "id": "curiosidad_pacman_nombre",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7&lNombre original: &eEl nombre original japonés de Pac-Man era 'Puckman', derivado de 'paku', que significa 'masticar'."
+      ]
+    },
+    {
+      "id": "lanzamientos_semana_octubre",
+      "categoria": "lanzamientos",
+      "mensajes": [
+        "&b&lEsta Semana (19 - 25 de octubre, 2026):",
+        "&a- &lBeamNG.drive &7llega a PS5 el 19 de octubre.",
+        "&a- &lFrostpunk &7se lanza en Nintendo Switch el 19 de octubre.",
+        "&a- &lMycopunk &7(v1.0) para PS5 y PC, y &lStar Trek: Unknown Outposts &7para PC, salen el 20 de octubre.",
+        "&a- &lFinal Fantasy Resonance &7(PC, PS5, Xbox Series X|S, Switch 2) y &lNintendo Switch Sports Resort &7(Switch 2) se lanzan el 22 de octubre."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "FRIDAY",
-      "titulo": "&c&l¡Operación Black Ops!",
+      "dia": "THURSDAY",
+      "titulo": "&6&l¡Épica de la Resonancia Final!",
       "descripcion": [
-        "&7¡Call of Duty: Black Ops 6 ha aterrizado!",
-        "&7Obtén Fuerza II y +30% en Lingotes de Hierro."
+        "&7¡Final Fantasy Resonance ha llegado!",
+        "&7Diamantes valen 25% más en la tienda."
       ],
-      "tipo": "AMBOS",
-      "item": "IRON_INGOT",
-      "porcentaje_extra": 30.0,
-      "efecto_pocion": "STRENGTH",
-      "nivel_efecto": 2,
+      "tipo": "PRECIO",
+      "item": "DIAMOND",
+      "porcentaje_extra": 25.0,
+      "efecto_pocion": "NONE",
+      "nivel_efecto": 0,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
