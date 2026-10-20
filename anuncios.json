@@ -1,128 +1,82 @@
 {
   "anuncios": [
     {
-      "id": "noticia_nueva_dimension",
+      "id": "actualizacion_1_21_2_disponible",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡NUEVA DIMENSIÓN ANUNCIADA! &7¡'The Sift' llegará en 2027, el primer reino nuevo en 14 años!"
+        "&a&l¡ACTUALIZACIÓN 1.21.2 YA DISPONIBLE! La esperada versión \"Paquetes de Valentía\" de Minecraft Java Edition ha sido lanzada, trayendo emocionantes novedades y optimizaciones."
       ]
     },
     {
-      "id": "noticia_cuevas_hielo",
+      "id": "nuevos_paquetes_inventario",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡SE ACERCAN LAS CUEVAS DE HIELO! &7El próximo \"game drop\" trae Zombis Congelados y bolas de hielo."
+        "&b&lNUEVOS PAQUETES: ¡Gestiona tu inventario con estilo! La versión 1.21.2 introduce los \"Paquetes\", un nuevo objeto que te permite almacenar hasta 64 ítems diferentes en una sola pila para una gestión más eficiente."
       ]
     },
     {
-      "id": "noticia_musica_bucle",
+      "id": "modo_hardcore_realms",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡MÚSICA EN BUCLE! &7¡Ahora puedes usar cofres sobre los Jukeboxes para crear tus propias playlists!"
+        "&e&lMODO HARDCORE EN REALMS: ¡Un nuevo desafío te espera! Ahora puedes llevar la emoción del modo Hardcore a tus Realms, poniendo a prueba tu valentía y habilidades de supervivencia."
       ]
     },
     {
-      "id": "noticia_hielo_fragil",
+      "id": "camaras_prueba_renovadas",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡PELIGRO: HIELO FRÁGIL! &7Cuidado al explorar las nuevas cuevas de hielo; ¡el suelo se rompe bajo tus pies!"
+        "&d&lCÁMARAS DE PRUEBA RENOVADAS: ¡Explora con más peligro y recompensa! Las Trial Chambers han sido pulidas y mejoradas, ofreciendo experiencias de combate y exploración aún más dinámicas."
       ]
     },
     {
-      "id": "noticia_equilibrio_mobs",
+      "id": "nuevas_variantes_mobs_bebe",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡EQUILIBRIO DE MOBS! &7Mojang está experimentando con un reajuste de la aparición de criaturas en el Nether."
+        "&7&lNUEVAS VARIANTES DE MOBS BEBÉ: ¡Añaden encanto al mundo! Descubre las adorables nuevas variantes de mobs bebé que se han incorporado con la última actualización."
       ]
     },
     {
-      "id": "noticia_camaras_juicio",
+      "id": "mejoras_redstone_rendimiento",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡DESAFÍA LAS CÁMARAS DE JUICIO! &7La actualización 1.21 \"Tricky Trials\" trae nuevos desafíos y la poderosa Maza."
+        "&c&lMEJORAS EN REDSTONE Y RENDIMIENTO: ¡Tu experiencia de juego es más fluida! La versión 1.21.2 trae importantes mejoras en la funcionalidad de Redstone y optimizaciones generales de rendimiento."
       ]
     },
     {
-      "id": "noticia_bedrock_switch2",
+      "id": "fixes_bugs_1_21_2",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡ACTUALIZACIÓN BEDROCK PARA SWITCH 2! &7La versión 26.60 llegará el 27 de octubre con mejoras para la nueva consola."
+        "&a&lFIXES DE BUGS EN 1.21.2: ¡Mapas, brújulas y más corregidos! Diversos errores relacionados con mapas en marcos, brújulas en la mano izquierda y otros aspectos han sido solucionados."
       ]
     },
     {
-      "id": "noticia_nuevos_bloques_1_21",
+      "id": "nuevos_items_mecanicas_maza",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡NUEVOS BLOQUES DE COBRE Y TOBA! &7Decora tus bases con las nuevas variantes de bloques introducidas en la 1.21."
+        "&b&lNUEVOS ÍTEMS Y MECÁNICAS: ¡El Tricky Trials Update trae la Maza y eventos ominosos! Las actualizaciones 1.21.x han introducido objetos como la Maza y eventos ominosos que desafiarán a los jugadores."
       ]
     },
     {
-      "id": "curiosidad_minecraft_ventas",
-      "categoria": "curiosidades",
+      "id": "fabricacion_paquetes",
+      "categoria": "noticias",
       "mensajes": [
-        "&7&l¿Sabías que... &eMinecraft es el videojuego más vendido de todos los tiempos, con más de 350 millones de copias?"
-      ]
-    },
-    {
-      "id": "curiosidad_mario_jumpman",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lUn clásico: &eAntes de ser 'Mario', el personaje de Nintendo se llamaba 'Jumpman' en el juego Donkey Kong."
-      ]
-    },
-    {
-      "id": "curiosidad_minecraft_tamano",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lEl tamaño importa: &eSi el mundo de Minecraft fuera real, ¡tendría el tamaño del planeta Neptuno!"
-      ]
-    },
-    {
-      "id": "curiosidad_mario_sprites",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lEstrategia de diseño: &eLas nubes y los arbustos en el Super Mario Bros. original usaban el mismo 'sprite', ¡solo que con colores diferentes!"
-      ]
-    },
-    {
-      "id": "curiosidad_tetris_espacio",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lEn el espacio: &eTetris fue el primer videojuego jugado en el espacio, por un astronauta ruso en 1993."
-      ]
-    },
-    {
-      "id": "curiosidad_pacman_nombre",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&lNombre original: &eEl nombre original japonés de Pac-Man era 'Puckman', derivado de 'paku', que significa 'masticar'."
-      ]
-    },
-    {
-      "id": "lanzamientos_semana_octubre",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&b&lEsta Semana (19 - 25 de octubre, 2026):",
-        "&a- &lBeamNG.drive &7llega a PS5 el 19 de octubre.",
-        "&a- &lFrostpunk &7se lanza en Nintendo Switch el 19 de octubre.",
-        "&a- &lMycopunk &7(v1.0) para PS5 y PC, y &lStar Trek: Unknown Outposts &7para PC, salen el 20 de octubre.",
-        "&a- &lFinal Fantasy Resonance &7(PC, PS5, Xbox Series X|S, Switch 2) y &lNintendo Switch Sports Resort &7(Switch 2) se lanzan el 22 de octubre."
+        "&e&lFABRICACIÓN DE PAQUETES: ¡Con 1 hilo y 1 cuero, crea tu propio almacenamiento portátil! Los nuevos \"Paquetes\" se pueden fabricar fácilmente con estos materiales básicos, y vienen en 16 variantes de colores."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "THURSDAY",
-      "titulo": "&6&l¡Épica de la Resonancia Final!",
+      "dia": "WEDNESDAY",
+      "titulo": "&b&l¡Expedición de Inventario!",
       "descripcion": [
-        "&7¡Final Fantasy Resonance ha llegado!",
-        "&7Diamantes valen 25% más en la tienda."
+        "&7¡La 1.21.2 ya está aquí con los Paquetes!",
+        "&7Obtén HASTE II para tus recolecciones."
       ],
-      "tipo": "PRECIO",
-      "item": "DIAMOND",
-      "porcentaje_extra": 25.0,
-      "efecto_pocion": "NONE",
-      "nivel_efecto": 0,
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
+      "efecto_pocion": "HASTE",
+      "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
