@@ -1,81 +1,67 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21_2_disponible",
+      "id": "nuevos_bloques_gelidos",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21.2 YA DISPONIBLE! La esperada versión \"Paquetes de Valentía\" de Minecraft Java Edition ha sido lanzada, trayendo emocionantes novedades y optimizaciones."
+        "&b&l¡Nuevos Bloques Gélidos!&r &7Llegan los Ladrillos de Hielo Compactado, losas, escaleras y muros para tus construcciones más frías. ¡Prepara tus picos!"
       ]
     },
     {
-      "id": "nuevos_paquetes_inventario",
+      "id": "explora_cuevas_glaciales",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lNUEVOS PAQUETES: ¡Gestiona tu inventario con estilo! La versión 1.21.2 introduce los \"Paquetes\", un nuevo objeto que te permite almacenar hasta 64 ítems diferentes en una sola pila para una gestión más eficiente."
+        "&a&l¡Explora las Cuevas Glaciales!&r &7Descubre grietas peligrosas con Hielo Frágil y nuevos sonidos ambientales escalofriantes en las Cuevas de Hielo."
       ]
     },
     {
-      "id": "modo_hardcore_realms",
+      "id": "cuidado_frostbites",
       "categoria": "noticias",
       "mensajes": [
-        "&e&lMODO HARDCORE EN REALMS: ¡Un nuevo desafío te espera! Ahora puedes llevar la emoción del modo Hardcore a tus Realms, poniendo a prueba tu valentía y habilidades de supervivencia."
+        "&c&l¡Cuidado con los Frostbites!&r &7Ahora portan escudos y se han ajustado sus zonas de aparición. ¡Mantén la distancia en las cuevas de hielo!"
       ]
     },
     {
-      "id": "camaras_prueba_renovadas",
+      "id": "mejoras_combate_invernal",
       "categoria": "noticias",
       "mensajes": [
-        "&d&lCÁMARAS DE PRUEBA RENOVADAS: ¡Explora con más peligro y recompensa! Las Trial Chambers han sido pulidas y mejoradas, ofreciendo experiencias de combate y exploración aún más dinámicas."
+        "&e&l¡Mejoras en Combate Invernal!&r &7Las Bolas de Hielo causan más daño inicial y las Pociones de Congelación se pueden extender con Redstone."
       ]
     },
     {
-      "id": "nuevas_variantes_mobs_bebe",
+      "id": "actualizacion_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&7&lNUEVAS VARIANTES DE MOBS BEBÉ: ¡Añaden encanto al mundo! Descubre las adorables nuevas variantes de mobs bebé que se han incorporado con la última actualización."
+        "&d&l¡Actualización Tricky Trials!&r &7Revive las Cámaras de Desafío, el Breeze y el nuevo Mazo, junto con el Crafteador automático."
       ]
     },
     {
-      "id": "mejoras_redstone_rendimiento",
-      "categoria": "noticias",
+      "id": "servidor_al_dia",
+      "categoria": "consejos",
       "mensajes": [
-        "&c&lMEJORAS EN REDSTONE Y RENDIMIENTO: ¡Tu experiencia de juego es más fluida! La versión 1.21.2 trae importantes mejoras en la funcionalidad de Redstone y optimizaciones generales de rendimiento."
+        "&7&l¡Tu Servidor al Día!&r &7Asegura la mejor experiencia 1.21.x: revisa tus plugins y ¡actualiza a Java 1.21.8!"
       ]
     },
     {
-      "id": "fixes_bugs_1_21_2",
+      "id": "mas_bloques_cobre",
       "categoria": "noticias",
       "mensajes": [
-        "&a&lFIXES DE BUGS EN 1.21.2: ¡Mapas, brújulas y más corregidos! Diversos errores relacionados con mapas en marcos, brújulas en la mano izquierda y otros aspectos han sido solucionados."
-      ]
-    },
-    {
-      "id": "nuevos_items_mecanicas_maza",
-      "categoria": "noticias",
-      "mensajes": [
-        "&b&lNUEVOS ÍTEMS Y MECÁNICAS: ¡El Tricky Trials Update trae la Maza y eventos ominosos! Las actualizaciones 1.21.x han introducido objetos como la Maza y eventos ominosos que desafiarán a los jugadores."
-      ]
-    },
-    {
-      "id": "fabricacion_paquetes",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&lFABRICACIÓN DE PAQUETES: ¡Con 1 hilo y 1 cuero, crea tu propio almacenamiento portátil! Los nuevos \"Paquetes\" se pueden fabricar fácilmente con estos materiales básicos, y vienen en 16 variantes de colores."
+        "&b&l¡Más Bloques de Cobre!&r &7Añade variedad a tus construcciones con los nuevos bloques de cobre y las lámparas de cobre."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "WEDNESDAY",
-      "titulo": "&b&l¡Expedición de Inventario!",
+      "dia": "MONDAY",
+      "titulo": "&6&l¡Día de los Campeones!",
       "descripcion": [
-        "&7¡La 1.21.2 ya está aquí con los Paquetes!",
-        "&7Obtén HASTE II para tus recolecciones."
+        "&7¡Aniversario del 1er torneo eSports (Oct 19)!",
+        "&7Obtén el efecto Fuerza II para tus batallas."
       ],
       "tipo": "EFECTO",
       "item": "AIR",
       "porcentaje_extra": 0.0,
-      "efecto_pocion": "HASTE",
+      "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
