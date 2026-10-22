@@ -1,67 +1,74 @@
 {
   "anuncios": [
     {
-      "id": "nuevos_bloques_gelidos",
+      "id": "nuevos_bloques_hielo",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Nuevos Bloques Gélidos!&r &7Llegan los Ladrillos de Hielo Compactado, losas, escaleras y muros para tus construcciones más frías. ¡Prepara tus picos!"
+        "&b&l¡NUEVOS BLOQUES DE HIELO EMPAQUETADO LLEGAN A MINECRAFT! &7Prepárense para construir estructuras increíbles con los nuevos ladrillos, losas, escaleras y muros de hielo empaquetado, disponibles en la última Instantánea 26.4 y la Vista Previa 26.70.21."
       ]
     },
     {
-      "id": "explora_cuevas_glaciales",
+      "id": "explora_cuevas_hielo",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Explora las Cuevas Glaciales!&r &7Descubre grietas peligrosas con Hielo Frágil y nuevos sonidos ambientales escalofriantes en las Cuevas de Hielo."
+        "&9&l¡EXPLORA LAS CUEVAS DE HIELO! &7Las misteriosas cuevas de hielo se expanden con nuevas formaciones, incluyendo hielo quebradizo y profundas grietas. ¡Cuidado con el suelo bajo tus pies!"
       ]
     },
     {
       "id": "cuidado_frostbites",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡Cuidado con los Frostbites!&r &7Ahora portan escudos y se han ajustado sus zonas de aparición. ¡Mantén la distancia en las cuevas de hielo!"
+        "&c&l¡CUIDADO CON LOS FROSTBITES! &7Estos nuevos y gélidos mobs acechan en las cuevas de hielo y lanzan bolas de hielo. ¡Asegúrate de estar bien equipado para enfrentarlos!"
       ]
     },
     {
-      "id": "mejoras_combate_invernal",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡Mejoras en Combate Invernal!&r &7Las Bolas de Hielo causan más daño inicial y las Pociones de Congelación se pueden extender con Redstone."
-      ]
-    },
-    {
-      "id": "actualizacion_tricky_trials",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡Actualización Tricky Trials!&r &7Revive las Cámaras de Desafío, el Breeze y el nuevo Mazo, junto con el Crafteador automático."
-      ]
-    },
-    {
-      "id": "servidor_al_dia",
+      "id": "nuevo_logro_frostbite",
       "categoria": "consejos",
       "mensajes": [
-        "&7&l¡Tu Servidor al Día!&r &7Asegura la mejor experiencia 1.21.x: revisa tus plugins y ¡actualiza a Java 1.21.8!"
+        "&a&l¡NUEVO LOGRO: 'Lo que se da, se recibe'! &7Desbloquea este desafío al derrotar a un Frostbite usando su propia Bola de Hielo contra él. ¿Te atreves?"
       ]
     },
     {
-      "id": "mas_bloques_cobre",
+      "id": "ambiente_hielo_inmersivo",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&e&l¡AMBIENTE MÁS INMERSIVO! &7Ahora los bloques de hielo regulares emiten sonidos ambientales cuando están agrupados, añadiendo una capa extra de inmersión a tus construcciones heladas."
+      ]
+    },
+    {
+      "id": "pociones_congelacion_redstone",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Más Bloques de Cobre!&r &7Añade variedad a tus construcciones con los nuevos bloques de cobre y las lámparas de cobre."
+        "&d&l¡Actualización de Pociones de Congelación! &7Las pociones de congelación ahora pueden extenderse con Redstone Dust, ¡lo que permite más estrategias en combate y exploración!"
+      ]
+    },
+    {
+      "id": "efemeride_sonic_35_anos",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&6&l¡EFEMÉRIDE GAMING: Sonic cumple 35 años en 2026! &7¡El erizo más rápido del mundo celebra un gran aniversario este año, marcando décadas de velocidad y aventuras!"
+      ]
+    },
+    {
+      "id": "impacto_economico_videojuegos",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7&l¡EL IMPACTO DE LOS VIDEOJUEGOS! &7La industria de los videojuegos en EE. UU. genera más de 250,000 empleos y $95.8 mil millones en impacto económico."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&6&l¡Día de los Campeones!",
+      "titulo": "&b&l¡Exploración Gélida!",
       "descripcion": [
-        "&7¡Aniversario del 1er torneo eSports (Oct 19)!",
-        "&7Obtén el efecto Fuerza II para tus batallas."
+        "&7¡Nuevos Ladrillos de Hielo llegan a Minecraft!",
+        "&7Obtén Haste II y +25% precio extra en IRON_INGOT."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
-      "efecto_pocion": "STRENGTH",
+      "tipo": "AMBOS",
+      "item": "IRON_INGOT",
+      "porcentaje_extra": 25.0,
+      "efecto_pocion": "HASTE",
       "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
