@@ -1,74 +1,154 @@
 {
   "anuncios": [
     {
-      "id": "nuevos_bloques_hielo",
+      "id": "nuevas_camaras_desafio",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡NUEVOS BLOQUES DE HIELO EMPAQUETADO LLEGAN A MINECRAFT! &7Prepárense para construir estructuras increíbles con los nuevos ladrillos, losas, escaleras y muros de hielo empaquetado, disponibles en la última Instantánea 26.4 y la Vista Previa 26.70.21."
+        "&e&l¡Nuevas Cámaras de Desafío!",
+        "&7Explora estructuras repletas de peligros y recompensas únicas introducidas en la actualización 1.21."
       ]
     },
     {
-      "id": "explora_cuevas_hielo",
+      "id": "enfrenta_breeze",
       "categoria": "noticias",
       "mensajes": [
-        "&9&l¡EXPLORA LAS CUEVAS DE HIELO! &7Las misteriosas cuevas de hielo se expanden con nuevas formaciones, incluyendo hielo quebradizo y profundas grietas. ¡Cuidado con el suelo bajo tus pies!"
+        "&b&l¡Enfrenta al Breeze!",
+        "&7Un nuevo mob hostil que lanza ráfagas de viento te espera en las Trial Chambers. ¡Prepárate para sus embates!"
       ]
     },
     {
-      "id": "cuidado_frostbites",
+      "id": "domina_maza",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡CUIDADO CON LOS FROSTBITES! &7Estos nuevos y gélidos mobs acechan en las cuevas de hielo y lanzan bolas de hielo. ¡Asegúrate de estar bien equipado para enfrentarlos!"
+        "&c&l¡Domina la Maza!",
+        "&7Descubre y crea esta poderosa arma nueva de la 1.21 que causa más daño cuanto mayor sea la caída antes del impacto."
       ]
     },
     {
-      "id": "nuevo_logro_frostbite",
-      "categoria": "consejos",
+      "id": "automatiza_crafteo",
+      "categoria": "noticias",
       "mensajes": [
-        "&a&l¡NUEVO LOGRO: 'Lo que se da, se recibe'! &7Desbloquea este desafío al derrotar a un Frostbite usando su propia Bola de Hielo contra él. ¿Te atreves?"
+        "&a&l¡Automatiza tu Crafteo!",
+        "&7Aprovecha el nuevo Crafter, un bloque innovador que te permite fabricar objetos de forma automática con Redstone."
       ]
     },
     {
-      "id": "ambiente_hielo_inmersivo",
+      "id": "decoracion_cobre",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡Decoración con Cobre!",
+        "&7Disfruta de la expansión de bloques de cobre en la 1.21, incluyendo bombillas, puertas y trampillas para tus construcciones."
+      ]
+    },
+    {
+      "id": "cuidado_bogged",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&l¡Cuidado con el Bogged!",
+        "&7Encuentra a esta nueva variante de esqueleto venenoso que aparece en los pantanos y en las Trial Chambers."
+      ]
+    },
+    {
+      "id": "eventos_siniestros",
+      "categoria": "noticias",
+      "mensajes": [
+        "&c&l¡Eventos Siniestros!",
+        "&7Los desafíos ahora pueden tener una variante ominosa, ofreciendo mayores retos y recompensas para los jugadores más valientes."
+      ]
+    },
+    {
+      "id": "arte_sonido",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡Arte y Sonido!",
+        "&7Decora tus bases con más de 20 nuevas pinturas y explora los nuevos discos de música añadidos en la actualización Tricky Trials."
+      ]
+    },
+    {
+      "id": "primer_easter_egg",
       "categoria": "curiosidades",
       "mensajes": [
-        "&e&l¡AMBIENTE MÁS INMERSIVO! &7Ahora los bloques de hielo regulares emiten sonidos ambientales cuando están agrupados, añadiendo una capa extra de inmersión a tus construcciones heladas."
+        "&b&l⭐ Curiosidad Gaming ⭐",
+        "&7El primer \"Easter Egg\" fue en Adventure (Atari 2600, 1980) por Warren Robinett."
       ]
     },
     {
-      "id": "pociones_congelacion_redstone",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡Actualización de Pociones de Congelación! &7Las pociones de congelación ahora pueden extenderse con Redstone Dust, ¡lo que permite más estrategias en combate y exploración!"
-      ]
-    },
-    {
-      "id": "efemeride_sonic_35_anos",
+      "id": "origen_nombre_mario",
       "categoria": "curiosidades",
       "mensajes": [
-        "&6&l¡EFEMÉRIDE GAMING: Sonic cumple 35 años en 2026! &7¡El erizo más rápido del mundo celebra un gran aniversario este año, marcando décadas de velocidad y aventuras!"
+        "&b&l⭐ Curiosidad Gaming ⭐",
+        "&7Mario, originalmente \"Jumpman\", fue nombrado por Mario Segale, casero de Nintendo."
       ]
     },
     {
-      "id": "impacto_economico_videojuegos",
+      "id": "samus_aran_metroid",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7&l¡EL IMPACTO DE LOS VIDEOJUEGOS! &7La industria de los videojuegos en EE. UU. genera más de 250,000 empleos y $95.8 mil millones en impacto económico."
+        "&b&l⭐ Curiosidad Gaming ⭐",
+        "&7La revelación del género de Samus Aran en Metroid (1986) fue revolucionaria."
+      ]
+    },
+    {
+      "id": "minecraft_mas_vendido",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&l⭐ Curiosidad Gaming ⭐",
+        "&7Minecraft es el videojuego más vendido, con +200 millones de copias."
+      ]
+    },
+    {
+      "id": "game_boy_espacio",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&b&l⭐ Curiosidad Gaming ⭐",
+        "&7La Game Boy fue la primera consola en el espacio con el astronauta Serebrov."
+      ]
+    },
+    {
+      "id": "cod_mw4_lanzamiento",
+      "categoria": "lanzamientos",
+      "mensajes": [
+        "&a&l🚀 Lanzamiento Gaming 🚀",
+        "&7Call of Duty: Modern Warfare 4. Disponible 23 Oct 2026."
+      ]
+    },
+    {
+      "id": "ff_resonance_lanzamiento",
+      "categoria": "lanzamientos",
+      "mensajes": [
+        "&a&l🚀 Lanzamiento Gaming 🚀",
+        "&7Final Fantasy Resonance. Disponible 22 Oct 2026."
+      ]
+    },
+    {
+      "id": "monster_crown_lanzamiento",
+      "categoria": "lanzamientos",
+      "mensajes": [
+        "&a&l🚀 Lanzamiento Gaming 🚀",
+        "&7Monster Crown: Sin Eater. Disponible 22 Oct 2026 en PS5."
+      ]
+    },
+    {
+      "id": "nintendo_sports_lanzamiento",
+      "categoria": "lanzamientos",
+      "mensajes": [
+        "&a&l🚀 Lanzamiento Gaming 🚀",
+        "&7Nintendo Switch Sports Resort. Disponible 22 Oct 2026 en Switch 2."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&b&l¡Exploración Gélida!",
+      "titulo": "&c&l¡Asalto Global!",
       "descripcion": [
-        "&7¡Nuevos Ladrillos de Hielo llegan a Minecraft!",
-        "&7Obtén Haste II y +25% precio extra en IRON_INGOT."
+        "&7¡Call of Duty: Modern Warfare 4 ya está aquí!",
+        "&7Obtén Fuerza II para tus batallas."
       ],
-      "tipo": "AMBOS",
-      "item": "IRON_INGOT",
-      "porcentaje_extra": 25.0,
-      "efecto_pocion": "HASTE",
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
+      "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
