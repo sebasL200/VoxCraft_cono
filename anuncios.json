@@ -1,155 +1,89 @@
 {
   "anuncios": [
     {
-      "id": "nuevas_camaras_desafio",
+      "id": "actualizacion_fria",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Nuevas Cámaras de Desafío!",
-        "&7Explora estructuras repletas de peligros y recompensas únicas introducidas en la actualización 1.21."
+        "&a&l¡ACTUALIZACIÓN FRÍA!&r &7La Preview 26.70.21 de Minecraft introduce los Ladrillos de Hielo Compactado y nuevas Cuevas Heladas con secretos."
       ]
     },
     {
-      "id": "enfrenta_breeze",
+      "id": "nueva_dimension_the_sift",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Enfrenta al Breeze!",
-        "&7Un nuevo mob hostil que lanza ráfagas de viento te espera en las Trial Chambers. ¡Prepárate para sus embates!"
+        "&b&l¡UNA NUEVA DIMENSIÓN!&r &7Mojang ha anunciado \"The Sift\", la primera nueva dimensión de Minecraft en más de una década."
       ]
     },
     {
-      "id": "domina_maza",
+      "id": "lanzamiento_dungeons_ii",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡Domina la Maza!",
-        "&7Descubre y crea esta poderosa arma nueva de la 1.21 que causa más daño cuanto mayor sea la caída antes del impacto."
+        "&e&l¡LANZAMIENTO DUNGEONS II!&r &7Minecraft Dungeons II ya está disponible desde el 29 de septiembre de 2026."
       ]
     },
     {
-      "id": "automatiza_crafteo",
+      "id": "minecraft_switch_2",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Automatiza tu Crafteo!",
-        "&7Aprovecha el nuevo Crafter, un bloque innovador que te permite fabricar objetos de forma automática con Redstone."
+        "&d&l¡MINECRAFT EN SWITCH 2!&r &7La versión de Minecraft para Nintendo Switch 2 se lanza este 27 de octubre de 2026."
       ]
     },
     {
-      "id": "decoracion_cobre",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡Decoración con Cobre!",
-        "&7Disfruta de la expansión de bloques de cobre en la 1.21, incluyendo bombillas, puertas y trampillas para tus construcciones."
-      ]
-    },
-    {
-      "id": "cuidado_bogged",
-      "categoria": "noticias",
-      "mensajes": [
-        "&7&l¡Cuidado con el Bogged!",
-        "&7Encuentra a esta nueva variante de esqueleto venenoso que aparece en los pantanos y en las Trial Chambers."
-      ]
-    },
-    {
-      "id": "eventos_siniestros",
-      "categoria": "noticias",
-      "mensajes": [
-        "&c&l¡Eventos Siniestros!",
-        "&7Los desafíos ahora pueden tener una variante ominosa, ofreciendo mayores retos y recompensas para los jugadores más valientes."
-      ]
-    },
-    {
-      "id": "arte_sonido",
-      "categoria": "noticias",
-      "mensajes": [
-        "&d&l¡Arte y Sonido!",
-        "&7Decora tus bases con más de 20 nuevas pinturas y explora los nuevos discos de música añadidos en la actualización Tricky Trials."
-      ]
-    },
-    {
-      "id": "primer_easter_egg",
+      "id": "dato_curioso_easter_egg",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&l⭐ Curiosidad Gaming ⭐",
-        "&7El primer \"Easter Egg\" fue en Adventure (Atari 2600, 1980) por Warren Robinett."
+        "&7&l¡DATO CURIOSO GAMER!&r &7El primer \"Easter Egg\" en un videojuego fue en \"Adventure\" de Atari 2600 en 1980."
       ]
     },
     {
-      "id": "origen_nombre_mario",
+      "id": "origen_mario",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&l⭐ Curiosidad Gaming ⭐",
-        "&7Mario, originalmente \"Jumpman\", fue nombrado por Mario Segale, casero de Nintendo."
+        "&a&l¡ORIGEN DE MARIO!&r &7Originalmente, Mario se llamaba \"Jumpman\" y era carpintero antes de ser fontanero."
       ]
     },
     {
       "id": "samus_aran_metroid",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&l⭐ Curiosidad Gaming ⭐",
-        "&7La revelación del género de Samus Aran en Metroid (1986) fue revolucionaria."
+        "&b&l¡SAMUS ARAN REVOLUCIONARIA!&r &7En Metroid (1986), la cazarrecompensas Samus Aran fue una sorpresa al revelarse como mujer."
       ]
     },
     {
       "id": "minecraft_mas_vendido",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&l⭐ Curiosidad Gaming ⭐",
-        "&7Minecraft es el videojuego más vendido, con +200 millones de copias."
+        "&e&l¡MINECRAFT: EL MÁS VENDIDO!&r &7Minecraft es el videojuego más vendido de la historia, con más de 200 millones de copias."
       ]
     },
     {
-      "id": "game_boy_espacio",
+      "id": "ia_en_desarrollo_gaming",
+      "categoria": "noticias",
+      "mensajes": [
+        "&d&l¡IA EN DESARROLLO!&r &7El 97% de los desarrolladores de videojuegos ya usa Inteligencia Artificial en sus procesos."
+      ]
+    },
+    {
+      "id": "rdr2_mas_caro",
       "categoria": "curiosidades",
       "mensajes": [
-        "&b&l⭐ Curiosidad Gaming ⭐",
-        "&7La Game Boy fue la primera consola en el espacio con el astronauta Serebrov."
-      ]
-    },
-    {
-      "id": "cod_mw4_lanzamiento",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&a&l🚀 Lanzamiento Gaming 🚀",
-        "&7Call of Duty: Modern Warfare 4. Disponible 23 Oct 2026."
-      ]
-    },
-    {
-      "id": "ff_resonance_lanzamiento",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&a&l🚀 Lanzamiento Gaming 🚀",
-        "&7Final Fantasy Resonance. Disponible 22 Oct 2026."
-      ]
-    },
-    {
-      "id": "monster_crown_lanzamiento",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&a&l🚀 Lanzamiento Gaming 🚀",
-        "&7Monster Crown: Sin Eater. Disponible 22 Oct 2026 en PS5."
-      ]
-    },
-    {
-      "id": "nintendo_sports_lanzamiento",
-      "categoria": "lanzamientos",
-      "mensajes": [
-        "&a&l🚀 Lanzamiento Gaming 🚀",
-        "&7Nintendo Switch Sports Resort. Disponible 22 Oct 2026 en Switch 2."
+        "&7&l¡EL MÁS CARO DE PRODUCIR!&r &7Red Dead Redemption 2 es considerado el videojuego más caro de producir en la historia, con 800 millones de dólares."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&c&l¡Asalto Global!",
+      "titulo": "&b&l¡Exploración Gélida!",
       "descripcion": [
-        "&7¡Call of Duty: Modern Warfare 4 ya está aquí!",
-        "&7Obtén Fuerza II para tus batallas."
+        "&7¡Se lanzaron las Cuevas Heladas en Preview!",
+        "&7Obtén 25% más de hierro y Haste I global."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
-      "efecto_pocion": "STRENGTH",
-      "nivel_efecto": 2,
+      "tipo": "AMBOS",
+      "item": "IRON_INGOT",
+      "porcentaje_extra": 25.0,
+      "efecto_pocion": "HASTE",
+      "nivel_efecto": 1,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
