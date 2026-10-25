@@ -1,89 +1,82 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_fria",
+      "id": "actualizacion_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN FRÍA!&r &7La Preview 26.70.21 de Minecraft introduce los Ladrillos de Hielo Compactado y nuevas Cuevas Heladas con secretos."
+        "&a&l¡ACTUALIZACIÓN 1.21: Tricky Trials ya disponible! &7Explora nuevas cámaras de desafío llenas de peligros."
       ]
     },
     {
-      "id": "nueva_dimension_the_sift",
+      "id": "nuevas_estructuras_camaras",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡UNA NUEVA DIMENSIÓN!&r &7Mojang ha anunciado \"The Sift\", la primera nueva dimensión de Minecraft en más de una década."
+        "&b&l¡Nuevas Estructuras: Cámaras de Prueba! &7Enfréntate a desafíos únicos bajo tierra y gana recompensas."
       ]
     },
     {
-      "id": "lanzamiento_dungeons_ii",
+      "id": "nuevos_mobs",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡LANZAMIENTO DUNGEONS II!&r &7Minecraft Dungeons II ya está disponible desde el 29 de septiembre de 2026."
+        "&e&l¡Conoce a los nuevos mobs! &7Cuidado con el astuto Breeze y el venenoso Bogged en tus aventuras."
       ]
     },
     {
-      "id": "minecraft_switch_2",
+      "id": "bloques_cobre_toba_expandidos",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡MINECRAFT EN SWITCH 2!&r &7La versión de Minecraft para Nintendo Switch 2 se lanza este 27 de octubre de 2026."
+        "&d&l¡Bloques de Cobre y Toba Expandidos! &7Decora y construye con las nuevas variantes que ofrece la versión 1.21."
       ]
     },
     {
-      "id": "dato_curioso_easter_egg",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7&l¡DATO CURIOSO GAMER!&r &7El primer \"Easter Egg\" en un videojuego fue en \"Adventure\" de Atari 2600 en 1980."
-      ]
-    },
-    {
-      "id": "origen_mario",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&a&l¡ORIGEN DE MARIO!&r &7Originalmente, Mario se llamaba \"Jumpman\" y era carpintero antes de ser fontanero."
-      ]
-    },
-    {
-      "id": "samus_aran_metroid",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&b&l¡SAMUS ARAN REVOLUCIONARIA!&r &7En Metroid (1986), la cazarrecompensas Samus Aran fue una sorpresa al revelarse como mujer."
-      ]
-    },
-    {
-      "id": "minecraft_mas_vendido",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&e&l¡MINECRAFT: EL MÁS VENDIDO!&r &7Minecraft es el videojuego más vendido de la historia, con más de 200 millones de copias."
-      ]
-    },
-    {
-      "id": "ia_en_desarrollo_gaming",
+      "id": "nuevos_eventos_ominosos",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡IA EN DESARROLLO!&r &7El 97% de los desarrolladores de videojuegos ya usa Inteligencia Artificial en sus procesos."
+        "&7&l¡Nuevos Eventos Ominosos! &7Prepárate para retos inesperados que pondrán a prueba tus habilidades en las Trial Chambers."
       ]
     },
     {
-      "id": "rdr2_mas_caro",
+      "id": "preview_hielo_compactado",
+      "categoria": "noticias",
+      "mensajes": [
+        "&a&l¡Preview 26.70.21 trae Bloques de Hielo Compactado! &7Descubre y construye con un nuevo set de ladrillos azules gélidos."
+      ]
+    },
+    {
+      "id": "cambios_cuevas_hielo",
+      "categoria": "noticias",
+      "mensajes": [
+        "&b&l¡Cambios en las Cuevas de Hielo! &7Explora nuevas grietas y ambientes sonoros escalofriantes bajo tierra."
+      ]
+    },
+    {
+      "id": "contenido_marketplace_octubre",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡Contenido del Marketplace de Octubre! &7Descubre nuevas adiciones y personalizaciones para tus mundos este mes."
+      ]
+    },
+    {
+      "id": "dato_curioso_game_boy",
       "categoria": "curiosidades",
       "mensajes": [
-        "&7&l¡EL MÁS CARO DE PRODUCIR!&r &7Red Dead Redemption 2 es considerado el videojuego más caro de producir en la historia, con 800 millones de dólares."
+        "&d&lDato Curioso Gaming: &7¡El Game Boy fue la primera consola en el espacio! El astronauta Aleksandr A. Serebrov jugó Tetris en 1993."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "MONDAY",
-      "titulo": "&b&l¡Exploración Gélida!",
+      "dia": "TUESDAY",
+      "titulo": "&b&l¡Fiebre de la Toba Glacial!",
       "descripcion": [
-        "&7¡Se lanzaron las Cuevas Heladas en Preview!",
-        "&7Obtén 25% más de hierro y Haste I global."
+        "&7¡Los nuevos ladrillos de hielo compacto inspiran!",
+        "&7La toba valdrá un &a&l20% más&7 este martes."
       ],
-      "tipo": "AMBOS",
-      "item": "IRON_INGOT",
-      "porcentaje_extra": 25.0,
-      "efecto_pocion": "HASTE",
-      "nivel_efecto": 1,
+      "tipo": "PRECIO",
+      "item": "TUFF",
+      "porcentaje_extra": 20.0,
+      "efecto_pocion": "NONE",
+      "nivel_efecto": 0,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
