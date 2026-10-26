@@ -1,82 +1,82 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_tricky_trials",
+      "id": "noticia_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21: Tricky Trials ya disponible! &7Explora nuevas cámaras de desafío llenas de peligros."
+        "&a&l¡La Actualización 'Tricky Trials' ya está aquí! &7Descubre las Cámaras de Prueba llenas de trampas y tesoros con nuevos bloques de cobre y toba."
       ]
     },
     {
-      "id": "nuevas_estructuras_camaras",
+      "id": "noticia_nuevos_mobs",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Nuevas Estructuras: Cámaras de Prueba! &7Enfréntate a desafíos únicos bajo tierra y gana recompensas."
+        "&b&lNuevos Mobs Hostiles: &7Enfréntate a la ráfaga de viento del Breeze y ten cuidado con las flechas venenosas del Bogged en pantanos."
       ]
     },
     {
-      "id": "nuevos_mobs",
+      "id": "noticia_mazo_nuevo_arma",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Conoce a los nuevos mobs! &7Cuidado con el astuto Breeze y el venenoso Bogged en tus aventuras."
+        "&e&l¡El Mazo ha Llegado! &7Empuña esta poderosa arma forjada con el misterioso Heavy Core que se encuentra en las Cámaras de Prueba."
       ]
     },
     {
-      "id": "bloques_cobre_toba_expandidos",
+      "id": "noticia_crafter_automatizacion",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡Bloques de Cobre y Toba Expandidos! &7Decora y construye con las nuevas variantes que ofrece la versión 1.21."
+        "&d&lAutomatiza con el Crafter: &7Construye el nuevo bloque Crafter y usa redstone para automatizar tus recetas de crafteo. ¡Adiós al crafteo manual!"
       ]
     },
     {
-      "id": "nuevos_eventos_ominosos",
+      "id": "noticia_armadura_lobos",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡Nuevos Eventos Ominosos! &7Prepárate para retos inesperados que pondrán a prueba tus habilidades en las Trial Chambers."
+        "&a&lArmadura para tus Lobos: &7Protege a tus fieles compañeros con armadura hecha de escamas de Armadillo. ¡Personaliza y dales más resistencia!"
       ]
     },
     {
-      "id": "preview_hielo_compactado",
+      "id": "noticia_minecraft_live_recap",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡Preview 26.70.21 trae Bloques de Hielo Compactado! &7Descubre y construye con un nuevo set de ladrillos azules gélidos."
+        "&b&lMinecraft Live 2024 Recap: &7¡Se anunció un nuevo bioma 'Pale Garden' y un nuevo mob, 'The Creaking'!"
       ]
     },
     {
-      "id": "cambios_cuevas_hielo",
+      "id": "noticia_hardcore_bedrock",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡Cambios en las Cuevas de Hielo! &7Explora nuevas grietas y ambientes sonoros escalofriantes bajo tierra."
+        "&e&lModo Hardcore en Bedrock: &7Prepárense, jugadores de Bedrock, el modo Hardcore llegará para ofrecer un desafío definitivo."
       ]
     },
     {
-      "id": "contenido_marketplace_octubre",
+      "id": "noticia_bundles_inventario",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡Contenido del Marketplace de Octubre! &7Descubre nuevas adiciones y personalizaciones para tus mundos este mes."
+        "&d&lBundles para Inventario: &7Pronto podrás gestionar tu inventario de forma más eficiente con la introducción de los 'bundles'."
       ]
     },
     {
-      "id": "dato_curioso_game_boy",
-      "categoria": "curiosidades",
+      "id": "noticia_desafio_ominoso",
+      "categoria": "noticias",
       "mensajes": [
-        "&d&lDato Curioso Gaming: &7¡El Game Boy fue la primera consola en el espacio! El astronauta Aleksandr A. Serebrov jugó Tetris en 1993."
+        "&a&lDesafío Ominoso: &7Para los más valientes, las Cámaras de Prueba Ominosas ofrecen una dificultad aún mayor y recompensas únicas."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "TUESDAY",
-      "titulo": "&b&l¡Fiebre de la Toba Glacial!",
+      "titulo": "&a&l¡La Aventura de Mojang!",
       "descripcion": [
-        "&7¡Los nuevos ladrillos de hielo compacto inspiran!",
-        "&7La toba valdrá un &a&l20% más&7 este martes."
+        "&7¡Lo nuevo de Minecraft Live llega al server!",
+        "&7Obtén SUERTE II en tus expediciones."
       ],
-      "tipo": "PRECIO",
-      "item": "TUFF",
-      "porcentaje_extra": 20.0,
-      "efecto_pocion": "NONE",
-      "nivel_efecto": 0,
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
+      "efecto_pocion": "LUCK",
+      "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
