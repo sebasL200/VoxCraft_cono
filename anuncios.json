@@ -1,81 +1,82 @@
 {
   "anuncios": [
     {
-      "id": "noticia_tricky_trials",
+      "id": "actualizacion_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡La Actualización 'Tricky Trials' ya está aquí! &7Descubre las Cámaras de Prueba llenas de trampas y tesoros con nuevos bloques de cobre y toba."
+        "&a&l¡ACTUALIZACIÓN 1.21.x TRICKY TRIALS YA DISPONIBLE!",
+        "&7Explora las nuevas Trial Chambers, enfrenta mobs inéditos y descubre bloques fascinantes."
       ]
     },
     {
-      "id": "noticia_nuevos_mobs",
+      "id": "arma_mazo",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lNuevos Mobs Hostiles: &7Enfréntate a la ráfaga de viento del Breeze y ten cuidado con las flechas venenosas del Bogged en pantanos."
+        "&b&l¡EL MAZO HA LLEGADO!",
+        "&7Domina el campo de batalla con esta poderosa arma que inflige más daño con cada caída. ¡Encuentra sus encantamientos exclusivos!"
       ]
     },
     {
-      "id": "noticia_mazo_nuevo_arma",
+      "id": "bloque_crafteador",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡El Mazo ha Llegado! &7Empuña esta poderosa arma forjada con el misterioso Heavy Core que se encuentra en las Cámaras de Prueba."
+        "&e&l¡CREA SIN LÍMITES!",
+        "&7El nuevo bloque Crafteador te permite automatizar tus creaciones con redstone. ¡Diseña tus granjas eficientes!"
       ]
     },
     {
-      "id": "noticia_crafter_automatizacion",
+      "id": "nuevos_mobs_breeze_bogged",
       "categoria": "noticias",
       "mensajes": [
-        "&d&lAutomatiza con el Crafter: &7Construye el nuevo bloque Crafter y usa redstone para automatizar tus recetas de crafteo. ¡Adiós al crafteo manual!"
+        "&d&l¡ENFRENTA AL BREEZE Y BOGGED!",
+        "&7Dos nuevos mobs hostiles te esperan en las Trial Chambers y pantanos. ¡Prepárate para la batalla!"
       ]
     },
     {
-      "id": "noticia_armadura_lobos",
+      "id": "bloques_cobre_tufo",
       "categoria": "noticias",
       "mensajes": [
-        "&a&lArmadura para tus Lobos: &7Protege a tus fieles compañeros con armadura hecha de escamas de Armadillo. ¡Personaliza y dales más resistencia!"
+        "&7&l¡NUEVOS BLOQUES DE COBRE Y TUFO!",
+        "&7Decora tus construcciones con una gran variedad de bloques de cobre y tufo, ¡perfectos para cualquier diseño!"
       ]
     },
     {
-      "id": "noticia_minecraft_live_recap",
+      "id": "eventos_siniestros_reformulados",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lMinecraft Live 2024 Recap: &7¡Se anunció un nuevo bioma 'Pale Garden' y un nuevo mob, 'The Creaking'!"
+        "&c&l¡EVENTOS SINIESTROS REFORMULADOS!",
+        "&7Prepárense para desafíos épicos. El Bad Omen ahora activa eventos ominosos más intensos."
       ]
     },
     {
-      "id": "noticia_hardcore_bedrock",
+      "id": "rendimiento_optimizado",
       "categoria": "noticias",
       "mensajes": [
-        "&e&lModo Hardcore en Bedrock: &7Prepárense, jugadores de Bedrock, el modo Hardcore llegará para ofrecer un desafío definitivo."
+        "&a&l¡RENDIMIENTO OPTIMIZADO!",
+        "&7Hemos actualizado plugins clave para asegurar la mejor experiencia en 1.21.x. ¡Disfruta un juego más fluido!"
       ]
     },
     {
-      "id": "noticia_bundles_inventario",
+      "id": "nuevas_pinturas_discos",
       "categoria": "noticias",
       "mensajes": [
-        "&d&lBundles para Inventario: &7Pronto podrás gestionar tu inventario de forma más eficiente con la introducción de los 'bundles'."
-      ]
-    },
-    {
-      "id": "noticia_desafio_ominoso",
-      "categoria": "noticias",
-      "mensajes": [
-        "&a&lDesafío Ominoso: &7Para los más valientes, las Cámaras de Prueba Ominosas ofrecen una dificultad aún mayor y recompensas únicas."
+        "&b&l¡DESCUBRE NUEVOS SECRETOS!",
+        "&7La actualización incluye nuevas pinturas y discos de música. ¡Encuéntralos y personaliza tu mundo!"
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "TUESDAY",
-      "titulo": "&a&l¡La Aventura de Mojang!",
+      "dia": "WEDNESDAY",
+      "titulo": "&c&l¡Furia de la Maza!",
       "descripcion": [
-        "&7¡Lo nuevo de Minecraft Live llega al server!",
-        "&7Obtén SUERTE II en tus expediciones."
+        "&7¡La 1.21 llegó con nuevos desafíos!",
+        "&7Obtén Fuerza II y 20% extra en Lingotes de Cobre."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
-      "efecto_pocion": "LUCK",
+      "tipo": "AMBOS",
+      "item": "COPPER_INGOT",
+      "porcentaje_extra": 20.0,
+      "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
