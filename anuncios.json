@@ -1,86 +1,110 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_tricky_trials",
+      "id": "noticia_actualizacion_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21.x TRICKY TRIALS YA DISPONIBLE!",
-        "&7Explora las nuevas Trial Chambers, enfrenta mobs inéditos y descubre bloques fascinantes."
+        "&a&l¡ACTUALIZACIÓN 1.21: TRICKY TRIALS YA DISPONIBLE! &fLa actualización 1.21, \"Tricky Trials\", fue lanzada el 13 de junio de 2024, trayendo consigo una plétora de nuevas características y desafíos emocionantes."
       ]
     },
     {
-      "id": "arma_mazo",
+      "id": "noticia_trial_chambers",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡EL MAZO HA LLEGADO!",
-        "&7Domina el campo de batalla con esta poderosa arma que inflige más daño con cada caída. ¡Encuentra sus encantamientos exclusivos!"
+        "&b&lDESCUBRE LAS TRIAL CHAMBERS: &fExplora las nuevas estructuras subterráneas generadas por procedimientos, construidas con una variada paleta de bloques de cobre y toba, ofreciendo nuevas aventuras."
       ]
     },
     {
-      "id": "bloque_crafteador",
+      "id": "noticia_nuevos_mobs",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡CREA SIN LÍMITES!",
-        "&7El nuevo bloque Crafteador te permite automatizar tus creaciones con redstone. ¡Diseña tus granjas eficientes!"
+        "&e&lNUEVOS MOBS: BREEZE Y BOGGED: &fEnfréntate al temible Breeze, una criatura elemental del viento en las Trial Chambers, y al Bogged, un esqueleto cubierto de musgo que dispara flechas venenosas en pantanos y cámaras."
       ]
     },
     {
-      "id": "nuevos_mobs_breeze_bogged",
+      "id": "noticia_mazo_encantamientos",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡ENFRENTA AL BREEZE Y BOGGED!",
-        "&7Dos nuevos mobs hostiles te esperan en las Trial Chambers y pantanos. ¡Prepárate para la batalla!"
+        "&d&lDOMINA EL MAZO Y SUS ENCANTAMIENTOS: &fEmpuña el nuevo y poderoso arma, el Mazo, crafteado con un Bloque Pesado y Varitas de Breeze, y descubre sus exclusivos encantamientos de Densidad, Brecha y Ráfaga de Viento."
       ]
     },
     {
-      "id": "bloques_cobre_tufo",
+      "id": "noticia_crafter_automatizado",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡NUEVOS BLOQUES DE COBRE Y TUFO!",
-        "&7Decora tus construcciones con una gran variedad de bloques de cobre y tufo, ¡perfectos para cualquier diseño!"
+        "&7&lARTESANÍA AUTOMATIZADA CON EL CRAFTER: &fRevolutiona tus métodos de producción con el nuevo bloque Crafter, permitiendo procesos de crafteo totalmente automatizados mediante Redstone."
       ]
     },
     {
-      "id": "eventos_siniestros_reformulados",
+      "id": "noticia_armadura_lobos",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡EVENTOS SINIESTROS REFORMULADOS!",
-        "&7Prepárense para desafíos épicos. El Bad Omen ahora activa eventos ominosos más intensos."
+        "&a&lARMADURA PARA LOBOS Y MEJORAS: &fProtege a tus fieles compañeros lobos con la nueva armadura crafteada a partir de escudos de Armadillo, además de nuevas estadísticas de salud mejoradas para ellos."
       ]
     },
     {
-      "id": "rendimiento_optimizado",
+      "id": "noticia_bloques_cobre_toba",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡RENDIMIENTO OPTIMIZADO!",
-        "&7Hemos actualizado plugins clave para asegurar la mejor experiencia en 1.21.x. ¡Disfruta un juego más fluido!"
+        "&b&lNUEVOS BLOQUES DE COBRE Y TOBA: &fDecora y construye con una amplia gama de nuevos bloques de cobre, como bombillas, puertas y rejillas, y diversas variantes estéticas de bloques de toba."
       ]
     },
     {
-      "id": "nuevas_pinturas_discos",
+      "id": "noticia_eventos_siniestros",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡DESCUBRE NUEVOS SECRETOS!",
-        "&7La actualización incluye nuevas pinturas y discos de música. ¡Encuéntralos y personaliza tu mundo!"
+        "&e&lEVENTOS SINIESTROS Y POCIONES: &fPrepárate para los desafiantes Eventos Siniestros gracias a la renovación de la Mala Señal, y experimenta con 6 nuevos efectos de estado y 4 nuevas pociones o flechas con punta."
+      ]
+    },
+    {
+      "id": "curiosidad_primer_videojuego",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "El primer videojuego de la historia no fue \"Pong\", sino \"Tennis for Two\", creado en 1958 por William Higinbotham."
+      ]
+    },
+    {
+      "id": "curiosidad_mario_jumpman",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "Antes de ser el icónico fontanero, el personaje de Mario fue originalmente concebido como un carpintero llamado \"Jumpman\"."
+      ]
+    },
+    {
+      "id": "curiosidad_pacman_pizza",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "El diseño del famoso personaje Pac-Man se inspiró en la forma de una pizza a la que le faltaba una porción."
+      ]
+    },
+    {
+      "id": "curiosidad_codigo_konami",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "El legendario Código Konami, una secuencia de botones, ha sido incorporado en más de cien videojuegos diferentes."
+      ]
+    },
+    {
+      "id": "curiosidad_minecraft_mas_vendido",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "Minecraft ostenta el título de ser el videojuego más vendido de todos los tiempos, con cientos de millones de copias vendidas globalmente."
+      ]
+    },
+    {
+      "id": "curiosidad_industria_gaming_crece",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "La industria de los videojuegos ha superado en tamaño y facturación a las industrias de la música y el cine combinadas."
+      ]
+    },
+    {
+      "id": "curiosidad_tetris_ptsd",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "Estudios han demostrado que jugar al popular juego \"Tetris\" puede ayudar a reducir los síntomas del trastorno de estrés postraumático."
       ]
     }
   ],
-  "horas_felices": [
-    {
-      "dia": "WEDNESDAY",
-      "titulo": "&c&l¡Furia de la Maza!",
-      "descripcion": [
-        "&7¡La 1.21 llegó con nuevos desafíos!",
-        "&7Obtén Fuerza II y 20% extra en Lingotes de Cobre."
-      ],
-      "tipo": "AMBOS",
-      "item": "COPPER_INGOT",
-      "porcentaje_extra": 20.0,
-      "efecto_pocion": "STRENGTH",
-      "nivel_efecto": 2,
-      "todo_el_dia": true,
-      "hora_inicio": 0,
-      "hora_fin": 24
-    }
-  ]
+  "horas_felices": []
 }
