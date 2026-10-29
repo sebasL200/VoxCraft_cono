@@ -1,110 +1,166 @@
 {
   "anuncios": [
     {
-      "id": "noticia_actualizacion_1_21",
+      "id": "actualizacion_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21: TRICKY TRIALS YA DISPONIBLE! &fLa actualización 1.21, \"Tricky Trials\", fue lanzada el 13 de junio de 2024, trayendo consigo una plétora de nuevas características y desafíos emocionantes."
+        "&a&l¡ACTUALIZACIÓN 1.21.x: TRICKY TRIALS!",
+        "&7Explora las peligrosas Trial Chambers y sus recompensas."
       ]
     },
     {
-      "id": "noticia_trial_chambers",
+      "id": "nuevos_bloques_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lDESCUBRE LAS TRIAL CHAMBERS: &fExplora las nuevas estructuras subterráneas generadas por procedimientos, construidas con una variada paleta de bloques de cobre y toba, ofreciendo nuevas aventuras."
+        "&b&l¡DESCUBRE NUEVOS BLOQUES!",
+        "&7Construye con las variantes de Cobre y Tuf de la 1.21."
       ]
     },
     {
-      "id": "noticia_nuevos_mobs",
+      "id": "nuevos_mobs_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&e&lNUEVOS MOBS: BREEZE Y BOGGED: &fEnfréntate al temible Breeze, una criatura elemental del viento en las Trial Chambers, y al Bogged, un esqueleto cubierto de musgo que dispara flechas venenosas en pantanos y cámaras."
+        "&e&l¡ENFRÉNTATE A NUEVOS MOBS!",
+        "&7El Breeze y el Bogged te esperan en los desafíos de la 1.21."
       ]
     },
     {
-      "id": "noticia_mazo_encantamientos",
+      "id": "domina_la_maza",
       "categoria": "noticias",
       "mensajes": [
-        "&d&lDOMINA EL MAZO Y SUS ENCANTAMIENTOS: &fEmpuña el nuevo y poderoso arma, el Mazo, crafteado con un Bloque Pesado y Varitas de Breeze, y descubre sus exclusivos encantamientos de Densidad, Brecha y Ráfaga de Viento."
+        "&d&l¡DOMINA LA MAZA!",
+        "&7Desata su poder con los encantamientos de Densidad y Carga de Viento."
       ]
     },
     {
-      "id": "noticia_crafter_automatizado",
+      "id": "crafteo_automatizado",
       "categoria": "noticias",
       "mensajes": [
-        "&7&lARTESANÍA AUTOMATIZADA CON EL CRAFTER: &fRevolutiona tus métodos de producción con el nuevo bloque Crafter, permitiendo procesos de crafteo totalmente automatizados mediante Redstone."
+        "&7&l¡CRAFTEO AUTOMATIZADO!",
+        "&7Simplifica tus procesos con el nuevo bloque Crafter."
       ]
     },
     {
-      "id": "noticia_armadura_lobos",
+      "id": "eventos_ominosos",
       "categoria": "noticias",
       "mensajes": [
-        "&a&lARMADURA PARA LOBOS Y MEJORAS: &fProtege a tus fieles compañeros lobos con la nueva armadura crafteada a partir de escudos de Armadillo, además de nuevas estadísticas de salud mejoradas para ellos."
+        "&c&l¡EVENTOS OMINOSOS!",
+        "&7Prepárate para desafíos épicos activados por las Ominous Bottles."
       ]
     },
     {
-      "id": "noticia_bloques_cobre_toba",
+      "id": "minecraft_switch_2",
       "categoria": "noticias",
       "mensajes": [
-        "&b&lNUEVOS BLOQUES DE COBRE Y TOBA: &fDecora y construye con una amplia gama de nuevos bloques de cobre, como bombillas, puertas y rejillas, y diversas variantes estéticas de bloques de toba."
+        "&a&l¡MINECRAFT LLEGA A NINTENDO SWITCH 2!",
+        "&7La aventura ahora se expande a una nueva plataforma."
       ]
     },
     {
-      "id": "noticia_eventos_siniestros",
+      "id": "nuevas_pinturas_musica",
       "categoria": "noticias",
       "mensajes": [
-        "&e&lEVENTOS SINIESTROS Y POCIONES: &fPrepárate para los desafiantes Eventos Siniestros gracias a la renovación de la Mala Señal, y experimenta con 6 nuevos efectos de estado y 4 nuevas pociones o flechas con punta."
+        "&b&l¡NUEVAS PINTURAS Y MÚSICA!",
+        "&7Personaliza tus espacios con las incorporaciones de la 1.21."
       ]
     },
     {
-      "id": "curiosidad_primer_videojuego",
+      "id": "optimizacion_continua",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡OPTIMIZACIÓN CONTINUA!",
+        "&7Seguimos mejorando el rendimiento para una experiencia fluida."
+      ]
+    },
+    {
+      "id": "concurso_construccion_1_21",
+      "categoria": "eventos",
+      "mensajes": [
+        "&d&l¡CONCURSO DE CONSTRUCCIÓN TEMÁTICO!",
+        "&7Usa los bloques de la 1.21 y gana increíbles premios."
+      ]
+    },
+    {
+      "id": "curiosidad_tetris_ventas",
       "categoria": "curiosidades",
       "mensajes": [
-        "El primer videojuego de la historia no fue \"Pong\", sino \"Tennis for Two\", creado en 1958 por William Higinbotham."
+        "&7Aunque Minecraft es el juego más vendido,",
+        "&7en realidad es Tetris, con +170M copias."
       ]
     },
     {
-      "id": "curiosidad_mario_jumpman",
+      "id": "curiosidad_gta_v_caro",
       "categoria": "curiosidades",
       "mensajes": [
-        "Antes de ser el icónico fontanero, el personaje de Mario fue originalmente concebido como un carpintero llamado \"Jumpman\"."
+        "&7Grand Theft Auto V: videojuego más caro de producir,",
+        "&7costó +265 millones de dólares."
+      ]
+    },
+    {
+      "id": "curiosidad_mario_carpintero",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7El primer trabajo de Super Mario fue carpintero,",
+        "&7y su nombre original era Jumpman."
       ]
     },
     {
       "id": "curiosidad_pacman_pizza",
       "categoria": "curiosidades",
       "mensajes": [
-        "El diseño del famoso personaje Pac-Man se inspiró en la forma de una pizza a la que le faltaba una porción."
+        "&7El clásico Pac-Man se inspiró en una pizza",
+        "&7a la que le faltaba una porción."
       ]
     },
     {
-      "id": "curiosidad_codigo_konami",
+      "id": "curiosidad_gameboy_espacio",
       "categoria": "curiosidades",
       "mensajes": [
-        "El legendario Código Konami, una secuencia de botones, ha sido incorporado en más de cien videojuegos diferentes."
+        "&7La Game Boy fue la 1ª consola jugada en el espacio,",
+        "&7llevada a la estación Mir en 1993."
       ]
     },
     {
-      "id": "curiosidad_minecraft_mas_vendido",
+      "id": "curiosidad_daggerfall_mapa",
       "categoria": "curiosidades",
       "mensajes": [
-        "Minecraft ostenta el título de ser el videojuego más vendido de todos los tiempos, con cientos de millones de copias vendidas globalmente."
+        "&7El mapa de Elder Scrolls: Daggerfall (1996)",
+        "&7tiene 161.600 KM², ¡uno de los más grandes!"
       ]
     },
     {
-      "id": "curiosidad_industria_gaming_crece",
+      "id": "curiosidad_ps2_ventas",
       "categoria": "curiosidades",
       "mensajes": [
-        "La industria de los videojuegos ha superado en tamaño y facturación a las industrias de la música y el cine combinadas."
+        "&7La PlayStation 2 es la consola más vendida",
+        "&7de todos los tiempos, con 155M de unidades."
       ]
     },
     {
-      "id": "curiosidad_tetris_ptsd",
+      "id": "curiosidad_primer_esports",
       "categoria": "curiosidades",
       "mensajes": [
-        "Estudios han demostrado que jugar al popular juego \"Tetris\" puede ayudar a reducir los síntomas del trastorno de estrés postraumático."
+        "&7El primer torneo de eSports fue en 1972 en Stanford,",
+        "&7premio: suscripción a la revista Rolling Stones."
       ]
     }
   ],
-  "horas_felices": []
+  "horas_felices": [
+    {
+      "dia": "TUESDAY",
+      "titulo": "&b&l¡Nuevos Horizontes!",
+      "descripcion": [
+        "&7¡Minecraft estrena edición para Switch 2!",
+        "&7Esmeraldas +50% y HASTE II para todos."
+      ],
+      "tipo": "AMBOS",
+      "item": "EMERALD",
+      "porcentaje_extra": 50.0,
+      "efecto_pocion": "HASTE",
+      "nivel_efecto": 2,
+      "todo_el_dia": true,
+      "hora_inicio": 0,
+      "hora_fin": 24
+    }
+  ]
 }
