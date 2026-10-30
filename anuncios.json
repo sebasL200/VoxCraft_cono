@@ -1,162 +1,74 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_tricky_trials",
+      "id": "actualizacion_1_21_tricky_trials",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21.x: TRICKY TRIALS!",
-        "&7Explora las peligrosas Trial Chambers y sus recompensas."
+        "&a&l¡ACTUALIZACIÓN 1.21: TRICKY TRIALS! &7Descubre Cámaras de Prueba, Spawners y Mobs como el Breeze y el Bogged."
       ]
     },
     {
-      "id": "nuevos_bloques_1_21",
+      "id": "nuevas_armas_y_bloques",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡DESCUBRE NUEVOS BLOQUES!",
-        "&7Construye con las variantes de Cobre y Tuf de la 1.21."
+        "&b&l¡NUEVAS ARMAS Y BLOQUES! &7La poderosa Maza y el innovador Crafter te esperan para nuevas construcciones y combates."
       ]
     },
     {
-      "id": "nuevos_mobs_1_21",
+      "id": "desafios_ominosos",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡ENFRÉNTATE A NUEVOS MOBS!",
-        "&7El Breeze y el Bogged te esperan en los desafíos de la 1.21."
+        "&e&l¡DESAFÍOS OMINOSOS! &7Enfrenta versiones más difíciles de las Trial Chambers para obtener recompensas aún más épicas."
       ]
     },
     {
-      "id": "domina_la_maza",
+      "id": "minecraft_dungeons_ii_disponible",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡DOMINA LA MAZA!",
-        "&7Desata su poder con los encantamientos de Densidad y Carga de Viento."
+        "&d&l¡MINECRAFT DUNGEONS II YA DISPONIBLE! &7Lanzado el 29 de septiembre de 2026, explora 'The Sift', una nueva dimensión."
       ]
     },
     {
-      "id": "crafteo_automatizado",
+      "id": "nuevos_enemigos_dungeons_ii",
       "categoria": "noticias",
       "mensajes": [
-        "&7&l¡CRAFTEO AUTOMATIZADO!",
-        "&7Simplifica tus procesos con el nuevo bloque Crafter."
+        "&a&l¡NUEVOS ENEMIGOS EN DUNGEONS II! &7Enfréntate a la imponente Monstruosidad de Cobre y otros desafíos."
       ]
     },
     {
-      "id": "eventos_ominosos",
+      "id": "personaliza_tu_heroe",
       "categoria": "noticias",
       "mensajes": [
-        "&c&l¡EVENTOS OMINOSOS!",
-        "&7Prepárate para desafíos épicos activados por las Ominous Bottles."
+        "&b&l¡PERSONALIZA TU HÉROE! &7Consigue nuevas capas y aspectos exclusivos en Minecraft Dungeons II, ¡algunos con promociones activas hasta finales de octubre y diciembre!"
       ]
     },
     {
-      "id": "minecraft_switch_2",
+      "id": "musica_arte_renovados",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡MINECRAFT LLEGA A NINTENDO SWITCH 2!",
-        "&7La aventura ahora se expande a una nueva plataforma."
+        "&e&l¡MÚSICA Y ARTE RENOVADOS! &7Disfruta de nuevas pistas sonoras y 20 pinturas frescas para decorar tus creaciones."
       ]
     },
     {
-      "id": "nuevas_pinturas_musica",
+      "id": "domina_la_artesania",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡NUEVAS PINTURAS Y MÚSICA!",
-        "&7Personaliza tus espacios con las incorporaciones de la 1.21."
-      ]
-    },
-    {
-      "id": "optimizacion_continua",
-      "categoria": "noticias",
-      "mensajes": [
-        "&e&l¡OPTIMIZACIÓN CONTINUA!",
-        "&7Seguimos mejorando el rendimiento para una experiencia fluida."
-      ]
-    },
-    {
-      "id": "concurso_construccion_1_21",
-      "categoria": "eventos",
-      "mensajes": [
-        "&d&l¡CONCURSO DE CONSTRUCCIÓN TEMÁTICO!",
-        "&7Usa los bloques de la 1.21 y gana increíbles premios."
-      ]
-    },
-    {
-      "id": "curiosidad_tetris_ventas",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7Aunque Minecraft es el juego más vendido,",
-        "&7en realidad es Tetris, con +170M copias."
-      ]
-    },
-    {
-      "id": "curiosidad_gta_v_caro",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7Grand Theft Auto V: videojuego más caro de producir,",
-        "&7costó +265 millones de dólares."
-      ]
-    },
-    {
-      "id": "curiosidad_mario_carpintero",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7El primer trabajo de Super Mario fue carpintero,",
-        "&7y su nombre original era Jumpman."
-      ]
-    },
-    {
-      "id": "curiosidad_pacman_pizza",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7El clásico Pac-Man se inspiró en una pizza",
-        "&7a la que le faltaba una porción."
-      ]
-    },
-    {
-      "id": "curiosidad_gameboy_espacio",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7La Game Boy fue la 1ª consola jugada en el espacio,",
-        "&7llevada a la estación Mir en 1993."
-      ]
-    },
-    {
-      "id": "curiosidad_daggerfall_mapa",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7El mapa de Elder Scrolls: Daggerfall (1996)",
-        "&7tiene 161.600 KM², ¡uno de los más grandes!"
-      ]
-    },
-    {
-      "id": "curiosidad_ps2_ventas",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7La PlayStation 2 es la consola más vendida",
-        "&7de todos los tiempos, con 155M de unidades."
-      ]
-    },
-    {
-      "id": "curiosidad_primer_esports",
-      "categoria": "curiosidades",
-      "mensajes": [
-        "&7El primer torneo de eSports fue en 1972 en Stanford,",
-        "&7premio: suscripción a la revista Rolling Stones."
+        "&d&l¡DOMINA LA ARTESANÍA! &7El Bloque Crafter automatiza tus creaciones, haciendo la producción de ítems más eficiente."
       ]
     }
   ],
   "horas_felices": [
     {
-      "dia": "TUESDAY",
-      "titulo": "&b&l¡Nuevos Horizontes!",
+      "dia": "MONDAY",
+      "titulo": "&c&l¡Sombra del Asesino!",
       "descripcion": [
-        "&7¡Minecraft estrena edición para Switch 2!",
-        "&7Esmeraldas +50% y HASTE II para todos."
+        "&7¡Phantom Blade Zero fue lanzado esta semana!",
+        "&7Obtén Fuerza II para tus combates más duros."
       ],
-      "tipo": "AMBOS",
-      "item": "EMERALD",
-      "porcentaje_extra": 50.0,
-      "efecto_pocion": "HASTE",
+      "tipo": "EFECTO",
+      "item": "AIR",
+      "porcentaje_extra": 0.0,
+      "efecto_pocion": "STRENGTH",
       "nivel_efecto": 2,
       "todo_el_dia": true,
       "hora_inicio": 0,
