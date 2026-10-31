@@ -1,75 +1,134 @@
 {
   "anuncios": [
     {
-      "id": "actualizacion_1_21_tricky_trials",
+      "id": "actualizacion_bedrock_60",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡ACTUALIZACIÓN 1.21: TRICKY TRIALS! &7Descubre Cámaras de Prueba, Spawners y Mobs como el Breeze y el Bogged."
+        "&a&l¡ACTUALIZACIÓN 1.26.60 BEDROCK DISPONIBLE!",
+        "&rMojang lanzó un parche masivo el 28 de octubre con más de 600 correcciones y mejoras de estabilidad para Bedrock Edition."
       ]
     },
     {
-      "id": "nuevas_armas_y_bloques",
+      "id": "explora_cuevas_hielo",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡NUEVAS ARMAS Y BLOQUES! &7La poderosa Maza y el innovador Crafter te esperan para nuevas construcciones y combates."
+        "&b&l¡EXPLORA LAS CUEVAS DE HIELO!",
+        "&rDescubre el nuevo bioma añadido en la actualización 1.26.60, con Hielo Compacto, Calcita, Carámbanos y Cristales de Hielo."
       ]
     },
     {
-      "id": "desafios_ominosos",
+      "id": "cuidado_frostbite",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡DESAFÍOS OMINOSOS! &7Enfrenta versiones más difíciles de las Trial Chambers para obtener recompensas aún más épicas."
+        "&c&l¡CUIDADO CON EL FROSTBITE!",
+        "&rUn nuevo zombie hostil emerge de las Cuevas de Hielo, lanzando bolas de hielo y aplicando el efecto de Congelación."
       ]
     },
     {
-      "id": "minecraft_dungeons_ii_disponible",
+      "id": "nuevos_cristales_hielo",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡MINECRAFT DUNGEONS II YA DISPONIBLE! &7Lanzado el 29 de septiembre de 2026, explora 'The Sift', una nueva dimensión."
+        "&e&l¡NUEVOS CRISTALES DE HIELO!",
+        "&rAdorna tus construcciones con estas nuevas fuentes de luz que crecen naturalmente en las Cuevas de Hielo."
       ]
     },
     {
-      "id": "nuevos_enemigos_dungeons_ii",
+      "id": "minecraft_switch2",
       "categoria": "noticias",
       "mensajes": [
-        "&a&l¡NUEVOS ENEMIGOS EN DUNGEONS II! &7Enfréntate a la imponente Monstruosidad de Cobre y otros desafíos."
+        "&d&l¡NUEVA EDICIÓN DE MINECRAFT PARA SWITCH 2!",
+        "&r¡El juego ahora cuenta con soporte nativo para Nintendo Switch 2, ampliando las plataformas de juego!"
       ]
     },
     {
-      "id": "personaliza_tu_heroe",
+      "id": "fabricador_automatico_1_21",
       "categoria": "noticias",
       "mensajes": [
-        "&b&l¡PERSONALIZA TU HÉROE! &7Consigue nuevas capas y aspectos exclusivos en Minecraft Dungeons II, ¡algunos con promociones activas hasta finales de octubre y diciembre!"
+        "&7&l¡FABRICADOR AUTOMÁTICO EN 1.21!",
+        "&rSimplifica tus crafteos con el nuevo bloque Fabricador, activado por Redstone, ¡ideal para granjas y automatización!"
       ]
     },
     {
-      "id": "musica_arte_renovados",
+      "id": "contenido_octubre_marketplace",
       "categoria": "noticias",
       "mensajes": [
-        "&e&l¡MÚSICA Y ARTE RENOVADOS! &7Disfruta de nuevas pistas sonoras y 20 pinturas frescas para decorar tus creaciones."
+        "&a&l¡CONTENIDO DE OCTUBRE EN EL MARKETPLACE!",
+        "&rExplora las últimas adiciones al Marketplace de Minecraft, incluyendo nuevos mundos, minijuegos y complementos temáticos."
       ]
     },
     {
-      "id": "domina_la_artesania",
+      "id": "maza_cargadores_viento",
       "categoria": "noticias",
       "mensajes": [
-        "&d&l¡DOMINA LA ARTESANÍA! &7El Bloque Crafter automatiza tus creaciones, haciendo la producción de ítems más eficiente."
+        "&b&l¡LA MAZA Y LOS CARGADORES DE VIENTO!",
+        "&rDomina las Trial Chambers en 1.21 con la poderosa Maza y los útiles Cargadores de Viento para nuevas estrategias de combate."
+      ]
+    },
+    {
+      "id": "novedades_2026",
+      "categoria": "noticias",
+      "mensajes": [
+        "&e&l¡MÁS NOVEDADES EN CAMINO PARA 2026!",
+        "&rMojang planea actualizaciones más frecuentes, como el \"Fourth Drop of 2026\", con sorpresas y funciones experimentales."
+      ]
+    },
+    {
+      "id": "mejoras_estabilidad_java_1_21",
+      "categoria": "noticias",
+      "mensajes": [
+        "&7&l¡MEJORAS DE ESTABILIDAD EN JAVA 1.21.x!",
+        "&rSe han lanzado hotfixes como el 1.21.7 y 1.21.8 para corregir bugs visuales y mejorar el rendimiento de los servidores Java."
+      ]
+    },
+    {
+      "id": "easter_egg_videojuego",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&bEl primer \"Easter Egg\" en un videojuego fue un acto de rebeldía de un desarrollador en el juego Adventure de Atari."
+      ]
+    },
+    {
+      "id": "minecraft_mas_vendido",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&eMinecraft es el videojuego más vendido de la historia, con más de 200 millones de copias comercializadas a nivel mundial."
+      ]
+    },
+    {
+      "id": "origen_nombre_mario",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&dEl nombre de Mario, el icónico fontanero, proviene de Mario Segale, un propietario de Nintendo en Estados Unidos que se enojó por el impago del alquiler de las oficinas."
+      ]
+    },
+    {
+      "id": "witcher3_mas_premiado",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&7The Witcher 3: Wild Hunt ostenta el récord de ser el videojuego más premiado, con más de 800 galardones, incluyendo más de 250 premios a Juego del Año."
+      ]
+    },
+    {
+      "id": "tetris_espacio",
+      "categoria": "curiosidades",
+      "mensajes": [
+        "&aEl primer videojuego en el espacio fue Tetris, jugado en una Game Boy por el astronauta ruso Aleksandr A. Serebrov en 1993, a bordo de la estación MIR."
       ]
     }
   ],
   "horas_felices": [
     {
       "dia": "MONDAY",
-      "titulo": "&c&l¡Sombra del Asesino!",
+      "titulo": "&b&l¡Frío y Cobre!",
       "descripcion": [
-        "&7¡Phantom Blade Zero fue lanzado esta semana!",
-        "&7Obtén Fuerza II para tus combates más duros."
+        "&7¡Minecraft Bedrock 1.26.60 llegó a Switch 2!",
+        "&7Gana +25% al vender COPPER_INGOT y Haste I."
       ],
-      "tipo": "EFECTO",
-      "item": "AIR",
-      "porcentaje_extra": 0.0,
-      "efecto_pocion": "STRENGTH",
-      "nivel_efecto": 2,
+      "tipo": "AMBOS",
+      "item": "COPPER_INGOT",
+      "porcentaje_extra": 25.0,
+      "efecto_pocion": "HASTE",
+      "nivel_efecto": 1,
       "todo_el_dia": true,
       "hora_inicio": 0,
       "hora_fin": 24
